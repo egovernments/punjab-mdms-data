@@ -1,0 +1,2854 @@
+{
+    "tenantId": "pb.hoshiarpur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "ADMIN",
+          "name": "ADMIN"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Hoshiarpur",
+          "localname": "Hoshiarpur",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "pb.hoshiarpur",
+          "children": {
+            "tenantId": "pb.hoshiarpur",
+            "moduleName": "egov-location",
+            "TenantBoundary": [
+              {
+                "hierarchyType": {
+                  "code": "ADMIN",
+                  "name": "ADMIN"
+                },
+                "boundary": {
+                  "id": 1,
+                  "boundaryNum": 1,
+                  "name": "Hoshiarpur",
+                  "localname": "Hoshiarpur",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "City",
+                  "code": "pb.hoshiarpur",
+                  "children": [
+                    {
+                      "id": "206682fc-5e11-4316-896d-1a2c62a395bb",
+                      "boundaryNum": 1,
+                      "name": "HOSHIARPUR",
+                      "localname": "HOSHIARPUR",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Zone",
+                      "code": "HSPZ1",
+                      "children": [
+                        {
+                          "id": "e00f5a64-c206-47d0-b536-b6f60d492a1a",
+                          "boundaryNum": 1,
+                          "name": "WARD_1",
+                          "localname": "WARD_1",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD1",
+                          "children": [
+                            {
+                              "id": "51bd6a32-119a-4226-854c-c54373163611",
+                              "boundaryNum": 1,
+                              "name": "BHAWANI NAGAR",
+                              "localname": "BHAWANI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP14",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "fb7471dc-3747-4162-ae03-070dba20150e",
+                              "boundaryNum": 1,
+                              "name": "BANJRANG BHAAG",
+                              "localname": "BANJRANG BHAAG",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP15",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "9dec60f4-8f37-4a90-9a55-bc1c503bacc2",
+                              "boundaryNum": 1,
+                              "name": "JAIN COLONY",
+                              "localname": "JAIN COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP66",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7efa6e0e-2029-4937-b4ad-56eb398fbd89",
+                              "boundaryNum": 1,
+                              "name": "SHIVALINK INCLAVE",
+                              "localname": "SHIVALINK INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP139",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1ea52fbb-92c8-4529-adea-7f841d9456f0",
+                          "boundaryNum": 1,
+                          "name": "WARD_2",
+                          "localname": "WARD_2",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD2",
+                          "children": [
+                            {
+                              "id": "5eb36b1a-6d19-4181-86cc-5ec4214e7c7c",
+                              "boundaryNum": 1,
+                              "name": "BABA BALAK NATH MANDIR",
+                              "localname": "BABA BALAK NATH MANDIR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP16",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "273369bc-4367-4698-a028-24f0a6c105d9",
+                              "boundaryNum": 1,
+                              "name": "CHAND NAGAR",
+                              "localname": "CHAND NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP33",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c631fc58-8566-4311-ab0e-463720358a61",
+                              "boundaryNum": 1,
+                              "name": "DHOBI GHAT CHOWK",
+                              "localname": "DHOBI GHAT CHOWK",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP40",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "051240be-b7ed-4967-a8bf-5ab026c42b49",
+                              "boundaryNum": 1,
+                              "name": "DERA BAHADARPUR",
+                              "localname": "DERA BAHADARPUR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP41",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1cb2f8d2-5d61-4b2d-bfeb-bce4e7eb97ae",
+                              "boundaryNum": 1,
+                              "name": "NARAYAN NAGAR",
+                              "localname": "NARAYAN NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP97",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a30da4e2-02eb-4ee0-b707-690c57e3c77c",
+                              "boundaryNum": 1,
+                              "name": "SUKHIABAD",
+                              "localname": "SUKHIABAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP140",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "fd074d4b-86fc-48d4-b1c8-335474703636",
+                              "boundaryNum": 1,
+                              "name": "SAI INCLAVE",
+                              "localname": "SAI INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP142",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1389cd4c-3533-4dd1-8c58-8b12ad986c76",
+                          "boundaryNum": 1,
+                          "name": "WARD_3",
+                          "localname": "WARD_3",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD3",
+                          "children": [
+                            {
+                              "id": "fe0ec23b-eca7-4077-ba96-e3de82cc273e",
+                              "boundaryNum": 1,
+                              "name": "LAMBI GALI",
+                              "localname": "LAMBI GALI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP78",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "47081f31-d795-4e4c-914b-64d4626c8d48",
+                              "boundaryNum": 1,
+                              "name": "MOULVI MOH",
+                              "localname": "MOULVI MOH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP84",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "65374205-861f-4cef-bee2-a69e165edc18",
+                              "boundaryNum": 1,
+                              "name": "MOH SAHA JAMUN JI",
+                              "localname": "MOH SAHA JAMUN JI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP85",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8f5d2773-ba76-4b5f-bf03-18c8a96caa0b",
+                              "boundaryNum": 1,
+                              "name": "SAINI MOH",
+                              "localname": "SAINI MOH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP143",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7a378743-020b-4877-ac6f-9df16f797181",
+                              "boundaryNum": 1,
+                              "name": "SAINI SCHOOL",
+                              "localname": "SAINI SCHOOL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP144",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "64429471-2e8f-4f69-b6ee-f3c9fbdcf8ef",
+                          "boundaryNum": 1,
+                          "name": "WARD_4",
+                          "localname": "WARD_4",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD4",
+                          "children": [
+                            {
+                              "id": "30e8ab12-1fe4-4117-a60b-f8282ffb154a",
+                              "boundaryNum": 1,
+                              "name": "AKASH NAGR",
+                              "localname": "AKASH NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP1",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2e89f836-b5ab-4439-b19f-fe42ae41741e",
+                              "boundaryNum": 1,
+                              "name": "CHARCH",
+                              "localname": "CHARCH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP38",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5ca91da2-be32-4a0f-92d3-c4ff50f619d1",
+                              "boundaryNum": 1,
+                              "name": "SUKI CHOE",
+                              "localname": "SUKI CHOE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP145",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e1551808-936c-4356-8863-cf4cbe280401",
+                              "boundaryNum": 1,
+                              "name": "SURAJ NAGAR",
+                              "localname": "SURAJ NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP146",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "fbb341a7-77cd-4619-98a2-9342427c06ee",
+                          "boundaryNum": 1,
+                          "name": "WARD_5",
+                          "localname": "WARD_5",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD5",
+                          "children": [
+                            {
+                              "id": "9b9d927a-68d9-4be2-8507-4959aeaba27c",
+                              "boundaryNum": 1,
+                              "name": "ARYA NAGAR",
+                              "localname": "ARYA NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP2",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a7120918-9ad0-438e-949b-8717fb2260d0",
+                              "boundaryNum": 1,
+                              "name": "ADHARMI",
+                              "localname": "ADHARMI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP3",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "decbb6b1-86da-4848-ac44-09cd145111f1",
+                              "boundaryNum": 1,
+                              "name": "BIRBAL NAGAR",
+                              "localname": "BIRBAL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP17",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "17b1bce6-40be-43bd-a0c2-83150ad28167",
+                              "boundaryNum": 1,
+                              "name": "RAMESH NAGAR",
+                              "localname": "RAMESH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP126",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "54a78917-7da6-4223-8519-39aac2e31eb5",
+                              "boundaryNum": 1,
+                              "name": "U INCLAVE",
+                              "localname": "U INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP180",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "15007c7b-e42b-4059-95c2-eaac9269e43a",
+                              "boundaryNum": 1,
+                              "name": "YAMUNA NAGAR",
+                              "localname": "YAMUNA NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP183",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "359dd532-9cf5-40e1-9474-f9606c6b3ee0",
+                          "boundaryNum": 1,
+                          "name": "WARD_6",
+                          "localname": "WARD_6",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD6",
+                          "children": [
+                            {
+                              "id": "3805016d-ec13-4969-8140-e77197b06dc7",
+                              "boundaryNum": 1,
+                              "name": "FIRE BIRGADE",
+                              "localname": "FIRE BIRGADE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP51",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2071f98c-a312-4df7-9a0a-0266d1638b58",
+                              "boundaryNum": 1,
+                              "name": "GURU NANAK NAGAR",
+                              "localname": "GURU NANAK NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP55",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2ee8af58-c634-4ae1-98da-151e2dffeba7",
+                              "boundaryNum": 1,
+                              "name": "GREEN VIEW",
+                              "localname": "GREEN VIEW",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP56",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a6002a19-1871-4f5a-b77c-0aa5d290f406",
+                              "boundaryNum": 1,
+                              "name": "HAIR NAGAR",
+                              "localname": "HAIR NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP63",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8ad15b6c-bca9-4321-972f-f65bf2a3fe8f",
+                              "boundaryNum": 1,
+                              "name": "JILA KAHCHERIYA",
+                              "localname": "JILA KAHCHERIYA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP67",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1a14b506-0be9-40ea-bcfb-fb40744d12c9",
+                              "boundaryNum": 1,
+                              "name": "NEW CIVIL LINE",
+                              "localname": "NEW CIVIL LINE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP99",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ee5bb1f0-3a26-4404-b327-ed8b580ef7c4",
+                              "boundaryNum": 1,
+                              "name": "NARAD HOSPITAL",
+                              "localname": "NARAD HOSPITAL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP109",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7a938839-812a-4304-ac0f-0ecd731a2ec6",
+                              "boundaryNum": 1,
+                              "name": "SHASION COURT",
+                              "localname": "SHASION COURT",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP147",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ba81619a-67e0-43eb-a711-65e7e3e3c26d",
+                              "boundaryNum": 1,
+                              "name": "S.S.P KOTHI",
+                              "localname": "S.S.P KOTHI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP148",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "91b30f73-2bd2-4579-881a-ac63370843d4",
+                          "boundaryNum": 1,
+                          "name": "WARD_7",
+                          "localname": "WARD_7",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD7",
+                          "children": [
+                            {
+                              "id": "c5521b67-6f88-455a-bd5c-fbbb016ecdf0",
+                              "boundaryNum": 1,
+                              "name": "ESHWAR NAGR",
+                              "localname": "ESHWAR NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP50",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5cd39af7-b5b4-48d5-b6fd-bd778bed0754",
+                              "boundaryNum": 1,
+                              "name": "GOUTAM NAGAR",
+                              "localname": "GOUTAM NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP54",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ece466bd-1a9d-4a2a-b406-43328b522faf",
+                              "boundaryNum": 1,
+                              "name": "P.W.D REST HOUSE",
+                              "localname": "P.W.D REST HOUSE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP110",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2758f136-f955-4142-b02c-effc25188732",
+                              "boundaryNum": 1,
+                              "name": "POLICE LINE",
+                              "localname": "POLICE LINE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP111",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0014f265-22ce-4ebf-bd45-bf0b1d80fed0",
+                              "boundaryNum": 1,
+                              "name": "REST HOUSE",
+                              "localname": "REST HOUSE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP127",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "9d4dd82f-d7cc-4f71-83b4-c1949e47515a",
+                              "boundaryNum": 1,
+                              "name": "RAM COLONY",
+                              "localname": "RAM COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP128",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e17a02d8-4a9a-4c5d-adc6-15140e63f8c3",
+                              "boundaryNum": 1,
+                              "name": "SHALMAR NAGAR",
+                              "localname": "SHALMAR NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP149",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0c39f6ba-3957-43bb-8fb3-0b836cc4e315",
+                              "boundaryNum": 1,
+                              "name": "SADAR THANA",
+                              "localname": "SADAR THANA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP150",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9aa24b07-2d7c-4897-b044-e358921e49b5",
+                          "boundaryNum": 1,
+                          "name": "WARD_8",
+                          "localname": "WARD_8",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD8",
+                          "children": [
+                            {
+                              "id": "fca333ed-5c96-4344-a2ad-62ef7ef11622",
+                              "boundaryNum": 1,
+                              "name": "ARORA CLONY",
+                              "localname": "ARORA CLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP4",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4a3755f5-63b9-4aa8-8e90-86b10817464b",
+                              "boundaryNum": 1,
+                              "name": "BULAWADI",
+                              "localname": "BULAWADI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP18",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "780a2a03-8af7-41d2-96d5-a0a45cf06628",
+                              "boundaryNum": 1,
+                              "name": "EKTA NAGAR",
+                              "localname": "EKTA NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP47",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2faacb9c-83cd-47f9-a467-bda33de4c909",
+                              "boundaryNum": 1,
+                              "name": "EKTA INCLAVE",
+                              "localname": "EKTA INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP49",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "015fd187-cbaa-451d-aef9-0959e8e3834a",
+                              "boundaryNum": 1,
+                              "name": "GURDIT NAGAR",
+                              "localname": "GURDIT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP57",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "460b9f37-1563-4aec-b360-2153e01de936",
+                          "boundaryNum": 1,
+                          "name": "WARD_9",
+                          "localname": "WARD_9",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD9",
+                          "children": [
+                            {
+                              "id": "2cac0c5b-3b04-49a0-99ff-ac1899ee288c",
+                              "boundaryNum": 1,
+                              "name": "ASLAMABAD",
+                              "localname": "ASLAMABAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP5",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "04db0d46-2a48-4cad-a3bb-f920f1fb5fc0",
+                              "boundaryNum": 1,
+                              "name": "AJIT NAGAR",
+                              "localname": "AJIT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP6",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0a36cca7-5560-4239-8d9a-62f71e90e289",
+                              "boundaryNum": 1,
+                              "name": "ASLAMABAD (RADHA SWAMI)",
+                              "localname": "ASLAMABAD (RADHA SWAMI)",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP7",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1aba924d-9e34-46b8-96b7-c8db7e1cfeef",
+                          "boundaryNum": 1,
+                          "name": "WARD_10",
+                          "localname": "WARD_10",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD10",
+                          "children": [
+                            {
+                              "id": "69bf3644-2ee4-4f9b-b936-22d577520f70",
+                              "boundaryNum": 1,
+                              "name": "D.A.V. COLLAGE",
+                              "localname": "D.A.V. COLLAGE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP44",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "17f6de9e-62ba-4f4c-9433-82ed6288d705",
+                              "boundaryNum": 1,
+                              "name": "LONGOWAL NAGR",
+                              "localname": "LONGOWAL NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP79",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2b3ce816-40d5-4a46-8631-98adf7a15601",
+                              "boundaryNum": 1,
+                              "name": "MINI SEC,",
+                              "localname": "MINI SEC,",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP96",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ebc6abca-8778-4fda-a0ab-efd97d6b6020",
+                              "boundaryNum": 1,
+                              "name": "PRAGATI NAGAR",
+                              "localname": "PRAGATI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP112",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3b678c68-44b7-4423-b834-e00009fcca00",
+                              "boundaryNum": 1,
+                              "name": "RAVIDES NAGR",
+                              "localname": "RAVIDES NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP129",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c6a787ff-10c8-4c7d-a8d0-e3a27ef55746",
+                              "boundaryNum": 1,
+                              "name": "SIKH LINE",
+                              "localname": "SIKH LINE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP151",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0ecffcc6-3a4c-423b-98aa-421a9f653af0",
+                              "boundaryNum": 1,
+                              "name": "SCHEM NO 11",
+                              "localname": "SCHEM NO 11",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP152",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c1106675-7a1d-4b12-8cfe-d8b30191bf97",
+                              "boundaryNum": 1,
+                              "name": "SHIVALINK INCLAVE",
+                              "localname": "SHIVALINK INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP153",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ad402b83-92c6-44fd-bb7a-4256f5cb0b9a",
+                          "boundaryNum": 1,
+                          "name": "WARD_11",
+                          "localname": "WARD_11",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD11",
+                          "children": [
+                            {
+                              "id": "03451857-b3e4-451d-a2d2-8f85834594e3",
+                              "boundaryNum": 1,
+                              "name": "AMBEDKAR NAGR",
+                              "localname": "AMBEDKAR NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP8",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "115ddc67-a05a-4941-86cd-92d5abf2b696",
+                              "boundaryNum": 1,
+                              "name": "D.C RES.",
+                              "localname": "D.C RES.",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP45",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a6ed7adc-31ab-4111-b32d-42d0c5471aa3",
+                              "boundaryNum": 1,
+                              "name": "D.C ROAD",
+                              "localname": "D.C ROAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP46",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "2aa66bdd-2e90-4a19-ab54-7e47db53d861",
+                          "boundaryNum": 1,
+                          "name": "WARD_12",
+                          "localname": "WARD_12",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD12",
+                          "children": [
+                            {
+                              "id": "e5251e90-3453-4b85-a474-662b37a94304",
+                              "boundaryNum": 1,
+                              "name": "BASANT NAGAR",
+                              "localname": "BASANT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP19",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0fb89459-8c8b-4a1d-8f97-562312380dec",
+                              "boundaryNum": 1,
+                              "name": "LALGARH GALI",
+                              "localname": "LALGARH GALI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP80",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2c1900de-0b2f-4361-8799-4d1be56518e9",
+                              "boundaryNum": 1,
+                              "name": "PREET NAGAR",
+                              "localname": "PREET NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP113",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0e007c97-2ad0-45c0-a218-f70dbd23fb53",
+                              "boundaryNum": 1,
+                              "name": "SHANKAR NAGAR",
+                              "localname": "SHANKAR NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP154",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "c67ed16f-86e4-4e77-b320-016efb8ac7c5",
+                          "boundaryNum": 1,
+                          "name": "WARD_13",
+                          "localname": "WARD_13",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD13",
+                          "children": [
+                            {
+                              "id": "20cfe34b-7d3b-4e6c-b320-6055dd9d5509",
+                              "boundaryNum": 1,
+                              "name": "FATHGARH MOH",
+                              "localname": "FATHGARH MOH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP52",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6fe933cd-ce1d-4434-948f-c3bfb53530cb",
+                              "boundaryNum": 1,
+                              "name": "NEW FATHGARH",
+                              "localname": "NEW FATHGARH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP100",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "d6ea9244-b92f-4b55-8894-7b929da2cd4e",
+                          "boundaryNum": 1,
+                          "name": "WARD_14",
+                          "localname": "WARD_14",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD14",
+                          "children": [
+                            {
+                              "id": "93365ae4-72a1-4ae6-8657-30e2425d86be",
+                              "boundaryNum": 1,
+                              "name": "RAHIPUR",
+                              "localname": "RAHIPUR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP130",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "11f20db4-3551-44fa-94c6-dce9eb7126ea",
+                              "boundaryNum": 1,
+                              "name": "VIJAY NAGAR",
+                              "localname": "VIJAY NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP181",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "507573b8-250f-47a4-9e39-57f304da3e6d",
+                          "boundaryNum": 1,
+                          "name": "WARD_15",
+                          "localname": "WARD_15",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD15",
+                          "children": [
+                            {
+                              "id": "98678773-975a-4c73-9d97-00f0d2f96b6e",
+                              "boundaryNum": 1,
+                              "name": "MAHARIS SPINING MILLS",
+                              "localname": "MAHARIS SPINING MILLS",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP86",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "204e21f5-d52c-416c-9ed6-f28a4f2c5353",
+                              "boundaryNum": 1,
+                              "name": "SUNDER NAGAR",
+                              "localname": "SUNDER NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP155",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "e63b590c-23e0-4ae1-bacd-7bd0e35b3250",
+                          "boundaryNum": 1,
+                          "name": "WARD_16",
+                          "localname": "WARD_16",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD16",
+                          "children": [
+                            {
+                              "id": "f7a5d6fc-e3ae-4520-b6a0-24ff74a1430f",
+                              "boundaryNum": 1,
+                              "name": "CHO PAR BAB BANA SHAH",
+                              "localname": "CHO PAR BAB BANA SHAH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP35",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "56ae0453-4233-40e2-aecb-74e565953521",
+                          "boundaryNum": 1,
+                          "name": "WARD_17",
+                          "localname": "WARD_17",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD17",
+                          "children": [
+                            {
+                              "id": "a2137e5e-5484-4584-9db3-00b1c2947b37",
+                              "boundaryNum": 1,
+                              "name": "BHIM NAGAR",
+                              "localname": "BHIM NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP20",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7e9df334-a41f-4411-81a7-6f77bbba77c9",
+                          "boundaryNum": 1,
+                          "name": "WARD_18",
+                          "localname": "WARD_18",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD18",
+                          "children": [
+                            {
+                              "id": "6b3b1e65-2955-4e4f-965c-0555f8116b8d",
+                              "boundaryNum": 1,
+                              "name": "PURHIRA",
+                              "localname": "PURHIRA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP114",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "3193a8f2-73a7-471f-8579-c4b50a2d3506",
+                          "boundaryNum": 1,
+                          "name": "WARD_19",
+                          "localname": "WARD_19",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD19",
+                          "children": [
+                            {
+                              "id": "8b88dbfb-36e7-441a-a55e-173d35a74080",
+                              "boundaryNum": 1,
+                              "name": "PURHIRA",
+                              "localname": "PURHIRA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP115",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "49c58ad1-0b09-4336-97e9-5deebad75c70",
+                          "boundaryNum": 1,
+                          "name": "WARD_20",
+                          "localname": "WARD_20",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD20",
+                          "children": [
+                            {
+                              "id": "070f425e-c282-4b07-bcb9-abd467f7728d",
+                              "boundaryNum": 1,
+                              "name": "FOCAL POINT",
+                              "localname": "FOCAL POINT",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP53",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3b6c87ae-3371-45e6-946a-979885e54cf3",
+                              "boundaryNum": 1,
+                              "name": "ITI BACK SIDE",
+                              "localname": "ITI BACK SIDE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP64",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "47467b30-8993-4439-903d-e47e12665b00",
+                              "boundaryNum": 1,
+                              "name": "JAMES SCHOOL",
+                              "localname": "JAMES SCHOOL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP68",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a310f528-a099-4a95-8b5b-6d299ee29dad",
+                              "boundaryNum": 1,
+                              "name": "PIPLAWAN",
+                              "localname": "PIPLAWAN",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP116",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "443c1b59-7af4-43ef-a29e-874c008c0ac7",
+                              "boundaryNum": 1,
+                              "name": "RALIWAY LINE",
+                              "localname": "RALIWAY LINE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP131",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9fe6c8c6-aa62-4fe3-a7a2-ad087d5fdf6c",
+                          "boundaryNum": 1,
+                          "name": "WARD_21",
+                          "localname": "WARD_21",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD21",
+                          "children": [
+                            {
+                              "id": "3ea66cc8-32a0-4c44-8134-f833063efb02",
+                              "boundaryNum": 1,
+                              "name": "GOAKL NAGAR",
+                              "localname": "GOAKL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP58",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a31d7bbd-1869-438d-8f9c-c4040300ea06",
+                              "boundaryNum": 1,
+                              "name": "GOPAL NAGAR",
+                              "localname": "GOPAL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP59",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "56a1ca58-a219-41f4-beaa-a2b1eb2adc91",
+                              "boundaryNum": 1,
+                              "name": "MAHARANA PARTAP SINGH NAGAR",
+                              "localname": "MAHARANA PARTAP SINGH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP87",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "9e9447a2-e5ae-4ab2-a633-6a95b6912917",
+                              "boundaryNum": 1,
+                              "name": "POLYTECNICAL COLLAGE",
+                              "localname": "POLYTECNICAL COLLAGE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP117",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "39e77054-4d43-4d05-9116-dae41fc4c99a",
+                          "boundaryNum": 1,
+                          "name": "WARD_22",
+                          "localname": "WARD_22",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD22",
+                          "children": [
+                            {
+                              "id": "d72252f4-862d-4868-ba23-594243e2585d",
+                              "boundaryNum": 1,
+                              "name": "ADARSH COLONY",
+                              "localname": "ADARSH COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP9",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4e838741-eb46-42c1-8e23-1aa814b21ecb",
+                              "boundaryNum": 1,
+                              "name": "PIPLAWAN JAL ROAD",
+                              "localname": "PIPLAWAN JAL ROAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP118",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "66aa41bf-db63-4893-9f6c-a5d3241ec9ce",
+                          "boundaryNum": 1,
+                          "name": "WARD_23",
+                          "localname": "WARD_23",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD23",
+                          "children": [
+                            {
+                              "id": "794e4a69-379e-47a2-8874-9dbbdb13c86d",
+                              "boundaryNum": 1,
+                              "name": "ENDIRA COLONY",
+                              "localname": "ENDIRA COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP48",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "52e4bcdb-a502-462f-a840-9a72e68e3df1",
+                              "boundaryNum": 1,
+                              "name": "HARGOBIND SINGH NAGAR",
+                              "localname": "HARGOBIND SINGH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP62",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "13ff8bd3-c98c-48e7-bcb8-691d6f7fda35",
+                              "boundaryNum": 1,
+                              "name": "INDIRA COLONY",
+                              "localname": "INDIRA COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP65",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "de03fa68-2601-458d-be21-31dad34bf504",
+                              "boundaryNum": 1,
+                              "name": "NEW GOBIND NAGAR",
+                              "localname": "NEW GOBIND NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP101",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "293103b6-ce42-4a74-93b6-4699bade78ed",
+                              "boundaryNum": 1,
+                              "name": "SARKAR COLONY",
+                              "localname": "SARKAR COLONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP156",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2b3c8daa-aff0-4f44-b181-f960291c9235",
+                              "boundaryNum": 1,
+                              "name": "TIBBA SAHIB",
+                              "localname": "TIBBA SAHIB",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP176",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ef2a082d-9277-4005-a0cb-212a96ddbceb",
+                          "boundaryNum": 1,
+                          "name": "WARD_24",
+                          "localname": "WARD_24",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD24",
+                          "children": [
+                            {
+                              "id": "9b39fe35-0a06-4aaf-8b03-6c8defe5c975",
+                              "boundaryNum": 1,
+                              "name": "RASHPAL HOSPITAL",
+                              "localname": "RASHPAL HOSPITAL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP133",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6280b9bb-982c-4ef8-be56-b42fffb8f3e1",
+                              "boundaryNum": 1,
+                              "name": "ROOP NAGAR",
+                              "localname": "ROOP NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP137",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "44a98771-1704-4dd9-b17c-f4c54a9dbff2",
+                          "boundaryNum": 1,
+                          "name": "WARD_25",
+                          "localname": "WARD_25",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD25",
+                          "children": [
+                            {
+                              "id": "c36892ab-7edc-4d98-8c5d-559eeee73592",
+                              "boundaryNum": 1,
+                              "name": "LABH NAGAR",
+                              "localname": "LABH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP81",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "79250cd6-2ee3-4e68-a590-2ba5e2728368",
+                              "boundaryNum": 1,
+                              "name": "SUBHASH NAGAR",
+                              "localname": "SUBHASH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP141",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e28573b1-bd22-41cd-acba-ffd85f6f4b18",
+                              "boundaryNum": 1,
+                              "name": "TIBBA SAHIB",
+                              "localname": "TIBBA SAHIB",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP177",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "5d2c30b0-7bc2-4c6e-8364-e39b091d7e9d",
+                          "boundaryNum": 1,
+                          "name": "WARD_26",
+                          "localname": "WARD_26",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD26",
+                          "children": [
+                            {
+                              "id": "7600f63b-b7d1-405f-bf90-8509d4a4ac95",
+                              "boundaryNum": 1,
+                              "name": "DEEP NAGAR",
+                              "localname": "DEEP NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP39",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "55b06e1f-0fc7-4c76-9d4b-634bed0689c7",
+                              "boundaryNum": 1,
+                              "name": "KIRTI NAGAR",
+                              "localname": "KIRTI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP77",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6d07576c-8576-43bd-899c-1791aff75b23",
+                              "boundaryNum": 1,
+                              "name": "MILAP NAGAR",
+                              "localname": "MILAP NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP93",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5bd912c2-eca9-46eb-a638-3e2c756ce1b1",
+                              "boundaryNum": 1,
+                              "name": "MANDI GOKAL NAGAR",
+                              "localname": "MANDI GOKAL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP94",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f0b9d239-3aad-4169-9771-531d4cc3f259",
+                              "boundaryNum": 1,
+                              "name": "NEW DEEP NAGAR",
+                              "localname": "NEW DEEP NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP98",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b3d9b374-1433-4881-baa9-ae72c52e1bf4",
+                              "boundaryNum": 1,
+                              "name": "NEW MANDI GOKAL NAGAR",
+                              "localname": "NEW MANDI GOKAL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP102",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1d62ffab-c58d-4555-9e0f-2b833948c7e7",
+                          "boundaryNum": 1,
+                          "name": "WARD_27",
+                          "localname": "WARD_27",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD27",
+                          "children": []
+                        },
+                        {
+                          "id": "e433785f-6d83-4c03-9399-adf37acdd74a",
+                          "boundaryNum": 1,
+                          "name": "WARD_28",
+                          "localname": "WARD_28",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD28",
+                          "children": [
+                            {
+                              "id": "3a6b9601-c795-4f09-9548-7d5eaff8d595",
+                              "boundaryNum": 1,
+                              "name": "BHAGAT SINGH NAGAR",
+                              "localname": "BHAGAT SINGH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP21",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7188467a-6bd3-449e-979f-ac6188f95b29",
+                              "boundaryNum": 1,
+                              "name": "MOUNT ANVNEW",
+                              "localname": "MOUNT ANVNEW",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP88",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8b4e025e-9446-4a95-9f48-012eb42c83b9",
+                              "boundaryNum": 1,
+                              "name": "RAHIMPUR",
+                              "localname": "RAHIMPUR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP134",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "229a7ae8-4195-4fdc-bb67-909a8e1847b3",
+                              "boundaryNum": 1,
+                              "name": "SANTOKHNAGAR",
+                              "localname": "SANTOKHNAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP157",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "68c00465-5870-4d3c-b6d9-909f8de28aea",
+                          "boundaryNum": 1,
+                          "name": "WARD_29",
+                          "localname": "WARD_29",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD29",
+                          "children": [
+                            {
+                              "id": "66719b63-1b37-48b3-8a57-744b17fac99a",
+                              "boundaryNum": 1,
+                              "name": "NAKHA WALA BHAG",
+                              "localname": "NAKHA WALA BHAG",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP103",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "57556df4-b213-42ce-a685-863a6156126d",
+                              "boundaryNum": 1,
+                              "name": "RANJIT NAGAR",
+                              "localname": "RANJIT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP135",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f13626ea-1773-4717-b248-e223b5c1fa36",
+                              "boundaryNum": 1,
+                              "name": "SAROOP NAGAR",
+                              "localname": "SAROOP NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP158",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b149a5e7-ef31-4c4a-ac47-37e8511f0c2e",
+                              "boundaryNum": 1,
+                              "name": "SUTEHRI ROAD",
+                              "localname": "SUTEHRI ROAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP159",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "6798f252-f9ff-418e-8688-8342e0a3bc25",
+                          "boundaryNum": 1,
+                          "name": "WARD_30",
+                          "localname": "WARD_30",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD30",
+                          "children": [
+                            {
+                              "id": "4c07c2b0-9d7c-4cb9-a86e-7a542ea328bb",
+                              "boundaryNum": 1,
+                              "name": "BANSI NAGAR",
+                              "localname": "BANSI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP22",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "562b3acb-1236-4fe1-b0cb-7406248e1b1a",
+                              "boundaryNum": 1,
+                              "name": "KALIA HOSPITAL",
+                              "localname": "KALIA HOSPITAL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP76",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "093d5471-1073-4244-a0b5-316fd14c32e3",
+                              "boundaryNum": 1,
+                              "name": "LAKSHMI INCLANE",
+                              "localname": "LAKSHMI INCLANE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP82",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "375224f6-09fa-490c-91fb-ed2b30621f00",
+                              "boundaryNum": 1,
+                              "name": "RISH NAGAR",
+                              "localname": "RISH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP136",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b3f8c198-a617-49f8-8393-0503458ccc5f",
+                              "boundaryNum": 1,
+                              "name": "SANT NAGAR",
+                              "localname": "SANT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP160",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "87355587-7c92-4568-912b-a31f016e11dc",
+                          "boundaryNum": 1,
+                          "name": "WARD_31",
+                          "localname": "WARD_31",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD31",
+                          "children": [
+                            {
+                              "id": "a5d83a27-a631-4351-b5f5-bbbb6f7cb405",
+                              "boundaryNum": 1,
+                              "name": "GOVT COLLAGE",
+                              "localname": "GOVT COLLAGE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP60",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1bcf677d-2bf8-4a5e-af18-603fd980bd9d",
+                              "boundaryNum": 1,
+                              "name": "MODEL HOSPITAL",
+                              "localname": "MODEL HOSPITAL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP89",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e894b0b8-4a19-45cc-ab68-d266cd7d9151",
+                              "boundaryNum": 1,
+                              "name": "RALIWAR MANDI",
+                              "localname": "RALIWAR MANDI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP138",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "27e4d4f8-af06-4b56-872c-a05ab2b1a50d",
+                          "boundaryNum": 1,
+                          "name": "WARD_32",
+                          "localname": "WARD_32",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD32",
+                          "children": [
+                            {
+                              "id": "be86543d-efe6-49b7-9308-38f2779ba291",
+                              "boundaryNum": 1,
+                              "name": "PREAM GARH",
+                              "localname": "PREAM GARH",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP119",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "b6184f98-d498-4267-9fc9-e31733855104",
+                          "boundaryNum": 1,
+                          "name": "WARD_33",
+                          "localname": "WARD_33",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD33",
+                          "children": [
+                            {
+                              "id": "cdd7b036-eb9d-45fe-8937-c4c21d648d77",
+                              "boundaryNum": 1,
+                              "name": "JAGATPURA",
+                              "localname": "JAGATPURA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP69",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7ec40d0c-1bf7-43a4-a68b-ce5b5453c490",
+                              "boundaryNum": 1,
+                              "name": "NEW JAGTPURA",
+                              "localname": "NEW JAGTPURA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP104",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "590cb89d-7e4d-4cab-bc44-a3d7f6ec4835",
+                          "boundaryNum": 1,
+                          "name": "WARD_34",
+                          "localname": "WARD_34",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD34",
+                          "children": [
+                            {
+                              "id": "2b35330d-973b-4455-a58d-17f6d91eea2b",
+                              "boundaryNum": 1,
+                              "name": "ASHOK NAGR",
+                              "localname": "ASHOK NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP10",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5e99f5c5-9147-49bc-8550-961361c16b77",
+                              "boundaryNum": 1,
+                              "name": "GHANTA GHAR GANJA SCHOOL",
+                              "localname": "GHANTA GHAR GANJA SCHOOL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP61",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "0c7c5d23-e26b-4a1c-a248-25562fd4c033",
+                          "boundaryNum": 1,
+                          "name": "WARD_35",
+                          "localname": "WARD_35",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD35",
+                          "children": [
+                            {
+                              "id": "248e9fea-ce09-482a-bb1a-c0ca893f3ba6",
+                              "boundaryNum": 1,
+                              "name": "COMMTIC BAZAR",
+                              "localname": "COMMTIC BAZAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP36",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "48938981-6cbe-49f5-84ad-3da1ffd1f607",
+                              "boundaryNum": 1,
+                              "name": "PARLAD NAGAR",
+                              "localname": "PARLAD NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP120",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4becf1f6-02ea-4e5b-9720-9909ee46dcdc",
+                              "boundaryNum": 1,
+                              "name": "PURANA NAGAR COUNCIL",
+                              "localname": "PURANA NAGAR COUNCIL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP121",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b2ad6569-bc12-4620-9563-6dfb820401c6",
+                              "boundaryNum": 1,
+                              "name": "SHIMLA PAHARI",
+                              "localname": "SHIMLA PAHARI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP161",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8ffee43d-1f14-4978-8233-969491560703",
+                              "boundaryNum": 1,
+                              "name": "TELEPHONE EX.",
+                              "localname": "TELEPHONE EX.",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP179",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "6ddf13db-a5fc-453d-9881-bde91933eb46",
+                          "boundaryNum": 1,
+                          "name": "WARD_36",
+                          "localname": "WARD_36",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD36",
+                          "children": [
+                            {
+                              "id": "ed41aab0-815e-4201-aae5-ef8fc38596cf",
+                              "boundaryNum": 1,
+                              "name": "BALMIKI MOH.",
+                              "localname": "BALMIKI MOH.",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP23",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c379551c-c4d5-4c04-a9bf-b6b86924b8be",
+                              "boundaryNum": 1,
+                              "name": "MORIA PALCE",
+                              "localname": "MORIA PALCE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP90",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "24d99628-ddf7-4847-b371-1a0a137eb69d",
+                              "boundaryNum": 1,
+                              "name": "SHAKTI NAGAR",
+                              "localname": "SHAKTI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP162",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0bff8510-7f38-4372-8c2d-1f6a8c80de03",
+                              "boundaryNum": 1,
+                              "name": "SANSKRIT COLLAGE",
+                              "localname": "SANSKRIT COLLAGE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP163",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ff9a16c1-6143-4ba4-9d40-cabfed2fd59c",
+                          "boundaryNum": 1,
+                          "name": "WARD_37",
+                          "localname": "WARD_37",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD37",
+                          "children": [
+                            {
+                              "id": "4906a912-035a-4b1a-ad69-671001586e51",
+                              "boundaryNum": 1,
+                              "name": "BHAGWAN DAS ROAD",
+                              "localname": "BHAGWAN DAS ROAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP24",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "85f61c34-31eb-43d0-bc4e-33ce2aa9384b",
+                              "boundaryNum": 1,
+                              "name": "KRISHAN NAGAR",
+                              "localname": "KRISHAN NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP71",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "af3ac0e0-a7ed-4759-8ecf-8d48d097561d",
+                              "boundaryNum": 1,
+                              "name": "KESHAR NAGAR",
+                              "localname": "KESHAR NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP72",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b42977b8-ad4d-4fe0-9455-cff8177a8b09",
+                              "boundaryNum": 1,
+                              "name": "KRISHAN NAGAR",
+                              "localname": "KRISHAN NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP73",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c0740eee-67a7-4bc2-833a-763ad656214d",
+                              "boundaryNum": 1,
+                              "name": "NAI ABADI",
+                              "localname": "NAI ABADI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP105",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "5f08ea98-e4a3-48ba-949d-96d417e71c94",
+                          "boundaryNum": 1,
+                          "name": "WARD_38",
+                          "localname": "WARD_38",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD38",
+                          "children": [
+                            {
+                              "id": "f4b11cfa-0ce1-4763-8f61-ad041d28b6c6",
+                              "boundaryNum": 1,
+                              "name": "CHATTA BAZAR",
+                              "localname": "CHATTA BAZAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP34",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "64287232-e153-4d87-b399-5acdedb661ca",
+                              "boundaryNum": 1,
+                              "name": "NAI ABADI",
+                              "localname": "NAI ABADI",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP106",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0b853cbc-8cd8-4793-8e48-f178648e145d",
+                              "boundaryNum": 1,
+                              "name": "PAHARI KATDA",
+                              "localname": "PAHARI KATDA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP122",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3bc520c6-fbb9-45a8-9e9e-cba786bfc909",
+                              "boundaryNum": 1,
+                              "name": "SHITLA MANDIR",
+                              "localname": "SHITLA MANDIR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP164",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "74104127-d3be-4e81-89ea-6df5c9a908a1",
+                              "boundaryNum": 1,
+                              "name": "SHIHS MAHAL",
+                              "localname": "SHIHS MAHAL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP165",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "40abb42a-2808-4b58-b5b4-e209482bb1e5",
+                          "boundaryNum": 1,
+                          "name": "WARD_39",
+                          "localname": "WARD_39",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD39",
+                          "children": [
+                            {
+                              "id": "0d7911be-5c86-4845-b5bf-88f8692941a3",
+                              "boundaryNum": 1,
+                              "name": "CHOWK SARAJA",
+                              "localname": "CHOWK SARAJA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP37",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5a63e79a-c5c5-43d5-939a-60950038d54f",
+                              "boundaryNum": 1,
+                              "name": "S.S SCHOOL",
+                              "localname": "S.S SCHOOL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP166",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "54a3c9b8-49fe-41e9-a578-706b5b87b020",
+                              "boundaryNum": 1,
+                              "name": "SAROFA BAZAR",
+                              "localname": "SAROFA BAZAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP167",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "f9f0d3b0-0717-41f6-94fe-9b05b7c98240",
+                          "boundaryNum": 1,
+                          "name": "WARD_40",
+                          "localname": "WARD_40",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD40",
+                          "children": [
+                            {
+                              "id": "856a684e-26db-4a4a-87a6-7b7891c4775b",
+                              "boundaryNum": 1,
+                              "name": "BASSI KHWAJU",
+                              "localname": "BASSI KHWAJU",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP25",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "771a534f-f8bd-44b6-8a7e-cf4e25773870",
+                              "boundaryNum": 1,
+                              "name": "SUKHDEV NAGAR",
+                              "localname": "SUKHDEV NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP168",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "cd3396c5-9cb4-482b-9a23-b4097034834f",
+                              "boundaryNum": 1,
+                              "name": "SWARA CINEMA",
+                              "localname": "SWARA CINEMA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP169",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "e5274306-892b-493d-becb-976d7df448ad",
+                          "boundaryNum": 1,
+                          "name": "WARD_41",
+                          "localname": "WARD_41",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD41",
+                          "children": [
+                            {
+                              "id": "03ef7f61-894c-43ce-ad9c-de1dc420b8d3",
+                              "boundaryNum": 1,
+                              "name": "MANVTA NAGAR",
+                              "localname": "MANVTA NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP91",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e73ecc2a-ddcb-4936-b242-2d4f27aef50e",
+                              "boundaryNum": 1,
+                              "name": "MANDI FAKIR CHAND",
+                              "localname": "MANDI FAKIR CHAND",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP92",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b5424a49-4b2a-4a7f-8ec6-7ab2bcb4d29e",
+                              "boundaryNum": 1,
+                              "name": "PREM GAHR",
+                              "localname": "PREM GAHR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP123",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "888ab94b-3af9-4ea1-86d4-310f120e0b77",
+                          "boundaryNum": 1,
+                          "name": "WARD_42",
+                          "localname": "WARD_42",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD42",
+                          "children": [
+                            {
+                              "id": "92a83ce3-fd70-453b-9fd0-2e75e7eea263",
+                              "boundaryNum": 1,
+                              "name": "KACHE KAWTER",
+                              "localname": "KACHE KAWTER",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP74",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f2fe241a-cdff-4fc7-9ece-cf534aac20b8",
+                              "boundaryNum": 1,
+                              "name": "KAMAL PUR",
+                              "localname": "KAMAL PUR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP75",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "97b61eec-e8ee-463c-8e2c-1d53d81d994f",
+                          "boundaryNum": 1,
+                          "name": "WARD_43",
+                          "localname": "WARD_43",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD43",
+                          "children": [
+                            {
+                              "id": "19508b89-9bec-4fb2-a0d0-747cb1dab29a",
+                              "boundaryNum": 1,
+                              "name": "BUS STAND",
+                              "localname": "BUS STAND",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP26",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1f3bf91a-7a52-40f1-b4dd-2e8b790876c4",
+                          "boundaryNum": 1,
+                          "name": "WARD_44",
+                          "localname": "WARD_44",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD44",
+                          "children": [
+                            {
+                              "id": "114afb63-2142-401a-924c-bf41714f75a4",
+                              "boundaryNum": 1,
+                              "name": "BHARAT INLAVE",
+                              "localname": "BHARAT INLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP27",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4166cadf-87cf-4396-b06d-fba20ba333e3",
+                              "boundaryNum": 1,
+                              "name": "NEW DASHMESH NAGAR",
+                              "localname": "NEW DASHMESH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP107",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "099f6f65-f658-4d0e-84a0-503de3b5101a",
+                              "boundaryNum": 1,
+                              "name": "PREET NAGAR",
+                              "localname": "PREET NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP124",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9b317736-eadd-46d7-8bec-1083eb31fb81",
+                          "boundaryNum": 1,
+                          "name": "WARD_45",
+                          "localname": "WARD_45",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD45",
+                          "children": [
+                            {
+                              "id": "143912d5-4224-456e-b336-8862e19fd219",
+                              "boundaryNum": 1,
+                              "name": "BASSI JANA",
+                              "localname": "BASSI JANA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP28",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e3e0ff93-3405-449b-a6d6-cce19aa2b19c",
+                              "boundaryNum": 1,
+                              "name": "LAJWANTI NAGR",
+                              "localname": "LAJWANTI NAGR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP83",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3c468432-e92f-45fa-8987-7534140f6ff3",
+                              "boundaryNum": 1,
+                              "name": "MARIGOLD SCHOOL",
+                              "localname": "MARIGOLD SCHOOL",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP95",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f8031050-ac8c-4b43-afd3-368858c07499",
+                              "boundaryNum": 1,
+                              "name": "ROSHAN GROUND",
+                              "localname": "ROSHAN GROUND",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP132",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4ae676de-7991-4536-a225-f656eb4e38ba",
+                              "boundaryNum": 1,
+                              "name": "SANT BHAG SINGH NAGAR",
+                              "localname": "SANT BHAG SINGH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP170",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e3656a0c-9ea4-4f0c-a6d3-fd4a38b676f2",
+                              "boundaryNum": 1,
+                              "name": "TEGORA NAGAR",
+                              "localname": "TEGORA NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP178",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b9545822-2117-465e-945e-b8385e200d8d",
+                              "boundaryNum": 1,
+                              "name": "WEST INCLAVE",
+                              "localname": "WEST INCLAVE",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP182",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "b808f7f6-5dfe-44ec-a00c-71f6726392ba",
+                          "boundaryNum": 1,
+                          "name": "WARD_46",
+                          "localname": "WARD_46",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD46",
+                          "children": [
+                            {
+                              "id": "55dc4b9b-fa4a-4670-809b-04a13a37953f",
+                              "boundaryNum": 1,
+                              "name": "BHAGAT NAGAR",
+                              "localname": "BHAGAT NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP29",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "d664bbe3-3eb1-46fa-a97a-34dc387eeef3",
+                              "boundaryNum": 1,
+                              "name": "DAGAN ROAD",
+                              "localname": "DAGAN ROAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP42",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c4f8172a-1fe2-4987-8d98-d15b55aa63af",
+                              "boundaryNum": 1,
+                              "name": "DASHMESH NAGAR",
+                              "localname": "DASHMESH NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP43",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "666307b1-7dc3-412e-a321-a480372cfd94",
+                          "boundaryNum": 1,
+                          "name": "WARD_47",
+                          "localname": "WARD_47",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD47",
+                          "children": [
+                            {
+                              "id": "7ac79203-31fb-4fec-b0e2-5448d9334ff1",
+                              "boundaryNum": 1,
+                              "name": "BANK CALONY",
+                              "localname": "BANK CALONY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP30",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f69c0d10-e773-4c2c-9a67-bd01496f7e30",
+                              "boundaryNum": 1,
+                              "name": "NEW MODEL TOWN",
+                              "localname": "NEW MODEL TOWN",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP108",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "85e23af3-431f-4ffe-931d-843c52e1a99b",
+                          "boundaryNum": 1,
+                          "name": "WARD_48",
+                          "localname": "WARD_48",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD48",
+                          "children": [
+                            {
+                              "id": "d4b72d6d-998e-495e-8adc-9b278277a850",
+                              "boundaryNum": 1,
+                              "name": "AUTODOR STADIUM",
+                              "localname": "AUTODOR STADIUM",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP11",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "db0c2305-3a26-47e1-b678-f9df835006c6",
+                              "boundaryNum": 1,
+                              "name": "PURAN NAGAR",
+                              "localname": "PURAN NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP125",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "caf850f6-d77c-46fa-8ff6-230812476ebb",
+                              "boundaryNum": 1,
+                              "name": "S.A.S NAGAR",
+                              "localname": "S.A.S NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP171",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5cd37539-f36a-40e4-a236-2d0fc4d7b4d5",
+                              "boundaryNum": 1,
+                              "name": "SHASTRI NAGAR",
+                              "localname": "SHASTRI NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP172",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "85603fe0-f887-4a4b-8f8e-7b5491c507f7",
+                          "boundaryNum": 1,
+                          "name": "WARD_49",
+                          "localname": "WARD_49",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD49",
+                          "children": [
+                            {
+                              "id": "54a37799-c6b9-4fc0-9990-881716665720",
+                              "boundaryNum": 1,
+                              "name": "JINA VELLY",
+                              "localname": "JINA VELLY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP70",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "cca4748b-0364-4626-8294-410caa8713d4",
+                              "boundaryNum": 1,
+                              "name": "SHMSHAN GHAT",
+                              "localname": "SHMSHAN GHAT",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP173",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f4d7ed6e-77d3-4a05-9198-3508fd1d835d",
+                              "boundaryNum": 1,
+                              "name": "SALWARA",
+                              "localname": "SALWARA",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP174",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4c9a88b5-bbcc-4119-98a3-276833575be8",
+                              "boundaryNum": 1,
+                              "name": "SUKHIABAD",
+                              "localname": "SUKHIABAD",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP175",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "349c594a-415c-4f69-921a-125764730c2e",
+                          "boundaryNum": 1,
+                          "name": "WARD_50",
+                          "localname": "WARD_50",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "WARD50",
+                          "children": [
+                            {
+                              "id": "eb69e556-5420-43ae-8e13-78c6c0207be5",
+                              "boundaryNum": 1,
+                              "name": "ANMOL NAGAR",
+                              "localname": "ANMOL NAGAR",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP12",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "44284866-ff09-434e-812b-d166f031b931",
+                              "boundaryNum": 1,
+                              "name": "AMBE VALLY",
+                              "localname": "AMBE VALLY",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP13",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "987e3807-4068-4995-b865-d58f4bd7220e",
+                              "boundaryNum": 1,
+                              "name": "B.S.SN",
+                              "localname": "B.S.SN",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP31",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6f274b3c-5a0d-4273-ae1a-aa5584872657",
+                              "boundaryNum": 1,
+                              "name": "BANJAR BHAG",
+                              "localname": "BANJAR BHAG",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "HSP32",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+  
