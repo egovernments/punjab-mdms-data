@@ -1,0 +1,2351 @@
+{
+    "tenantId": "pb.moga",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "ADMIN",
+          "name": "ADMIN"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Moga",
+          "localname": "Moga",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "pb.moga",
+          "children": {
+            "tenantId": "pb.moga",
+            "moduleName": "egov-location",
+            "TenantBoundary": [
+              {
+                "hierarchyType": {
+                  "code": "ADMIN",
+                  "name": "ADMIN"
+                },
+                "boundary": {
+                  "id": 1,
+                  "boundaryNum": 1,
+                  "name": "Moga",
+                  "localname": "Moga",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "City",
+                  "code": "pb.moga",
+                  "children": [
+                    {
+                      "id": "97243027-1f38-49f1-9f0f-e76482e1072c",
+                      "boundaryNum": 1,
+                      "name": "Zone 1",
+                      "localname": "Zone 1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Zone",
+                      "code": "Z1",
+                      "children": [
+                        {
+                          "id": "afa5e331-7986-4e92-baf2-0008ea70f908",
+                          "boundaryNum": 1,
+                          "name": "Block1",
+                          "localname": "Block1",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-1",
+                          "children": [
+                            {
+                              "id": "71b28d8b-8c0e-4b09-9bb1-4816647a8359",
+                              "boundaryNum": 1,
+                              "name": "Damman Singh Nagar",
+                              "localname": "Damman Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-1",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "13613a80-4709-461d-a7dd-1664400c15a6",
+                              "boundaryNum": 1,
+                              "name": "Kartar Nagar",
+                              "localname": "Kartar Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-2",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "97bd33a0-b252-4cf5-9d18-1ef4a6c48254",
+                          "boundaryNum": 1,
+                          "name": "Block2",
+                          "localname": "Block2",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-2",
+                          "children": [
+                            {
+                              "id": "8f99a558-8967-4ec3-8ae8-f966211b15b6",
+                              "boundaryNum": 1,
+                              "name": "Shaheed Bhagat Singh Nagar",
+                              "localname": "Shaheed Bhagat Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-3",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "765b5f9f-9992-41c1-80fc-a9ff68c9cb3a",
+                          "boundaryNum": 1,
+                          "name": "Block3",
+                          "localname": "Block3",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-3",
+                          "children": [
+                            {
+                              "id": "7820aea7-4f93-46d8-967b-d0e4946420a4",
+                              "boundaryNum": 1,
+                              "name": "Rabb Nagar",
+                              "localname": "Rabb Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-4",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "cb2ec8d1-fd59-4dcd-bc3f-7ebbdfb9adac",
+                              "boundaryNum": 1,
+                              "name": "Basti Bhagwanpura",
+                              "localname": "Basti Bhagwanpura",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-5",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1243ae1a-7d41-49f2-84e4-e452f0976459",
+                          "boundaryNum": 1,
+                          "name": "Block4",
+                          "localname": "Block4",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-4",
+                          "children": [
+                            {
+                              "id": "3ffbdb31-54b7-4567-b4d8-183c04cc1fa1",
+                              "boundaryNum": 1,
+                              "name": "Modal Colony",
+                              "localname": "Modal Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-6",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2cd885f7-7f15-4775-a916-ea2aec800f51",
+                              "boundaryNum": 1,
+                              "name": "Apex Colony",
+                              "localname": "Apex Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-7",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "de76585d-3f1b-4c3b-8ac8-9ed77e748ffb",
+                          "boundaryNum": 1,
+                          "name": "Block5",
+                          "localname": "Block5",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-5",
+                          "children": [
+                            {
+                              "id": "74f0ace2-cb70-45b2-a706-0e0ef26384f9",
+                              "boundaryNum": 1,
+                              "name": "Inder Singh Gill Nagar",
+                              "localname": "Inder Singh Gill Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-8",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e5514091-37f9-49a6-8cf7-6ae107d3f03d",
+                              "boundaryNum": 1,
+                              "name": "Arvind Plaza",
+                              "localname": "Arvind Plaza",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-9",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "98d4e513-92c2-4a20-a476-9dc9d3b68b12",
+                          "boundaryNum": 1,
+                          "name": "Block6",
+                          "localname": "Block6",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-6",
+                          "children": [
+                            {
+                              "id": "a5171fd2-e5b9-48be-9633-a27529bbb319",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Nanak Pura",
+                              "localname": "Mohalla Nanak Pura",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-10",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e5d5e339-8fe4-48a8-88d2-a1fbe4a5a9b0",
+                              "boundaryNum": 1,
+                              "name": "Bhai Jaita Singh Nagar",
+                              "localname": "Bhai Jaita Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-11",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "967c817f-1fa4-4747-813d-07d2a1009463",
+                          "boundaryNum": 1,
+                          "name": "Block7",
+                          "localname": "Block7",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-7",
+                          "children": [
+                            {
+                              "id": "106cb547-7e19-49a1-b25b-003b1ef9e22c",
+                              "boundaryNum": 1,
+                              "name": "Shaheed Bhagat Singh Colony",
+                              "localname": "Shaheed Bhagat Singh Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-12",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "060c3d62-96c5-4d8f-8e2c-71d849045778",
+                              "boundaryNum": 1,
+                              "name": "Manchanda Colony",
+                              "localname": "Manchanda Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-13",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "53d1bdce-801c-49f8-a1c3-f0a7bfeb24a8",
+                          "boundaryNum": 1,
+                          "name": "Block8",
+                          "localname": "Block8",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-8",
+                          "children": [
+                            {
+                              "id": "18aaad3a-b8d7-4aec-a2b9-af2656696442",
+                              "boundaryNum": 1,
+                              "name": "Basti Gobingarh",
+                              "localname": "Basti Gobingarh",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-14",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9963ded1-5401-4a84-a844-b7598b99a565",
+                          "boundaryNum": 1,
+                          "name": "Block9",
+                          "localname": "Block9",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-9",
+                          "children": [
+                            {
+                              "id": "4dabc8ae-3bab-46bf-887b-e1ef805ffd4b",
+                              "boundaryNum": 1,
+                              "name": "Chakki Wali Gali",
+                              "localname": "Chakki Wali Gali",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-15",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ee13da19-6989-4fda-9621-f0019637d01d",
+                              "boundaryNum": 1,
+                              "name": "Baba Ishar Singh Nagar",
+                              "localname": "Baba Ishar Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-16",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "80a83a08-4d6c-4c44-b374-2aa26fdedd81",
+                          "boundaryNum": 1,
+                          "name": "Block10",
+                          "localname": "Block10",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-10",
+                          "children": [
+                            {
+                              "id": "4cda4cd4-34f4-4222-8a20-f647db9e7f43",
+                              "boundaryNum": 1,
+                              "name": "Jujhar Nagar",
+                              "localname": "Jujhar Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-17",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6945273f-8683-4cb1-938d-0405ebcdda52",
+                              "boundaryNum": 1,
+                              "name": "Ajit Nagar",
+                              "localname": "Ajit Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-18",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ad9bb491-8d57-4e7b-855b-e126bcf44826",
+                          "boundaryNum": 1,
+                          "name": "Block11",
+                          "localname": "Block11",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-11",
+                          "children": [
+                            {
+                              "id": "ecce6c12-2001-4f22-9e6b-9065d9a5b552",
+                              "boundaryNum": 1,
+                              "name": "Sant Nagar",
+                              "localname": "Sant Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-19",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "2e76dad0-eda6-47b1-bf67-ad858ca8741f",
+                          "boundaryNum": 1,
+                          "name": "Block12",
+                          "localname": "Block12",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-12",
+                          "children": [
+                            {
+                              "id": "a609d348-1dc8-44fa-9c47-7a8af3a5daa9",
+                              "boundaryNum": 1,
+                              "name": "Dashmesh Nagar",
+                              "localname": "Dashmesh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-20",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "34a59358-dc5d-4c2c-8924-2dc019fc732b",
+                          "boundaryNum": 1,
+                          "name": "Block13",
+                          "localname": "Block13",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-13",
+                          "children": [
+                            {
+                              "id": "66774ee4-5301-4b83-be21-321c8ee6c028",
+                              "boundaryNum": 1,
+                              "name": "Main Bazar Left Side Court Road",
+                              "localname": "Main Bazar Left Side Court Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-21",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0673402d-3a80-4bd2-a20e-02f5f0e01eb4",
+                              "boundaryNum": 1,
+                              "name": "Civil Line",
+                              "localname": "Civil Line",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-22",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3e5cd219-7685-41e3-a2be-ddec7618f86a",
+                              "boundaryNum": 1,
+                              "name": "Patel Nagar",
+                              "localname": "Patel Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-23",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "d409e240-9da7-495c-98a2-58622b0b4bd0",
+                              "boundaryNum": 1,
+                              "name": "Majestic Road",
+                              "localname": "Majestic Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-24",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "2f444caf-b907-47d1-9c71-7793b9d34d1a",
+                          "boundaryNum": 1,
+                          "name": "Block14",
+                          "localname": "Block14",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-14",
+                          "children": [
+                            {
+                              "id": "b7d3acdc-7687-4346-8069-c6e05feabe18",
+                              "boundaryNum": 1,
+                              "name": "Dutt Road Right Side",
+                              "localname": "Dutt Road Right Side",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-25",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "b7891e53-0599-4d27-89ec-cc830bb53e30",
+                          "boundaryNum": 1,
+                          "name": "Block15",
+                          "localname": "Block15",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-15",
+                          "children": [
+                            {
+                              "id": "31b2fb7c-59f5-4429-9f1c-e3039ee41ef4",
+                              "boundaryNum": 1,
+                              "name": "Shanti Nagar",
+                              "localname": "Shanti Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-26",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f47992a1-7934-4905-94af-b7ee8d30d362",
+                              "boundaryNum": 1,
+                              "name": "Subhash Nagar",
+                              "localname": "Subhash Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-27",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "c25b002d-6cdb-4c13-b56b-e1a9079fdc83",
+                          "boundaryNum": 1,
+                          "name": "Block16",
+                          "localname": "Block16",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-16",
+                          "children": [
+                            {
+                              "id": "43ee725c-5d64-493f-824b-c6808dfab264",
+                              "boundaryNum": 1,
+                              "name": "Akalsar Road",
+                              "localname": "Akalsar Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-28",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ab04631e-ac24-4943-92fe-774e3a247c09",
+                              "boundaryNum": 1,
+                              "name": "New Civil Line",
+                              "localname": "New Civil Line",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-29",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "8195fc4a-46a9-4261-bce6-1720785623e4",
+                          "boundaryNum": 1,
+                          "name": "Block17",
+                          "localname": "Block17",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-17",
+                          "children": [
+                            {
+                              "id": "11a80589-f749-436f-886d-77d542cb8ff1",
+                              "boundaryNum": 1,
+                              "name": "Radha Swami Nagar",
+                              "localname": "Radha Swami Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-30",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e236184c-b5c7-4ca6-b1ed-ccf0dba9ba3a",
+                              "boundaryNum": 1,
+                              "name": "Bhim Nagar Cloth Market",
+                              "localname": "Bhim Nagar Cloth Market",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-31",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "69fe89bf-7122-4169-8108-535c9b6c4a33",
+                          "boundaryNum": 1,
+                          "name": "Block18",
+                          "localname": "Block18",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-18",
+                          "children": [
+                            {
+                              "id": "2f0683d8-49d7-4087-9f4f-79c2e81e6dca",
+                              "boundaryNum": 1,
+                              "name": "Nanak Nagri",
+                              "localname": "Nanak Nagri",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-32",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "66b6b607-da65-47a7-8573-1a629a056b11",
+                          "boundaryNum": 1,
+                          "name": "Block19",
+                          "localname": "Block19",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-19",
+                          "children": [
+                            {
+                              "id": "fbae5dca-76be-4184-aec3-77c8267dbf08",
+                              "boundaryNum": 1,
+                              "name": "Bedi Nagar",
+                              "localname": "Bedi Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-33",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "29406700-f1c4-47ed-a978-ef71047a974d",
+                          "boundaryNum": 1,
+                          "name": "Block20",
+                          "localname": "Block20",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-20",
+                          "children": [
+                            {
+                              "id": "05cfc2d9-0c5f-48c0-aa67-2aa5c91fb019",
+                              "boundaryNum": 1,
+                              "name": "Godhewala",
+                              "localname": "Godhewala",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-34",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2826163f-54c1-4587-b2e9-d29aba374911",
+                              "boundaryNum": 1,
+                              "name": "Dharam Singh Nagar",
+                              "localname": "Dharam Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-35",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "58deeede-5e91-4b03-b7a2-cf5956219dc1",
+                      "boundaryNum": 1,
+                      "name": "Zone 2",
+                      "localname": "Zone 2",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Zone",
+                      "code": "Z2",
+                      "children": [
+                        {
+                          "id": "622095b1-4a0b-4dad-9670-27d6165ca1d0",
+                          "boundaryNum": 1,
+                          "name": "Block21",
+                          "localname": "Block21",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-21",
+                          "children": [
+                            {
+                              "id": "beed18cc-c95d-4ecc-96ae-7da85033e1f3",
+                              "boundaryNum": 1,
+                              "name": "New Sant Nagar",
+                              "localname": "New Sant Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-36",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "540ea53a-48b2-4a39-a185-4b00a6b7f0c6",
+                          "boundaryNum": 1,
+                          "name": "Block22",
+                          "localname": "Block22",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-22",
+                          "children": [
+                            {
+                              "id": "d44ba1da-0758-4b6b-8f3f-c8314371ac08",
+                              "boundaryNum": 1,
+                              "name": "Modal Town",
+                              "localname": "Modal Town",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-37",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "99f39358-c81d-4b73-a272-431d6bc8fd8c",
+                          "boundaryNum": 1,
+                          "name": "Block23",
+                          "localname": "Block23",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-23",
+                          "children": [
+                            {
+                              "id": "a788b24d-b019-46e1-8a51-694c1ccd5418",
+                              "boundaryNum": 1,
+                              "name": "New Dashmesh Nagar",
+                              "localname": "New Dashmesh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-38",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "4afbb42f-49c1-431f-85b2-fd02d23c096d",
+                          "boundaryNum": 1,
+                          "name": "Block24",
+                          "localname": "Block24",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-24",
+                          "children": [
+                            {
+                              "id": "04f091cd-594b-46aa-b483-6caf72eb1121",
+                              "boundaryNum": 1,
+                              "name": "Basti Narain Singh",
+                              "localname": "Basti Narain Singh",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-39",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "064b68f2-83c3-4241-903b-f088de9b0f90",
+                              "boundaryNum": 1,
+                              "name": "Sodhi Nagar",
+                              "localname": "Sodhi Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-40",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "1e836ec9-c5f0-403e-97db-9c71cb72807f",
+                          "boundaryNum": 1,
+                          "name": "Block25",
+                          "localname": "Block25",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-25",
+                          "children": [
+                            {
+                              "id": "a84f8e6d-970c-47fc-a35e-93e68a2cff43",
+                              "boundaryNum": 1,
+                              "name": "Teacher Colony",
+                              "localname": "Teacher Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-41",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9a276648-56f5-4067-9101-fabff3d64513",
+                          "boundaryNum": 1,
+                          "name": "Block26",
+                          "localname": "Block26",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-26",
+                          "children": [
+                            {
+                              "id": "1639e4c9-2db4-49f9-aa95-57997d2b9094",
+                              "boundaryNum": 1,
+                              "name": "Suraj Nagar",
+                              "localname": "Suraj Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-42",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "fb1a8e20-2cfb-40ec-bcc2-1a20ebb9e0c9",
+                          "boundaryNum": 1,
+                          "name": "Block27",
+                          "localname": "Block27",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-27",
+                          "children": [
+                            {
+                              "id": "cc154ae9-eee1-462c-9907-79c2c46b2fcd",
+                              "boundaryNum": 1,
+                              "name": "Duneke",
+                              "localname": "Duneke",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-43",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6efd867d-6fc8-49b2-8cd2-14b729615d38",
+                              "boundaryNum": 1,
+                              "name": "Guru Ramdass Nagar",
+                              "localname": "Guru Ramdass Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-44",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "014b4446-f711-4a01-ba78-d734408b23e6",
+                          "boundaryNum": 1,
+                          "name": "Block28",
+                          "localname": "Block28",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-28",
+                          "children": [
+                            {
+                              "id": "4e2353f8-bbea-470a-9c14-16a5a56c7bac",
+                              "boundaryNum": 1,
+                              "name": "Friends Colony",
+                              "localname": "Friends Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-45",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "dcb4673c-fe0c-4188-8f01-a7fcc88a1acb",
+                              "boundaryNum": 1,
+                              "name": "Gandhi Road",
+                              "localname": "Gandhi Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-46",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6623ff0e-cd82-41b8-adc4-932c8d6fd001",
+                              "boundaryNum": 1,
+                              "name": "Mathura Puri",
+                              "localname": "Mathura Puri",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-47",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "58afca10-dfe8-4af7-b7bf-cdb2126bc483",
+                          "boundaryNum": 1,
+                          "name": "Block29",
+                          "localname": "Block29",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-29",
+                          "children": [
+                            {
+                              "id": "c382aab9-d044-496a-b24b-a2ea4d6e7768",
+                              "boundaryNum": 1,
+                              "name": "Main Bazar Right guru nanak collage",
+                              "localname": "Main Bazar Right guru nanak collage",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-48",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5eb628f4-d47b-4968-b63e-fa8aaa0b614d",
+                              "boundaryNum": 1,
+                              "name": "Patti Wali Gali",
+                              "localname": "Patti Wali Gali",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-49",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8b33ca57-5491-4b5f-8fb7-ff0ed3fdd740",
+                              "boundaryNum": 1,
+                              "name": "Basant Singh Road",
+                              "localname": "Basant Singh Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-50",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "e48a2c11-b29a-42db-8127-0bacedb85f8a",
+                      "boundaryNum": 1,
+                      "name": "Zone 3",
+                      "localname": "Zone 3",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Zone",
+                      "code": "Z3",
+                      "children": [
+                        {
+                          "id": "19b186e5-0cad-4d07-a4db-c730a402d815",
+                          "boundaryNum": 1,
+                          "name": "Block30",
+                          "localname": "Block30",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-30",
+                          "children": [
+                            {
+                              "id": "8a4107fb-71d9-4806-8b3a-d49e77aff822",
+                              "boundaryNum": 1,
+                              "name": "New Vedant Nagar",
+                              "localname": "New Vedant Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-51",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5edf7777-0878-4331-bd96-e29606c25fb2",
+                              "boundaryNum": 1,
+                              "name": "Parwana Nagar",
+                              "localname": "Parwana Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-52",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c7d67a56-0529-4d64-8f4b-42860f9a4c81",
+                              "boundaryNum": 1,
+                              "name": "Rehgar Basti",
+                              "localname": "Rehgar Basti",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-53",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "3c59b71d-7725-4041-aa0f-4fd4f0d09620",
+                              "boundaryNum": 1,
+                              "name": "Guru Nanak Nagar",
+                              "localname": "Guru Nanak Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-54",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ea43fdaf-a74a-4acb-9aab-4f18ee3ef32d",
+                          "boundaryNum": 1,
+                          "name": "Block31",
+                          "localname": "Block31",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-31",
+                          "children": [
+                            {
+                              "id": "007c5dc6-2fb1-4fe1-8b0c-ad00487ffa7b",
+                              "boundaryNum": 1,
+                              "name": "Sehaj Colony",
+                              "localname": "Sehaj Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-55",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "670a5f88-5e1d-4de0-8e78-ecc21919d876",
+                              "boundaryNum": 1,
+                              "name": "Vedant Nagar",
+                              "localname": "Vedant Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-56",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "6f3d76c3-b494-434a-b17c-5be779a30eb5",
+                          "boundaryNum": 1,
+                          "name": "Block32",
+                          "localname": "Block32",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-32",
+                          "children": [
+                            {
+                              "id": "a57fc84d-4598-49c6-aaa3-35f7452dbf9b",
+                              "boundaryNum": 1,
+                              "name": "Geeta Colony",
+                              "localname": "Geeta Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-57",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7e4b4014-cf10-4b2d-9d7f-49761053b1a3",
+                          "boundaryNum": 1,
+                          "name": "Block33",
+                          "localname": "Block33",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-33",
+                          "children": [
+                            {
+                              "id": "f7760832-4922-4581-aafa-4cada1f07e9f",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Kishanpura",
+                              "localname": "Mohalla Kishanpura",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-58",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "af543837-5c47-4d09-b299-7bf251e05e95",
+                          "boundaryNum": 1,
+                          "name": "Block34",
+                          "localname": "Block34",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-34",
+                          "children": [
+                            {
+                              "id": "456b5c9f-ba73-41c7-9833-465c88c6694a",
+                              "boundaryNum": 1,
+                              "name": "Stadium Road",
+                              "localname": "Stadium Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-59",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "b161d199-8928-42cc-a07f-0ed038724a43",
+                              "boundaryNum": 1,
+                              "name": "Jamiat Singh Road",
+                              "localname": "Jamiat Singh Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-60",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "959fae3b-17f5-4282-b4da-167338342f88",
+                          "boundaryNum": 1,
+                          "name": "Block35",
+                          "localname": "Block35",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-35",
+                          "children": [
+                            {
+                              "id": "104476e0-0d7b-4b1d-be4e-95b84c9d6940",
+                              "boundaryNum": 1,
+                              "name": "Jawahar Nagar",
+                              "localname": "Jawahar Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-61",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "14b65e2e-6565-4258-8c1d-2c7b1883a543",
+                          "boundaryNum": 1,
+                          "name": "Block36",
+                          "localname": "Block36",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-36",
+                          "children": [
+                            {
+                              "id": "99ee40af-0716-442d-bea4-21e164f08729",
+                              "boundaryNum": 1,
+                              "name": "Chamber Road",
+                              "localname": "Chamber Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-62",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1480fb9c-001b-480a-9b11-68a37b5135d9",
+                              "boundaryNum": 1,
+                              "name": "Railway Road",
+                              "localname": "Railway Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-63",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f510931a-db7b-42fe-beba-6d65b07bba8f",
+                              "boundaryNum": 1,
+                              "name": "Old Grain Markit",
+                              "localname": "Old Grain Markit",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-64",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "313ad37f-a2da-4baf-b788-d7bbfd09b980",
+                              "boundaryNum": 1,
+                              "name": "Partap Road",
+                              "localname": "Partap Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-65",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "0b702e50-4013-4e8e-9f58-bcf82bb672ef",
+                          "boundaryNum": 1,
+                          "name": "Block37",
+                          "localname": "Block37",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-37",
+                          "children": [
+                            {
+                              "id": "28aa06db-7825-41c6-94ab-0469bc9a63bd",
+                              "boundaryNum": 1,
+                              "name": "Mittal road",
+                              "localname": "Mittal road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-66",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "cfeaa003-db7b-41f6-a554-7ce962259f30",
+                              "boundaryNum": 1,
+                              "name": "Bagh Gali",
+                              "localname": "Bagh Gali",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-67",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "64701c77-1add-45fd-8b64-cfcbde0df41b",
+                              "boundaryNum": 1,
+                              "name": "Main Bazar civil hospital side",
+                              "localname": "Main Bazar civil hospital side",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-68",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "d499575e-f6b7-44b7-ad6f-e70cb3c64719",
+                          "boundaryNum": 1,
+                          "name": "Block38",
+                          "localname": "Block38",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-38",
+                          "children": [
+                            {
+                              "id": "88308f2f-d4b9-44a0-9278-d9f2b2f623a8",
+                              "boundaryNum": 1,
+                              "name": "New Town",
+                              "localname": "New Town",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-69",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "3441f5da-9d20-4eb4-ac9e-131d45bf4a91",
+                          "boundaryNum": 1,
+                          "name": "Block39",
+                          "localname": "Block39",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-39",
+                          "children": [
+                            {
+                              "id": "8ffce5d0-81d1-40df-94ba-e732ca9cfe2e",
+                              "boundaryNum": 1,
+                              "name": "Aariya School Road",
+                              "localname": "Aariya School Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-70",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f9fd7f23-8c3c-4b7e-a17d-4d760163cc81",
+                              "boundaryNum": 1,
+                              "name": "Patti Malo ki",
+                              "localname": "Patti Malo ki",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-71",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "e5149193-da20-424f-b7cb-f5d3f62025d4",
+                          "boundaryNum": 1,
+                          "name": "Block40",
+                          "localname": "Block40",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-40",
+                          "children": [
+                            {
+                              "id": "9d1a19c7-05c3-49e9-933e-3a7e3b3db802",
+                              "boundaryNum": 1,
+                              "name": "Patti Roopa",
+                              "localname": "Patti Roopa",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-72",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5b919382-7f72-4b3a-892d-eeeec873d81f",
+                              "boundaryNum": 1,
+                              "name": "Chownk Sekhan",
+                              "localname": "Chownk Sekhan",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-73",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "495cc9c6-66ea-4680-aefa-0aeeb60a9664",
+                              "boundaryNum": 1,
+                              "name": "Patti Chiraga",
+                              "localname": "Patti Chiraga",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-74",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "b1d80d6f-13e8-4462-8a9d-3c7f98d2a268",
+                          "boundaryNum": 1,
+                          "name": "Block41",
+                          "localname": "Block41",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-41",
+                          "children": [
+                            {
+                              "id": "b59c6346-a2b4-48c8-8f32-da4c27289b02",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Sivia",
+                              "localname": "Mohalla Sivia",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-75",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "5b40be1e-ceb4-4e91-b8dd-552ca91accd8",
+                              "boundaryNum": 1,
+                              "name": "Agwad Dune Ke",
+                              "localname": "Agwad Dune Ke",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-76",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "37bd29a5-309b-452f-be5d-b3cff6631a30",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Berian",
+                              "localname": "Mohalla Berian",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-77",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "efcf905e-89f5-443b-978d-cf4b0e468b2d",
+                          "boundaryNum": 1,
+                          "name": "Block42",
+                          "localname": "Block42",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-42",
+                          "children": [
+                            {
+                              "id": "d273ae34-3e75-4804-b336-77a14317d8fb",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Angadpura",
+                              "localname": "Mohalla Angadpura",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-78",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "6dc41695-ed9d-4637-8449-d91aebc77ff5",
+                              "boundaryNum": 1,
+                              "name": "Patti Dhillon",
+                              "localname": "Patti Dhillon",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-79",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "4c77d61b-9a64-4a64-9e02-66426165f611",
+                              "boundaryNum": 1,
+                              "name": "Agwad Hakam Ka",
+                              "localname": "Agwad Hakam Ka",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-80",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "aec1987b-5472-48fe-9cbe-9559fcd70118",
+                          "boundaryNum": 1,
+                          "name": "Block43",
+                          "localname": "Block43",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-43",
+                          "children": [
+                            {
+                              "id": "de397b70-dd64-4671-afca-ac5b1dd00080",
+                              "boundaryNum": 1,
+                              "name": "Basti Bageana",
+                              "localname": "Basti Bageana",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-81",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8afef2f9-5438-4ccc-ada6-984f60747d12",
+                              "boundaryNum": 1,
+                              "name": "Ghal Kalan Road",
+                              "localname": "Ghal Kalan Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-82",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "c8d668fe-2f7e-4d6e-9093-926a9cc0b916",
+                              "boundaryNum": 1,
+                              "name": "Ekta Nagar",
+                              "localname": "Ekta Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-83",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "016a8ceb-3014-497a-b11b-30ee0b8221d8",
+                          "boundaryNum": 1,
+                          "name": "Block44",
+                          "localname": "Block44",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-44",
+                          "children": [
+                            {
+                              "id": "d0ae7b39-df73-48ee-b428-cd7b4d2f2e49",
+                              "boundaryNum": 1,
+                              "name": "Rajindra Estate",
+                              "localname": "Rajindra Estate",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-84",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "7b2013ed-a860-4d31-8ebd-9b7951ab0f8b",
+                              "boundaryNum": 1,
+                              "name": "Delhi Inclave",
+                              "localname": "Delhi Inclave",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-85",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "9ed5688b-9dad-44d5-95b4-e75807d28485",
+                          "boundaryNum": 1,
+                          "name": "Block45",
+                          "localname": "Block45",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-45",
+                          "children": [
+                            {
+                              "id": "22a46a09-44ee-416e-9f89-663183679ac8",
+                              "boundaryNum": 1,
+                              "name": "Basti Gurusar",
+                              "localname": "Basti Gurusar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-86",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7c8f773b-d08e-4ea9-81fa-4096f07c7388",
+                          "boundaryNum": 1,
+                          "name": "Block46",
+                          "localname": "Block46",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-46",
+                          "children": [
+                            {
+                              "id": "fa7c8211-9bae-4c86-b80f-673b877d1675",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Laorian",
+                              "localname": "Mohalla Laorian",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-87",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8fc532c9-4121-4f07-8e72-cc98bbc6c9c6",
+                              "boundaryNum": 1,
+                              "name": "Khidri Bore",
+                              "localname": "Khidri Bore",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-88",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "afe7c98d-ca7a-4484-ac05-79a6276a09a4",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Saidan",
+                              "localname": "Mohalla Saidan",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-89",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "602cb483-703f-4a0f-8bcc-211dde7eb58e",
+                              "boundaryNum": 1,
+                              "name": "Patti Khane Ki",
+                              "localname": "Patti Khane Ki",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-90",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "56e3a8bf-0fde-4be7-8a07-120e1eb004a8",
+                              "boundaryNum": 1,
+                              "name": "Green Field Colony",
+                              "localname": "Green Field Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-91",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "de3f6e97-0d7d-489e-bad0-e162ad2ce01a",
+                          "boundaryNum": 1,
+                          "name": "Block47",
+                          "localname": "Block47",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-47",
+                          "children": [
+                            {
+                              "id": "e3b96ef1-0131-4701-9640-ea656e65e147",
+                              "boundaryNum": 1,
+                              "name": "Improvement Trust Colony",
+                              "localname": "Improvement Trust Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-92",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8f4a7db8-0185-4106-9a57-0ae2235cfccf",
+                              "boundaryNum": 1,
+                              "name": "Jalandhar Colony",
+                              "localname": "Jalandhar Colony",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-93",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0845b543-a6b4-4375-831a-67ece583c79f",
+                              "boundaryNum": 1,
+                              "name": "Sahibjada Ajit Singh Nagar",
+                              "localname": "Sahibjada Ajit Singh Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-94",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1918a260-cac0-4ab7-b34a-094796acf043",
+                              "boundaryNum": 1,
+                              "name": "Mohallan Sandhuan",
+                              "localname": "Mohallan Sandhuan",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-95",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "328483f5-3a83-4c6b-aafb-245ef09d940c",
+                      "boundaryNum": 1,
+                      "name": "Zone 4",
+                      "localname": "Zone 4",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Zone",
+                      "code": "Z4",
+                      "children": [
+                        {
+                          "id": "d55b0544-9b6d-425d-8b95-b5e01b1aa39b",
+                          "boundaryNum": 1,
+                          "name": "Block48",
+                          "localname": "Block48",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-48",
+                          "children": [
+                            {
+                              "id": "054968aa-97b1-4546-9a66-54de529f8478",
+                              "boundaryNum": 1,
+                              "name": "Kotakpura Road",
+                              "localname": "Kotakpura Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-96",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "94ec29db-b92a-4923-b4d9-7c3cc588f3ae",
+                          "boundaryNum": 1,
+                          "name": "Block49",
+                          "localname": "Block49",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-49",
+                          "children": [
+                            {
+                              "id": "4bdf3c0d-ce26-4a24-8557-f6e5d56115b5",
+                              "boundaryNum": 1,
+                              "name": "Basti Bahadur Singh",
+                              "localname": "Basti Bahadur Singh",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-97",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "d3421912-d4fb-4125-b383-a5b57e6733de",
+                              "boundaryNum": 1,
+                              "name": "Basti Mohan Singh",
+                              "localname": "Basti Mohan Singh",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-98",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "fa52ed40-534e-48e9-9a39-e95430c41d81",
+                          "boundaryNum": 1,
+                          "name": "Block50",
+                          "localname": "Block50",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-50",
+                          "children": [
+                            {
+                              "id": "a9ee08bc-9c80-4e9a-bb1d-ffbc1d8e4da7",
+                              "boundaryNum": 1,
+                              "name": "Preet Nagar",
+                              "localname": "Preet Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-99",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "8e8decf6-28a5-403b-b6ad-1394df7d1968",
+                              "boundaryNum": 1,
+                              "name": "Shri Guru Chander Nagar",
+                              "localname": "Shri Guru Chander Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-100",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "2759fd9e-adda-4a56-909d-709036cc6cb1",
+                              "boundaryNum": 1,
+                              "name": "Hargobind Nagar",
+                              "localname": "Hargobind Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-101",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "e03b321d-c74b-4fcd-8c57-b4a52c0badfc",
+                          "boundaryNum": 1,
+                          "name": "Block51",
+                          "localname": "Block51",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-51",
+                          "children": [
+                            {
+                              "id": "ee8da622-b2a1-4a26-a971-2467c0e68c1d",
+                              "boundaryNum": 1,
+                              "name": "Lal Singh Road",
+                              "localname": "Lal Singh Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-102",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "e9808bfe-ff24-4bbc-ac85-7c17d61a9fae",
+                              "boundaryNum": 1,
+                              "name": "Basti Sadhan",
+                              "localname": "Basti Sadhan",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-103",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "a7b697de-385c-48ac-8b8d-542840098230",
+                              "boundaryNum": 1,
+                              "name": "Vishkarma Nagar",
+                              "localname": "Vishkarma Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-104",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ed0852e8-0873-49d9-96bc-a0df2b0b6c29",
+                          "boundaryNum": 1,
+                          "name": "Block52",
+                          "localname": "Block52",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-52",
+                          "children": [
+                            {
+                              "id": "12be11d1-cb3f-4a71-9913-73ed45b3b9bf",
+                              "boundaryNum": 1,
+                              "name": "Sardar Nagar",
+                              "localname": "Sardar Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-105",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1b830034-14b8-4a01-85bc-b8662f6ebc21",
+                              "boundaryNum": 1,
+                              "name": "Akalsar Road Left Side",
+                              "localname": "Akalsar Road Left Side",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-106",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "40a4e065-bb05-4855-98fc-879bb2133126",
+                          "boundaryNum": 1,
+                          "name": "Block53",
+                          "localname": "Block53",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-53",
+                          "children": [
+                            {
+                              "id": "01c5b3a9-965e-497d-8dde-6104f01ba97e",
+                              "boundaryNum": 1,
+                              "name": "Guru Arjan Dev Nagar",
+                              "localname": "Guru Arjan Dev Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-107",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "1178636e-590d-48dd-a9e3-21f99a6a29fa",
+                              "boundaryNum": 1,
+                              "name": "Kabir Nagar",
+                              "localname": "Kabir Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-108",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "373022b3-56e6-468a-8636-fd08a7eb0bd1",
+                          "boundaryNum": 1,
+                          "name": "Block54",
+                          "localname": "Block54",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-54",
+                          "children": [
+                            {
+                              "id": "dc43f10f-6a41-496a-8440-b729d3cab7cd",
+                              "boundaryNum": 1,
+                              "name": "Beant Nagar",
+                              "localname": "Beant Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-109",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ed4eafbf-f362-46ae-abe0-f7b7d59eaded",
+                              "boundaryNum": 1,
+                              "name": "Prem Nagar",
+                              "localname": "Prem Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-110",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "9069c26c-4995-40fe-8070-89b16e0aa65f",
+                              "boundaryNum": 1,
+                              "name": "Gill Road",
+                              "localname": "Gill Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-111",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7f654069-48e5-4a03-a712-65bfbd9d99a8",
+                          "boundaryNum": 1,
+                          "name": "Block55",
+                          "localname": "Block55",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-55",
+                          "children": [
+                            {
+                              "id": "727a0dbf-e668-4697-a8d7-fde7b9ded179",
+                              "boundaryNum": 1,
+                              "name": "Krishna Nagar Right Side",
+                              "localname": "Krishna Nagar Right Side",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-112",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "ce80792a-896d-468c-8abf-2e1f6f54c065",
+                              "boundaryNum": 1,
+                              "name": "Ahata Badan Singh",
+                              "localname": "Ahata Badan Singh",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-113",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "a1c08fd6-a411-405b-b5d9-411b7677880c",
+                          "boundaryNum": 1,
+                          "name": "Block56",
+                          "localname": "Block56",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-56",
+                          "children": [
+                            {
+                              "id": "7bd3d59e-4128-4be1-91c5-88d1f8819d89",
+                              "boundaryNum": 1,
+                              "name": "Ram Ganj Mandi",
+                              "localname": "Ram Ganj Mandi",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-114",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "d2cb9368-ca04-449b-aba4-6e28ed50aca1",
+                          "boundaryNum": 1,
+                          "name": "Block57",
+                          "localname": "Block57",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-57",
+                          "children": [
+                            {
+                              "id": "a7f30916-da9e-4bdb-b9b0-89c03df8bd26",
+                              "boundaryNum": 1,
+                              "name": "Dushehra Ground",
+                              "localname": "Dushehra Ground",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-115",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "bd2f6102-671c-480d-b662-b0b2ce35b6b5",
+                              "boundaryNum": 1,
+                              "name": "Anand Nagar",
+                              "localname": "Anand Nagar",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-116",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "f9978bac-1bc9-4065-9ca0-7c61d0ea9810",
+                          "boundaryNum": 1,
+                          "name": "Block58",
+                          "localname": "Block58",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-58",
+                          "children": [
+                            {
+                              "id": "295f146a-c5eb-4445-927a-5c59dee9c292",
+                              "boundaryNum": 1,
+                              "name": "Main Bazar Aara road side",
+                              "localname": "Main Bazar Aara road side",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-117",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "838f0a39-9625-42c1-8bd2-2b59191015a5",
+                              "boundaryNum": 1,
+                              "name": "Aara Road",
+                              "localname": "Aara Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-118",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "48d0a0c0-7417-49da-965c-9d5191bfe1ab",
+                              "boundaryNum": 1,
+                              "name": "Mattan Wala Vehra",
+                              "localname": "Mattan Wala Vehra",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-119",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "04513cec-3f52-45b0-a269-57a6e6edd5de",
+                          "boundaryNum": 1,
+                          "name": "Block59",
+                          "localname": "Block59",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-59",
+                          "children": [
+                            {
+                              "id": "108a556b-ced2-4eba-b2f1-533e7ddd8b4e",
+                              "boundaryNum": 1,
+                              "name": "Khooni Masjid Road",
+                              "localname": "Khooni Masjid Road",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-120",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7d1bfe76-ab93-459a-97f2-a47123a07a45",
+                          "boundaryNum": 1,
+                          "name": "Block60",
+                          "localname": "Block60",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-60",
+                          "children": [
+                            {
+                              "id": "de5cf3ed-392d-4cb6-9ec1-ae57897a52ff",
+                              "boundaryNum": 1,
+                              "name": "Mohalla Sodhian",
+                              "localname": "Mohalla Sodhian",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-121",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "f0f44c89-8211-4057-9a0c-d1ae8cd4931a",
+                              "boundaryNum": 1,
+                              "name": "Patti Usang",
+                              "localname": "Patti Usang",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-122",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "48ca1d6e-491d-4859-8ac9-dddb0ec526dd",
+                          "boundaryNum": 1,
+                          "name": "Block61",
+                          "localname": "Block61",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-61",
+                          "children": [
+                            {
+                              "id": "c4ea117d-0dc6-4d31-a28a-b0d5cdcc96a5",
+                              "boundaryNum": 1,
+                              "name": "Agwad Godhe Ka",
+                              "localname": "Agwad Godhe Ka",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-123",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "d9fd6cb6-37a1-440b-afb8-a0fd046828c8",
+                              "boundaryNum": 1,
+                              "name": "Agwad kummi ka",
+                              "localname": "Agwad kummi ka",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-124",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "7180629d-b48f-42bb-9053-2b6d06b3450e",
+                          "boundaryNum": 1,
+                          "name": "Block62",
+                          "localname": "Block62",
+                          "longitude": null,
+                          "latitude": null,
+                          "label": "Block",
+                          "code": "B-62",
+                          "children": [
+                            {
+                              "id": "30dfb312-1b9f-433f-a26c-2b60010ee1db",
+                              "boundaryNum": 1,
+                              "name": "Patti Mohhabat ki",
+                              "localname": "Patti Mohhabat ki",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-125",
+                              "area": "",
+                              "children": []
+                            },
+                            {
+                              "id": "0f6f7a82-15a6-4630-b4fe-c54d21352d3e",
+                              "boundaryNum": 1,
+                              "name": "Vdhawa Singh da Khoo",
+                              "localname": "Vdhawa Singh da Khoo",
+                              "longitude": null,
+                              "latitude": null,
+                              "label": "Locality",
+                              "code": "LC-126",
+                              "area": "",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+  
