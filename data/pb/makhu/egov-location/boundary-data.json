@@ -1,0 +1,694 @@
+{
+  "tenantId": "pb.makhu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Makhu",
+        "localname": "Makhu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.makhu",
+        "children": {
+          "tenantId": "pb.makhu",
+          "moduleName": "egov-location",
+          "TenantBoundary": [
+            {
+              "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+              },
+              "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Makhu",
+                "localname": "Makhu",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.makhu",
+                "children": [
+                  {
+                    "id": "f6a2b940-6f3b-46cb-bf68-f5b4d9f92d71",
+                    "boundaryNum": 1,
+                    "name": "Zone1",
+                    "localname": "Zone1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Zone",
+                    "code": "Z1",
+                    "children": [
+                      {
+                        "id": "5c9c4fec-e48b-4354-a09c-a35421a5146e",
+                        "boundaryNum": 1,
+                        "name": "Ward No 1",
+                        "localname": "Ward No 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-1",
+                        "children": [
+                          {
+                            "id": "0e6d4c5f-b476-4d1c-9ee7-16a187130263",
+                            "boundaryNum": 1,
+                            "name": "Ahuja Street",
+                            "localname": "Ahuja Street",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-1",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "b2033ad2-57f9-47fa-b206-4028d077644f",
+                            "boundaryNum": 1,
+                            "name": "Baba Bathan wala Road",
+                            "localname": "Baba Bathan wala Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-2",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "59ad605e-44f5-4511-91ad-9d50a8c7aa45",
+                            "boundaryNum": 1,
+                            "name": "Back Side Hospital",
+                            "localname": "Back Side Hospital",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-3",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "e1e4cbb8-a45d-4747-8b81-6fde7f434df0",
+                            "boundaryNum": 1,
+                            "name": "Bhalla Mc Chownk",
+                            "localname": "Bhalla Mc Chownk",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-4",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "6964062d-2108-4739-8cdc-bfc41d1aa4e5",
+                        "boundaryNum": 1,
+                        "name": "Ward No 2",
+                        "localname": "Ward No 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-2",
+                        "children": [
+                          {
+                            "id": "a676a1a3-361f-4145-be59-7f579889202e",
+                            "boundaryNum": 1,
+                            "name": "Bullo ke",
+                            "localname": "Bullo ke",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-5",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "69d1045a-953f-49e7-819f-d4d868c134dd",
+                            "boundaryNum": 1,
+                            "name": "Diwan singh Wali Gali",
+                            "localname": "Diwan singh Wali Gali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-6",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "ca852bf6-3285-4ca0-b0ff-517a6e61c511",
+                            "boundaryNum": 1,
+                            "name": "Front Kali Mata Mandir",
+                            "localname": "Front Kali Mata Mandir",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-7",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "31800e2d-110e-41ae-8eb3-c33b6c79be96",
+                        "boundaryNum": 1,
+                        "name": "Ward No 3",
+                        "localname": "Ward No 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-3",
+                        "children": [
+                          {
+                            "id": "6ad8aa69-e215-4e20-aa47-4300a185e0d2",
+                            "boundaryNum": 1,
+                            "name": "Gali Brahm kumari",
+                            "localname": "Gali Brahm kumari",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-8",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "1383c3be-9c56-4991-89f6-93b9f724b0c9",
+                            "boundaryNum": 1,
+                            "name": "Gali Master Bal Krishan ward no 3",
+                            "localname": "Gali Master Bal Krishan ward no 3",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-9",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "aed56d49-901d-4ab3-8e21-352ce3820349",
+                            "boundaryNum": 1,
+                            "name": "Gali Vijay Pardhan wali Ward no 3",
+                            "localname": "Gali Vijay Pardhan wali Ward no 3",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-10",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "7692a1e8-a697-4221-8e46-b076b7f8364f",
+                        "boundaryNum": 1,
+                        "name": "Ward No 4",
+                        "localname": "Ward No 4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-4",
+                        "children": [
+                          {
+                            "id": "fd102d8d-6467-44ef-aae0-a1ac0d60de92",
+                            "boundaryNum": 1,
+                            "name": "Gurudwara Singh Sabha Gali",
+                            "localname": "Gurudwara Singh Sabha Gali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-11",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "6400be86-9f00-4ded-a6d9-3f4b5189e183",
+                            "boundaryNum": 1,
+                            "name": "Hospital Road",
+                            "localname": "Hospital Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-12",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "69efdf1d-0b1a-4844-a2a9-aa28d4e18ae9",
+                            "boundaryNum": 1,
+                            "name": "Issa Nagri",
+                            "localname": "Issa Nagri",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-13",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "14001148-45e8-493e-9d4d-1396ad07b1fb",
+                            "boundaryNum": 1,
+                            "name": "Jalla Chownki",
+                            "localname": "Jalla Chownki",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-14",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "8aad524c-bec8-449b-ad78-69b346b59e00",
+                        "boundaryNum": 1,
+                        "name": "Ward No 5",
+                        "localname": "Ward No 5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-5",
+                        "children": [
+                          {
+                            "id": "b4a88dc5-2b86-4dac-b93b-fd59c5e2b044",
+                            "boundaryNum": 1,
+                            "name": "Main Bazar",
+                            "localname": "Main Bazar",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-15",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "9dbf07ac-df33-4a5b-a747-fdd3234feade",
+                            "boundaryNum": 1,
+                            "name": "Mohalla Baba Namdev",
+                            "localname": "Mohalla Baba Namdev",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-16",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "8b1ff377-2720-447f-8426-8dd663151832",
+                            "boundaryNum": 1,
+                            "name": "Near Baba Batha wala",
+                            "localname": "Near Baba Batha wala",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-17",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5f10dbd1-de0c-443d-8fed-028df747d9fd",
+                        "boundaryNum": 1,
+                        "name": "Ward No 6",
+                        "localname": "Ward No 6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-6",
+                        "children": [
+                          {
+                            "id": "e684a253-b5e9-4a5e-a2d4-6872bf203415",
+                            "boundaryNum": 1,
+                            "name": "Near Commounity Hall",
+                            "localname": "Near Commounity Hall",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-18",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "dec56c0c-9237-4509-9257-b79345235b80",
+                            "boundaryNum": 1,
+                            "name": "Near FCI Godam",
+                            "localname": "Near FCI Godam",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-19",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "9f74d4d6-ccda-43db-b429-28b50d348d3b",
+                            "boundaryNum": 1,
+                            "name": "Near Park Ward no 2",
+                            "localname": "Near Park Ward no 2",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-20",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "29361d79-66e3-432d-a897-64c8a2427c7a",
+                            "boundaryNum": 1,
+                            "name": "Near Police Station",
+                            "localname": "Near Police Station",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-21",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "f5c027e5-137c-41fb-8f8e-a8f216fec18d",
+                        "boundaryNum": 1,
+                        "name": "Ward No 7",
+                        "localname": "Ward No 7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-7",
+                        "children": [
+                          {
+                            "id": "3c681f46-854e-4420-ba88-430365438655",
+                            "boundaryNum": 1,
+                            "name": "Near Railway Fatak",
+                            "localname": "Near Railway Fatak",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-22",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "2703ed58-222f-4150-8c09-4da64aab7715",
+                            "boundaryNum": 1,
+                            "name": "Railway Road",
+                            "localname": "Railway Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-23",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "ae4c9854-7501-4138-b9ba-e6bb6955bb8e",
+                            "boundaryNum": 1,
+                            "name": "Rehme Wali Gali",
+                            "localname": "Rehme Wali Gali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-24",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b62295d4-1e2b-437c-9785-30206c720a91",
+                        "boundaryNum": 1,
+                        "name": "Ward No 8",
+                        "localname": "Ward No 8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-8",
+                        "children": [
+                          {
+                            "id": "a306ea79-37f1-44b7-aa79-5fdeddd7fe56",
+                            "boundaryNum": 1,
+                            "name": "Semnala Road",
+                            "localname": "Semnala Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-25",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "24eb8d82-765f-4d51-9895-82caffba2987",
+                            "boundaryNum": 1,
+                            "name": "Street Ariya Samaj",
+                            "localname": "Street Ariya Samaj",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-26",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "059ac886-145b-4534-8d5d-d6491be347cd",
+                            "boundaryNum": 1,
+                            "name": "Street Krishna Mandir",
+                            "localname": "Street Krishna Mandir",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-27",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "553f1700-e66c-4d51-91bf-32430080ff48",
+                        "boundaryNum": 1,
+                        "name": "Ward No 9",
+                        "localname": "Ward No 9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-9",
+                        "children": [
+                          {
+                            "id": "af3a9e83-4b67-4680-81a4-30902e2c4507",
+                            "boundaryNum": 1,
+                            "name": "Street Master Behal wali",
+                            "localname": "Street Master Behal wali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-28",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "a60476c9-57be-4f6a-88c0-d249cef01919",
+                            "boundaryNum": 1,
+                            "name": "Street NP Office Makhu",
+                            "localname": "Street NP Office Makhu",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-29",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "8a36a9d4-d741-4b4d-a1a2-c2b5c0450951",
+                            "boundaryNum": 1,
+                            "name": "Street NP Old Office Makhu",
+                            "localname": "Street NP Old Office Makhu",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-30",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "f3fcc2d0-5e9c-4ae3-8b42-ad8c9d309e88",
+                            "boundaryNum": 1,
+                            "name": "Street old post office",
+                            "localname": "Street old post office",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-31",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "4332c9ac-efb6-4a96-b62f-5f90c9cea43f",
+                        "boundaryNum": 1,
+                        "name": "Ward No 10",
+                        "localname": "Ward No 10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-10",
+                        "children": [
+                          {
+                            "id": "c943f416-2861-460d-b693-6e5a417c4e26",
+                            "boundaryNum": 1,
+                            "name": "Street SBI Bank",
+                            "localname": "Street SBI Bank",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-32",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "25343630-7962-4e59-bb61-fb5c7234cfdc",
+                            "boundaryNum": 1,
+                            "name": "Thukrala Wali Gali",
+                            "localname": "Thukrala Wali Gali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-33",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "2e779310-bf48-4983-88a1-6d60dd04eb28",
+                            "boundaryNum": 1,
+                            "name": "Vinjo ke",
+                            "localname": "Vinjo ke",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-34",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ac220a56-329f-42a2-adb7-ddeedab0f9d9",
+                        "boundaryNum": 1,
+                        "name": "Ward No 11",
+                        "localname": "Ward No 11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-11",
+                        "children": [
+                          {
+                            "id": "fa40379b-0c4f-4595-9560-049ea767491e",
+                            "boundaryNum": 1,
+                            "name": "Dr Davinder wali Gali",
+                            "localname": "Dr Davinder wali Gali",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-35",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "ee618ae5-2840-44ab-9fa1-57834afb1e2e",
+                            "boundaryNum": 1,
+                            "name": "Basti Visawa Singh Road",
+                            "localname": "Basti Visawa Singh Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-36",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ae0c9bc3-a7d1-4945-932f-2cb2821ceaba",
+                        "boundaryNum": 1,
+                        "name": "Ward No 12",
+                        "localname": "Ward No 12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-12",
+                        "children": [
+                          {
+                            "id": "0b344d6f-78fb-4090-931c-a8adcd463f0f",
+                            "boundaryNum": 1,
+                            "name": "Grain Markit",
+                            "localname": "Grain Markit",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-37",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "420ae06f-6097-4755-8336-71187c95f2c3",
+                            "boundaryNum": 1,
+                            "name": "Dhakka Basti",
+                            "localname": "Dhakka Basti",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-38",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "14816dbf-6d5e-480b-abd4-480f83794b55",
+                        "boundaryNum": 1,
+                        "name": "Ward No 13",
+                        "localname": "Ward No 13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD-13",
+                        "children": [
+                          {
+                            "id": "d8092431-e4a3-49bd-8e67-255a7852ea3a",
+                            "boundaryNum": 1,
+                            "name": "Shoukina Wali Basti",
+                            "localname": "Shoukina Wali Basti",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-39",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "63b33a84-8707-4988-ad96-ca80a33c0341",
+                            "boundaryNum": 1,
+                            "name": "Mission Basti Makhu",
+                            "localname": "Mission Basti Makhu",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "NP-40",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
