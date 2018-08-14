@@ -1,0 +1,742 @@
+{
+  "tenantId": "pb.khamano",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khamano",
+        "localname": "Khamano",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.khamano",
+        "children": {
+          "tenantId": "pb.khamano",
+          "moduleName": "egov-location",
+          "TenantBoundary": [
+            {
+              "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+              },
+              "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Khamano",
+                "localname": "Khamano",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.khamano",
+                "children": [
+                  {
+                    "id": "9b90e103-6719-4ad8-87a2-ff330c93df06",
+                    "boundaryNum": 1,
+                    "name": "KHAMANO",
+                    "localname": "KHAMANO",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Zone",
+                    "code": "Z1",
+                    "children": [
+                      {
+                        "id": "a5cd2bed-9278-4da9-987b-31ae626bf4d6",
+                        "boundaryNum": 1,
+                        "name": "Ward No.01",
+                        "localname": "Ward No.01",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_1",
+                        "children": [
+                          {
+                            "id": "63fc9a20-bb54-4b7f-aa02-9b45efff0426",
+                            "boundaryNum": 1,
+                            "name": "Main Road Khamano Kamli Ward No.01",
+                            "localname": "Main Road Khamano Kamli Ward No.01",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_27",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "b6a9fa0a-1df1-414d-9bac-a581745745fd",
+                            "boundaryNum": 1,
+                            "name": "Dishmesh Nagar Khamano Kamli Ward No.01",
+                            "localname": "Dishmesh Nagar Khamano Kamli Ward No.01",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_38",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "4248f515-958b-4fba-8ddd-91821b09bc8e",
+                            "boundaryNum": 1,
+                            "name": "Mansoodpur Road khamano Kamli Ward No.01",
+                            "localname": "Mansoodpur Road khamano Kamli Ward No.01",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_43",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "6d397275-5cf5-4893-acd6-4dc965770ff1",
+                        "boundaryNum": 1,
+                        "name": "Ward No.02",
+                        "localname": "Ward No.02",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_2",
+                        "children": [
+                          {
+                            "id": "8b192d37-5171-40f5-9685-f8d5d690e60f",
+                            "boundaryNum": 1,
+                            "name": "Badeshan Road Khamano Kalan Ward No.02",
+                            "localname": "Badeshan Road Khamano Kalan Ward No.02",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_2",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "5adf905f-a606-4caf-8e78-be5bfcddea7c",
+                            "boundaryNum": 1,
+                            "name": "Mandir Road Khamano Kalan Ward No.02",
+                            "localname": "Mandir Road Khamano Kalan Ward No.02",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_4",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "206c6ea7-4b3f-4c5c-a09b-eb725443db43",
+                            "boundaryNum": 1,
+                            "name": "Dishmesh Nagar Khamano Kamli Ward No.02",
+                            "localname": "Dishmesh Nagar Khamano Kamli Ward No.02",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_39",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "dc825e3c-d0e8-47a2-a2e9-f81084786364",
+                        "boundaryNum": 1,
+                        "name": "Ward No.03",
+                        "localname": "Ward No.03",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_3",
+                        "children": [
+                          {
+                            "id": "258277bf-97f7-4fdb-a20b-b5efb671b918",
+                            "boundaryNum": 1,
+                            "name": "Badeshan Road Khamano Kalan Ward No.03",
+                            "localname": "Badeshan Road Khamano Kalan Ward No.03",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_1",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "571ca075-6a6b-4bd4-9172-1b4794205cd6",
+                            "boundaryNum": 1,
+                            "name": "Amrala Road to Main Road Khamano Khurd Ward No.03",
+                            "localname": "Amrala Road to Main Road Khamano Khurd Ward No.03",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_21",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "5c02ce3c-b074-4324-b452-58f784050126",
+                            "boundaryNum": 1,
+                            "name": "Amrala Road to Water Works Khamano Khurd Ward No.03",
+                            "localname": "Amrala Road to Water Works Khamano Khurd Ward No.03",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_23",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "daca2432-d870-4208-a7b1-ac4c129e2c79",
+                            "boundaryNum": 1,
+                            "name": "Near Gurudwara Ronty Sahib Khamano Khurd Ward No.03",
+                            "localname": "Near Gurudwara Ronty Sahib Khamano Khurd Ward No.03",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_25",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "ea12ec43-bc0e-4f50-9868-1786e9000844",
+                            "boundaryNum": 1,
+                            "name": "Ghumaran Da Mohalla Khamanon Khurd",
+                            "localname": "Ghumaran Da Mohalla Khamanon Khurd",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_26",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1edd1c20-d1b0-45f7-a825-e499c4791d94",
+                        "boundaryNum": 1,
+                        "name": "Ward No.04",
+                        "localname": "Ward No.04",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_4",
+                        "children": [
+                          {
+                            "id": "b9a7d30a-e7ef-4732-8fcd-87433af5fb43",
+                            "boundaryNum": 1,
+                            "name": "Phirni Khamano Kalan Ward No.04",
+                            "localname": "Phirni Khamano Kalan Ward No.04",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_8",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "bd91db9f-deb1-4e0f-aaf8-31faeb724bda",
+                            "boundaryNum": 1,
+                            "name": "Pati Baba Ram Singh Khamano Kalan Ward No.04",
+                            "localname": "Pati Baba Ram Singh Khamano Kalan Ward No.04",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_12",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "86bd19ed-ec8d-4852-8722-f5e2cafa2a54",
+                            "boundaryNum": 1,
+                            "name": "16 Di Pati Khamano Kalan Ward No.04",
+                            "localname": "16 Di Pati Khamano Kalan Ward No.04",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_14",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "437e0ecf-56fd-466f-baef-1b0c2065e819",
+                            "boundaryNum": 1,
+                            "name": "Purana Bazar Khamano Kalan Ward No.04",
+                            "localname": "Purana Bazar Khamano Kalan Ward No.04",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_19",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "febe6357-a927-43c1-af23-8b2d1ed118e9",
+                        "boundaryNum": 1,
+                        "name": "Ward No.05",
+                        "localname": "Ward No.05",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_5",
+                        "children": [
+                          {
+                            "id": "95e7a2f2-47e5-4ec7-b393-aaca761e22aa",
+                            "boundaryNum": 1,
+                            "name": "Phirni Khamano Kalan Ward No.05",
+                            "localname": "Phirni Khamano Kalan Ward No.05",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_9",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "50cfaf3a-20e1-45b3-8b18-fd7d7dc7515f",
+                            "boundaryNum": 1,
+                            "name": "Pati Baba Ram Singh Khamano Kalan Ward No.05",
+                            "localname": "Pati Baba Ram Singh Khamano Kalan Ward No.05",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_13",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "caec149b-7791-447e-a442-2e876e12f257",
+                            "boundaryNum": 1,
+                            "name": "16 Di Pati Khamano Kalan Ward No.05",
+                            "localname": "16 Di Pati Khamano Kalan Ward No.05",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_15",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "1ee835cf-5f8a-4a5a-afbf-bfc7aa592a67",
+                            "boundaryNum": 1,
+                            "name": "8 Di Pati Khamano Kalan Ward No.05",
+                            "localname": "8 Di Pati Khamano Kalan Ward No.05",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_16",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "eecd2166-c798-459c-af23-8ebb26766244",
+                            "boundaryNum": 1,
+                            "name": "Pati Baba Gajja Singh Khamano Kalan",
+                            "localname": "Pati Baba Gajja Singh Khamano Kalan",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_18",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "c778b4ed-f690-4ba4-bcb2-d09a28df7914",
+                            "boundaryNum": 1,
+                            "name": "Purana Bazar Khamano Kalan Ward No.05",
+                            "localname": "Purana Bazar Khamano Kalan Ward No.05",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_20",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "22a34b81-5d9b-4738-adec-50213a476d61",
+                        "boundaryNum": 1,
+                        "name": "Ward No.06",
+                        "localname": "Ward No.06",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_6",
+                        "children": [
+                          {
+                            "id": "08df5c88-5951-4df1-b929-12a1bed3769a",
+                            "boundaryNum": 1,
+                            "name": "Phirni Khamano Kalan Ward No.06",
+                            "localname": "Phirni Khamano Kalan Ward No.06",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_10",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "3f002cbe-3106-4919-bd18-2b35da538c6d",
+                            "boundaryNum": 1,
+                            "name": "8 Di Pati Khamano Kalan Ward No.06",
+                            "localname": "8 Di Pati Khamano Kalan Ward No.06",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_17",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b762bf02-dd9f-4de0-9118-076e5b92ebb5",
+                        "boundaryNum": 1,
+                        "name": "Ward No.07",
+                        "localname": "Ward No.07",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_7",
+                        "children": [
+                          {
+                            "id": "02ca1f7c-1858-4ca3-96d6-2690964ce7c7",
+                            "boundaryNum": 1,
+                            "name": "Godown Road Khamano Kalan Ward No.07",
+                            "localname": "Godown Road Khamano Kalan Ward No.07",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_6",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "15a7b526-593e-4e91-8954-7c188fbc7337",
+                            "boundaryNum": 1,
+                            "name": "Phirni Khamano Kalan Ward No.7",
+                            "localname": "Phirni Khamano Kalan Ward No.7",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_11",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "d0b81d71-1397-42b8-8558-3d600ec3fc52",
+                            "boundaryNum": 1,
+                            "name": "Amrala Road to Main Road Khamano Khurd Ward No.07",
+                            "localname": "Amrala Road to Main Road Khamano Khurd Ward No.07",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_22",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "8de60c9f-ee17-4737-b23a-0470bb7621c2",
+                            "boundaryNum": 1,
+                            "name": "Amrala Road to Water Works Khamano Khurd Ward No.07",
+                            "localname": "Amrala Road to Water Works Khamano Khurd Ward No.07",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_24",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "21643c5b-d74e-4f1e-abf1-ac910e54c342",
+                        "boundaryNum": 1,
+                        "name": "Ward No.08",
+                        "localname": "Ward No.08",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_8",
+                        "children": [
+                          {
+                            "id": "75eae6a1-9d31-49c5-b277-1a47297cea42",
+                            "boundaryNum": 1,
+                            "name": "Badeshan Road Khamano Kalan Ward No.08",
+                            "localname": "Badeshan Road Khamano Kalan Ward No.08",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_3",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "53c2393c-42fd-4d51-aabb-72141db8cbe4",
+                            "boundaryNum": 1,
+                            "name": "Mandir Road Khamano Kalan Ward No.08",
+                            "localname": "Mandir Road Khamano Kalan Ward No.08",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_5",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "5e2d6b16-7232-4bdc-966b-07de6bed0a9b",
+                            "boundaryNum": 1,
+                            "name": "Godown Road Khamano Kalan Ward No.08",
+                            "localname": "Godown Road Khamano Kalan Ward No.08",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_7",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "a29d574f-217b-4e7c-8234-1bfd2de113ed",
+                            "boundaryNum": 1,
+                            "name": "Bilaspur Road khamano Kamli Ward No.08",
+                            "localname": "Bilaspur Road khamano Kamli Ward No.08",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_41",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "6fdbb982-9a08-4b5d-a695-3912c8548707",
+                        "boundaryNum": 1,
+                        "name": "Ward No.09",
+                        "localname": "Ward No.09",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_9",
+                        "children": [
+                          {
+                            "id": "c7ec2d8a-fcdf-4dec-8457-721e237d8581",
+                            "boundaryNum": 1,
+                            "name": "Khanna Road Khamano Kamli Ward No.09",
+                            "localname": "Khanna Road Khamano Kamli Ward No.09",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_31",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "b09f2b44-225b-4a7d-a5f6-22038c212813",
+                            "boundaryNum": 1,
+                            "name": "Vijay Colony Khamano Kamli Ward No.09",
+                            "localname": "Vijay Colony Khamano Kamli Ward No.09",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_36",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "98d95dfc-bd1d-4bc5-928a-c6f76e2874db",
+                            "boundaryNum": 1,
+                            "name": "Rajindra Colony Khamano Kamli Ward No.09",
+                            "localname": "Rajindra Colony Khamano Kamli Ward No.09",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_42",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d5e1f3aa-dede-416f-b90f-761afd7f472e",
+                        "boundaryNum": 1,
+                        "name": "Ward No.10",
+                        "localname": "Ward No.10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_10",
+                        "children": [
+                          {
+                            "id": "e5796501-e58c-45c3-bcf9-af5d87214c48",
+                            "boundaryNum": 1,
+                            "name": "Khanna Road Khamano Kamli Ward No.10",
+                            "localname": "Khanna Road Khamano Kamli Ward No.10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_32",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "26ea2982-e6f0-4c73-bf35-1ad47e2944f8",
+                            "boundaryNum": 1,
+                            "name": "Kang Market Khamano Kamli Ward No.10",
+                            "localname": "Kang Market Khamano Kamli Ward No.10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_35",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "69ca8085-0a00-4880-b854-ea3f09732503",
+                            "boundaryNum": 1,
+                            "name": "Vijay Colony Khamano Kamli Ward No.10",
+                            "localname": "Vijay Colony Khamano Kamli Ward No.10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_37",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "1e2d5d1d-953a-497d-8aa2-aa83154671c0",
+                            "boundaryNum": 1,
+                            "name": "Bilaspur Road khamano Kamli Ward No.10",
+                            "localname": "Bilaspur Road khamano Kamli Ward No.10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_40",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "745c6088-fcb3-4fbf-ae44-7eabaddf6c02",
+                        "boundaryNum": 1,
+                        "name": "Ward No.11",
+                        "localname": "Ward No.11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_11",
+                        "children": [
+                          {
+                            "id": "7ada7492-5428-483f-b810-d5b331d64d53",
+                            "boundaryNum": 1,
+                            "name": "Main Road Khamano Kamli Ward No.11",
+                            "localname": "Main Road Khamano Kamli Ward No.11",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_28",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "04895c3b-6c66-43c8-80d1-aab80304a29c",
+                            "boundaryNum": 1,
+                            "name": "Mehma Singh Colony Khamano Kamli Ward No.11",
+                            "localname": "Mehma Singh Colony Khamano Kamli Ward No.11",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_33",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5c647052-d877-4438-8254-6e3b134ac96e",
+                        "boundaryNum": 1,
+                        "name": "Ward No.12",
+                        "localname": "Ward No.12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_12",
+                        "children": [
+                          {
+                            "id": "0b200584-4a6b-48db-b1d2-bb4fad91ad02",
+                            "boundaryNum": 1,
+                            "name": "Main Road Khamano Kamli Ward No.12",
+                            "localname": "Main Road Khamano Kamli Ward No.12",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_29",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "eecb6413-f3eb-44a0-987e-ad821f66179f",
+                            "boundaryNum": 1,
+                            "name": "Mansoodpur Road khamano Kamli Ward No.12",
+                            "localname": "Mansoodpur Road khamano Kamli Ward No.12",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_44",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "9275768d-e741-4771-84ff-685da611cada",
+                        "boundaryNum": 1,
+                        "name": "Ward No.13",
+                        "localname": "Ward No.13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "WD_13",
+                        "children": [
+                          {
+                            "id": "97c2b80b-0207-4ed1-9213-0d24c7b08dfd",
+                            "boundaryNum": 1,
+                            "name": "Main Road Khamano Kamli Ward No.13",
+                            "localname": "Main Road Khamano Kamli Ward No.13",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_30",
+                            "area": "",
+                            "children": []
+                          },
+                          {
+                            "id": "e74dc9e3-f970-4efb-8b76-4f3d1cf0cc77",
+                            "boundaryNum": 1,
+                            "name": "Mehma Singh Colony Khamano Kamli Ward No.13",
+                            "localname": "Mehma Singh Colony Khamano Kamli Ward No.13",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "LC_34",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
