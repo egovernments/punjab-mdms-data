@@ -1,0 +1,418 @@
+{
+  "tenantId": "pb.raman",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Raman",
+        "localname": "Raman",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.raman",
+        "children": {
+          "tenantId": "pb.raman",
+          "moduleName": "egov-location",
+          "TenantBoundary": [
+            {
+              "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+              },
+              "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Raman",
+                "localname": "Raman",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "pb.raman",
+                "children": [
+                  {
+                    "id": "f8125476-46fe-4e55-b3bb-a90d4d509b96",
+                    "boundaryNum": 1,
+                    "name": "RAMAN",
+                    "localname": "RAMAN",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Zone",
+                    "code": "RZN1",
+                    "children": [
+                      {
+                        "id": "eac8a295-a8a1-47f5-b24f-0c1850d91b82",
+                        "boundaryNum": 1,
+                        "name": "WARD1",
+                        "localname": "WARD1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW1",
+                        "children": [
+                          {
+                            "id": "06447287-bacf-4016-a14a-6099492a323e",
+                            "boundaryNum": 1,
+                            "name": "BALMIK CHOWK, KAMALU ROAD BALMEK MHALA",
+                            "localname": "BALMIK CHOWK, KAMALU ROAD BALMEK MHALA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT1",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d11c701e-e4ec-4d47-a897-665f37d933a0",
+                        "boundaryNum": 1,
+                        "name": "WARD2",
+                        "localname": "WARD2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW2",
+                        "children": [
+                          {
+                            "id": "54d9e0c6-0b4a-4dc1-a0dd-c9707f68c3c6",
+                            "boundaryNum": 1,
+                            "name": "SMADH BABA SARBANGI, MSD SCHOOL, DISPOSAL ROAD , HP PETROL PUMP, TALWANDI Road",
+                            "localname": "SMADH BABA SARBANGI, MSD SCHOOL, DISPOSAL ROAD , HP PETROL PUMP, TALWANDI Road",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT2",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b33c1180-b44b-4011-80ba-1ffcb960ebd8",
+                        "boundaryNum": 1,
+                        "name": "WARD3",
+                        "localname": "WARD3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW3",
+                        "children": [
+                          {
+                            "id": "72b4aaa1-5f03-4803-92ca-ee0a861d2abf",
+                            "boundaryNum": 1,
+                            "name": "GOVT DISPENCRY, DHARAMSHALA, GURDWARA MAURA WALA,",
+                            "localname": "GOVT DISPENCRY, DHARAMSHALA, GURDWARA MAURA WALA,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT3",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d6ca2cd9-5bba-4bc3-8c79-ebbac0b2b6bf",
+                        "boundaryNum": 1,
+                        "name": "WARD4",
+                        "localname": "WARD4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW4",
+                        "children": [
+                          {
+                            "id": "cf38e078-95a3-4a1a-9296-7ff85ed80386",
+                            "boundaryNum": 1,
+                            "name": "SIKH DHARAMSHALA, JAJAL ROAD , STREET PURAN SINGH WALI ,STREET GURJANT WALI ,",
+                            "localname": "SIKH DHARAMSHALA, JAJAL ROAD , STREET PURAN SINGH WALI ,STREET GURJANT WALI ,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT4",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "4b00a9d9-1c57-4c63-929d-c3e5571bac0c",
+                        "boundaryNum": 1,
+                        "name": "WARD5",
+                        "localname": "WARD5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW5",
+                        "children": [
+                          {
+                            "id": "bc370407-adaa-4bda-bd0b-244e2d9fbd43",
+                            "boundaryNum": 1,
+                            "name": "MAZHABI SIKH DHARAMSHALA, GAUSHALA ROAD, RAILWAY LINE,",
+                            "localname": "MAZHABI SIKH DHARAMSHALA, GAUSHALA ROAD, RAILWAY LINE,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT5",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "436bf481-dc31-40b2-9ca6-73ab43db5488",
+                        "boundaryNum": 1,
+                        "name": "WARD6",
+                        "localname": "WARD6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW6",
+                        "children": [
+                          {
+                            "id": "6a04f67e-ee7d-4309-9441-9630da5d49f6",
+                            "boundaryNum": 1,
+                            "name": "KALI MATTA MANDIR, SHANSHAN GHAT,GAUSHAL ROAD,GURUTEG BHADUR ROAD , STREET DISPOSAL WALI",
+                            "localname": "KALI MATTA MANDIR, SHANSHAN GHAT,GAUSHAL ROAD,GURUTEG BHADUR ROAD , STREET DISPOSAL WALI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT6",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d5d6ae7f-79d3-4978-9157-5a6026b45ff8",
+                        "boundaryNum": 1,
+                        "name": "WARD7",
+                        "localname": "WARD7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW7",
+                        "children": [
+                          {
+                            "id": "5f379fa9-de08-4485-826b-b348b8345405",
+                            "boundaryNum": 1,
+                            "name": "NEAR GAUSHALA, DHANAK BASTI, GANDI CHOWK ROAD,",
+                            "localname": "NEAR GAUSHALA, DHANAK BASTI, GANDI CHOWK ROAD,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT7",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "15156489-681a-4217-901d-b0fd78f8f9e2",
+                        "boundaryNum": 1,
+                        "name": "WARD8",
+                        "localname": "WARD8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW8",
+                        "children": [
+                          {
+                            "id": "14fcb8fe-d89b-40a2-8e62-b6d57bd8baaf",
+                            "boundaryNum": 1,
+                            "name": "GEETA BHAWAN, GANDI CHOWK, SHUPER MARKEET ROAD, GRAIN MARKEET,",
+                            "localname": "GEETA BHAWAN, GANDI CHOWK, SHUPER MARKEET ROAD, GRAIN MARKEET,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT8",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ca142257-8df8-4c36-8a39-f46f431cd63c",
+                        "boundaryNum": 1,
+                        "name": "WARD9",
+                        "localname": "WARD9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW9",
+                        "children": [
+                          {
+                            "id": "fccde03f-7944-4fe1-8230-6e8d9b0948fc",
+                            "boundaryNum": 1,
+                            "name": "BANK BAZAR, HOSPITAL ROAD, VEGITABLE MARKEET, SHIV CLONY ,",
+                            "localname": "BANK BAZAR, HOSPITAL ROAD, VEGITABLE MARKEET, SHIV CLONY ,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT9",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "db824420-747e-42d9-aa8d-38d474bb9938",
+                        "boundaryNum": 1,
+                        "name": "WARD10",
+                        "localname": "WARD10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW10",
+                        "children": [
+                          {
+                            "id": "60fc072d-3fbf-470d-9e0f-19671fd4d97a",
+                            "boundaryNum": 1,
+                            "name": "PHERKHANA, NEW PHERKHANA ROAD, SHAMSHAN GHAT ROAD, RAMSRA ROAD, BHART COTTON FACTORY",
+                            "localname": "PHERKHANA, NEW PHERKHANA ROAD, SHAMSHAN GHAT ROAD, RAMSRA ROAD, BHART COTTON FACTORY",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT10",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "dbd84375-f9ed-4e98-9234-2d979409603d",
+                        "boundaryNum": 1,
+                        "name": "WARD11",
+                        "localname": "WARD11",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW11",
+                        "children": [
+                          {
+                            "id": "d3f048fc-42a8-4af2-861e-f0640038b903",
+                            "boundaryNum": 1,
+                            "name": "BACK SIDE ARIYA HIGH SCHOOL, BHART COTON FACTORY ROAD,",
+                            "localname": "BACK SIDE ARIYA HIGH SCHOOL, BHART COTON FACTORY ROAD,",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT11",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "965a3c59-b688-4b1d-98b9-97b9f8318790",
+                        "boundaryNum": 1,
+                        "name": "WARD12",
+                        "localname": "WARD12",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW12",
+                        "children": [
+                          {
+                            "id": "693b56e9-fabd-459b-81f3-2329c982eb96",
+                            "boundaryNum": 1,
+                            "name": "BAGHA ROAD , NEAR HANUMAN MANDIR BASTI",
+                            "localname": "BAGHA ROAD , NEAR HANUMAN MANDIR BASTI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT12",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "dc0bce09-9228-4359-bbcb-03b742f51852",
+                        "boundaryNum": 1,
+                        "name": "WARD13",
+                        "localname": "WARD13",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW13",
+                        "children": [
+                          {
+                            "id": "da8d9881-ac9d-488b-b6e0-d657d05867c5",
+                            "boundaryNum": 1,
+                            "name": "NEAR RAILWAY LINE, REGAR BASTI",
+                            "localname": "NEAR RAILWAY LINE, REGAR BASTI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT13",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "9804b1f0-ca28-4f51-881a-618646287364",
+                        "boundaryNum": 1,
+                        "name": "WARD14",
+                        "localname": "WARD14",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW14",
+                        "children": [
+                          {
+                            "id": "91d7e949-fbd8-4012-89d8-6adba30a45d5",
+                            "boundaryNum": 1,
+                            "name": "BABA RAM DEV MANDIR, REGAR BASTI",
+                            "localname": "BABA RAM DEV MANDIR, REGAR BASTI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT14",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b2e6c716-e863-4320-8d87-5b07ffec7d67",
+                        "boundaryNum": 1,
+                        "name": "WARD15",
+                        "localname": "WARD15",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Block",
+                        "code": "RW15",
+                        "children": [
+                          {
+                            "id": "32719af9-794c-41c9-8399-460dabc34e67",
+                            "boundaryNum": 1,
+                            "name": "CHARCH, NEW BASTI",
+                            "localname": "CHARCH, NEW BASTI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Locality",
+                            "code": "RLT15",
+                            "area": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
