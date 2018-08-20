@@ -16,7 +16,7 @@
         "latitude": null,
         "label": "City",
         "code": "pb.raikot",
-        "children": {
+        "children": [{
           "tenantId": "pb.raikot",
           "moduleName": "egov-location",
           "TenantBoundary": [
@@ -783,7 +783,7 @@
               }
             }
           ]
-        }
+        }]
       }
     }
   ]

@@ -16,7 +16,7 @@
         "latitude": null,
         "label": "City",
         "code": "pb.makhu",
-        "children": {
+        "children": [{
           "tenantId": "pb.makhu",
           "moduleName": "egov-location",
           "TenantBoundary": [
@@ -687,7 +687,7 @@
               }
             }
           ]
-        }
+        }]
       }
     }
   ]

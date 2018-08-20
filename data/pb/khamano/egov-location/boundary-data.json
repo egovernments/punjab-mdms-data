@@ -16,7 +16,7 @@
         "latitude": null,
         "label": "City",
         "code": "pb.khamano",
-        "children": {
+        "children": [{
           "tenantId": "pb.khamano",
           "moduleName": "egov-location",
           "TenantBoundary": [
@@ -735,7 +735,7 @@
               }
             }
           ]
-        }
+        }]
       }
     }
   ]
