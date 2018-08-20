@@ -1,0 +1,684 @@
+{
+  "tenantId": "pb.adampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Adampur",
+        "localname": "Adampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.adampur",
+        "children": [
+          {
+            "id": "960c9b2a-50cd-46fb-81b3-48858f830e02",
+            "boundaryNum": 1,
+            "name": "Adampur",
+            "localname": "Adampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ADM1",
+            "children": [
+              {
+                "id": "086b34c3-be08-485e-8690-890d854b2414",
+                "boundaryNum": 1,
+                "name": "WARD - 1",
+                "localname": "WARD - 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "3d22b8b8-736e-457e-89de-bcb5f6f1da33",
+                    "boundaryNum": 1,
+                    "name": "Begampura",
+                    "localname": "Begampura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6d7dc6f-5703-4351-a094-efa02672553d",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Nagar",
+                    "localname": "Gandhi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1dd8b474-34d8-43fa-b4db-e8957d2a804c",
+                    "boundaryNum": 1,
+                    "name": "Main Road",
+                    "localname": "Main Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1f602ebc-0623-44ba-9648-41998b07ee0c",
+                "boundaryNum": 1,
+                "name": "WARD - 2",
+                "localname": "WARD - 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "cc69c1c9-ba7b-44dc-b6e1-55279af31aef",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Mandir Gali,",
+                    "localname": "Hanuman Mandir Gali,",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3c082a7d-4629-4244-b036-c1449bff2ffc",
+                    "boundaryNum": 1,
+                    "name": "Bagichi Mohalla,",
+                    "localname": "Bagichi Mohalla,",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8117318e-4bdc-4d09-8a69-efc91e9f8f76",
+                    "boundaryNum": 1,
+                    "name": "Basant Vihar",
+                    "localname": "Basant Vihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7e02874a-a0cb-45c7-bb48-a601c92bb51e",
+                    "boundaryNum": 1,
+                    "name": "Ravidass Mohalla",
+                    "localname": "Ravidass Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d3ae74e8-3221-4378-82df-6b61ec33d089",
+                "boundaryNum": 1,
+                "name": "WARD - 3",
+                "localname": "WARD - 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "5f54d6a3-35fa-4bbe-8c09-d55e21a8402c",
+                    "boundaryNum": 1,
+                    "name": "Johra Khoo",
+                    "localname": "Johra Khoo",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "307eaa73-8f82-4113-9608-c6022cfd95a7",
+                    "boundaryNum": 1,
+                    "name": "Tandon Mohalla",
+                    "localname": "Tandon Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "75388e55-c4e8-4312-baf8-93ed3d5b5018",
+                    "boundaryNum": 1,
+                    "name": "Bagichi Mohalla",
+                    "localname": "Bagichi Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fa916af2-46fa-4ac7-b567-1bc12c8f02ec",
+                    "boundaryNum": 1,
+                    "name": "Bhakri Chowk",
+                    "localname": "Bhakri Chowk",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9fc59162-17ee-4617-8b90-b949a0f57178",
+                    "boundaryNum": 1,
+                    "name": "Rangrain Mohalla",
+                    "localname": "Rangrain Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07c3e282-d40f-4568-ab98-e5adc5fb227a",
+                "boundaryNum": 1,
+                "name": "WARD - 4",
+                "localname": "WARD - 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "5ce1c118-9d14-46f7-ae25-aa7d4158f650",
+                    "boundaryNum": 1,
+                    "name": "Sagran Mohalla",
+                    "localname": "Sagran Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b526048-139b-491f-8647-d79be8da06a9",
+                "boundaryNum": 1,
+                "name": "WARD - 5",
+                "localname": "WARD - 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "033f5895-bc39-4762-96a4-f90b18a73086",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar",
+                    "localname": "Main Bazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cb44f08b-eec9-41d1-89bc-f552e73b0742",
+                    "boundaryNum": 1,
+                    "name": "Back side MC Adampur Office",
+                    "localname": "Back side MC Adampur Office",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf8d0ae0-adf4-47d0-ab0e-af5b5e572aa6",
+                    "boundaryNum": 1,
+                    "name": "Tandon Mohalla",
+                    "localname": "Tandon Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "de043383-b6ec-488a-b2b4-08110d9d2a4a",
+                "boundaryNum": 1,
+                "name": "WARD - 6",
+                "localname": "WARD - 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "50353752-e5f5-44f6-a5ad-edd1938a7183",
+                    "boundaryNum": 1,
+                    "name": "Kalria Mohalla",
+                    "localname": "Kalria Mohalla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c9a4a43a-b41c-44ed-84a7-97ec987d6f32",
+                    "boundaryNum": 1,
+                    "name": "Model Town",
+                    "localname": "Model Town",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae535fab-dd7b-4a50-ba84-cddb5f54fb44",
+                "boundaryNum": 1,
+                "name": "WARD - 7",
+                "localname": "WARD - 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "1f66bbdd-4bce-478a-8fe6-9e8d6a6e588e",
+                    "boundaryNum": 1,
+                    "name": "Canal Area",
+                    "localname": "Canal Area",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c3f18ba4-f62b-42aa-b304-3f3876ef67f7",
+                    "boundaryNum": 1,
+                    "name": "Dhawan Colony",
+                    "localname": "Dhawan Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fab9d380-39f5-45ad-a2b9-b6a51779ea78",
+                    "boundaryNum": 1,
+                    "name": "Green Park",
+                    "localname": "Green Park",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "216c9062-0f20-438f-9a64-5cf6798d779d",
+                "boundaryNum": 1,
+                "name": "WARD - 8",
+                "localname": "WARD - 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "48bb1082-e416-4cd6-a000-2001c3421b12",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Nagar",
+                    "localname": "Jawahar Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a472ef4-ca71-457f-aab7-7f627a8356d2",
+                    "boundaryNum": 1,
+                    "name": "Railway Colony",
+                    "localname": "Railway Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "29738c43-c6f6-416d-8b74-5ecdfa5e6afd",
+                    "boundaryNum": 1,
+                    "name": "MES Road",
+                    "localname": "MES Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "88a375e4-fb8c-4f9e-a943-de9de417680b",
+                    "boundaryNum": 1,
+                    "name": "Railway Road",
+                    "localname": "Railway Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9a69c36-1fd1-404d-ac85-a5b4201393ec",
+                "boundaryNum": 1,
+                "name": "WARD - 9",
+                "localname": "WARD - 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "48df8da5-8109-4057-a43b-459208d4a777",
+                    "boundaryNum": 1,
+                    "name": "Gazipur,",
+                    "localname": "Gazipur,",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e52a8c15-4de7-4e50-aa14-578ccf809328",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar",
+                    "localname": "Dashmesh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c7d30236-7c0d-4b55-b400-f17ffc6362bc",
+                    "boundaryNum": 1,
+                    "name": "Haripur Road",
+                    "localname": "Haripur Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7db444d-aaa1-44d4-a0b7-3f6f8aa7205b",
+                "boundaryNum": 1,
+                "name": "WARD - 10",
+                "localname": "WARD - 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "b9d42a2c-e7ff-44d9-8fe7-41d18950a51b",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand",
+                    "localname": "Bus Stand",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "edf1861c-6357-495a-aae9-a086911c95ba",
+                    "boundaryNum": 1,
+                    "name": "Railway Road",
+                    "localname": "Railway Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "56692393-b3ef-44ad-a434-7205d1b269b2",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar",
+                    "localname": "Ranjit Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7545a01e-3021-4be8-83cd-20696d0f57c8",
+                    "boundaryNum": 1,
+                    "name": "Truck Union Road",
+                    "localname": "Truck Union Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "85bce2cb-3a67-461e-8a03-7aff7b6f464f",
+                    "boundaryNum": 1,
+                    "name": "Shivpuri Road",
+                    "localname": "Shivpuri Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b8bc409-19cc-4dc7-a6c9-bda1a89129b3",
+                "boundaryNum": 1,
+                "name": "WARD - 11",
+                "localname": "WARD - 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "c445a2c4-5473-4db8-b3f7-891afa0a403f",
+                    "boundaryNum": 1,
+                    "name": "Opp. FCI, Opp. Vayu Vihar",
+                    "localname": "Opp. FCI, Opp. Vayu Vihar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e2024eec-5cbe-4202-87cd-b200a627b382",
+                    "boundaryNum": 1,
+                    "name": "Back Side Khadi Mandal",
+                    "localname": "Back Side Khadi Mandal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d97cdac-4666-4a29-9b68-ff086d271cd1",
+                "boundaryNum": 1,
+                "name": "WARD - 12",
+                "localname": "WARD - 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "d43347f0-8b60-4aab-95c5-25ff33c95915",
+                    "boundaryNum": 1,
+                    "name": "Gazipur",
+                    "localname": "Gazipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7d20b4cb-1ecc-441b-a667-3932661ee3fc",
+                    "boundaryNum": 1,
+                    "name": "Main Road",
+                    "localname": "Main Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1ccaca36-29a5-4cc4-8981-22a1f4dea94b",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar",
+                    "localname": "Dashmesh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dccf943d-8510-483a-901e-c0bf3a45f6ec",
+                    "boundaryNum": 1,
+                    "name": "Main Road",
+                    "localname": "Main Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "30c476cd-6537-4078-b53c-d14d85f8a261",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar",
+                    "localname": "Dashmesh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93843dd8-551d-4ea5-a89f-5495b6ee0924",
+                "boundaryNum": 1,
+                "name": "WARD - 13",
+                "localname": "WARD - 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "282b864b-3503-4ee1-bc8f-de718c439404",
+                    "boundaryNum": 1,
+                    "name": "Gazipur",
+                    "localname": "Gazipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ADM39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
