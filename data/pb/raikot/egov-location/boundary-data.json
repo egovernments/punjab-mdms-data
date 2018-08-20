@@ -16,774 +16,752 @@
         "latitude": null,
         "label": "City",
         "code": "pb.raikot",
-        "children": [{
-          "tenantId": "pb.raikot",
-          "moduleName": "egov-location",
-          "TenantBoundary": [
-            {
-              "hierarchyType": {
-                "code": "ADMIN",
-                "name": "ADMIN"
-              },
-              "boundary": {
-                "id": 1,
+        "children": [
+          {
+            "id": "a77b1066-a6ba-42f0-8805-30356bf36c4f",
+            "boundaryNum": 1,
+            "name": "Raikot",
+            "localname": "Raikot",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RZN1",
+            "children": [
+              {
+                "id": "f7ad1e48-7b2f-457f-9dd8-9c3c57303cba",
                 "boundaryNum": 1,
-                "name": "Raikot",
-                "localname": "Raikot",
+                "name": "Block 1",
+                "localname": "Block 1",
                 "longitude": null,
                 "latitude": null,
-                "label": "City",
-                "code": "pb.raikot",
+                "label": "Block",
+                "code": "B1",
                 "children": [
                   {
-                    "id": "a77b1066-a6ba-42f0-8805-30356bf36c4f",
+                    "id": "d49d1b28-2d3f-4dfe-83fd-98cea24152cc",
                     "boundaryNum": 1,
-                    "name": "Raikot",
-                    "localname": "Raikot",
+                    "name": "Malerkotla Road",
+                    "localname": "Malerkotla Road",
                     "longitude": null,
                     "latitude": null,
-                    "label": "Zone",
-                    "code": "RZN1",
-                    "children": [
-                      {
-                        "id": "f7ad1e48-7b2f-457f-9dd8-9c3c57303cba",
-                        "boundaryNum": 1,
-                        "name": "Block 1",
-                        "localname": "Block 1",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B1",
-                        "children": [
-                          {
-                            "id": "d49d1b28-2d3f-4dfe-83fd-98cea24152cc",
-                            "boundaryNum": 1,
-                            "name": "Malerkotla Road",
-                            "localname": "Malerkotla Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_1",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "eb34a000-ad5b-4445-8bf0-661fea60f3cb",
-                            "boundaryNum": 1,
-                            "name": "Kulla Patti",
-                            "localname": "Kulla Patti",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_2",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "020c6590-5e02-4231-a423-c6e7d28c509f",
-                            "boundaryNum": 1,
-                            "name": "Prem Nagar",
-                            "localname": "Prem Nagar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_3",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "e54bd163-02a1-45b2-8ecc-53456b46c6e7",
-                            "boundaryNum": 1,
-                            "name": "Dana Mandi",
-                            "localname": "Dana Mandi",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_4",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "d62cf034-79fa-4f35-a4d4-717ebb677b65",
-                            "boundaryNum": 1,
-                            "name": "Tajpur Road",
-                            "localname": "Tajpur Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_5",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "bfcc57cc-921f-455b-a7f4-77ad73c82b08",
-                        "boundaryNum": 1,
-                        "name": "Block 2",
-                        "localname": "Block 2",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B2",
-                        "children": [
-                          {
-                            "id": "36d9e07a-b172-43e1-a899-7ef96ff327fd",
-                            "boundaryNum": 1,
-                            "name": "Ludhiana Road",
-                            "localname": "Ludhiana Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_6",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "ff9c8b3f-feea-459a-9747-4e8877596583",
-                            "boundaryNum": 1,
-                            "name": "Mohalla Ajitsar",
-                            "localname": "Mohalla Ajitsar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_7",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "d5950bfc-488f-4423-bb37-82471addefb9",
-                            "boundaryNum": 1,
-                            "name": "Moh. Sancharan",
-                            "localname": "Moh. Sancharan",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_8",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "58660557-9b4c-49a6-ac4c-55edb18ba0af",
-                            "boundaryNum": 1,
-                            "name": "Moh. Balmiki",
-                            "localname": "Moh. Balmiki",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_9",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "bde6b920-f58b-4da6-b898-d0719fe0c758",
-                            "boundaryNum": 1,
-                            "name": "Moh. Bhandarian",
-                            "localname": "Moh. Bhandarian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_10",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "2b44fda5-8a7b-4eb3-9fbf-96f06916fcea",
-                            "boundaryNum": 1,
-                            "name": "Moh. Mishra",
-                            "localname": "Moh. Mishra",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_11",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "9f6476d4-0b06-4ffc-8b0e-01669275a7f6",
-                            "boundaryNum": 1,
-                            "name": "Moh. Morri Zattan",
-                            "localname": "Moh. Morri Zattan",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_12",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "3fe6f4fd-f748-4bfb-ad09-1433fca7af75",
-                            "boundaryNum": 1,
-                            "name": "Ram Gali",
-                            "localname": "Ram Gali",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_13",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "cea49584-260d-4fa9-8893-296cfa5189eb",
-                            "boundaryNum": 1,
-                            "name": "Moh. Dhamian",
-                            "localname": "Moh. Dhamian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_14",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "58bbad1e-9983-47ac-b4e9-ecd4340269c5",
-                            "boundaryNum": 1,
-                            "name": "Moh. Aggarwal",
-                            "localname": "Moh. Aggarwal",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_15",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "e1cafe6a-a63c-4732-b730-f97f96c71c34",
-                            "boundaryNum": 1,
-                            "name": "Sehbazpura Road",
-                            "localname": "Sehbazpura Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_16",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "53ed57a4-2d2f-40d3-8d3a-0bdef806dddc",
-                        "boundaryNum": 1,
-                        "name": "Block 3",
-                        "localname": "Block 3",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B3",
-                        "children": [
-                          {
-                            "id": "1976461f-63e3-4879-9586-d8d74fd49e59",
-                            "boundaryNum": 1,
-                            "name": "Moh. Molvian",
-                            "localname": "Moh. Molvian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_17",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "a9e873b6-8010-484f-9a35-5b4c3402f25a",
-                            "boundaryNum": 1,
-                            "name": "Moh. Jalotian",
-                            "localname": "Moh. Jalotian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_18",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "4fff4e58-1a41-4862-b05a-ea654245fd58",
-                            "boundaryNum": 1,
-                            "name": "Moh. Khela Khangurha",
-                            "localname": "Moh. Khela Khangurha",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_19",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "ef4cbb54-d264-468a-9e03-55217a5ed948",
-                            "boundaryNum": 1,
-                            "name": "Moh. Tangrian",
-                            "localname": "Moh. Tangrian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_20",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "bbff1397-793a-4c81-a794-46e401be51bc",
-                            "boundaryNum": 1,
-                            "name": "Johlan Road",
-                            "localname": "Johlan Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_21",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "5461317c-7e8d-41d2-9c43-59887ece10ba",
-                            "boundaryNum": 1,
-                            "name": "Committee Gate",
-                            "localname": "Committee Gate",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_22",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "5b8b1f31-ab93-4b2a-8a2e-f8de7ca3b1ae",
-                        "boundaryNum": 1,
-                        "name": "Block 4",
-                        "localname": "Block 4",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B4",
-                        "children": [
-                          {
-                            "id": "26dc743d-a79a-4522-9e3c-2d919a244ab8",
-                            "boundaryNum": 1,
-                            "name": "Moh. Passian",
-                            "localname": "Moh. Passian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_23",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "52148513-4fbc-49fb-9cd5-e59d928c5ce9",
-                            "boundaryNum": 1,
-                            "name": "Moh. Joshian",
-                            "localname": "Moh. Joshian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_24",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "da813b0c-b7ec-4b57-86c0-72ab9557bcb3",
-                            "boundaryNum": 1,
-                            "name": "Moh. Khosian",
-                            "localname": "Moh. Khosian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_25",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "e20e8d6d-78a3-482f-a30a-c701e0937ea3",
-                            "boundaryNum": 1,
-                            "name": "Missi Gali",
-                            "localname": "Missi Gali",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_26",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "0351975d-e43a-4715-bbae-571ec93e14d8",
-                            "boundaryNum": 1,
-                            "name": "Moh. Jainian",
-                            "localname": "Moh. Jainian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_27",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "fa61db9a-10c8-4c08-8060-ff98a78d9c24",
-                            "boundaryNum": 1,
-                            "name": "Moh. Voharian",
-                            "localname": "Moh. Voharian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_28",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "ff516b64-faee-4303-b295-ba2d1186c1ed",
-                            "boundaryNum": 1,
-                            "name": "Moh. Rai Ka",
-                            "localname": "Moh. Rai Ka",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_29",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "e80481de-d2a1-47f5-a26f-9959fb2a6114",
-                            "boundaryNum": 1,
-                            "name": "Moh. Kohrian",
-                            "localname": "Moh. Kohrian",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_30",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "b5d5dec8-45cd-463d-a403-19e881aecffa",
-                            "boundaryNum": 1,
-                            "name": "Moh. Kaccha Killa",
-                            "localname": "Moh. Kaccha Killa",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_31",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "a33d5ac9-2cdf-4cbe-8e42-73e5dcb00aa8",
-                            "boundaryNum": 1,
-                            "name": "Kutba Bazzar",
-                            "localname": "Kutba Bazzar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_32",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "f9332daf-4c92-4647-b290-9ae3f8262558",
-                            "boundaryNum": 1,
-                            "name": "Sehbazpura Road",
-                            "localname": "Sehbazpura Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_33",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "6f9889e1-452c-4a66-8732-2e3a3259f5f8",
-                        "boundaryNum": 1,
-                        "name": "Block 5",
-                        "localname": "Block 5",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B5",
-                        "children": [
-                          {
-                            "id": "09384175-e9b9-44cd-90c1-5b359678b7f8",
-                            "boundaryNum": 1,
-                            "name": "Talwandi Road",
-                            "localname": "Talwandi Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_34",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "315e9e7b-741e-41b5-bf32-b4fe1d99e898",
-                            "boundaryNum": 1,
-                            "name": "Eidgah Road",
-                            "localname": "Eidgah Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_35",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "0051b892-a663-48a8-b17f-037de6cef57a",
-                            "boundaryNum": 1,
-                            "name": "Preet Nagar",
-                            "localname": "Preet Nagar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_36",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "fc92291a-186f-4be5-bff7-cd6e4f6261fd",
-                            "boundaryNum": 1,
-                            "name": "Tehsil Road",
-                            "localname": "Tehsil Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_37",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "1a93420f-9e77-4f5b-b885-bc25c331b237",
-                        "boundaryNum": 1,
-                        "name": "Block 6",
-                        "localname": "Block 6",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B6",
-                        "children": [
-                          {
-                            "id": "a2c8c730-4338-4992-ad40-db350f3e8d2e",
-                            "boundaryNum": 1,
-                            "name": "Noora Mahi Nagar",
-                            "localname": "Noora Mahi Nagar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_38",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "8981ab39-516a-47e0-b0d3-4a96d4b5271e",
-                            "boundaryNum": 1,
-                            "name": "Ludhiana Road (Left Side)",
-                            "localname": "Ludhiana Road (Left Side)",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_39",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "259d0605-404d-407a-afe9-421b6dd50bd7",
-                        "boundaryNum": 1,
-                        "name": "Block 7",
-                        "localname": "Block 7",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B7",
-                        "children": [
-                          {
-                            "id": "7ad7545c-80bd-48a8-8a3f-c796f069561b",
-                            "boundaryNum": 1,
-                            "name": "Santokh Singh Nagar",
-                            "localname": "Santokh Singh Nagar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_40",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "1d040f6d-0308-4458-9868-a2bd0885a24c",
-                            "boundaryNum": 1,
-                            "name": "Green Aveneue",
-                            "localname": "Green Aveneue",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_41",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "3f738a5b-d18d-4bc6-a22e-9877ea5c8366",
-                            "boundaryNum": 1,
-                            "name": "Bazigar Basti (Jagroan Road)",
-                            "localname": "Bazigar Basti (Jagroan Road)",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_42",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "acd2f6f7-2688-4ac0-8017-5fa7808d237b",
-                            "boundaryNum": 1,
-                            "name": "Barnala Bye Pass",
-                            "localname": "Barnala Bye Pass",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_43",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "411594f7-31ff-42ba-a7a9-34e2ec6446b9",
-                        "boundaryNum": 1,
-                        "name": "Block 8",
-                        "localname": "Block 8",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B8",
-                        "children": [
-                          {
-                            "id": "c4cad90d-d566-4f68-9a8b-23776e7b5e16",
-                            "boundaryNum": 1,
-                            "name": "Green City",
-                            "localname": "Green City",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_44",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "18778564-f748-4a33-aa43-0980c1b5d3d6",
-                            "boundaryNum": 1,
-                            "name": "Green Velly",
-                            "localname": "Green Velly",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_45",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "1ee1c3c2-53dc-45db-9671-ba165bd49078",
-                            "boundaryNum": 1,
-                            "name": "Barnala Road",
-                            "localname": "Barnala Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_46",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "f17e3cea-95fd-4f72-9e72-8cab31d3625f",
-                            "boundaryNum": 1,
-                            "name": "Moh. Guru Nanak Pura",
-                            "localname": "Moh. Guru Nanak Pura",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_47",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "401b6587-d637-4349-ac8d-25cd429cf1e4",
-                        "boundaryNum": 1,
-                        "name": "Block 9",
-                        "localname": "Block 9",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Block",
-                        "code": "B9",
-                        "children": [
-                          {
-                            "id": "cb67be29-9537-4e50-9023-74af79c1c734",
-                            "boundaryNum": 1,
-                            "name": "Bank Colony",
-                            "localname": "Bank Colony",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_48",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "395d4a87-c20e-412c-a832-59b11a702b51",
-                            "boundaryNum": 1,
-                            "name": "Siloani Road",
-                            "localname": "Siloani Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_49",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "087febd6-c72d-4ee9-8118-e374ec2e4215",
-                            "boundaryNum": 1,
-                            "name": "Ruppanpatti Road",
-                            "localname": "Ruppanpatti Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_50",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "0059b2e4-ad46-4b0f-a79f-caaaaef8be51",
-                            "boundaryNum": 1,
-                            "name": "Guru Ram Dass Nagar",
-                            "localname": "Guru Ram Dass Nagar",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_51",
-                            "area": "",
-                            "children": []
-                          },
-                          {
-                            "id": "e04d1987-557f-40a0-a078-d4fa6427b94a",
-                            "boundaryNum": 1,
-                            "name": "Bassian Road",
-                            "localname": "Bassian Road",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Locality",
-                            "code": "MR_52",
-                            "area": "",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
+                    "label": "Locality",
+                    "code": "MR_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eb34a000-ad5b-4445-8bf0-661fea60f3cb",
+                    "boundaryNum": 1,
+                    "name": "Kulla Patti",
+                    "localname": "Kulla Patti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "020c6590-5e02-4231-a423-c6e7d28c509f",
+                    "boundaryNum": 1,
+                    "name": "Prem Nagar",
+                    "localname": "Prem Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e54bd163-02a1-45b2-8ecc-53456b46c6e7",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi",
+                    "localname": "Dana Mandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d62cf034-79fa-4f35-a4d4-717ebb677b65",
+                    "boundaryNum": 1,
+                    "name": "Tajpur Road",
+                    "localname": "Tajpur Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bfcc57cc-921f-455b-a7f4-77ad73c82b08",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "36d9e07a-b172-43e1-a899-7ef96ff327fd",
+                    "boundaryNum": 1,
+                    "name": "Ludhiana Road",
+                    "localname": "Ludhiana Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ff9c8b3f-feea-459a-9747-4e8877596583",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ajitsar",
+                    "localname": "Mohalla Ajitsar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d5950bfc-488f-4423-bb37-82471addefb9",
+                    "boundaryNum": 1,
+                    "name": "Moh. Sancharan",
+                    "localname": "Moh. Sancharan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58660557-9b4c-49a6-ac4c-55edb18ba0af",
+                    "boundaryNum": 1,
+                    "name": "Moh. Balmiki",
+                    "localname": "Moh. Balmiki",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bde6b920-f58b-4da6-b898-d0719fe0c758",
+                    "boundaryNum": 1,
+                    "name": "Moh. Bhandarian",
+                    "localname": "Moh. Bhandarian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2b44fda5-8a7b-4eb3-9fbf-96f06916fcea",
+                    "boundaryNum": 1,
+                    "name": "Moh. Mishra",
+                    "localname": "Moh. Mishra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9f6476d4-0b06-4ffc-8b0e-01669275a7f6",
+                    "boundaryNum": 1,
+                    "name": "Moh. Morri Zattan",
+                    "localname": "Moh. Morri Zattan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3fe6f4fd-f748-4bfb-ad09-1433fca7af75",
+                    "boundaryNum": 1,
+                    "name": "Ram Gali",
+                    "localname": "Ram Gali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cea49584-260d-4fa9-8893-296cfa5189eb",
+                    "boundaryNum": 1,
+                    "name": "Moh. Dhamian",
+                    "localname": "Moh. Dhamian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58bbad1e-9983-47ac-b4e9-ecd4340269c5",
+                    "boundaryNum": 1,
+                    "name": "Moh. Aggarwal",
+                    "localname": "Moh. Aggarwal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e1cafe6a-a63c-4732-b730-f97f96c71c34",
+                    "boundaryNum": 1,
+                    "name": "Sehbazpura Road",
+                    "localname": "Sehbazpura Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53ed57a4-2d2f-40d3-8d3a-0bdef806dddc",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "1976461f-63e3-4879-9586-d8d74fd49e59",
+                    "boundaryNum": 1,
+                    "name": "Moh. Molvian",
+                    "localname": "Moh. Molvian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a9e873b6-8010-484f-9a35-5b4c3402f25a",
+                    "boundaryNum": 1,
+                    "name": "Moh. Jalotian",
+                    "localname": "Moh. Jalotian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4fff4e58-1a41-4862-b05a-ea654245fd58",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khela Khangurha",
+                    "localname": "Moh. Khela Khangurha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ef4cbb54-d264-468a-9e03-55217a5ed948",
+                    "boundaryNum": 1,
+                    "name": "Moh. Tangrian",
+                    "localname": "Moh. Tangrian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bbff1397-793a-4c81-a794-46e401be51bc",
+                    "boundaryNum": 1,
+                    "name": "Johlan Road",
+                    "localname": "Johlan Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5461317c-7e8d-41d2-9c43-59887ece10ba",
+                    "boundaryNum": 1,
+                    "name": "Committee Gate",
+                    "localname": "Committee Gate",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b8b1f31-ab93-4b2a-8a2e-f8de7ca3b1ae",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "26dc743d-a79a-4522-9e3c-2d919a244ab8",
+                    "boundaryNum": 1,
+                    "name": "Moh. Passian",
+                    "localname": "Moh. Passian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "52148513-4fbc-49fb-9cd5-e59d928c5ce9",
+                    "boundaryNum": 1,
+                    "name": "Moh. Joshian",
+                    "localname": "Moh. Joshian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "da813b0c-b7ec-4b57-86c0-72ab9557bcb3",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khosian",
+                    "localname": "Moh. Khosian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e20e8d6d-78a3-482f-a30a-c701e0937ea3",
+                    "boundaryNum": 1,
+                    "name": "Missi Gali",
+                    "localname": "Missi Gali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0351975d-e43a-4715-bbae-571ec93e14d8",
+                    "boundaryNum": 1,
+                    "name": "Moh. Jainian",
+                    "localname": "Moh. Jainian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fa61db9a-10c8-4c08-8060-ff98a78d9c24",
+                    "boundaryNum": 1,
+                    "name": "Moh. Voharian",
+                    "localname": "Moh. Voharian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ff516b64-faee-4303-b295-ba2d1186c1ed",
+                    "boundaryNum": 1,
+                    "name": "Moh. Rai Ka",
+                    "localname": "Moh. Rai Ka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e80481de-d2a1-47f5-a26f-9959fb2a6114",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kohrian",
+                    "localname": "Moh. Kohrian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b5d5dec8-45cd-463d-a403-19e881aecffa",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kaccha Killa",
+                    "localname": "Moh. Kaccha Killa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a33d5ac9-2cdf-4cbe-8e42-73e5dcb00aa8",
+                    "boundaryNum": 1,
+                    "name": "Kutba Bazzar",
+                    "localname": "Kutba Bazzar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f9332daf-4c92-4647-b290-9ae3f8262558",
+                    "boundaryNum": 1,
+                    "name": "Sehbazpura Road",
+                    "localname": "Sehbazpura Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f9889e1-452c-4a66-8732-2e3a3259f5f8",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "09384175-e9b9-44cd-90c1-5b359678b7f8",
+                    "boundaryNum": 1,
+                    "name": "Talwandi Road",
+                    "localname": "Talwandi Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "315e9e7b-741e-41b5-bf32-b4fe1d99e898",
+                    "boundaryNum": 1,
+                    "name": "Eidgah Road",
+                    "localname": "Eidgah Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0051b892-a663-48a8-b17f-037de6cef57a",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar",
+                    "localname": "Preet Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc92291a-186f-4be5-bff7-cd6e4f6261fd",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Road",
+                    "localname": "Tehsil Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a93420f-9e77-4f5b-b885-bc25c331b237",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "a2c8c730-4338-4992-ad40-db350f3e8d2e",
+                    "boundaryNum": 1,
+                    "name": "Noora Mahi Nagar",
+                    "localname": "Noora Mahi Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8981ab39-516a-47e0-b0d3-4a96d4b5271e",
+                    "boundaryNum": 1,
+                    "name": "Ludhiana Road (Left Side)",
+                    "localname": "Ludhiana Road (Left Side)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "259d0605-404d-407a-afe9-421b6dd50bd7",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "7ad7545c-80bd-48a8-8a3f-c796f069561b",
+                    "boundaryNum": 1,
+                    "name": "Santokh Singh Nagar",
+                    "localname": "Santokh Singh Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1d040f6d-0308-4458-9868-a2bd0885a24c",
+                    "boundaryNum": 1,
+                    "name": "Green Aveneue",
+                    "localname": "Green Aveneue",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3f738a5b-d18d-4bc6-a22e-9877ea5c8366",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti (Jagroan Road)",
+                    "localname": "Bazigar Basti (Jagroan Road)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "acd2f6f7-2688-4ac0-8017-5fa7808d237b",
+                    "boundaryNum": 1,
+                    "name": "Barnala Bye Pass",
+                    "localname": "Barnala Bye Pass",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_43",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "411594f7-31ff-42ba-a7a9-34e2ec6446b9",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "c4cad90d-d566-4f68-9a8b-23776e7b5e16",
+                    "boundaryNum": 1,
+                    "name": "Green City",
+                    "localname": "Green City",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "18778564-f748-4a33-aa43-0980c1b5d3d6",
+                    "boundaryNum": 1,
+                    "name": "Green Velly",
+                    "localname": "Green Velly",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1ee1c3c2-53dc-45db-9671-ba165bd49078",
+                    "boundaryNum": 1,
+                    "name": "Barnala Road",
+                    "localname": "Barnala Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f17e3cea-95fd-4f72-9e72-8cab31d3625f",
+                    "boundaryNum": 1,
+                    "name": "Moh. Guru Nanak Pura",
+                    "localname": "Moh. Guru Nanak Pura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_47",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "401b6587-d637-4349-ac8d-25cd429cf1e4",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "cb67be29-9537-4e50-9023-74af79c1c734",
+                    "boundaryNum": 1,
+                    "name": "Bank Colony",
+                    "localname": "Bank Colony",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "395d4a87-c20e-412c-a832-59b11a702b51",
+                    "boundaryNum": 1,
+                    "name": "Siloani Road",
+                    "localname": "Siloani Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "087febd6-c72d-4ee9-8118-e374ec2e4215",
+                    "boundaryNum": 1,
+                    "name": "Ruppanpatti Road",
+                    "localname": "Ruppanpatti Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0059b2e4-ad46-4b0f-a79f-caaaaef8be51",
+                    "boundaryNum": 1,
+                    "name": "Guru Ram Dass Nagar",
+                    "localname": "Guru Ram Dass Nagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e04d1987-557f-40a0-a078-d4fa6427b94a",
+                    "boundaryNum": 1,
+                    "name": "Bassian Road",
+                    "localname": "Bassian Road",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_52",
+                    "area": "",
+                    "children": []
                   }
                 ]
               }
-            }
-          ]
-        }]
+            ]
+          }
+        ]
       }
     }
   ]
