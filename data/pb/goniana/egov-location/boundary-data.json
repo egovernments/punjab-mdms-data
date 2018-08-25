@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.goniana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Goniana",
+        "localname": "Goniana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.goniana",
+        "children": [
+          {
+            "id": "440c10ca-7a0b-4c18-8911-abe1c5a58f4a",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "9092b3a6-4b55-433b-a43b-63e38098dd7c",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "79776a5e-4756-492f-8fa2-4af81bc8059c",
+                    "boundaryNum": 1,
+                    "name": "Raja Basti - WARD 1",
+                    "localname": "Raja Basti - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e96a225d-fa48-470a-8668-59d16e9ba886",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "92c112e9-55bb-4e0d-b843-4ae9011a36a2",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar - WARD 2",
+                    "localname": "Guru Nanak Nagar - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ba4ea37-7828-401c-84e4-f8171948d585",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "6bbf2204-984f-456c-9c0b-bc6a6f2461c3",
+                    "boundaryNum": 1,
+                    "name": "New Basti - WARD 3",
+                    "localname": "New Basti - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d22cd93-9bc0-474e-a01f-370f997d32da",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "7696de23-8b27-4ceb-9f65-56f8626fc1ea",
+                    "boundaryNum": 1,
+                    "name": "Langer Hall - WARD 4",
+                    "localname": "Langer Hall - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a7b09b5-1072-450d-89e6-6f177a50953d",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "858b309d-db92-4980-b0c1-6d71a4ef0a28",
+                    "boundaryNum": 1,
+                    "name": "Old Market Commtte - WARD 5",
+                    "localname": "Old Market Commtte - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ac1073b-6411-4243-b7d4-f814c261d132",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "8a367b05-f030-4139-b596-9f2e04f64b53",
+                    "boundaryNum": 1,
+                    "name": "Dharmsala Wali Gali - WARD 6",
+                    "localname": "Dharmsala Wali Gali - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bb1f68ae-d09a-4a72-81ff-650774cc19db",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "20bdae20-95c7-4a0e-a575-3044432fbd3f",
+                    "boundaryNum": 1,
+                    "name": "Jand Wali Gali - WARD 7",
+                    "localname": "Jand Wali Gali - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa29ea6d-3542-4937-830c-a130a341bcc5",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "5f927d7f-dd51-447e-b713-49f88c29293e",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar - WARD 8",
+                    "localname": "Preet Nagar - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "568e6f5b-d669-4f31-b001-e52aeb016c9e",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "a2c6e0e8-e89a-404e-88db-5d63afd21812",
+                    "boundaryNum": 1,
+                    "name": "Desmesh Nagar - WARD 9",
+                    "localname": "Desmesh Nagar - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3c563b07-c197-4635-94d0-2c4db1db6434",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "dff569d4-542a-4c39-af53-9580b02635ae",
+                    "boundaryNum": 1,
+                    "name": "Post Office - WARD 10",
+                    "localname": "Post Office - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ff06bb7c-0d01-4fc3-8c8d-8aeb81a5d5ba",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "eb2e8ef6-c0fe-4c79-a2bd-082e4e4aeda9",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Nagar - WARD 11",
+                    "localname": "Gandhi Nagar - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "462eeb11-d8e3-4a3c-80b6-e0a358caabbd",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "eea03d54-3d28-43f0-92d0-3ab5177d4842",
+                    "boundaryNum": 1,
+                    "name": "Durga Mandir Street - WARD 12",
+                    "localname": "Durga Mandir Street - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5aeb0202-9694-4e14-8aa0-4c6caf56a2e3",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "b5323d6b-fe71-48fd-801c-58845b6da596",
+                    "boundaryNum": 1,
+                    "name": "Geeta Bhawan - WARD 13",
+                    "localname": "Geeta Bhawan - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GON 13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
