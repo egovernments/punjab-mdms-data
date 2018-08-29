@@ -1,0 +1,444 @@
+{
+  "tenantId": "pb.maur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Maur",
+        "localname": "Maur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.maur",
+        "children": [
+          {
+            "id": "29eed6da-15e5-4d74-8554-608c40b07f19",
+            "boundaryNum": 1,
+            "name": "MAUR",
+            "localname": "MAUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "RZN1",
+            "children": [
+              {
+                "id": "9aae34f9-f8b1-47e5-b9d8-f24e88979de7",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW1",
+                "children": [
+                  {
+                    "id": "3ee70d01-0524-4999-8c45-59013a7f0d77",
+                    "boundaryNum": 1,
+                    "name": "DASHMESH NAGAR, NEAR BUS STAND - Ward1",
+                    "localname": "DASHMESH NAGAR, NEAR BUS STAND - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8ba555a9-5835-462f-a2db-3ed187998ee3",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW2",
+                "children": [
+                  {
+                    "id": "d7777d26-f422-41c8-9a4a-842b05a7515e",
+                    "boundaryNum": 1,
+                    "name": "RAVIDAS DHARMSHALA AREA, MAUR KALAN - Ward2",
+                    "localname": "RAVIDAS DHARMSHALA AREA, MAUR KALAN - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ebe2ba4-02a5-4eeb-8654-1c4b4072593b",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW3",
+                "children": [
+                  {
+                    "id": "1c97ad0f-6103-44b8-bddf-d5e6ca9511da",
+                    "boundaryNum": 1,
+                    "name": "MILAN PALACE BACKSIDE, MAUR KALAN - Ward3",
+                    "localname": "MILAN PALACE BACKSIDE, MAUR KALAN - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b76a831c-da7e-4c57-bbad-6a6380a05896",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW4",
+                "children": [
+                  {
+                    "id": "9e2fe91c-fd09-4b0f-bb90-1a0f29e105b0",
+                    "boundaryNum": 1,
+                    "name": "RAGHU PATTI AREA, MAUR KALAN - Ward4",
+                    "localname": "RAGHU PATTI AREA, MAUR KALAN - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e865f402-fe45-4642-a035-60dd71177355",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW5",
+                "children": [
+                  {
+                    "id": "a2311c67-aef3-4015-bb00-38e1b78ceb11",
+                    "boundaryNum": 1,
+                    "name": "NEW ANIMAL HOSPITAL, MAUR KALAN - Ward5",
+                    "localname": "NEW ANIMAL HOSPITAL, MAUR KALAN - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "215c8e27-d5e9-4726-8092-df728ad90505",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW6",
+                "children": [
+                  {
+                    "id": "80451f5d-c6b0-4cd5-b906-91a146cdbb47",
+                    "boundaryNum": 1,
+                    "name": "DISPENCERY BACKSIDE, SLUM AREA, MAUR KALAN - Ward6",
+                    "localname": "DISPENCERY BACKSIDE, SLUM AREA, MAUR KALAN - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "974d36fb-b502-456c-b9b5-877ac53e7ce2",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW7",
+                "children": [
+                  {
+                    "id": "0361950d-fb00-4fec-a3b3-8d952facfb0f",
+                    "boundaryNum": 1,
+                    "name": "KUBE WALA BUS STAND, MAUR KHURD - Ward7",
+                    "localname": "KUBE WALA BUS STAND, MAUR KHURD - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "303f7992-04b3-49bb-b959-94901f050b32",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW8",
+                "children": [
+                  {
+                    "id": "81824952-0572-4e70-a690-b9d72230b498",
+                    "boundaryNum": 1,
+                    "name": "DR.NOHAR WALA AREA, MAUR KHURD - Ward8",
+                    "localname": "DR.NOHAR WALA AREA, MAUR KHURD - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5db8bc4d-a0a1-476d-8225-bd12527739f2",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW9",
+                "children": [
+                  {
+                    "id": "64513820-e275-4765-a79f-fd07b7b65056",
+                    "boundaryNum": 1,
+                    "name": "NEAR PEERKHANA, MAUR - Ward9",
+                    "localname": "NEAR PEERKHANA, MAUR - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bfdd747b-5ad8-467e-aa9f-55314523bb3d",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW10",
+                "children": [
+                  {
+                    "id": "72264168-f22c-4ad4-b041-861f295dbf57",
+                    "boundaryNum": 1,
+                    "name": "BACKSIDE RAILWAY STATION, MAUR - Ward10",
+                    "localname": "BACKSIDE RAILWAY STATION, MAUR - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3a40e39-1060-49ef-8562-a325ec861ede",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW11",
+                "children": [
+                  {
+                    "id": "9d6df8f2-e50c-4b06-9ced-cd4f45619554",
+                    "boundaryNum": 1,
+                    "name": "MALL GODAM ROAD, MAUR - Ward11",
+                    "localname": "MALL GODAM ROAD, MAUR - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b00c4c16-c3cd-4eae-be51-973c1ba47049",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW12",
+                "children": [
+                  {
+                    "id": "fbad14a4-57a1-461c-b0f5-6b154d1a9ee2",
+                    "boundaryNum": 1,
+                    "name": "KANSAL ROAD,  MAUR - Ward12",
+                    "localname": "KANSAL ROAD,  MAUR - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "19fb9bae-2bbe-4836-bf48-498a332a43ee",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW13",
+                "children": [
+                  {
+                    "id": "47ba902f-2e39-48b6-acf8-7e7007a87e4e",
+                    "boundaryNum": 1,
+                    "name": "RAMBAG & DSP OFFICE AREA, MAUR - Ward13",
+                    "localname": "RAMBAG & DSP OFFICE AREA, MAUR - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b47089f-d3a9-454c-adeb-2bacb24b37a7",
+                "boundaryNum": 1,
+                "name": "Ward14",
+                "localname": "Ward14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW14",
+                "children": [
+                  {
+                    "id": "1a4eb526-9fdd-41b4-b024-10e00c3013df",
+                    "boundaryNum": 1,
+                    "name": "BOHAR WALA CHOWK & CIVIL HOSPITAL AREA, MAUR MANDI - Ward14",
+                    "localname": "BOHAR WALA CHOWK & CIVIL HOSPITAL AREA, MAUR MANDI - Ward14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e98ac305-a622-4403-b091-d53911a613f4",
+                "boundaryNum": 1,
+                "name": "Ward15",
+                "localname": "Ward15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW15",
+                "children": [
+                  {
+                    "id": "8bccd1a0-ccf7-4b62-b0c6-091c91374c8a",
+                    "boundaryNum": 1,
+                    "name": "MITHU HALWAI STREET, MAUR - Ward15",
+                    "localname": "MITHU HALWAI STREET, MAUR - Ward15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a661ec7-6ee7-4dd1-acb8-4e4a88c998e5",
+                "boundaryNum": 1,
+                "name": "Ward16",
+                "localname": "Ward16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW16",
+                "children": [
+                  {
+                    "id": "62a1024e-d283-407e-b470-8ebde1289377",
+                    "boundaryNum": 1,
+                    "name": "ISTRI SATSANG BHAWAN AREA, MAUR - Ward16",
+                    "localname": "ISTRI SATSANG BHAWAN AREA, MAUR - Ward16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a85aba6-17ad-4e68-9b54-4f00d4184e0b",
+                "boundaryNum": 1,
+                "name": "Ward17",
+                "localname": "Ward17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "RW17",
+                "children": [
+                  {
+                    "id": "b233885b-3e3c-4f8e-8069-126c940f43b0",
+                    "boundaryNum": 1,
+                    "name": "NEW ANAJ MANDI WALA AREA, MAUR - Ward17",
+                    "localname": "NEW ANAJ MANDI WALA AREA, MAUR - Ward17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
