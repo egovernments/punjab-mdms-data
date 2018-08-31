@@ -1,0 +1,336 @@
+{
+  "tenantId": "pb.kotfatta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotfatta",
+        "localname": "Kotfatta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotfatta",
+        "children": [
+          {
+            "id": "f9acb5b3-1e1b-41b0-9e27-33eaf665d3b9",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN1",
+            "children": [
+              {
+                "id": "fb04ac46-430c-491a-90e7-535f117cc348",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "56d849a2-86ef-403e-ab74-976cfb405289",
+                    "boundaryNum": 1,
+                    "name": "Mc office Main Bazar - Ward 1",
+                    "localname": "Mc office Main Bazar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3cbeb9ee-f864-4ea0-a079-69b56b497d67",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "ea32d04b-9168-47df-93f6-8a7f8db337a8",
+                    "boundaryNum": 1,
+                    "name": "Rada Chowk - Ward 2",
+                    "localname": "Rada Chowk - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba5e2546-0b33-47a0-a0f9-5033c0664c2b",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "eaeb4c58-814f-4043-b02c-42aae3578613",
+                    "boundaryNum": 1,
+                    "name": "Bus stand Road - Ward 10",
+                    "localname": "Bus stand Road - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "29fb6aef-5883-43bd-b445-3a10eb8098c7",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN2",
+            "children": [
+              {
+                "id": "787f8191-c0e7-45f8-b7ed-8fb8a1b20c33",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "170decbf-0048-4a9d-a9e9-5212ca0875e5",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 3",
+                    "localname": "Ramdisiya Mohala - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71decbb0-8d3c-4976-9976-59ecb328aba3",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "ec3f5418-dab0-4f6d-964e-b90c8e546328",
+                    "boundaryNum": 1,
+                    "name": "Pind Wala Khu Mohala - Ward 6",
+                    "localname": "Pind Wala Khu Mohala - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8dbbbfea-113e-4c0d-99a7-db2cf03d88ea",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "0bd6a507-707b-4604-90c1-ee745bf3bd0f",
+                    "boundaryNum": 1,
+                    "name": "Bahrla Dera Road Mohala - Ward 9",
+                    "localname": "Bahrla Dera Road Mohala - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f49270db-8d9d-4d73-af47-65ebcdcbbbed",
+            "boundaryNum": 1,
+            "name": "Zone 3",
+            "localname": "Zone 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN3",
+            "children": [
+              {
+                "id": "cf84ddf9-354b-4da5-a695-8dd137e08631",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "6781397f-fa2d-42ee-91e9-fe838fb4333f",
+                    "boundaryNum": 1,
+                    "name": "Vada Khu Mohala - Ward 4",
+                    "localname": "Vada Khu Mohala - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b597180d-b463-4ee4-860a-3ea94d80ffcb",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "f75719a2-75f7-4539-8f5e-a18b3eedcb76",
+                    "boundaryNum": 1,
+                    "name": "Baba bukan Shah Mohala - Ward 8",
+                    "localname": "Baba bukan Shah Mohala - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5b5657f-d2f7-49c1-9807-92caaa344833",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "24237520-e819-4c0f-8c07-e97123b1a06d",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - Ward 11",
+                    "localname": "Main Bazar - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "412323d3-b99f-4dba-aaa7-708294177603",
+            "boundaryNum": 1,
+            "name": "Zone 4",
+            "localname": "Zone 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN4",
+            "children": [
+              {
+                "id": "7ce31d44-ea99-4d5c-aa81-f614d6fc17b3",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "de398e7f-0d41-4be4-b3f8-5a027688ff49",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 5",
+                    "localname": "Ramdisiya Mohala - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce33af04-902e-4b38-8ae2-d55340419281",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "07f865cb-3dbd-402a-9911-50213d30cb4e",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 7",
+                    "localname": "Ramdisiya Mohala - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
