@@ -1,0 +1,360 @@
+{
+  "tenantId": "pb.bariwala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bariwala",
+        "localname": "Bariwala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bariwala",
+        "children": [
+          {
+            "id": "3fe7a3bc-64d8-4254-87bc-531fbd52a914",
+            "boundaryNum": 1,
+            "name": "Bariwala West",
+            "localname": "Bariwala West",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRW1",
+            "children": [
+              {
+                "id": "470d5082-560a-46c3-b79f-d6a1d9e18bd7",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3407d921-433c-425e-8b6c-c6b90bce7a37",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Singh Sabha Sahib Wala Area - WARD 1",
+                    "localname": "Gurdwara Singh Sabha Sahib Wala Area - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "163af3b1-c9e3-458b-b4b5-9a09a896ab57",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "40a3295f-9b08-4d4e-aebe-e067585230b5",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi Wala Area - WARD 8",
+                    "localname": "Dana Mandi Wala Area - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "907225e9-d5b2-4977-9414-271aea9a356d",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "92a742b3-a822-461c-b7ef-028d19b0e139",
+                    "boundaryNum": 1,
+                    "name": "Model Town Area - WARD 9",
+                    "localname": "Model Town Area - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9d95c68-4170-4e7a-a1f7-65eae5e71a4f",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "acb052f9-7b2a-47af-a325-5a05b96aac81",
+                    "boundaryNum": 1,
+                    "name": "Panchayati Dharmshala and - WARD 10",
+                    "localname": "Panchayati Dharmshala and - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a341962e-f52b-4eaf-8651-4170eacff8e2",
+                    "boundaryNum": 1,
+                    "name": "Wazir Basti Wala Area - WARD 10",
+                    "localname": "Wazir Basti Wala Area - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36876c7c-b8ca-4e76-a101-f9b1a16bfd4a",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "9a15420d-43bc-4e1d-83dd-d659c182ff35",
+                    "boundaryNum": 1,
+                    "name": "Teshil Road - WARD 11",
+                    "localname": "Teshil Road - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9cab763a-43db-4fb3-b5e5-8d3557531fdb",
+                    "boundaryNum": 1,
+                    "name": "Chak Gandha Singh Road Wala Area - WARD 11",
+                    "localname": "Chak Gandha Singh Road Wala Area - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0d615f81-7ea7-4bf3-8a2b-16aac2e7d1d0",
+            "boundaryNum": 1,
+            "name": "Bariwala East",
+            "localname": "Bariwala East",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRW2",
+            "children": [
+              {
+                "id": "07ae162d-4eed-4bca-9b68-8a06759d9c7b",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "aa3c91a7-aa6b-4147-9580-d2c9518b5c5c",
+                    "boundaryNum": 1,
+                    "name": "Tawar Basti Wala Area - WARD 3",
+                    "localname": "Tawar Basti Wala Area - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9831cb37-361a-4dd3-962f-82b4029ea870",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "78fa0af1-3405-4b3d-a011-1db6e3924eb2",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Colony - WARD 4",
+                    "localname": "Gaushala Colony - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2696b1d4-2386-4f4b-9f38-ca71ae3c95b2",
+            "boundaryNum": 1,
+            "name": "Bariwala South",
+            "localname": "Bariwala South",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRW3",
+            "children": [
+              {
+                "id": "728ea309-d294-4dee-839e-478aaf127178",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "b1cc248f-7709-4ec2-a71a-e7583940f47a",
+                    "boundaryNum": 1,
+                    "name": "Nehru Basti - WARD 5",
+                    "localname": "Nehru Basti - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b9d72b3-1f7c-4eb1-887e-7db633a656c3",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "8c04a1eb-e421-4111-8bde-982de1e53533",
+                    "boundaryNum": 1,
+                    "name": "Nehru Basti - WARD 6",
+                    "localname": "Nehru Basti - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65796c9e-d649-4021-b0a0-ad001883c2ab",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "1c5631da-303a-4631-8ec2-ba1196451ca1",
+                    "boundaryNum": 1,
+                    "name": "Nehru Basti - WARD 7",
+                    "localname": "Nehru Basti - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a9a616f2-f67b-410e-9f64-65fc0a8359ec",
+            "boundaryNum": 1,
+            "name": "Bariwala North",
+            "localname": "Bariwala North",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BRW4",
+            "children": [
+              {
+                "id": "2ecaf664-cd5d-4e02-ab12-ac9d6c86bf13",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "e3e68472-a134-45ac-9146-0f76570f7972",
+                    "boundaryNum": 1,
+                    "name": "Bahrla Baja Road - WARD 2",
+                    "localname": "Bahrla Baja Road - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
