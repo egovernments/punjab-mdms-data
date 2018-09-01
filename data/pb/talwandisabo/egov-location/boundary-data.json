@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.talwandisabo",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talwandisabo",
+        "localname": "Talwandisabo",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.talwandisabo",
+        "children": [
+          {
+            "id": "1b6881d5-ad8b-4594-ace9-4c19bf780270",
+            "boundaryNum": 1,
+            "name": "TALWANDI SABO",
+            "localname": "TALWANDI SABO",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "TSZN1",
+            "children": [
+              {
+                "id": "f3746cd1-a2c1-4f04-9f34-d25e78907504",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "972236d8-fb5f-42a5-a72e-8697a8ef0d31",
+                    "boundaryNum": 1,
+                    "name": "PATWARI COLONY - WARD1",
+                    "localname": "PATWARI COLONY - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "317cf852-3339-413e-9554-418de8d2d091",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "f2e8228d-cf49-4e7c-ac14-5f8b50dbf528",
+                    "boundaryNum": 1,
+                    "name": "NATT ROAD - WARD2",
+                    "localname": "NATT ROAD - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a7e9260-3a31-4951-9581-f3f695e9947c",
+                "boundaryNum": 1,
+                "name": "WARD3",
+                "localname": "WARD3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "133d2d7a-8fd1-426c-a12b-24c9c62afbb6",
+                    "boundaryNum": 1,
+                    "name": "KOTHIWALA RAH - WARD3",
+                    "localname": "KOTHIWALA RAH - WARD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ff307ea-af89-46a8-86de-5c2cc8ed5076",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f2f7172d-9e44-4905-b215-a07458eaf9a6",
+                    "boundaryNum": 1,
+                    "name": "MAISER MOHALA - WARD4",
+                    "localname": "MAISER MOHALA - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2469ddfa-c7c6-4a36-95f3-0ec4896f2f99",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "95e94391-4381-4eeb-a793-4d86a040e4cb",
+                    "boundaryNum": 1,
+                    "name": "PROF. COLONY - WARD5",
+                    "localname": "PROF. COLONY - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "222f3e22-3252-4b9d-a823-fc90d567e26d",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "9aa21873-763f-466d-b8ea-c3ceb168640e",
+                    "boundaryNum": 1,
+                    "name": "BERIYAWALA MOHALAL - WARD6",
+                    "localname": "BERIYAWALA MOHALAL - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f449db7d-f2c9-4ffe-9893-f4488b3faf14",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6ba2bfa8-7702-4b5f-aa37-c936965af097",
+                    "boundaryNum": 1,
+                    "name": "NEAR GOVT. SEN. SEC SCHOOL - WARD7",
+                    "localname": "NEAR GOVT. SEN. SEC SCHOOL - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aef04711-6e14-4138-ac0d-6cd626018a43",
+                "boundaryNum": 1,
+                "name": "WARD8",
+                "localname": "WARD8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "f5094994-16e2-4cd9-9d67-bfcd4eb36c02",
+                    "boundaryNum": 1,
+                    "name": "GILL KHOO - WARD8",
+                    "localname": "GILL KHOO - WARD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "007ecbc5-0f14-46ca-a14b-8ed8283bd38e",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "5adbd20d-66fc-4f17-85d8-f6f8a293ccf1",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZAR - WARD9",
+                    "localname": "MAIN BAZAR - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e4514cf-dbe1-4aed-a5ae-55c0b11d2907",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f0fe95df-1f99-49d5-9a9e-0198fa18b394",
+                    "boundaryNum": 1,
+                    "name": "BABA DALL SINGH PARK - WARD10",
+                    "localname": "BABA DALL SINGH PARK - WARD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34f3e21a-6069-430e-9ec7-7336b408f2cc",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "35706001-10ba-4e96-8f35-6e6fa755042f",
+                    "boundaryNum": 1,
+                    "name": "NEAR S.C. KHOOHI - WARD11",
+                    "localname": "NEAR S.C. KHOOHI - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab413a0c-8a2d-4250-a213-8c4981544bd8",
+                "boundaryNum": 1,
+                "name": "WARD12",
+                "localname": "WARD12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "3331f87c-8d7f-4466-a29b-8cad34c01838",
+                    "boundaryNum": 1,
+                    "name": "PATIALA BANK ROAD - WARD12",
+                    "localname": "PATIALA BANK ROAD - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ecd79d01-5d26-443f-92a9-f6acd13ac99c",
+                "boundaryNum": 1,
+                "name": "WARD13",
+                "localname": "WARD13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "6224edf3-9c81-4d48-990c-bce1aee5a6b2",
+                    "boundaryNum": 1,
+                    "name": "BABA ATTAR SINGH NAGAR - WARD13",
+                    "localname": "BABA ATTAR SINGH NAGAR - WARD13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "019971aa-dc3a-4a1c-a360-d7b2988cd90f",
+                "boundaryNum": 1,
+                "name": "WARD14",
+                "localname": "WARD14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "0ab0041f-56cf-4f10-9145-3313fdd6498d",
+                    "boundaryNum": 1,
+                    "name": "CHATHA MOHALA - WARD14",
+                    "localname": "CHATHA MOHALA - WARD14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b53c776-7e55-4cdd-a71f-571268f04f94",
+                "boundaryNum": 1,
+                "name": "WARD15",
+                "localname": "WARD15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "4d6f7980-1690-42c6-8778-4b2159508246",
+                    "boundaryNum": 1,
+                    "name": "DIKH MOHALA - WARD15",
+                    "localname": "DIKH MOHALA - WARD15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TSLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
