@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.bhagtabhai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhagtabhai",
+        "localname": "Bhagtabhai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhagtabhai",
+        "children": [
+          {
+            "id": "4f6ccdd7-dcbf-4a90-ad76-822dc06ef873",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "005c587f-be52-4987-9c9e-55d208414a9a",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "659577bb-b557-4b66-9edb-d7aad43dbac6",
+                    "boundaryNum": 1,
+                    "name": "Bhagta Patti - Ward 1",
+                    "localname": "Bhagta Patti - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e13ad319-9d82-4fba-8e40-c613626712ad",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "6c889d72-746c-4a82-a43a-0a40f1bfa3dc",
+                    "boundaryNum": 1,
+                    "name": "Selwara Patti - Ward 2",
+                    "localname": "Selwara Patti - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "571849ba-0c41-4171-a8bf-9a36a4f83b2c",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "46231197-9281-4422-8d0e-a235e1c3b165",
+                    "boundaryNum": 1,
+                    "name": "Selwara Patti - Ward 3",
+                    "localname": "Selwara Patti - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "870591be-3bfe-4844-903a-a5436529ca0a",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "28de7a21-03dd-4322-9cf4-e75a97ad3552",
+                    "boundaryNum": 1,
+                    "name": "Bhagta Patti - Ward 4",
+                    "localname": "Bhagta Patti - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd627a86-4ac6-400a-8d09-8d32ec107d0a",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "0cb2fb79-ac4a-49ba-84ca-eaf07830aace",
+                    "boundaryNum": 1,
+                    "name": "Bajakhana Road - Ward 12",
+                    "localname": "Bajakhana Road - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c115c2ee-e9b0-4d76-8ebe-02a45da7fc12",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "fbe80f91-3ebd-49f4-9f99-c89c941165d9",
+                    "boundaryNum": 1,
+                    "name": "Selwara Patti - Ward 13",
+                    "localname": "Selwara Patti - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6006e52c-6166-45c9-95ce-005f75d622f4",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "ba162256-c9ea-4c5c-9ff6-87be05649554",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "4ef09085-9387-4498-806b-b5d6743a0ce4",
+                    "boundaryNum": 1,
+                    "name": "Fafrah Patti - Ward 5",
+                    "localname": "Fafrah Patti - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "09f1093a-abf1-4d78-84e7-ce3c76c87f28",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "ac03282e-49fa-41ed-9e18-af766153fe52",
+                    "boundaryNum": 1,
+                    "name": "Barnala Road - Ward 6",
+                    "localname": "Barnala Road - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "189e7382-92d7-4281-ae0e-e0ade9fdd50b",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "5a99b411-812d-4694-97d0-85ec453ed0bf",
+                    "boundaryNum": 1,
+                    "name": "Khanna Patti - Ward 7",
+                    "localname": "Khanna Patti - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e26c6a82-a38d-4ab7-b90e-3f02e5771987",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "29851582-2fbf-42fe-b49a-258b959a05eb",
+                    "boundaryNum": 1,
+                    "name": "Khanna Patti - Ward 8",
+                    "localname": "Khanna Patti - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a5cbe76-4cb1-4941-9bcb-e4952c13d392",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "5faf3d9e-2f4d-4446-91f2-62392bc54867",
+                    "boundaryNum": 1,
+                    "name": "Bajakhana Road - Ward 9",
+                    "localname": "Bajakhana Road - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LWD9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
