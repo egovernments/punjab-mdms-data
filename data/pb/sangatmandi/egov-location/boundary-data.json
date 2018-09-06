@@ -1,0 +1,252 @@
+{
+  "tenantId": "pb.sangatmandi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sangatmandi",
+        "localname": "Sangatmandi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sangatmandi",
+        "children": [
+          {
+            "id": "bc17e225-633f-4d87-b282-ce6503da4d5b",
+            "boundaryNum": 1,
+            "name": "Sangat Mandi",
+            "localname": "Sangat Mandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SZN1",
+            "children": [
+              {
+                "id": "f7b6a27c-d964-45a2-91fe-895bb509c47a",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "e0820932-d86b-45f2-8953-2037234ea406",
+                    "boundaryNum": 1,
+                    "name": "Near Sub. Tehsil - Ward1",
+                    "localname": "Near Sub. Tehsil - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a93ab597-6f5d-4609-81f5-4f2a169430f6",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "b30fb2e8-f660-4136-8bdf-2e994d6e172e",
+                    "boundaryNum": 1,
+                    "name": "Near MC Ramesh Area - Ward2",
+                    "localname": "Near MC Ramesh Area - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cda7f530-e037-49eb-a830-c047a128e9c5",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "b0238217-3d60-4e1f-b806-aced8f3ddd17",
+                    "boundaryNum": 1,
+                    "name": "MC Pritpal Area - Ward3",
+                    "localname": "MC Pritpal Area - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94aa4ff9-1825-4c1e-9d2d-1fe4e76a20f6",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "25f7be92-7908-435c-b9f6-5bd7943adad2",
+                    "boundaryNum": 1,
+                    "name": "Near Gurudwara Singh Sabha - Ward4",
+                    "localname": "Near Gurudwara Singh Sabha - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5fd986bf-45d0-4a31-b7fb-2af4de007219",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "acdb9e9b-9f02-41f3-9682-44e37d222481",
+                    "boundaryNum": 1,
+                    "name": "MC Office - Ward5",
+                    "localname": "MC Office - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45a639b7-7c7c-41be-94d5-b47ef92107ce",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "587c07ac-85a6-4664-a855-7482a94a9fd1",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand Area - Ward6",
+                    "localname": "Bus Stand Area - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e60c1fcc-e029-45b4-ac5e-6ab54acc47d0",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "4acb107b-f0c0-4c8b-a61f-ec6e250e7c62",
+                    "boundaryNum": 1,
+                    "name": "MC Gurjeet Kaur Area - Ward7",
+                    "localname": "MC Gurjeet Kaur Area - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25ab8bce-7401-46c8-bd7b-c0c538bfaab5",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "53fe0c44-ee6b-4f4d-8c68-9d24067322b5",
+                    "boundaryNum": 1,
+                    "name": "Jawala Singh Pardhan Area - Ward8",
+                    "localname": "Jawala Singh Pardhan Area - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "597902fa-a987-4eed-a898-e6a5a4950d18",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "7de8f4ac-042a-4efa-9d0e-1a6dbe410173",
+                    "boundaryNum": 1,
+                    "name": "Aganwari Centre Area - Ward9",
+                    "localname": "Aganwari Centre Area - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
