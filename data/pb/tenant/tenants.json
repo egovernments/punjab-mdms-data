@@ -329,7 +329,7 @@
         "captcha": null,
         "code": null
       },
-      "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala – 147001",
+      "address": "Office of the Deputy Commissioner District Administrative Complex, Patiala \u2013 147001",
       "contactNumber": "0175-2311300"
     },
     {
@@ -1021,6 +1021,36 @@
       },
       "address": "",
       "contactNumber": ""
+    },
+    {
+      "code": "pb.testing",
+      "name": "Testing",
+      "description": "Testing",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/logo.png",
+      "imageId": null,
+      "domainUrl": "http://lgpunjab.gov.in/eSewa/Testing",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eonpTesting@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Testing",
+        "localName": "Testing",
+        "districtCode": "10",
+        "districtName": "Jalandhar",
+        "regionName": "Jalandhar Region",
+        "ulbGrade": null,
+        "longitude": 75.3383,
+        "latitude": 31.0824,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1012"
+      },
+      "address": "Near New Bus, Stand Moga Road Testing",
+      "contactNumber": "01821-260114"
     }
   ]
 }
