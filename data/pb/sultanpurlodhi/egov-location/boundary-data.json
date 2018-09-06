@@ -1,0 +1,1428 @@
+{
+  "tenantId": "pb.sultanpurlodhi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "SultanpurLodhi",
+        "localname": "SultanpurLodhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sultanpurlodhi",
+        "children": [
+          {
+            "id": "395260ec-79d6-43be-a465-4186c632d69a",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1ec43452-cf47-4a35-8d8d-bf9e8f151a9e",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "f2af32ae-f0ca-4a27-bb1a-1caf7fd7e586",
+                    "boundaryNum": 1,
+                    "name": "Dhiran - B1",
+                    "localname": "Dhiran - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_1",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c326ff41-cf5c-4341-8447-bae5d8a44a5b",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "06ddb8ad-4583-4c08-a657-c9fe8363d81b",
+                    "boundaryNum": 1,
+                    "name": "Dhandana - B2",
+                    "localname": "Dhandana - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_2",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87494fd7-e401-42d3-923f-f292ac13a162",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "229f7c39-153e-4284-a289-2e266de07b62",
+                    "boundaryNum": 1,
+                    "name": "Sehra Sahib - B3",
+                    "localname": "Sehra Sahib - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_3",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83a965ae-9d23-4a1a-825b-4b5e101a80c6",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "b374c7b8-98cd-42f4-b010-8547b0ddbdda",
+                    "boundaryNum": 1,
+                    "name": "Chownk Arya Smaj - B4",
+                    "localname": "Chownk Arya Smaj - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_4",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc68e057-2f73-4d1d-8007-792eeee26e96",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "af117a7a-b96b-4153-89d1-f3f9d078a00b",
+                    "boundaryNum": 1,
+                    "name": "Udham Singh Chownk to Kapurthala Road - B5",
+                    "localname": "Udham Singh Chownk to Kapurthala Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_5",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95f68e53-f596-4874-9644-0cb26f3c8664",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "a2896354-f4f1-420a-a247-e028c8f534f7",
+                    "boundaryNum": 1,
+                    "name": "Model Town - B6",
+                    "localname": "Model Town - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_6",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f7a87d6e-dc05-45d0-82fb-c9075b1d33f8",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "2a970559-ef01-4f12-8175-578f13cf1445",
+                    "boundaryNum": 1,
+                    "name": "Hakima - B7",
+                    "localname": "Hakima - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_7",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9060fb1e-5237-4212-8748-58e0ff247b9c",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "14604554-e5bc-4975-8c1f-ca8b8376e996",
+                    "boundaryNum": 1,
+                    "name": "Mori - B8",
+                    "localname": "Mori - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_8",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "919b887e-8039-47fe-b798-81d8f61954b6",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "86a692bd-54f4-4407-a8af-789c46aa8aeb",
+                    "boundaryNum": 1,
+                    "name": "Kurlan - B9",
+                    "localname": "Kurlan - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_9",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e41a473e-d5c1-4524-a643-c783698f7176",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "6d61f2a2-4b7a-4e75-a16e-a3eb8acba895",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - B10",
+                    "localname": "Railway Road - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_10",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "038b13ed-90f0-4b27-b525-796cf726adfb",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "3cce87cf-1eb4-4002-b765-3cf72f6bcfc5",
+                    "boundaryNum": 1,
+                    "name": "Thakra - B11",
+                    "localname": "Thakra - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_11",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a430b46b-ada3-44fa-91f0-511549e51043",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "3086a82c-977b-48c0-b4f6-a97a06c8dd69",
+                    "boundaryNum": 1,
+                    "name": "Station - B12",
+                    "localname": "Station - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_12",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2233ff4a-fffe-4e57-acd5-511de474eb93",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "43291923-08d5-447b-891d-b45db4475929",
+                    "boundaryNum": 1,
+                    "name": "Prempura - B13",
+                    "localname": "Prempura - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_13",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba5293ac-3e47-44e0-bf6a-724e97a70418",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "08292cbc-5616-464b-8794-660c7d801ef3",
+                    "boundaryNum": 1,
+                    "name": "Uppla - B14",
+                    "localname": "Uppla - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_14",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "154c3314-b8b8-488f-9aab-964467947e43",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "7f46e6ff-1092-44a8-8bef-db045ff45166",
+                    "boundaryNum": 1,
+                    "name": "Mandi Road - B15",
+                    "localname": "Mandi Road - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_15",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "db2c7c09-3e39-46d5-81f7-1df9cf8e1082",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "5dfe1536-487d-45d6-b35e-cc6f1c58b2fb",
+                    "boundaryNum": 1,
+                    "name": "Mehrian - B16",
+                    "localname": "Mehrian - B16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_16",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2417370e-a66e-45bd-ba0d-7ac51d51438f",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "f2dcde5f-3543-4fa3-9fe8-be956897a32f",
+                    "boundaryNum": 1,
+                    "name": "Naiya - B17",
+                    "localname": "Naiya - B17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_17",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4459e96-6bbd-4642-b459-3b6bbbfbde84",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "68cdfc6b-6c54-4a16-a2d3-430d4a25228b",
+                    "boundaryNum": 1,
+                    "name": "Darzia - B18",
+                    "localname": "Darzia - B18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_18",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fabeafad-760b-4167-97c8-10fb2e71a689",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "04584440-3e72-4d27-a7c7-badd3a1601c7",
+                    "boundaryNum": 1,
+                    "name": "Purian - B19",
+                    "localname": "Purian - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_19",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c55f0cd-1f97-4ab0-a7bf-9ff3abd90cd4",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "62cbf47c-82db-45b0-8b23-82810a8c473d",
+                    "boundaryNum": 1,
+                    "name": "Khinderian - B20",
+                    "localname": "Khinderian - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_20",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cf5dcc8b-94bc-40d6-a3ec-9278084b8aee",
+                "boundaryNum": 1,
+                "name": "Block 21",
+                "localname": "Block 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21",
+                "children": [
+                  {
+                    "id": "1a606176-1e4e-469e-9b11-124441a1bf34",
+                    "boundaryNum": 1,
+                    "name": "Sudan - B21",
+                    "localname": "Sudan - B21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_21",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccc0012b-88c5-4fa8-99ee-a66a55474d78",
+                "boundaryNum": 1,
+                "name": "Block 22",
+                "localname": "Block 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B22",
+                "children": [
+                  {
+                    "id": "b8bee677-c412-4bbe-b7ef-e668ab32cf45",
+                    "boundaryNum": 1,
+                    "name": "Bhara Mall Road - B22",
+                    "localname": "Bhara Mall Road - B22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_22",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75db5d9e-ff2c-435d-a192-6068ed9bbf41",
+                "boundaryNum": 1,
+                "name": "Block 23",
+                "localname": "Block 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B23",
+                "children": [
+                  {
+                    "id": "67227909-4a11-43f9-b747-fbca3a867459",
+                    "boundaryNum": 1,
+                    "name": "Wadda Vehra - B23",
+                    "localname": "Wadda Vehra - B23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_23",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc10fb38-9b17-4d7e-9400-1c4f3350199e",
+                "boundaryNum": 1,
+                "name": "Block 24",
+                "localname": "Block 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B24",
+                "children": [
+                  {
+                    "id": "bcbb64f3-532d-476b-a037-a69ffe743d43",
+                    "boundaryNum": 1,
+                    "name": "Bhandariya - B24",
+                    "localname": "Bhandariya - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_24",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12aebc38-b4bd-4cb7-b887-5a79a3a6e261",
+                "boundaryNum": 1,
+                "name": "Block 25",
+                "localname": "Block 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B25",
+                "children": [
+                  {
+                    "id": "c226ff07-e8fa-444d-b734-cb9ce84787cb",
+                    "boundaryNum": 1,
+                    "name": "Sikhan - B25",
+                    "localname": "Sikhan - B25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_25",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da46ef80-2871-450d-b5eb-fb59184b3321",
+                "boundaryNum": 1,
+                "name": "Block 26",
+                "localname": "Block 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B26",
+                "children": [
+                  {
+                    "id": "577ff99e-1fe6-4fb5-93d9-5ef4dfc7f828",
+                    "boundaryNum": 1,
+                    "name": "Sath Rangra - B26",
+                    "localname": "Sath Rangra - B26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_26",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b2ff662-e296-42c4-b40b-b097e9e6d6da",
+                "boundaryNum": 1,
+                "name": "Block 27",
+                "localname": "Block 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B27",
+                "children": [
+                  {
+                    "id": "f5962ed3-ba64-4243-95cc-55784893aa28",
+                    "boundaryNum": 1,
+                    "name": "Lalarria - B27",
+                    "localname": "Lalarria - B27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_27",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10a5ed04-4bf0-44e7-8599-1b92627f35e8",
+                "boundaryNum": 1,
+                "name": "Block 28",
+                "localname": "Block 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B28",
+                "children": [
+                  {
+                    "id": "2683c17c-fccd-457c-9e1c-7a6fb300c852",
+                    "boundaryNum": 1,
+                    "name": "Karad Garah - B28",
+                    "localname": "Karad Garah - B28",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_28",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dc47522-2bf6-44a5-9d56-a57215a8e06a",
+                "boundaryNum": 1,
+                "name": "Block 29",
+                "localname": "Block 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B29",
+                "children": [
+                  {
+                    "id": "2556d81c-30c5-4dbc-b9a8-de6280d1225f",
+                    "boundaryNum": 1,
+                    "name": "Shah Sultan - B29",
+                    "localname": "Shah Sultan - B29",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_29",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c827f540-03c5-43ca-9d85-a26085e49ce2",
+                "boundaryNum": 1,
+                "name": "Block 30",
+                "localname": "Block 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B30",
+                "children": [
+                  {
+                    "id": "cc6b3862-a7e8-4d3f-b6b6-d24a19ff64a2",
+                    "boundaryNum": 1,
+                    "name": "Nasir Puria - B30",
+                    "localname": "Nasir Puria - B30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_30",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82afbcb1-eb06-436d-9371-e62bc1e751d3",
+                "boundaryNum": 1,
+                "name": "Block 31",
+                "localname": "Block 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B31",
+                "children": [
+                  {
+                    "id": "3a9c4990-ed2d-4337-b998-223c9275e9e4",
+                    "boundaryNum": 1,
+                    "name": "Taxalia - B31",
+                    "localname": "Taxalia - B31",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_31",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbd0398b-dafd-4f65-b571-95af8563ce7d",
+                "boundaryNum": 1,
+                "name": "Block 32",
+                "localname": "Block 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B32",
+                "children": [
+                  {
+                    "id": "e7e9422c-3914-4de6-9263-91f0579722cf",
+                    "boundaryNum": 1,
+                    "name": "Deewana - B32",
+                    "localname": "Deewana - B32",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_32",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67f35f8a-3dd6-4184-93b7-e64e1c60bf73",
+                "boundaryNum": 1,
+                "name": "Block 33",
+                "localname": "Block 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B33",
+                "children": [
+                  {
+                    "id": "97cf5584-5a71-4022-b79b-96f4a5acba7b",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar - B33",
+                    "localname": "Sadar Bazar - B33",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_33",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7eece7d9-c328-49da-822a-d4b6adbe5af1",
+                "boundaryNum": 1,
+                "name": "Block 34",
+                "localname": "Block 34",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B34",
+                "children": [
+                  {
+                    "id": "e776e11b-fc14-44d6-bd26-f5613c4a3135",
+                    "boundaryNum": 1,
+                    "name": "Katra Bazar - B34",
+                    "localname": "Katra Bazar - B34",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_34",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4446fe68-73e7-4361-8dc6-cb19a6bfd70c",
+                "boundaryNum": 1,
+                "name": "Block 35",
+                "localname": "Block 35",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B35",
+                "children": [
+                  {
+                    "id": "7bb9fa5c-da3e-4052-b837-70a03027615a",
+                    "boundaryNum": 1,
+                    "name": "Pakhiwala - B35",
+                    "localname": "Pakhiwala - B35",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_35",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca85609d-7ae6-4357-93bd-4a7194c6e9fc",
+                "boundaryNum": 1,
+                "name": "Block 36",
+                "localname": "Block 36",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B36",
+                "children": [
+                  {
+                    "id": "8e0d38a0-bc94-4c3d-80a5-45b4f1a2b2f6",
+                    "boundaryNum": 1,
+                    "name": "Saidan - B36",
+                    "localname": "Saidan - B36",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_36",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b2af9ea1-4c6d-4220-8ede-b0a021e772a5",
+                "boundaryNum": 1,
+                "name": "Block 37",
+                "localname": "Block 37",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B37",
+                "children": [
+                  {
+                    "id": "4e33d906-7e96-4fb4-9ac0-dc08570ea3f5",
+                    "boundaryNum": 1,
+                    "name": "Kazibagh - B37",
+                    "localname": "Kazibagh - B37",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_37",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1caa96f-c8cb-4e64-a244-f7276871e2d3",
+                "boundaryNum": 1,
+                "name": "Block 38",
+                "localname": "Block 38",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B38",
+                "children": [
+                  {
+                    "id": "7e08803c-30d6-485b-9309-127052fa1e59",
+                    "boundaryNum": 1,
+                    "name": "Arora Rasta - B38",
+                    "localname": "Arora Rasta - B38",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_38",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "956b88f0-54dd-41ee-b417-85dccd980f89",
+                "boundaryNum": 1,
+                "name": "Block 39",
+                "localname": "Block 39",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B39",
+                "children": [
+                  {
+                    "id": "48b53726-747a-41cd-b207-f2e6aa964286",
+                    "boundaryNum": 1,
+                    "name": "Pandori - B39",
+                    "localname": "Pandori - B39",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_39",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c83317ff-5228-43ab-afe5-9efc513a663b",
+                "boundaryNum": 1,
+                "name": "Block 40",
+                "localname": "Block 40",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B40",
+                "children": [
+                  {
+                    "id": "d3e3a8de-6ec0-487b-9f90-349c2bf4f303",
+                    "boundaryNum": 1,
+                    "name": "Prem Nagar - B40",
+                    "localname": "Prem Nagar - B40",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_40",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a30e083-5882-413a-8046-6578080e25eb",
+                "boundaryNum": 1,
+                "name": "Block 41",
+                "localname": "Block 41",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B41",
+                "children": [
+                  {
+                    "id": "5c5be515-08d4-4b3e-832d-98888754fe31",
+                    "boundaryNum": 1,
+                    "name": "Lohian Road Bebe Nanki Nagar - B41",
+                    "localname": "Lohian Road Bebe Nanki Nagar - B41",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_41",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1af9d9d5-6ce7-483e-b5dd-b177102130c6",
+                "boundaryNum": 1,
+                "name": "Block 42",
+                "localname": "Block 42",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B42",
+                "children": [
+                  {
+                    "id": "a5f32bb1-e409-4fc9-bdeb-5c7a9b06dc68",
+                    "boundaryNum": 1,
+                    "name": "Central Town - B42",
+                    "localname": "Central Town - B42",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_42",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d169c667-9e10-4974-ad2d-1db7d8b0e018",
+                "boundaryNum": 1,
+                "name": "Block 43",
+                "localname": "Block 43",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B43",
+                "children": [
+                  {
+                    "id": "48924762-2946-4771-9a50-827634f143cf",
+                    "boundaryNum": 1,
+                    "name": "Baba Jawala Singh Nagar - B43",
+                    "localname": "Baba Jawala Singh Nagar - B43",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_43",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d9d19d97-f1e2-4bd2-9019-b8295bd58049",
+                "boundaryNum": 1,
+                "name": "Block 44",
+                "localname": "Block 44",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B44",
+                "children": [
+                  {
+                    "id": "25065273-58dd-4aa8-b328-e67698c0f956",
+                    "boundaryNum": 1,
+                    "name": "Mal Gaudown Road - B44",
+                    "localname": "Mal Gaudown Road - B44",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_44",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e40b2267-5d81-48f3-8750-8e9839b0c989",
+                "boundaryNum": 1,
+                "name": "Block 45",
+                "localname": "Block 45",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B45",
+                "children": [
+                  {
+                    "id": "410bb84f-b6a0-48c8-b256-a9874189073a",
+                    "boundaryNum": 1,
+                    "name": "Sabji Mandi Road - B45",
+                    "localname": "Sabji Mandi Road - B45",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_45",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13225d36-bd39-4ebf-abe2-3588ba8cda4a",
+                "boundaryNum": 1,
+                "name": "Block 46",
+                "localname": "Block 46",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B46",
+                "children": [
+                  {
+                    "id": "b1b49957-e56d-4356-878e-7720069f38bc",
+                    "boundaryNum": 1,
+                    "name": "Teliya - B46",
+                    "localname": "Teliya - B46",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_46",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dbe91445-04c0-4b77-8f2b-52c988481c3a",
+                "boundaryNum": 1,
+                "name": "Block 47",
+                "localname": "Block 47",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B47",
+                "children": [
+                  {
+                    "id": "b194c8d2-5734-4641-820c-03513b23e97e",
+                    "boundaryNum": 1,
+                    "name": "Cinema Road - B47",
+                    "localname": "Cinema Road - B47",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_47",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e90e8d32-16da-4095-affc-65b376673ef3",
+                "boundaryNum": 1,
+                "name": "Block 48",
+                "localname": "Block 48",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B48",
+                "children": [
+                  {
+                    "id": "ac0b60ab-4894-4317-99aa-363a119fa1ec",
+                    "boundaryNum": 1,
+                    "name": "Jainiya - B48",
+                    "localname": "Jainiya - B48",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_48",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1cea4d42-ac70-4bc0-8851-c106635f839e",
+                "boundaryNum": 1,
+                "name": "Block 49",
+                "localname": "Block 49",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B49",
+                "children": [
+                  {
+                    "id": "08b3a7d7-b7fd-4001-b4fd-84e22f0d1369",
+                    "boundaryNum": 1,
+                    "name": "Salponia - B49",
+                    "localname": "Salponia - B49",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_49",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5bd23756-9e3f-4656-83ca-df61f9dafa7a",
+                "boundaryNum": 1,
+                "name": "Block 50",
+                "localname": "Block 50",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B50",
+                "children": [
+                  {
+                    "id": "ad535970-d1a6-4674-afb5-b3a5962b0baf",
+                    "boundaryNum": 1,
+                    "name": "Rishi Nagar - B50",
+                    "localname": "Rishi Nagar - B50",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_50",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0462bc53-40df-461c-9ebe-03a57642edc8",
+                "boundaryNum": 1,
+                "name": "Block 51",
+                "localname": "Block 51",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B51",
+                "children": [
+                  {
+                    "id": "bb266d34-63e0-4103-bc90-ebf4b6d49426",
+                    "boundaryNum": 1,
+                    "name": "Old Dana Mandi - B51",
+                    "localname": "Old Dana Mandi - B51",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_51",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d45b510-601a-4ac4-aba3-af15816584a3",
+                "boundaryNum": 1,
+                "name": "Block 52",
+                "localname": "Block 52",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B52",
+                "children": [
+                  {
+                    "id": "e2dda790-4f9d-44b1-90e0-430fc9e012fe",
+                    "boundaryNum": 1,
+                    "name": "New Modol Town - B52",
+                    "localname": "New Modol Town - B52",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_52",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da24caf5-a975-42bb-8a02-7a53222ea7d9",
+                "boundaryNum": 1,
+                "name": "Block 53",
+                "localname": "Block 53",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B53",
+                "children": [
+                  {
+                    "id": "bf7bf667-824e-4c94-b135-2690b8a127f7",
+                    "boundaryNum": 1,
+                    "name": "New Dana Mandi - B53",
+                    "localname": "New Dana Mandi - B53",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_53",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59c61529-9000-42f8-85a3-5e98eb884bc4",
+                "boundaryNum": 1,
+                "name": "Block 54",
+                "localname": "Block 54",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B54",
+                "children": [
+                  {
+                    "id": "8af07687-9a16-483d-8d2f-091e5d715789",
+                    "boundaryNum": 1,
+                    "name": "Udham Singh Chownk to Gur Ber Sahib - B54",
+                    "localname": "Udham Singh Chownk to Gur Ber Sahib - B54",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_54",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ec5537b-d857-4142-a2fc-76ecd23c1515",
+                "boundaryNum": 1,
+                "name": "Block 55",
+                "localname": "Block 55",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B55",
+                "children": [
+                  {
+                    "id": "a0cdafbf-ac32-45a9-bded-026a045805e0",
+                    "boundaryNum": 1,
+                    "name": "Talwandi Pul to Vei Chungi - B55",
+                    "localname": "Talwandi Pul to Vei Chungi - B55",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_55",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "427f5942-ba26-46d8-beba-cd5acff74a47",
+                "boundaryNum": 1,
+                "name": "Block 56",
+                "localname": "Block 56",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B56",
+                "children": [
+                  {
+                    "id": "0fce9017-4586-4741-9fc9-2813e63a320d",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar - B56",
+                    "localname": "Guru Nanak Nagar - B56",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_56",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d435140-4fe2-4465-8abd-ae4c0ee46a7b",
+                "boundaryNum": 1,
+                "name": "Block 57",
+                "localname": "Block 57",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B57",
+                "children": [
+                  {
+                    "id": "cab0c57a-45be-4c23-9031-851b0cc762c1",
+                    "boundaryNum": 1,
+                    "name": "Sukh Inqlav - B57",
+                    "localname": "Sukh Inqlav - B57",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_57",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17261c73-f17d-47a0-94a0-bc6e4c60acd4",
+                "boundaryNum": 1,
+                "name": "Block 58",
+                "localname": "Block 58",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B58",
+                "children": [
+                  {
+                    "id": "0c0cb5a2-10c4-452d-88ae-d9d4fd641f5a",
+                    "boundaryNum": 1,
+                    "name": "Urban Astate Pudda Colony - B58",
+                    "localname": "Urban Astate Pudda Colony - B58",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_58",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

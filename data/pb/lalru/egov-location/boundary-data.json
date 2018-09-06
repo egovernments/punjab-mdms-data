@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.lalru",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lalru",
+        "localname": "Lalru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lalru",
+        "children": [
+          {
+            "id": "a3915211-ca31-458b-a9ed-6679420eb766",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f2f05e9c-3dc7-42bd-b75c-f3ee37addd48",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "28396d7c-df70-4d50-b81a-61fcae284fd6",
+                    "boundaryNum": 1,
+                    "name": "Gholumjara - B1",
+                    "localname": "Gholumjara - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "71223967-d66d-40c7-87a8-1f245f5f9213",
+                    "boundaryNum": 1,
+                    "name": "Dappar,Dappar colony - B1",
+                    "localname": "Dappar,Dappar colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa95155f-6ffc-48f9-ba9d-26c53ee6c5dd",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "77ee8394-cfd9-4712-8903-675b62a55510",
+                    "boundaryNum": 1,
+                    "name": "Village lalru - B2",
+                    "localname": "Village lalru - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_3",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5875c7bd-1f47-4a98-ba72-6985f806e863",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "fecdcd03-6578-41f5-b4d6-5b5ae8a0ed18",
+                    "boundaryNum": 1,
+                    "name": "Village lalru - B3",
+                    "localname": "Village lalru - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f6faf58d-ae4e-48a3-8e9d-2b733d2138b4",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "db9597af-8038-469d-8567-c6a20881a28f",
+                    "boundaryNum": 1,
+                    "name": "Lalru Mandi - B4",
+                    "localname": "Lalru Mandi - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3708038-f1ac-4d55-a839-c2ac5fe972d1",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "c17cc67f-d9a1-40cb-887c-a38828b6c7a0",
+                    "boundaryNum": 1,
+                    "name": "Lalru Mandi - B5",
+                    "localname": "Lalru Mandi - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "d77eff6b-2538-4dd3-a2c0-4828cb9af77f",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "9e197052-b3b3-4d6f-aba3-f49a5d226c3c",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "df66fbf4-37d6-40f4-9bc5-34d34e63330c",
+                    "boundaryNum": 1,
+                    "name": "Lehli - B6",
+                    "localname": "Lehli - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5acb475e-9294-457b-9040-57b25673cae8",
+                    "boundaryNum": 1,
+                    "name": "Jalalpur - B6",
+                    "localname": "Jalalpur - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "867ee0d7-3ba3-4298-b98e-930bd7acea16",
+                    "boundaryNum": 1,
+                    "name": "Bassi - B6",
+                    "localname": "Bassi - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db0a4592-0294-4437-954e-fe085310d433",
+                    "boundaryNum": 1,
+                    "name": "Hasanpur - B6",
+                    "localname": "Hasanpur - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6d953b5a-43d3-4ea9-9d6f-653490cb62f2",
+                    "boundaryNum": 1,
+                    "name": "Chaundheri,Samalheri - B6",
+                    "localname": "Chaundheri,Samalheri - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3d4ca021-bbc1-41e2-967d-af67096d23cb",
+                    "boundaryNum": 1,
+                    "name": "Kaulimajra(They colony) - B6",
+                    "localname": "Kaulimajra(They colony) - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac706cdd-be78-4733-b7b6-765acef2087b",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "8ec801f3-ec03-4415-b1f9-5756ddd2428c",
+                    "boundaryNum": 1,
+                    "name": "Alamgir - B7",
+                    "localname": "Alamgir - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9b845c5f-9680-4e91-a7ad-02cf7f756b93",
+                    "boundaryNum": 1,
+                    "name": "Dehar - B7",
+                    "localname": "Dehar - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e3facaf1-9cd8-47d8-9cf7-a046a4062a95",
+                    "boundaryNum": 1,
+                    "name": "Magra - B7",
+                    "localname": "Magra - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LAR_14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

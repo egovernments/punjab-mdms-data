@@ -1,0 +1,959 @@
+{
+  "tenantId": "pb.urmartanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "UrmarTanda",
+        "localname": "UrmarTanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.urmartanda",
+        "children": [
+          {
+            "id": "f03f18e0-7078-4cde-b9cd-f75ae5344846",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bc96d1e4-dbe7-42ac-9e3a-927ff0242273",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a13182f6-a684-4310-ba2d-527d5ee65efe",
+                    "boundaryNum": 1,
+                    "name": "Darapur Byepass to Tanda Pulli - W1",
+                    "localname": "Darapur Byepass to Tanda Pulli - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9a7f1a2-96df-4f24-b1a6-6a30ff4d1eaf",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Urmar - W1",
+                    "localname": "Main Bazar Urmar - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "28d3eff4-6627-442c-8d63-89daebe04a41",
+                    "boundaryNum": 1,
+                    "name": "Tellian Mohalla - W1",
+                    "localname": "Tellian Mohalla - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5cb2d297-e663-4d7d-ae6c-9ac54443149c",
+                    "boundaryNum": 1,
+                    "name": "Mahavir Gali - W1",
+                    "localname": "Mahavir Gali - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f6692723-beae-42a3-a583-cb62bd252867",
+                    "boundaryNum": 1,
+                    "name": "Prem Galli Urmar - W1",
+                    "localname": "Prem Galli Urmar - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5398fd3c-7d2e-4889-997d-5bdb38d6470b",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Darapur - W1",
+                    "localname": "Gobind Nagar Darapur - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "38979b90-79cc-4b3a-8ece-94d99ce792b5",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar Darapur - W1",
+                    "localname": "Preet Nagar Darapur - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7b3db2d0-3e3c-4753-bd18-b2b81728f173",
+                    "boundaryNum": 1,
+                    "name": "Kunj Galli - W1",
+                    "localname": "Kunj Galli - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97a56ead-bbad-4d7d-a9e4-c352fb2b5fb3",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "b2057d9a-2373-4eb0-ab65-bde5774b1481",
+                    "boundaryNum": 1,
+                    "name": "Jaja Chowk - W2",
+                    "localname": "Jaja Chowk - W2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_46",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9c837df6-68e6-40e1-bad9-bdae78adc05a",
+                    "boundaryNum": 1,
+                    "name": "Railway Station to Cinema - W2",
+                    "localname": "Railway Station to Cinema - W2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_47",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2e83b83-fd25-419d-9c4e-10bd2fc5714e",
+                    "boundaryNum": 1,
+                    "name": "Bijli Ghar Colony - W2",
+                    "localname": "Bijli Ghar Colony - W2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_48",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0bc62d58-b51c-4ed7-abe1-f44450655419",
+                    "boundaryNum": 1,
+                    "name": "Chandigarh Colony - W2",
+                    "localname": "Chandigarh Colony - W2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_57",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1a3f276-aee3-4553-bbd5-9f6686f4ca55",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "08812560-97f2-4577-ad76-e39dedea8bde",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagr Tanda - W3",
+                    "localname": "Dashmesh Nagr Tanda - W3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_59",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63c8368e-3dea-4ba8-9332-02a52f58e6ec",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "cbf8730b-03fa-426c-8563-2f176126fca8",
+                    "boundaryNum": 1,
+                    "name": "Basti Ambersaria - W4",
+                    "localname": "Basti Ambersaria - W4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_61",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "586be8fc-2083-4a16-868e-bbb1f8b53857",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "57a6d320-ae89-4b37-bc46-cdafbe1bdf75",
+                    "boundaryNum": 1,
+                    "name": "Ramgarhia Mohalla Tanda - W5",
+                    "localname": "Ramgarhia Mohalla Tanda - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c90ce430-9a9c-43ec-b07d-f291fff00d86",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Baradari - W5",
+                    "localname": "Mohalla Baradari - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_38",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "822e29af-748e-45bd-bade-f02a3efce9f5",
+                    "boundaryNum": 1,
+                    "name": "Dhobian Mohalla - W5",
+                    "localname": "Dhobian Mohalla - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_43",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f6f6d281-8008-4eaa-b1ae-22808d6e9304",
+                    "boundaryNum": 1,
+                    "name": "Roshni Mohalla - W5",
+                    "localname": "Roshni Mohalla - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44d79b77-563a-467a-9f9a-97f3a50521a0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gurudwara Bibian Tanda - W5",
+                    "localname": "Mohalla Gurudwara Bibian Tanda - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_50",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c5943915-716b-4413-a319-07979d118edc",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla Tanda - W5",
+                    "localname": "Balmik Mohalla Tanda - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_58",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c78ea43d-9085-4ad4-832d-a6ebcf56168a",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kacha killa Tanda - W5",
+                    "localname": "Mohalla Kacha killa Tanda - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_62",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a84cedf7-f227-419e-b9e4-e1f5fc986156",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "2961f373-d8c9-4db6-a553-038d680a8839",
+                    "boundaryNum": 1,
+                    "name": "Sainian Mohalla Tanda - W6",
+                    "localname": "Sainian Mohalla Tanda - W6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa4da4c4-e571-4959-afd0-1810b6f5e067",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Tanda - W6",
+                    "localname": "Main Bazar Tanda - W6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_37",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ff30476-084d-48bd-9793-2610a400de90",
+                    "boundaryNum": 1,
+                    "name": "Gobind Gali - W6",
+                    "localname": "Gobind Gali - W6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_41",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5911cc2c-4b5d-41c0-b1ad-4cf241eff593",
+                    "boundaryNum": 1,
+                    "name": "Patwarian Mohalla - W6",
+                    "localname": "Patwarian Mohalla - W6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_42",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c3adc98-f342-4326-b86d-91c116f18147",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "c74cf241-9f9c-42e1-9a44-a4518d31bafe",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand to Bohar Wala chowk - W7",
+                    "localname": "Bus Stand to Bohar Wala chowk - W7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afa91b6e-eead-47ac-8a71-10162a8ea0fe",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "0ea7492b-0a0a-4735-9088-ec0bfef23dfe",
+                    "boundaryNum": 1,
+                    "name": "Sant Prem Singh Nagar - W8",
+                    "localname": "Sant Prem Singh Nagar - W8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_44",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77bb33fe-d767-4ed2-a499-255ef2066fd5",
+                    "boundaryNum": 1,
+                    "name": "Mastgarh Colony - W8",
+                    "localname": "Mastgarh Colony - W8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_45",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9ff2d764-71c0-40b2-9056-aed4c7efb7f1",
+                    "boundaryNum": 1,
+                    "name": "Sahnsian Mohalla - W8",
+                    "localname": "Sahnsian Mohalla - W8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_56",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6dcb33c4-f53f-4b22-b41a-6c973a13775d",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "e0f819e3-997d-4ea6-857f-836a776088a8",
+                    "boundaryNum": 1,
+                    "name": "Civil hospital to Model town road - W9",
+                    "localname": "Civil hospital to Model town road - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c6da307-365e-4f35-abaf-31fdd2366d66",
+                    "boundaryNum": 1,
+                    "name": "Kharka Mohalla - W9",
+                    "localname": "Kharka Mohalla - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7ff1e4b-7fca-4132-8745-3b08206c360e",
+                    "boundaryNum": 1,
+                    "name": "Behlla Mohalla - W9",
+                    "localname": "Behlla Mohalla - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dde0b55c-3e7b-4ac5-9936-98b81427cde0",
+                    "boundaryNum": 1,
+                    "name": "Piplawala Mohalla - W9",
+                    "localname": "Piplawala Mohalla - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "874bddcd-587f-4207-baae-b705af60a4a3",
+                    "boundaryNum": 1,
+                    "name": "Sainian Mohalla - W9",
+                    "localname": "Sainian Mohalla - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5195c1d5-c5ba-419c-ba74-77ae06b0a726",
+                    "boundaryNum": 1,
+                    "name": "Doltpur Mohalla Urmar - W9",
+                    "localname": "Doltpur Mohalla Urmar - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3f6fa5f3-538b-4fa1-b7da-dd56c350e1ed",
+                    "boundaryNum": 1,
+                    "name": "Radha Swami Colony - W9",
+                    "localname": "Radha Swami Colony - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c46c9f5-3375-4646-9eef-6705771f9eb4",
+                    "boundaryNum": 1,
+                    "name": "Nirankari Colony Urmar - W9",
+                    "localname": "Nirankari Colony Urmar - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bde87c8f-6fe4-4e78-80a8-d8897d53d43c",
+                    "boundaryNum": 1,
+                    "name": "Shimla Pahari road to Bab Buta Bhagat Mandir Darapur - W9",
+                    "localname": "Shimla Pahari road to Bab Buta Bhagat Mandir Darapur - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "882d0120-6e6f-4e2f-960d-964e1a31a4e3",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jalian - W9",
+                    "localname": "Mohalla Jalian - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dc126b03-b9af-4cb7-9798-6ca0ca0db19f",
+                    "boundaryNum": 1,
+                    "name": "Inder Galli Urmar - W9",
+                    "localname": "Inder Galli Urmar - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dede253-c6f1-493b-a3be-a479a6ea1a11",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": []
+              },
+              {
+                "id": "9a04e7f6-e59b-4730-8f92-828e83187eeb",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "99f29bea-31d7-4514-b8aa-549d90d2105f",
+                    "boundaryNum": 1,
+                    "name": "Miani Road Ahiyapur - W11",
+                    "localname": "Miani Road Ahiyapur - W11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "19a0862e-ab16-446d-b417-5e9e4536065a",
+                    "boundaryNum": 1,
+                    "name": "Ramgarhia Mohalla - W11",
+                    "localname": "Ramgarhia Mohalla - W11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e9d1d58-11cc-4dee-9f57-391ec4c57ff6",
+                    "boundaryNum": 1,
+                    "name": "Mahashian Mohalla Urmr - W11",
+                    "localname": "Mahashian Mohalla Urmr - W11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_53",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "abc4d8ab-9452-421b-8979-50b0f61ba153",
+                    "boundaryNum": 1,
+                    "name": "Garhi Mohalla Urmar - W11",
+                    "localname": "Garhi Mohalla Urmar - W11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_54",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c2ebfcb6-858a-42e7-aee4-038e56c38123",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "1ab438c1-70cb-4a27-9df8-4b4b77e093d0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sonarian - W12",
+                    "localname": "Mohalla Sonarian - W12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_39",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2cadf4b-a5c8-46a9-8bd4-728d769569f9",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jainian - W12",
+                    "localname": "Mohalla Jainian - W12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_40",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6d8e0940-0d8a-4e27-ab3f-36f5701d188f",
+                    "boundaryNum": 1,
+                    "name": "kaloty Nagar (Back side Cinema) - W12",
+                    "localname": "kaloty Nagar (Back side Cinema) - W12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_60",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6f26255-e7b4-4de0-9deb-d51b83805f8f",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "a95222b3-8755-4fd9-b183-6c87088c98d0",
+                    "boundaryNum": 1,
+                    "name": "Marwaha Gali Ahiyapur - W13",
+                    "localname": "Marwaha Gali Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b24325af-fc49-4b48-9931-145c4b5e16fa",
+                    "boundaryNum": 1,
+                    "name": "Ram Gali Ahiyapur - W13",
+                    "localname": "Ram Gali Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a5956c20-e648-490b-bddc-3f3dc4f9c008",
+                    "boundaryNum": 1,
+                    "name": "Krishna Gali Ahiyapur - W13",
+                    "localname": "Krishna Gali Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fc3ad2b9-9f7e-4c73-a6f6-7ae4b124628f",
+                    "boundaryNum": 1,
+                    "name": "Purya Mohalla Ahiyapur - W13",
+                    "localname": "Purya Mohalla Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3cff6f80-9678-48db-9781-c02eae440867",
+                    "boundaryNum": 1,
+                    "name": "Prem Gali Ahiyapur - W13",
+                    "localname": "Prem Gali Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6b5bb7dc-7e96-4a9a-920b-b996ade282b9",
+                    "boundaryNum": 1,
+                    "name": "Arjan Dev Mohalla Ahiyapur - W13",
+                    "localname": "Arjan Dev Mohalla Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "90cda4bc-b70f-43c1-9c42-c037fa45ed0a",
+                    "boundaryNum": 1,
+                    "name": "Baba Puran Giri Mandir road Ahiyapur - W13",
+                    "localname": "Baba Puran Giri Mandir road Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "438c3ca7-813a-464e-98bf-35383bf0a00f",
+                    "boundaryNum": 1,
+                    "name": "Tibbi Mohalla Ahiyapur - W13",
+                    "localname": "Tibbi Mohalla Ahiyapur - W13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_52",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37d7b6f7-8104-44f8-84c8-2a41c8374247",
+                "boundaryNum": 1,
+                "name": "Ward 14",
+                "localname": "Ward 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "28036c4f-5fa3-4d8c-8e66-15984dc1e960",
+                    "boundaryNum": 1,
+                    "name": "Reffuji Mohalla Ahiyapur - W14",
+                    "localname": "Reffuji Mohalla Ahiyapur - W14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ad6c5a0-3af6-4d07-b015-819eb0bb7807",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla Ahiyapur - W14",
+                    "localname": "Balmik Mohalla Ahiyapur - W14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_51",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe16c45f-3d59-42de-b391-c28e8c3de458",
+                "boundaryNum": 1,
+                "name": "Ward 15",
+                "localname": "Ward 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "3b404e93-655c-4f8a-8ed3-63a5ac070935",
+                    "boundaryNum": 1,
+                    "name": "Sahota Colony Urmar - W15",
+                    "localname": "Sahota Colony Urmar - W15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "35d9e3fc-e31a-4245-9eb4-0b90594723bc",
+                    "boundaryNum": 1,
+                    "name": "Lahoria Mohalla - W15",
+                    "localname": "Lahoria Mohalla - W15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a2c1e96c-41ba-463b-ae44-cc1d4c8e06bc",
+                    "boundaryNum": 1,
+                    "name": "Sighpura Mohalla - W15",
+                    "localname": "Sighpura Mohalla - W15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "72984f18-59ce-4464-90fa-1309f19a92c0",
+                    "boundaryNum": 1,
+                    "name": "Munka Wali Galli - W15",
+                    "localname": "Munka Wali Galli - W15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c13210bb-625d-4c26-96d9-0e59f4859e69",
+                    "boundaryNum": 1,
+                    "name": "Bamlik Mohalla Urmar - W15",
+                    "localname": "Bamlik Mohalla Urmar - W15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "URT_55",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

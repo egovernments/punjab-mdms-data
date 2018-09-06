@@ -571,6 +571,252 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Alawalpur",
+        "localname": "Alawalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.alawalpur",
+        "children": [
+          {
+            "id": "e691e99c-9fc3-4bdb-8841-32bdf1df349d",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6dd8e2a1-9f8c-438c-b8bd-c74701630f8a",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "82d5f170-12ff-44d4-8411-093038780e8f",
+                    "boundaryNum": 1,
+                    "name": "Main bazar - B1",
+                    "localname": "Main bazar - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43659d4d-d6a6-49ed-9b9a-c94b7fe079ac",
+                    "boundaryNum": 1,
+                    "name": "Kishangarh road - B1",
+                    "localname": "Kishangarh road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d59fb956-793d-4b2f-8615-89a5cc27d5c1",
+                    "boundaryNum": 1,
+                    "name": "Sikandpur road - B1",
+                    "localname": "Sikandpur road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9d27f049-cdfe-48ab-a890-5c6ee6b601f7",
+                    "boundaryNum": 1,
+                    "name": "Alawalpur  Adampur main road - B1",
+                    "localname": "Alawalpur  Adampur main road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31d6b018-93d0-4045-8ea4-1b8a13550806",
+                    "boundaryNum": 1,
+                    "name": "Beas Pind road,Alawalpur - B1",
+                    "localname": "Beas Pind road,Alawalpur - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5187c328-b557-46de-9e9c-00cbe1240e77",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "4ae6aab2-d9d2-4060-b24c-da7ae2d062e2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Julaha, - B2",
+                    "localname": "Mohalla Julaha, - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1d30a31b-24a4-4a34-9774-298157d0e751",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Tawela,Bhandaria,Ramgarhia, Kila - B2",
+                    "localname": "Mohalla Tawela,Bhandaria,Ramgarhia, Kila - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "541d5211-1c51-428c-9906-54de4ab56c82",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Balmiki, Rishi Nagar - B2",
+                    "localname": "Mohalla Balmiki, Rishi Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e5d2a4c4-859a-49b1-9435-bcc7195518b0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thathi,Shahparwana,Kundan Virdh Ashram - B2",
+                    "localname": "Mohalla Thathi,Shahparwana,Kundan Virdh Ashram - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cc38076e-3efe-4b97-b52c-0ccb9950dc45",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ramdasspur - B2",
+                    "localname": "Mohalla Ramdasspur - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a0944532-fdf4-4b5f-9364-2f4234f25375",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Navipur,lesariwal road - B2",
+                    "localname": "Mohalla Navipur,lesariwal road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ef62bb46-64f9-44e3-805d-c40e28418a88",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sarhia,Mishra,Geeta Bhawan - B2",
+                    "localname": "Mohalla Sarhia,Mishra,Geeta Bhawan - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "77824851-e6c6-47bc-b4df-acbcd5c82307",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Janda Sahib,Padiya,Chatti Gali - B2",
+                    "localname": "Mohalla Janda Sahib,Padiya,Chatti Gali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "db41eddd-0a55-4a27-9ca7-cbcf07e7ade1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Prem Nagar - B2",
+                    "localname": "Mohalla Prem Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d69cb2f9-67df-45bb-bbf5-aa303fe89b44",
+                    "boundaryNum": 1,
+                    "name": "Mohalla New Model Town,Basant Vihar,Chup Shah - B2",
+                    "localname": "Mohalla New Model Town,Basant Vihar,Chup Shah - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f60dc738-5cf3-46fa-a740-b9098abcccb2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sunder Nagar, Pahidiya - B2",
+                    "localname": "Mohalla Sunder Nagar, Pahidiya - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AL16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

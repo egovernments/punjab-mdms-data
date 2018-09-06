@@ -1,0 +1,468 @@
+{
+  "tenantId": "pb.garhshankar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Garhshankar",
+        "localname": "Garhshankar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.garhshankar",
+        "children": [
+          {
+            "id": "1b46569b-b29e-4266-9867-bbf032073a94",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fe0787bc-d2c4-427c-aa22-040dc0437070",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "dede6669-c744-403f-b0de-94da8cdc0462",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Mohalla - B1",
+                    "localname": "Bhatta Mohalla - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dc02f7c5-7813-46e3-939b-87d656739817",
+                    "boundaryNum": 1,
+                    "name": "Raika Mohalla - B1",
+                    "localname": "Raika Mohalla - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e80c1c66-77ba-44ab-bf5f-0b7786f15e3b",
+                    "boundaryNum": 1,
+                    "name": "Ghatti Mohalla - B1",
+                    "localname": "Ghatti Mohalla - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_3",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "72d16956-f124-4b46-b2ac-6760890addc5",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - B1",
+                    "localname": "Jourrian Mohalla - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1d53bb61-7768-487f-bb09-fc760b6d1f42",
+                    "boundaryNum": 1,
+                    "name": "DAV College Road - B1",
+                    "localname": "DAV College Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6084c74c-67c3-49e3-88d7-2b47f25ba61d",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "85809fc6-5fba-451f-91b1-a1ae8bbd10cb",
+                    "boundaryNum": 1,
+                    "name": "Pansarian Mohalla - B2",
+                    "localname": "Pansarian Mohalla - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c3960fb4-4e4b-4a78-9b21-2ebaf312d2d7",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - B2",
+                    "localname": "Jourrian Mohalla - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bb27b96b-e1e4-4094-8b82-d71adca84eef",
+                    "boundaryNum": 1,
+                    "name": "Bada Roza - B2",
+                    "localname": "Bada Roza - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_8",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "e499c2ee-1841-4850-80ea-17ece8b96344",
+                    "boundaryNum": 1,
+                    "name": "Fatehpur Road - B2",
+                    "localname": "Fatehpur Road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_9",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "aac90458-589d-4223-aa0e-481445110a41",
+                    "boundaryNum": 1,
+                    "name": "Moti Nagar - B2",
+                    "localname": "Moti Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_10",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "d9aba0de-d471-4b02-8c4d-f64871685d0d",
+                    "boundaryNum": 1,
+                    "name": "Dr Longia Mohalla - B2",
+                    "localname": "Dr Longia Mohalla - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "165b89bc-5710-4981-b176-47c560f48433",
+                    "boundaryNum": 1,
+                    "name": "Banga Road - B2",
+                    "localname": "Banga Road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e64ebe02-a2bb-4ff5-9023-035d61787d93",
+                    "boundaryNum": 1,
+                    "name": "Sri Guru Nanak Nagar - B2",
+                    "localname": "Sri Guru Nanak Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f45f1479-df21-449f-a1af-2f0aefdc3cb5",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "45759372-73c3-4b79-9048-913da909f426",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - B3",
+                    "localname": "Railway Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a68688f8-0b30-4bd2-903c-edba2f8e8f29",
+                    "boundaryNum": 1,
+                    "name": "Hoshairpur Road - B3",
+                    "localname": "Hoshairpur Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0e1ea6b-585d-4844-a2fd-2fdea7d2c2ec",
+                    "boundaryNum": 1,
+                    "name": "Mount Carmel School - B3",
+                    "localname": "Mount Carmel School - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3f63db59-08a0-4c62-a8c9-fb79abeabfa3",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi Road - B3",
+                    "localname": "Dana Mandi Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "825d9223-8050-48f8-9e99-8a28c4008538",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B3",
+                    "localname": "Main Bazar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3e88bac1-14de-4165-aca9-91675c26a4a3",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - B3",
+                    "localname": "Jourrian Mohalla - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dfddb0b7-bf1d-423d-ac7b-4ee6962d5942",
+                    "boundaryNum": 1,
+                    "name": "Parmod Nagar - B3",
+                    "localname": "Parmod Nagar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_20",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6cefe6c-ba75-4529-a4e0-99c9ee502e6e",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "47b51c6a-ffe1-4a0e-b28d-a42b65f05cda",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar - B4",
+                    "localname": "Ram Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_21",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "4ad54bea-f167-48da-9dc3-5d1262464f38",
+                    "boundaryNum": 1,
+                    "name": "Sham Nagar - B4",
+                    "localname": "Sham Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_22",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "e585f5cd-3a47-4354-b73c-21d7127d0ad7",
+                    "boundaryNum": 1,
+                    "name": "Nangal Road - B4",
+                    "localname": "Nangal Road - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f5963f9-8843-488d-ad03-8fd0e7585b89",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar - B4",
+                    "localname": "Adarsh Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_24",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ab3f7510-414f-4724-85b3-55e726b3daae",
+                    "boundaryNum": 1,
+                    "name": "Santokh Nagar - B4",
+                    "localname": "Santokh Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f59c2518-0b92-4cf2-97af-96564084ac41",
+                    "boundaryNum": 1,
+                    "name": "Minarva School Mohalla - B4",
+                    "localname": "Minarva School Mohalla - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_26",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2336dc12-3463-489b-8cf5-97ea4e19c4bf",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "a57c1261-0086-40e9-a8c5-c0bc185b6977",
+                    "boundaryNum": 1,
+                    "name": "Anandpur Sahib Road - B5",
+                    "localname": "Anandpur Sahib Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9d274a00-3a6b-47c0-a73b-e0bd458b66fe",
+                    "boundaryNum": 1,
+                    "name": "Deep Colony - B5",
+                    "localname": "Deep Colony - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "484bf7ae-17c7-430e-871f-db5e2088510c",
+                    "boundaryNum": 1,
+                    "name": "Dr Ambadekar Nagar - B5",
+                    "localname": "Dr Ambadekar Nagar - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_29",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e8b4878f-c4c6-4cad-9d96-a2fef72cdaf4",
+                    "boundaryNum": 1,
+                    "name": "Kashmir Singh Nagar - B5",
+                    "localname": "Kashmir Singh Nagar - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_30",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "88f5d1dc-d457-4175-8c8f-466429c62ca6",
+                    "boundaryNum": 1,
+                    "name": "Parmar Colony - B5",
+                    "localname": "Parmar Colony - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK_31",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "tenantId": "pb.hariana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Hariana",
+        "localname": "Hariana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.hariana",
+        "children": [
+          {
+            "id": "918ac174-4554-4073-98da-0e135cc8a58f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a3d0949b-388f-4810-ad85-bf0757325b99",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "1f72c41b-e0f0-42f5-bc09-467e12001b0d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Udam Singh Nagar - B1",
+                    "localname": "Mohalla Udam Singh Nagar - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40288d28-c698-44b5-9dec-cffc0e530603",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dholwaha Road - B1",
+                    "localname": "Mohalla Dholwaha Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39fc330d-a9c9-438b-9c86-df9afe168275",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "e78e5efd-4d49-4a1a-9e5b-b2b21f3f3356",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Putri Path Shala - B2",
+                    "localname": "Mohalla Putri Path Shala - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5581aee0-b807-45c9-82d1-f64f362b688c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Main Bazar - B2",
+                    "localname": "Mohalla Main Bazar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "84192219-f113-42ee-9ea1-ebcdbe21daaf",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Back Side G.G.D.S.D College - B2",
+                    "localname": "Mohalla Back Side G.G.D.S.D College - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd42ba32-1538-4f6a-85a2-1ab2345b14a6",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "109c4649-da20-4983-be4c-f66c4a0a322b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mishra - B3",
+                    "localname": "Mohalla Mishra - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a60520d9-fdab-426a-a137-8cf91a486644",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ratri Mandir - B3",
+                    "localname": "Mohalla Ratri Mandir - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "715a2a7a-4ca2-428c-b58b-55e160ba18e2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gandhian - B3",
+                    "localname": "Mohalla Gandhian - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ce1a45a1-4bf2-4460-b01b-c291782ecf1e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Surajain Bazar - B3",
+                    "localname": "Mohalla Surajain Bazar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "29c079d8-53fb-42a1-b546-8357c0dd6a09",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sarafain - B3",
+                    "localname": "Mohalla Sarafain - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8033857b-98e6-43b6-9ebd-85015f310359",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mehgian - B3",
+                    "localname": "Mohalla Mehgian - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "34858ca8-501c-4a45-868a-c9b91c1600b3",
+                    "boundaryNum": 1,
+                    "name": "Mohalla D.C.M Chownk - B3",
+                    "localname": "Mohalla D.C.M Chownk - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a22caeec-571b-4cf5-9553-ce5297884e13",
+                    "boundaryNum": 1,
+                    "name": "MohallaVijain - B3",
+                    "localname": "MohallaVijain - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_24",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3b99ffdb-2a35-4558-8783-9bb0748de39f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Commeti Bazar - B3",
+                    "localname": "Mohalla Commeti Bazar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31e68e3f-0df1-478a-90fd-87a74b7b0de8",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "a5edb368-e399-4944-bed8-72bbb5f25070",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bhallian - B4",
+                    "localname": "Mohalla Bhallian - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d5139b02-9af2-4ccc-8a85-230054ea3baf",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bank Bali Gali - B4",
+                    "localname": "Mohalla Bank Bali Gali - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c7798044-e9ec-49a2-84e3-d74e5f48a73f",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "5b69a92b-e380-4a1b-9238-9be1fb0828fd",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thathiran Bazar - B5",
+                    "localname": "Mohalla Thathiran Bazar - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "55d4417d-f273-4cab-adfc-48192fe6824e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Arorian - B5",
+                    "localname": "Mohalla Arorian - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c15879dc-f2c0-472f-b084-b1ec27b6180b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Delhi Gate - B5",
+                    "localname": "Mohalla Delhi Gate - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4733de12-16c8-4baa-9fe5-81a6eeb71c3b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Nebuain - B5",
+                    "localname": "Mohalla Nebuain - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4dc779c6-e994-44f8-a7da-7067631c4b13",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "5c6a0207-62fa-49d3-9a94-e1b00a76737c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Tajpurian - B6",
+                    "localname": "Mohalla Tajpurian - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2c40e25b-bfa2-4914-8564-6f9d346c0175",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kanugo - B6",
+                    "localname": "Mohalla Kanugo - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6acdb6e1-98bd-4695-94f5-a71c6df69835",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ranka - B6",
+                    "localname": "Mohalla Ranka - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fac4897f-366a-44df-be7d-7d7a0a60ea0f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Boli Chownk - B6",
+                    "localname": "Mohalla Boli Chownk - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "de6954ac-658a-42c9-a9ae-b200ce8cc20c",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "fa605bf4-4147-4c77-ac6d-68201157d92b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Nelian - B7",
+                    "localname": "Mohalla Nelian - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "291b478d-cfd6-4563-a789-25f275435438",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Telian - B7",
+                    "localname": "Mohalla Telian - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_26",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a2ba3471-a160-4129-95c7-a6a69eb3832f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Soian - B7",
+                    "localname": "Mohalla Soian - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "abb2d55d-0648-4bd4-81c6-2b8e1848cdd4",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "d8792cc1-9de9-4fbb-896d-54decf19f5e2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kashmirian - B8",
+                    "localname": "Mohalla Kashmirian - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a3e099f7-3313-42a8-b589-5105b60b24f9",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "750aa5d5-4ca2-4561-8d0b-dcc428a6c50b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mehtian - B9",
+                    "localname": "Mohalla Mehtian - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5425b5cf-eb4c-4a2f-bc12-a6f69b86c7c5",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "1437ba0f-551e-4019-b231-3a2f74a030c6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ramgarian - B10",
+                    "localname": "Mohalla Ramgarian - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "541f7041-f519-4875-9d81-ba02ecdc7cb4",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gugga Pati - B10",
+                    "localname": "Mohalla Gugga Pati - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_32",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "19c2de16-c6ce-48b7-83d2-00d5f2cbba3e",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "17da8e60-56db-47a5-989d-f9735d9ba707",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dholeshah - B11",
+                    "localname": "Mohalla Dholeshah - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f12ba3f7-ea4f-4e1d-b243-d3ca7da37472",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Pahari Gate - B11",
+                    "localname": "Mohalla Pahari Gate - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a21bd739-5a59-4e9b-8512-6750d5c64f76",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Back Side Petrol Pumap - B11",
+                    "localname": "Mohalla Back Side Petrol Pumap - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HRN_34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

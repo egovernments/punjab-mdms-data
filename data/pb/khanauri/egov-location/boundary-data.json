@@ -1,0 +1,276 @@
+{
+  "tenantId": "pb.khanauri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khanauri",
+        "localname": "Khanauri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.khanauri",
+        "children": [
+          {
+            "id": "3fc1610f-a030-47ba-8bcc-fa1937a18c12",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b77c4fb1-bba9-4634-aab4-07b334901bc0",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "caef37b2-2579-435b-a5f2-13a6fb5f9aeb",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road Mandvi Road to Patran Road - B1",
+                    "localname": "Gaushala Road Mandvi Road to Patran Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a4489059-7f24-4c5a-b33f-804ff292f284",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road Mandvi Road to Patran Road - B1",
+                    "localname": "Gaushala Road Mandvi Road to Patran Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e8965c0-cecc-44f2-8ad4-89485e085f16",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "4d67fbd2-56f6-4f0b-9ad1-019da6e7f74a",
+                    "boundaryNum": 1,
+                    "name": "Main Road and FCI - B2",
+                    "localname": "Main Road and FCI - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86ec45e6-94b8-4acf-9d3e-253bc0e938f4",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "fc9b7c42-9878-43ec-9a93-0bfeb9ffc795",
+                    "boundaryNum": 1,
+                    "name": "Narwana Road, Kaithal Road, Barar Colony - B4",
+                    "localname": "Narwana Road, Kaithal Road, Barar Colony - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d9715415-bd25-41be-a200-f7c1bb88c231",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "70f73d60-b8f3-4a54-a6ec-994c913fbeb0",
+                    "boundaryNum": 1,
+                    "name": "MASTER COLONY AND SHIV COLONY - B5",
+                    "localname": "MASTER COLONY AND SHIV COLONY - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fb0b1445-afd6-4c3a-b7ce-2913eb75e025",
+                    "boundaryNum": 1,
+                    "name": "THEKEDAR WALI GALI SIDE - B5",
+                    "localname": "THEKEDAR WALI GALI SIDE - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bbef6672-95dc-421e-a7a1-3d5a3ca4adb3",
+                    "boundaryNum": 1,
+                    "name": "THEKEDAR WALI GALI SIDE - B5",
+                    "localname": "THEKEDAR WALI GALI SIDE - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aae64205-24ed-4c57-9b6c-a835a57ba5f7",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD - B5",
+                    "localname": "MAIN ROAD - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "736bc4c5-4712-4842-a478-4f132fd21aad",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "9fe57343-1647-49b7-bf25-93452304061a",
+                    "boundaryNum": 1,
+                    "name": "KHANAURI VILLAGE - B6",
+                    "localname": "KHANAURI VILLAGE - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e93fc146-deb3-4810-b233-1c7935fcb7e6",
+                    "boundaryNum": 1,
+                    "name": "KHANAURI VILLAGE - B6",
+                    "localname": "KHANAURI VILLAGE - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "abb94a2c-b15d-4400-91df-f3952ebb24de",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "d785cf7f-31b3-46e9-ac50-5484ca52fa94",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "7a9af28a-f108-4180-a41c-41b6303f3bf5",
+                    "boundaryNum": 1,
+                    "name": "Sukhdev Colony, Markit Commeti Back Side, Dasmesh Colony, Lal Godown - B3",
+                    "localname": "Sukhdev Colony, Markit Commeti Back Side, Dasmesh Colony, Lal Godown - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "157c80b6-ff83-4667-adde-0517abb75592",
+                    "boundaryNum": 1,
+                    "name": "Main Road and FCI - B3",
+                    "localname": "Main Road and FCI - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a94af3c2-6d4e-4456-935b-b49c9689b006",
+                    "boundaryNum": 1,
+                    "name": "Main Road and FCI - B3",
+                    "localname": "Main Road and FCI - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KHN-10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
