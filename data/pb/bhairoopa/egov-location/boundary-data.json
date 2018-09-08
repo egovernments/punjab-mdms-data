@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.bhairoopa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhairoopa",
+        "localname": "Bhairoopa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhairoopa",
+        "children": [
+          {
+            "id": "d3054a3e-7c0f-40ab-86e7-16bfbb993fd9",
+            "boundaryNum": 1,
+            "name": "Bhairoopa",
+            "localname": "Bhairoopa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "78ac516a-d4a7-4e04-9e65-8927c44c3bd9",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "8812bd94-5575-4255-bb2d-6c1ab9dfe284",
+                    "boundaryNum": 1,
+                    "name": "Near Dera Khoo Wala - Ward1",
+                    "localname": "Near Dera Khoo Wala - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d9f3fd6-949a-4310-9618-7ff0b1d579e6",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "428296b7-3b2a-4733-b7c1-706fa181ba0f",
+                    "boundaryNum": 1,
+                    "name": "Near Water Works - Ward2",
+                    "localname": "Near Water Works - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cfadae34-577c-4200-90fa-4894d0a0ac95",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "5e438c92-5a67-472d-8beb-ea62fe91ffc5",
+                    "boundaryNum": 1,
+                    "name": "Near Gaushala - Ward3",
+                    "localname": "Near Gaushala - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99ee9d95-b253-424c-80d3-ef7544eca409",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "358e2dac-e5e4-408c-ad11-d03fb64a5582",
+                    "boundaryNum": 1,
+                    "name": "Gumti road - Ward4",
+                    "localname": "Gumti road - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b32469e3-48df-4e6a-85a2-9ee04c952a77",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "df008ee2-4959-461d-9e73-ba470cde283a",
+                    "boundaryNum": 1,
+                    "name": "Phul Da agwaad - Ward5",
+                    "localname": "Phul Da agwaad - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1036c5d6-035f-4c61-9e4f-edad0e46a2b3",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "59d3b396-7a4b-44c8-b41d-8740b42213f0",
+                    "boundaryNum": 1,
+                    "name": "namdhari agwaad - Ward6",
+                    "localname": "namdhari agwaad - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac6ef175-5e11-4296-9c83-8b5b4f5674a8",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "d959e39e-fd1e-48ce-b032-41de923e70bd",
+                    "boundaryNum": 1,
+                    "name": "Near Vishavkarma Mandir - Ward7",
+                    "localname": "Near Vishavkarma Mandir - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6e1a1d0-b509-4cd8-81ad-7e98927f7b2f",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "e173e288-8b4d-45e7-964b-d8b54378da8d",
+                    "boundaryNum": 1,
+                    "name": "Near Gurdwara Patsahi 6th - Ward8",
+                    "localname": "Near Gurdwara Patsahi 6th - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e990587f-2676-47eb-abe0-029162a7189b",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "fc6273b9-7297-4623-8a78-952bb6c81613",
+                    "boundaryNum": 1,
+                    "name": "Dharampal Street - Ward9",
+                    "localname": "Dharampal Street - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32f51454-68d0-4add-8236-c6c8ed14597b",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "778ec419-84e3-488e-98ed-76db5bc36aeb",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti - Ward10",
+                    "localname": "Bazigar Basti - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69fa61db-0064-471f-9c08-28ffc1b7441f",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "90bb8c6c-8d09-4cb6-804f-d017a8d4c109",
+                    "boundaryNum": 1,
+                    "name": "Near Karamchand ki Dharamshala - Ward11",
+                    "localname": "Near Karamchand ki Dharamshala - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9dfda28-116d-4ebf-b8b6-12f7984bf9e2",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "7940e00d-b149-4658-badc-e8e750fdb16e",
+                    "boundaryNum": 1,
+                    "name": "Mansarowar Gurdwara Sahib - Ward12",
+                    "localname": "Mansarowar Gurdwara Sahib - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a38c9485-7c2a-4fc8-aa58-e1105f75bc5a",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "928219d7-79df-4b30-8133-d879c2a81092",
+                    "boundaryNum": 1,
+                    "name": "Manne Ka agwaar, Jalal Road - Ward13",
+                    "localname": "Manne Ka agwaar, Jalal Road - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
