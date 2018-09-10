@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.boha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Boha",
+        "localname": "Boha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.boha",
+        "children": [
+          {
+            "id": "3c6d3ff0-a8fa-4b7f-9de2-fcea959111ba",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "64e381d4-0696-4dfc-b789-f0592ba45ed9",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "c1fb4e8f-4ed1-4097-a1b3-4d4a3b7731e7",
+                    "boundaryNum": 1,
+                    "name": "CHAMBA BASTI - Ward1",
+                    "localname": "CHAMBA BASTI - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 01",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa42814d-07f2-47af-8414-db9faf26fb55",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "f3a1cc8e-92be-4036-b4fe-9c73b64c9525",
+                    "boundaryNum": 1,
+                    "name": "NAJUL BASTI - Ward2",
+                    "localname": "NAJUL BASTI - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 02",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73d6767d-8c9c-47d1-93dc-407eba2b5c06",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "52aa6799-e3c8-466b-ad13-f8ed44042a5f",
+                    "boundaryNum": 1,
+                    "name": "SUNDER BASTI - Ward3",
+                    "localname": "SUNDER BASTI - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a34a721-8a04-4a1b-99be-9beb00774365",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "cd19b2e7-59af-4c6a-9461-75f22f68e572",
+                    "boundaryNum": 1,
+                    "name": "TIBBA BASTI - Ward4",
+                    "localname": "TIBBA BASTI - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "641cc640-625a-44a3-9674-ee100e5c08fd",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "8f1ef140-47ae-4252-b96f-93bdf841d1d4",
+                    "boundaryNum": 1,
+                    "name": "BAZZIGAR BASTI - Ward5",
+                    "localname": "BAZZIGAR BASTI - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 05",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07ae3c72-e01c-4b15-8111-73820f04ea6a",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "2060f1a0-f91a-438f-ab12-447b20f188eb",
+                    "boundaryNum": 1,
+                    "name": "MADANIA VIHRA - Ward6",
+                    "localname": "MADANIA VIHRA - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9c59731-5f70-45a5-9c33-4f8c5d675e8b",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "fe39e64b-d195-46d0-9803-8378cf8f6387",
+                    "boundaryNum": 1,
+                    "name": "SARDARA PATTI - Ward7",
+                    "localname": "SARDARA PATTI - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98ba40ea-198b-4777-9702-bedc11d0975b",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "a2ff356f-eb66-4636-baef-fcc79fa1b437",
+                    "boundaryNum": 1,
+                    "name": "RAMDASIA VIHRA - Ward8",
+                    "localname": "RAMDASIA VIHRA - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8224509e-6159-4f25-b577-dcc8c5b09dcf",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "c5f8c8d7-8284-4587-8487-991a8791307d",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZZAR - Ward9",
+                    "localname": "MAIN BAZZAR - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 09",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8b198a8b-1f4e-481e-9625-0315e83f5c55",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "a299ccbf-2b4d-4cf8-ab0a-14aed27e1e16",
+                    "boundaryNum": 1,
+                    "name": "BAG VIHRA - Ward10",
+                    "localname": "BAG VIHRA - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54be436a-dcc1-4b91-a231-7f27b21fada5",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "122eecc4-8224-45a9-b06f-1211bd766d11",
+                    "boundaryNum": 1,
+                    "name": "ARORIA DA MAHULLA - Ward11",
+                    "localname": "ARORIA DA MAHULLA - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5b83bb2c-f86e-4acc-8533-2e54cdeb886d",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "cf903ca2-5f9d-41cd-a44d-56694becd4df",
+                    "boundaryNum": 1,
+                    "name": "GADARPATTI - Ward12",
+                    "localname": "GADARPATTI - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c20eac5-d7db-48b7-a123-87fd35321654",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "105a39b8-fedc-4e2c-af44-11483319f527",
+                    "boundaryNum": 1,
+                    "name": "GADARPATTI - Ward13",
+                    "localname": "GADARPATTI - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC 13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
