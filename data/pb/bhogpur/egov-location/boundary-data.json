@@ -4,8 +4,8 @@
   "TenantBoundary": [
     {
       "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
+        "code": "ADMIN",
+        "name": "ADMIN"
       },
       "boundary": {
         "id": 1,
@@ -18,7 +18,7 @@
         "code": "pb.bhogpur",
         "children": [
           {
-            "id": "72755e5a-26a1-469b-932f-e668b3dc9f1f",
+            "id": "cad89466-1c8f-4831-986d-9a0c8dc5f208",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -28,397 +28,457 @@
             "code": "Z1",
             "children": [
               {
-                "id": "dc78bd90-d44c-4e44-815d-ca580bdb68ac",
+                "id": "6accf18e-1990-41aa-83f9-c643e19c8f05",
                 "boundaryNum": 1,
-                "name": "Block 1",
-                "localname": "Block 1",
+                "name": "WARD 1",
+                "localname": "WARD 1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B1",
+                "code": "Ward1",
                 "children": [
                   {
-                    "id": "9077b013-e77f-48af-926b-398dfe6a0a35",
+                    "id": "02dc9802-1c8e-43f2-9e90-da61f98474e9",
                     "boundaryNum": 1,
-                    "name": "Guru Nanak Nagar - B1",
-                    "localname": "Guru Nanak Nagar - B1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_1",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "8dcaa853-cb2e-4798-8711-f0e23e3c845b",
-                    "boundaryNum": 1,
-                    "name": "Roop Nagar - B1",
-                    "localname": "Roop Nagar - B1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_2",
-                    "area": "AREA2",
-                    "children": []
-                  },
-                  {
-                    "id": "b9791dc5-a2ba-4893-b7bf-81e6acf6b88d",
-                    "boundaryNum": 1,
-                    "name": "Baba Mast Colony - B1",
-                    "localname": "Baba Mast Colony - B1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_3",
-                    "area": "AREA2",
-                    "children": []
-                  },
-                  {
-                    "id": "6829730c-303f-42bc-98a4-77253deb7455",
-                    "boundaryNum": 1,
-                    "name": "Bullowal Road - B1",
-                    "localname": "Bullowal Road - B1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_4",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "ceb80621-b5bf-436f-b82c-5b69c4a047df",
-                "boundaryNum": 1,
-                "name": "Block 2",
-                "localname": "Block 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B2",
-                "children": [
-                  {
-                    "id": "9891bf2c-b2df-4ed3-b2d5-a6f8e4aec3b9",
-                    "boundaryNum": 1,
-                    "name": "Adarsh Nagar - B2",
-                    "localname": "Adarsh Nagar - B2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_5",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "7a16f871-a5ac-4fe7-8a9c-9fe1f78104ea",
-                    "boundaryNum": 1,
-                    "name": "Guru Ravidass Nagar - B2",
-                    "localname": "Guru Ravidass Nagar - B2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_6",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0e9868b2-d4ac-48dc-b3cc-a1392f10d5ac",
-                "boundaryNum": 1,
-                "name": "Block 3",
-                "localname": "Block 3",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B3",
-                "children": [
-                  {
-                    "id": "ebbb2a77-e532-438d-a42f-17835cc48cd0",
-                    "boundaryNum": 1,
-                    "name": "Basant Vihar - B3",
-                    "localname": "Basant Vihar - B3",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_7",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "66a612dd-1335-4257-91c3-8b5dc84c6fc6",
-                    "boundaryNum": 1,
-                    "name": "Dashmesh Nagar - B3",
-                    "localname": "Dashmesh Nagar - B3",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_8",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "50b05a5a-857b-4f58-8ec1-6496bc6db0c5",
-                    "boundaryNum": 1,
-                    "name": "Rose Park Colony - B3",
-                    "localname": "Rose Park Colony - B3",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_9",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "2ef7fd42-8862-4a26-8726-43744e88c8e1",
-                    "boundaryNum": 1,
-                    "name": "Adampur Road - B3",
-                    "localname": "Adampur Road - B3",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_10",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "83dfda21-5a10-4fa2-982e-84b2f6eae002",
-                "boundaryNum": 1,
-                "name": "Block 4",
-                "localname": "Block 4",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B4",
-                "children": [
-                  {
-                    "id": "3a66dd05-9f9d-4a41-8e8d-aa49cf52d544",
-                    "boundaryNum": 1,
-                    "name": "Navi Abadi - B4",
-                    "localname": "Navi Abadi - B4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_11",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "c2fc9c83-f394-4f6d-bea3-85a401c169c0",
-                    "boundaryNum": 1,
-                    "name": "Seeta Ram Wali Gali - B4",
-                    "localname": "Seeta Ram Wali Gali - B4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_12",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "ccba1e5f-5f30-4fb1-8a88-eeb8ef129d82",
-                    "boundaryNum": 1,
-                    "name": "Dr. Thakur Wali Gali - B4",
-                    "localname": "Dr. Thakur Wali Gali - B4",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_13",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "a264d02b-c690-4d1a-9821-291035e0d548",
-                "boundaryNum": 1,
-                "name": "Block 5",
-                "localname": "Block 5",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B5",
-                "children": [
-                  {
-                    "id": "65a8caa5-97d4-437b-8eb6-6e7bb379e7e4",
-                    "boundaryNum": 1,
-                    "name": "Arora Muhalla - B5",
-                    "localname": "Arora Muhalla - B5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_14",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "88c2d70f-089b-44cc-a2e5-ffc463967321",
-                    "boundaryNum": 1,
-                    "name": "Dr. Mittal wali gali - B5",
-                    "localname": "Dr. Mittal wali gali - B5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_15",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "a9f9c8e3-171f-47bc-a6e3-708686e81192",
-                    "boundaryNum": 1,
-                    "name": "Chaura Bazaar - B5",
-                    "localname": "Chaura Bazaar - B5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_16",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "9aac8b41-51fd-47c4-a247-ad108136b434",
-                    "boundaryNum": 1,
-                    "name": "Railway Road - B5",
-                    "localname": "Railway Road - B5",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_17",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "874ea6fb-9431-478a-ba57-8ee41bb6207f",
-                "boundaryNum": 1,
-                "name": "Block 6",
-                "localname": "Block 6",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B6",
-                "children": [
-                  {
-                    "id": "af1bb22b-d846-477b-9caa-05f9b30e7170",
-                    "boundaryNum": 1,
-                    "name": "Purani Abadi - B6",
-                    "localname": "Purani Abadi - B6",
+                    "name": "Purani Abadi - WARD 1",
+                    "localname": "Purani Abadi - WARD 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_18",
-                    "area": "AREA2",
+                    "area": "",
                     "children": []
                   },
                   {
-                    "id": "bd7172f3-3c38-470b-b6d5-9ad815bcd9d5",
+                    "id": "438020cd-365e-4f5f-8139-9ea9bd765f1e",
                     "boundaryNum": 1,
-                    "name": "Jattan Muhalla - B6",
-                    "localname": "Jattan Muhalla - B6",
+                    "name": "Jattan Muhalla - WARD 1",
+                    "localname": "Jattan Muhalla - WARD 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_19",
-                    "area": "AREA1",
+                    "area": "",
                     "children": []
                   },
                   {
-                    "id": "1b03cdcc-d2c6-4669-8698-51c5058d5648",
+                    "id": "c283ca5c-4652-46a1-a42e-782f36ea8c98",
                     "boundaryNum": 1,
-                    "name": "Ghumiara Muhalla - B6",
-                    "localname": "Ghumiara Muhalla - B6",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_20",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "810b2980-03cd-4db1-bba9-65e3e11d1800",
-                "boundaryNum": 1,
-                "name": "Block 7",
-                "localname": "Block 7",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B7",
-                "children": [
-                  {
-                    "id": "2e3a334e-9084-4cd9-b76d-09b7867d61a8",
-                    "boundaryNum": 1,
-                    "name": "Shakti Nagar - B7",
-                    "localname": "Shakti Nagar - B7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_21",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "555f2526-7f77-4995-a159-75f41458879a",
-                    "boundaryNum": 1,
-                    "name": "Laroi Road - B7",
-                    "localname": "Laroi Road - B7",
+                    "name": "Laroi Road - WARD 1",
+                    "localname": "Laroi Road - WARD 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_22",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "0ac0dbce-bfba-44cc-8485-8f4befaacd55",
-                    "boundaryNum": 1,
-                    "name": "Loharan Road - B7",
-                    "localname": "Loharan Road - B7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_23",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "9c221819-5822-46f6-b004-84da61bafaef",
-                    "boundaryNum": 1,
-                    "name": "Guru Ramdass Nagar - B7",
-                    "localname": "Guru Ramdass Nagar - B7",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "BH_24",
-                    "area": "AREA1",
+                    "area": "",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "55111885-d3e4-420e-8468-43583091c13e",
+                "id": "83f49082-cc7d-4076-9b9a-564eb099bbcf",
                 "boundaryNum": 1,
-                "name": "Block 8",
-                "localname": "Block 8",
+                "name": "WARD 2",
+                "localname": "WARD 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B8",
+                "code": "Ward2",
                 "children": [
                   {
-                    "id": "97d0834c-622d-47ed-a85c-ec7724c6fbd0",
+                    "id": "1739067c-8b20-4e2e-89d1-0e0fd4acdb5f",
                     "boundaryNum": 1,
-                    "name": "Dalli - B8",
-                    "localname": "Dalli - B8",
+                    "name": "Roop Nagar - WARD 2",
+                    "localname": "Roop Nagar - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "92edbe15-176a-41b8-9dde-d57ba55cc11f",
+                    "boundaryNum": 1,
+                    "name": "Ghumiara Muhalla - WARD 2",
+                    "localname": "Ghumiara Muhalla - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0e53ded9-b83e-4ccf-8ec4-391e35abac55",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "de472055-5181-4541-96c2-75a2ad28ce52",
+                    "boundaryNum": 1,
+                    "name": "Baba Mast Colony - WARD 3",
+                    "localname": "Baba Mast Colony - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f92159f4-eed6-4171-9a83-68e002cae030",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "129fe5fe-5f79-4448-b5b9-60ad5a4c780c",
+                    "boundaryNum": 1,
+                    "name": "Bullowal Road - WARD 4",
+                    "localname": "Bullowal Road - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2eb7400f-f387-4775-a6c4-055c8281b385",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "764a36f5-9e4e-4805-b759-ba5607b1c33d",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar - WARD 5",
+                    "localname": "Guru Nanak Nagar - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a255516d-8f39-4684-9165-156396f35a22",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "03bece29-2221-44fc-83a1-314bfca5a524",
+                    "boundaryNum": 1,
+                    "name": "Basant Vihar - WARD 6",
+                    "localname": "Basant Vihar - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5fa75f08-d6f1-4009-ba8e-97b8691f22d0",
+                    "boundaryNum": 1,
+                    "name": "Navi Abadi - WARD 6",
+                    "localname": "Navi Abadi - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fb5ee1bd-98f6-49eb-a5c3-06ce65a8121c",
+                    "boundaryNum": 1,
+                    "name": "Seeta Ram Wali Gali - WARD 6",
+                    "localname": "Seeta Ram Wali Gali - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3754cc17-5c28-4b0a-9822-e47cc90b9307",
+                    "boundaryNum": 1,
+                    "name": "Dr. Thakur Wali Gali - WARD 6",
+                    "localname": "Dr. Thakur Wali Gali - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d98808d6-13d9-4eb9-8e5d-79324bfc23ad",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "cbb8dde2-6f7e-4e80-ab21-9d34a613be90",
+                    "boundaryNum": 1,
+                    "name": "Guru Ravidass Nagar - WARD 7",
+                    "localname": "Guru Ravidass Nagar - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2823a05b-8380-4cc2-b240-4cb983134a79",
+                    "boundaryNum": 1,
+                    "name": "Adampur Road - WARD 7",
+                    "localname": "Adampur Road - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5342b216-2f37-445d-814c-23fbdc3ad58d",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "74fab0be-64ec-49f2-b385-c1dff621dad4",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar - WARD 8",
+                    "localname": "Adarsh Nagar - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72bb541d-5631-46cd-af0a-0f30743884e8",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar - WARD 8",
+                    "localname": "Dashmesh Nagar - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "67f91e4e-4e36-4d3b-82a2-c087e88128aa",
+                    "boundaryNum": 1,
+                    "name": "Rose Park Colony - WARD 8",
+                    "localname": "Rose Park Colony - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32d485db-505e-42f9-9ee4-e3e9cdccad00",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "8985fbd4-9af4-4108-a5fe-4ed1c282db8e",
+                    "boundaryNum": 1,
+                    "name": "Dalli - WARD 9",
+                    "localname": "Dalli - WARD 9",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "BH_25",
-                    "area": "AREA1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07b5d9cd-c000-400f-9238-231b1e8feb48",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "63a83216-3452-45a5-af58-881ec935d74b",
+                    "boundaryNum": 1,
+                    "name": "Guru Ramdass Nagar - WARD 10",
+                    "localname": "Guru Ramdass Nagar - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f24537df-f262-43fa-b813-847bb50d6709",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "cabfe370-69e1-4a3e-87f9-b0f4fee0aace",
+                    "boundaryNum": 1,
+                    "name": "Loharan Road - WARD 11",
+                    "localname": "Loharan Road - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb3dab29-607f-4abd-90ca-0580b71cc8d4",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "021434d1-79fc-463d-938e-cc583f3b64e4",
+                    "boundaryNum": 1,
+                    "name": "Arora Muhalla - WARD 12",
+                    "localname": "Arora Muhalla - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "694001c7-62b7-43a2-a6ca-dd4e122878d4",
+                    "boundaryNum": 1,
+                    "name": "Dr. Mittal wali gali - WARD 12",
+                    "localname": "Dr. Mittal wali gali - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc94dd74-2e2b-48f6-80f1-c0f99d5ee0f6",
+                    "boundaryNum": 1,
+                    "name": "Chaura Bazaar - WARD 12",
+                    "localname": "Chaura Bazaar - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6d218e5b-4ccb-4168-bf36-5350bcc19b2c",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - WARD 12",
+                    "localname": "Railway Road - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5b17073-2458-4045-98a3-6e5fd408ef7e",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "62ecc7d3-32e0-4844-96dc-d604d4d05be3",
+                    "boundaryNum": 1,
+                    "name": "Shakti Nagar - WARD 13",
+                    "localname": "Shakti Nagar - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_21",
+                    "area": "",
                     "children": []
                   }
                 ]
