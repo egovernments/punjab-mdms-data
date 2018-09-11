@@ -1,0 +1,360 @@
+{
+  "tenantId": "pb.mehraj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mehraj",
+        "localname": "Mehraj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mehraj",
+        "children": [
+          {
+            "id": "49d88ca2-edca-4b48-838d-88c239a9e812",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d3caa01f-7896-45b0-84f4-3d511d86023e",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "9bcd3e28-387f-4977-98d3-0d415b9ad227",
+                    "boundaryNum": 1,
+                    "name": "Dream land school - Ward 1",
+                    "localname": "Dream land school - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "028cc858-94ff-4d1d-96bc-f38b28d3504e",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "5c7e7213-bd3d-4791-bfc1-deac71edeaba",
+                    "boundaryNum": 1,
+                    "name": "GAUNSHALLA - Ward 2",
+                    "localname": "GAUNSHALLA - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b2172be-b530-471c-9ae3-9ee6d5cdb946",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "148b636b-3b6b-430f-a08a-3b0e5cedab7f",
+                    "boundaryNum": 1,
+                    "name": "Baba jiwan singh gurudwara - Ward 3",
+                    "localname": "Baba jiwan singh gurudwara - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "080060c1-3983-468b-a815-d8907fdb0967",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "4be675d2-4e9b-48e6-b39e-75d8fbae2fe4",
+                    "boundaryNum": 1,
+                    "name": "Flyiawala gurudwara - Ward 4",
+                    "localname": "Flyiawala gurudwara - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ea65d8d0-eb89-4dab-bf7d-aa6e38cffc7e",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "0a2835c4-4de3-4903-bf4b-f3e1e36232cb",
+                    "boundaryNum": 1,
+                    "name": "Park - Ward 7",
+                    "localname": "Park - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd425f84-fc18-46c4-b14c-e328c83197ac",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "fb493419-f641-4a63-a5a6-2f686ab4469c",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Ramsara - Ward 8",
+                    "localname": "Gurudwara Ramsara - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1294af48-8fca-4614-94c4-ec6345e1d10b",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "9c65edc0-61fe-432d-b85f-87b144a71805",
+                    "boundaryNum": 1,
+                    "name": "Agaanwari center - Ward 12",
+                    "localname": "Agaanwari center - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "101127d2-fbc2-4367-8dff-904edeebf143",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "00d53501-5dcb-4e39-9a69-2bc2d0a6f2fa",
+                    "boundaryNum": 1,
+                    "name": "civil hospital - Ward 13",
+                    "localname": "civil hospital - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f5d0a3e1-1a99-4c7f-86a1-a82fde8633d2",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "50c48794-75e6-49d3-8e4a-3a1b42acbd9e",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "c20c5592-dba7-407d-b292-c2902d3d411d",
+                    "boundaryNum": 1,
+                    "name": "Bus stand - Ward 5",
+                    "localname": "Bus stand - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a25108c-d693-4bf5-9f64-86526be45c24",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "7d789d75-4e4b-43cb-926f-9a3e7eb10475",
+                    "boundaryNum": 1,
+                    "name": "Co-op society - Ward 6",
+                    "localname": "Co-op society - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da87916c-a1df-4f76-aaf6-99fc552eff61",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "c52d746a-361a-458d-a050-87d73ff0eaa9",
+                    "boundaryNum": 1,
+                    "name": "Kotli Bazar - Ward 9",
+                    "localname": "Kotli Bazar - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bcfad865-c369-4d34-8796-b722fd4af10a",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "aa5a29a1-b367-4db5-bc25-ff7733cc3958",
+                    "boundaryNum": 1,
+                    "name": "NP office - Ward 10",
+                    "localname": "NP office - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c81d1fec-52e0-448a-a15c-77621fa98252",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "426f1164-4923-4b60-8acb-6d43671730f7",
+                    "boundaryNum": 1,
+                    "name": "Grain market - Ward 11",
+                    "localname": "Grain market - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MEH11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
