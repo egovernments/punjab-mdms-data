@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.balachaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "balachaur",
+        "localname": "balachaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.balachaur",
+        "children": [
+          {
+            "id": "3200e439-c2a8-43b5-af49-639fd1ed7ced",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "963a7da1-8518-4c6f-b72a-b3f2bf8fb85b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "8a923155-27bf-4d49-bc06-803c27395a39",
+                    "boundaryNum": 1,
+                    "name": "Siana - WARD_1",
+                    "localname": "Siana - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3204e541-f484-40de-a109-5869eaa2c825",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "54ca55b4-4b7d-4614-940d-2d3c10e35a8c",
+                    "boundaryNum": 1,
+                    "name": "Rolu colony - WARD_2",
+                    "localname": "Rolu colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3224c741-cbe5-4903-9a6d-c5a55ec11d04",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "d8747543-e877-4294-9f87-6c778e4621f5",
+                    "boundaryNum": 1,
+                    "name": "Sheller Colony - WARD_3",
+                    "localname": "Sheller Colony - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c295bdf7-a95e-45b7-a6dc-fc91d3304844",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "866f5149-9ddb-455b-a663-1d06f95f1010",
+                    "boundaryNum": 1,
+                    "name": "Baba Balraj College (back side) - WARD_4",
+                    "localname": "Baba Balraj College (back side) - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "780de688-15a3-48b6-8c57-1e6431f86501",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "b2196240-7841-433d-a826-c98028810d19",
+                    "boundaryNum": 1,
+                    "name": "Ram Mandir - WARD_5",
+                    "localname": "Ram Mandir - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27f4e69b-ebcc-4174-999a-0d679ff422a5",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "60e797a3-96ae-4a74-aa49-281f7273acdc",
+                    "boundaryNum": 1,
+                    "name": "B.A.V. Sr. Sec. School &Teacher Colony - WARD_6",
+                    "localname": "B.A.V. Sr. Sec. School &Teacher Colony - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f159b93d-93ab-40c6-98d8-fda5e00a6046",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "bb531773-84e5-47ac-a312-032b6b6e162b",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi - WARD_7",
+                    "localname": "Dana Mandi - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0413d95b-45fb-4ee9-bbfe-41ab383bdbb3",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "b0eac7ae-0fd2-40b8-8254-1457151a0635",
+                    "boundaryNum": 1,
+                    "name": "Old Civil Hospital & Durga Mandir - WARD_8",
+                    "localname": "Old Civil Hospital & Durga Mandir - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84ea7153-6559-460d-93d9-d06fe4cac097",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "667f49ee-4b00-42c4-a14a-0dc2d67657bf",
+                    "boundaryNum": 1,
+                    "name": "Raika Colony & Shiv Mandir - WARD_9",
+                    "localname": "Raika Colony & Shiv Mandir - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef3882c8-3f90-4849-a4ec-356e07d1e047",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "2689a29e-0249-48fc-9c96-e8d57bdb0532",
+                    "boundaryNum": 1,
+                    "name": "Sita Ram Mandir - WARD_10",
+                    "localname": "Sita Ram Mandir - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7f72caa-b5d5-40f2-a421-3afc75782b4d",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "7dbeb45b-2c2c-4aec-94b5-9e6f81593adb",
+                    "boundaryNum": 1,
+                    "name": "Nirmal Dera Gurudura Sahib - WARD_11",
+                    "localname": "Nirmal Dera Gurudura Sahib - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "534283ba-7bd2-4459-8534-68be8564f13a",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "ac99dc84-eac6-4c8b-a846-f7070eabdd6e",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Mandir - WARD_12",
+                    "localname": "Ravidas Mandir - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02e90c01-58ff-4657-9a5e-e7fb78025054",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "61677322-00f3-4f8e-8ae5-6d96f90aeda5",
+                    "boundaryNum": 1,
+                    "name": "Mc Office & Bhatra Mohala - WARD_13",
+                    "localname": "Mc Office & Bhatra Mohala - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ea61bc5a-b6b8-4cea-8ab9-aa8da780f520",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "9945c33e-5a74-41f9-a513-66e062528642",
+                    "boundaryNum": 1,
+                    "name": "Singh sabha Gurudura & Ravidas Mandir - WARD_14",
+                    "localname": "Singh sabha Gurudura & Ravidas Mandir - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "751a349c-3af3-4a27-9ff3-6586ada0785c",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "53069912-2f76-461b-8d3f-0be8376665e8",
+                    "boundaryNum": 1,
+                    "name": "Bajaj Milan Palace - WARD_15",
+                    "localname": "Bajaj Milan Palace - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
