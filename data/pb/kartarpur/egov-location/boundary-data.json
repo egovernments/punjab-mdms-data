@@ -1,0 +1,1212 @@
+{
+  "tenantId": "pb.kartarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kartarpur",
+        "localname": "kartarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kartarpur",
+        "children": [
+          {
+            "id": "951f3ace-b10a-47f1-bc58-3ec40d11652a",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8ee3228d-89b1-4b9a-91df-906e5e5919ec",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "30079263-2403-493b-a551-0e051ce64e53",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Charkhdi Wala A - Ward No. 1",
+                    "localname": "Mohalla Charkhdi Wala A - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "68d30e4f-4157-41b4-b59c-4439e5d684cc",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bohar Wala A - Ward No. 1",
+                    "localname": "Mohalla Bohar Wala A - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f7c3b39-0547-44ef-b104-25062ee89a6b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Katni Gate A - Ward No. 1",
+                    "localname": "Mohalla Katni Gate A - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "82812cf6-1915-4a4e-8bc8-68a7a0626d34",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bhai Bhara - Ward No. 1",
+                    "localname": "Mohalla Bhai Bhara - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b9de0de-3f1d-4828-96e8-e4e8f6bfe8d1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Tikriyan - Ward No. 1",
+                    "localname": "Mohalla Tikriyan - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd82bf55-5fb5-4d15-8546-0676ff434b03",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mata Guzari - Ward No. 1",
+                    "localname": "Mohalla Mata Guzari - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3939b6f0-793d-43f2-9717-7daf4db9a811",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dyalpur Gate A - Ward No. 1",
+                    "localname": "Mohalla Dyalpur Gate A - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ca85ab3-d272-48ea-a36c-44cbc2bbde17",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "0a0e046e-81c6-4fb0-826e-576a0175b0df",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dyalpur Gate B - Ward No. 2",
+                    "localname": "Mohalla Dyalpur Gate B - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bacb6517-fdc2-4512-8365-c88c42015e22",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Charkhdi Wala B - Ward No. 2",
+                    "localname": "Mohalla Charkhdi Wala B - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9f293dc4-21e8-4522-8e72-f93f2ee12190",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bohar Wala B - Ward No. 2",
+                    "localname": "Mohalla Bohar Wala B - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ca8d841-fb93-45dd-8b4a-b0f1be2b5208",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Katni Gate B - Ward No. 2",
+                    "localname": "Mohalla Katni Gate B - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15e76a9d-d9f2-4d7f-b0a3-1b38be5a6399",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "d19f9c44-0818-4d13-aad6-a60f5cab1548",
+                    "boundaryNum": 1,
+                    "name": "Bania Bazar - Ward No. 3",
+                    "localname": "Bania Bazar - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0717575-40c7-4f0c-b84b-776c6057c8b0",
+                    "boundaryNum": 1,
+                    "name": "Matt wali Gali - Ward No. 3",
+                    "localname": "Matt wali Gali - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6a0c4487-7711-4402-bbbe-2d234586480b",
+                    "boundaryNum": 1,
+                    "name": "Dafatar Wali Gali - Ward No. 3",
+                    "localname": "Dafatar Wali Gali - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5b329f2f-6156-4283-b361-81ba1eebd117",
+                    "boundaryNum": 1,
+                    "name": "Kila Kothi - Ward No. 3",
+                    "localname": "Kila Kothi - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "564f7709-847d-4107-9106-c440e96fed04",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Naiyan - Ward No. 3",
+                    "localname": "Mohalla Naiyan - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9cf1f883-bb9f-4f57-b969-1a19b4aebc05",
+                    "boundaryNum": 1,
+                    "name": "Gali Gulab Singh - Ward No. 3",
+                    "localname": "Gali Gulab Singh - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b0aced86-a32b-4156-8802-8d2563788bc6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla pandiyan A - Ward No. 3",
+                    "localname": "Mohalla pandiyan A - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "63272563-856f-4c63-87f4-4ccbdaf083be",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khatika B - Ward No. 3",
+                    "localname": "Mohalla Khatika B - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "583e606d-d73d-4ecf-b1d8-a4eaa6b36ff8",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bania Mohalla B - Ward No. 3",
+                    "localname": "Mohalla Bania Mohalla B - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e30479e-ff4e-42fc-90ac-6471a9e999a4",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "6a7fe931-da3d-4565-8dc8-b836839018cc",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kaly Wala - Ward No. 4",
+                    "localname": "Mohalla Kaly Wala - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2ca2119d-191d-4c28-b512-4a4dc14e9b95",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sethan - Ward No. 4",
+                    "localname": "Mohalla Sethan - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e3dfc17f-57bd-442d-95a3-bf3fc7a15261",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sekhriyan - Ward No. 4",
+                    "localname": "Mohalla Sekhriyan - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68d2bdda-0c9e-49b2-8f45-f33d7fe6920a",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "201612ba-8b49-42a4-b00c-87712c8fe7dc",
+                    "boundaryNum": 1,
+                    "name": "Moh Akalgarh - Ward No. 5",
+                    "localname": "Moh Akalgarh - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7b21bd34-7bef-4a81-8d86-546e97f83e13",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Chodiyan - Ward No. 5",
+                    "localname": "Mohalla Chodiyan - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bc0bf8bb-4bab-47ed-af38-ad58ee9bbe5b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Suriyan - Ward No. 5",
+                    "localname": "Mohalla Suriyan - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "03b8d0ba-00bb-476d-a40a-3266fff53966",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Imli Wala - Ward No. 5",
+                    "localname": "Mohalla Imli Wala - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2094a0e4-fe68-463b-9a7a-175bc85ccc2e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Chiri Munj - Ward No. 5",
+                    "localname": "Mohalla Chiri Munj - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc8072be-e917-41ed-a1ca-05557d826072",
+                    "boundaryNum": 1,
+                    "name": "Baradari Bazar A - Ward No. 5",
+                    "localname": "Baradari Bazar A - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9bddd0b8-9a66-4ce9-8116-5ebd1908982d",
+                    "boundaryNum": 1,
+                    "name": "Arya Bazar A - Ward No. 5",
+                    "localname": "Arya Bazar A - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1e9817f7-a391-458e-9083-3ae159a3dd49",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar B - Ward No. 5",
+                    "localname": "Main Bazar B - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "81110eba-3b55-4366-8a41-3c59e601d83a",
+                    "boundaryNum": 1,
+                    "name": "Gangsar Bazar B - Ward No. 5",
+                    "localname": "Gangsar Bazar B - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1be4045b-6c3a-431d-8fe0-ca896aaeed22",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "b1f45338-c60e-43db-adbd-6480e7f9643c",
+                    "boundaryNum": 1,
+                    "name": "Jand Wali Gali - Ward No. 6",
+                    "localname": "Jand Wali Gali - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3169dcaa-1549-4e2f-a293-3970e1f0f671",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bhaliyan - Ward No. 6",
+                    "localname": "Mohalla Bhaliyan - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b97bbd4-3b89-4424-9f08-66d4a3b50995",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gandhi Nagar - Ward No. 6",
+                    "localname": "Mohalla Gandhi Nagar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f54e3a6f-6697-4f84-9850-b6f9cb376ba8",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Aadrash Nagar - Ward No. 6",
+                    "localname": "Mohalla Aadrash Nagar - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6bb9772f-57ed-421f-8c05-cd3c4bf52e9d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shiv Puri - Ward No. 6",
+                    "localname": "Mohalla Shiv Puri - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12762d41-dd4b-478a-8904-a40539f5d2c0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khatika A - Ward No. 6",
+                    "localname": "Mohalla Khatika A - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b12d03e6-8885-4022-91ec-04f9bbb4a8d4",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "9e53ffa2-afef-4064-8f79-ef9adfad10e1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khalifa Gate - Ward No. 7",
+                    "localname": "Mohalla Khalifa Gate - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a434c0e3-691c-4806-8b71-9fc167c6f505",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Lohara - Ward No. 7",
+                    "localname": "Mohalla Lohara - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "835bde92-d7a2-49a3-b31a-b837409f4679",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rola Wala - Ward No. 7",
+                    "localname": "Mohalla Rola Wala - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f47c565e-8815-4b73-bc29-6b53790d58fb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sonia - Ward No. 7",
+                    "localname": "Mohalla Sonia - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2e4a6d06-c429-4a23-bcdb-865bc6601983",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Pakka Bagh B - Ward No. 7",
+                    "localname": "Mohalla Pakka Bagh B - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "37e2a67b-4ed5-4c0e-bc1f-8f537509336e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla pandiyan B - Ward No. 7",
+                    "localname": "Mohalla pandiyan B - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8eb45ba1-975e-446c-b7e8-476460c03501",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bania Mohalla A - Ward No. 7",
+                    "localname": "Mohalla Bania Mohalla A - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e63ffa72-1731-41ea-8be1-41974adadab9",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar A - Ward No. 7",
+                    "localname": "Main Bazar A - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6698c464-94c7-4f7e-bdc7-e03002b13ef1",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "de8797b4-4c12-4e13-acaf-8f4feec0757d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla kaulsar - Ward No. 8",
+                    "localname": "Mohalla kaulsar - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91271c86-f308-4498-99a9-1bc41ca33142",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Baljot Nagar - Ward No. 8",
+                    "localname": "Mohalla Baljot Nagar - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a88ec14c-3d2c-4da4-9a90-081fd7ddad03",
+                    "boundaryNum": 1,
+                    "name": "G . T Road A - Ward No. 8",
+                    "localname": "G . T Road A - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "06f31547-edea-41d3-985d-1751a62cad70",
+                    "boundaryNum": 1,
+                    "name": "Baradari Bazar B - Ward No. 8",
+                    "localname": "Baradari Bazar B - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1bb71974-8ea3-4c75-b9ce-d93def3ea117",
+                    "boundaryNum": 1,
+                    "name": "Gangsar Bazar A - Ward No. 8",
+                    "localname": "Gangsar Bazar A - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_51",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8b49469f-acaa-470b-b2c5-eb5cc97aae3d",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "aa00dc89-dd3d-4de5-b2f7-3e635565273b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bouli Wala - Ward No. 9",
+                    "localname": "Mohalla Bouli Wala - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1edc9e98-89e9-4de6-9708-7e6f8676b044",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Geinda - Ward No. 9",
+                    "localname": "Mohalla Geinda - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "703b1905-f7ad-4677-ad8d-0efba58456d8",
+                    "boundaryNum": 1,
+                    "name": "Mohala Tahli Wala - Ward No. 9",
+                    "localname": "Mohala Tahli Wala - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1a909f30-0646-4652-9d13-8fe80b383a1b",
+                    "boundaryNum": 1,
+                    "name": "Baradari Bazar C - Ward No. 9",
+                    "localname": "Baradari Bazar C - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "89df9f1b-6466-4d13-916a-ba897a0cee3e",
+                    "boundaryNum": 1,
+                    "name": "Arya Bazar B - Ward No. 9",
+                    "localname": "Arya Bazar B - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_56",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b78c8108-a5e3-4bf0-bb94-f539d0c6f4be",
+                    "boundaryNum": 1,
+                    "name": "Furniture Bazar A - Ward No. 9",
+                    "localname": "Furniture Bazar A - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_57",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7fb82481-2f24-4f2d-bb23-138fb51ff273",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "b675e592-83b9-4643-84c6-874ed6bb51cc",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mandi Wala - Ward No. 10",
+                    "localname": "Mohalla Mandi Wala - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2c3a2bd4-6339-4f42-9380-ffd82ee68b29",
+                    "boundaryNum": 1,
+                    "name": "G . T Road B - Ward No. 10",
+                    "localname": "G . T Road B - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3e9ca2d8-ee4f-42b0-b936-cf2e73ca4ea0",
+                    "boundaryNum": 1,
+                    "name": "Arya Nagar A - Ward No. 10",
+                    "localname": "Arya Nagar A - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_60",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de77c93e-f09f-4ca5-9abc-93c0057e8677",
+                    "boundaryNum": 1,
+                    "name": "Kapurthala Road A - Ward No. 10",
+                    "localname": "Kapurthala Road A - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_61",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dddbda09-2ce5-4484-85cf-a84c65e3d6ab",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "ae0af33b-9945-4ab5-a319-cf6b4e315cd8",
+                    "boundaryNum": 1,
+                    "name": "Khoo Sheikwan - Ward No. 11",
+                    "localname": "Khoo Sheikwan - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_62",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "92eb2c6b-090f-4919-a074-74128cbf91a2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Pritam Nagar - Ward No. 11",
+                    "localname": "Mohalla Pritam Nagar - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_63",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9262968a-5688-4edb-a3b1-fab1e2307818",
+                    "boundaryNum": 1,
+                    "name": "G . T Road C - Ward No. 11",
+                    "localname": "G . T Road C - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_64",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a79d1ea7-f6cd-4bae-85eb-62191bae7f60",
+                "boundaryNum": 1,
+                "name": "Ward No. 12",
+                "localname": "Ward No. 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "ca347fd1-8b03-423f-a014-2c53356fb24e",
+                    "boundaryNum": 1,
+                    "name": "Arya Nagar B - Ward No. 12",
+                    "localname": "Arya Nagar B - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_65",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33b60d03-ec3b-4ce7-85e4-9073cf463516",
+                    "boundaryNum": 1,
+                    "name": "Kapurthala Road B - Ward No. 12",
+                    "localname": "Kapurthala Road B - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_66",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a738e927-a261-492c-b33e-c93e26801b31",
+                "boundaryNum": 1,
+                "name": "Ward No. 13",
+                "localname": "Ward No. 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "2e783372-ca69-476b-82d1-2529d720be01",
+                    "boundaryNum": 1,
+                    "name": "Mohala Tulsi Nagar - Ward No. 13",
+                    "localname": "Mohala Tulsi Nagar - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_67",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8656a0be-0cdb-499a-b72b-7adc880fd8ce",
+                    "boundaryNum": 1,
+                    "name": "Bhulath Road - Ward No. 13",
+                    "localname": "Bhulath Road - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_68",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0a7dba69-ad75-4fc8-9ed3-b21c22091f7e",
+                    "boundaryNum": 1,
+                    "name": "G . T Road D - Ward No. 13",
+                    "localname": "G . T Road D - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_69",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fed7881f-e793-4c8f-860b-8117df147642",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rishi Nagar A - Ward No. 13",
+                    "localname": "Mohalla Rishi Nagar A - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_70",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0b5d96cc-8fca-4519-9f74-1c918ec2c2d7",
+                    "boundaryNum": 1,
+                    "name": "Vishwkarma Market - Ward No. 13",
+                    "localname": "Vishwkarma Market - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_71",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d543be8a-c615-4b15-b93c-8ef029d1cedb",
+                    "boundaryNum": 1,
+                    "name": "Furniture Bazar B - Ward No. 13",
+                    "localname": "Furniture Bazar B - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_72",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99822e86-a319-4d58-a07c-b72b1b85e4aa",
+                "boundaryNum": 1,
+                "name": "Ward No. 14",
+                "localname": "Ward No. 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 14",
+                "children": [
+                  {
+                    "id": "8566c46a-c7aa-4041-a1ee-0f4b8827c984",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ram Gariya - Ward No. 14",
+                    "localname": "Mohalla Ram Gariya - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_73",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "207ed4d2-7b65-481f-8e84-3ffc03cf625d",
+                    "boundaryNum": 1,
+                    "name": "Committee Bazar - Ward No. 14",
+                    "localname": "Committee Bazar - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_74",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aab7bcb4-506f-4bf7-b61c-7127ac00aee5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dyalpur Gate  C - Ward No. 14",
+                    "localname": "Mohalla Dyalpur Gate  C - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_75",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ef6ecf63-8be8-4818-92c2-faef7f99d3ad",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rishi Nagar B - Ward No. 14",
+                    "localname": "Mohalla Rishi Nagar B - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_76",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bb4e76d9-a30d-44ca-80e8-6cea9a1d0db4",
+                    "boundaryNum": 1,
+                    "name": "Vishwkarma Market - Ward No. 14",
+                    "localname": "Vishwkarma Market - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_77",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "686f20f1-cc60-4405-97ef-84a09c4e8be5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Pakka Bagh A - Ward No. 14",
+                    "localname": "Mohalla Pakka Bagh A - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_78",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2648aecc-062c-45a1-b2e1-c69230b7917e",
+                "boundaryNum": 1,
+                "name": "Ward No. 15",
+                "localname": "Ward No. 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 15",
+                "children": [
+                  {
+                    "id": "c43121c1-42c4-4314-959a-d409df91e550",
+                    "boundaryNum": 1,
+                    "name": "Mohalla New Arya Nagar - Ward No. 15",
+                    "localname": "Mohalla New Arya Nagar - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_79",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0e1ea821-5c3b-433d-8ec7-65842003fa9e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Chandan Nagar - Ward No. 15",
+                    "localname": "Mohalla Chandan Nagar - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_80",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cfe3950b-70c6-453e-ba91-d034a3c46946",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mukam - Ward No. 15",
+                    "localname": "Mohalla Mukam - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_81",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d7c583f-754d-4b93-9703-5812368e3cdd",
+                    "boundaryNum": 1,
+                    "name": "Mohalla New Chandan Nagar - Ward No. 15",
+                    "localname": "Mohalla New Chandan Nagar - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_82",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5bf74353-f5a7-4c1f-8096-3b566fc0069d",
+                    "boundaryNum": 1,
+                    "name": "G . T Road E - Ward No. 15",
+                    "localname": "G . T Road E - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KR_83",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
