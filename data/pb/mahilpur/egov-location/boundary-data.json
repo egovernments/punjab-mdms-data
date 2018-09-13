@@ -1,0 +1,372 @@
+{
+  "tenantId": "pb.mahilpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mahilpur",
+        "localname": "mahilpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mahilpur",
+        "children": [
+          {
+            "id": "511345e2-37a0-4ea7-a96a-28bf13415c04",
+            "boundaryNum": 1,
+            "name": "MAHILPUR",
+            "localname": "MAHILPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MZN1",
+            "children": [
+              {
+                "id": "b59bc93f-789d-4c84-a316-c2d57a404f23",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "73be2d94-a2c1-4020-9960-136576190601",
+                    "boundaryNum": 1,
+                    "name": "Bank Colony to Main Chowk, Main Chowk to Jaijon Road, North Side - WARD_1",
+                    "localname": "Bank Colony to Main Chowk, Main Chowk to Jaijon Road, North Side - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b36e6b35-442a-43a3-bd4b-35f02eafa5de",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "94c69a86-c46c-4d47-8db5-36cd54320c7e",
+                    "boundaryNum": 1,
+                    "name": "Main Chowk to Jaijon Road, Jaijon Road to Shahidan Road, East Side - WARD_2",
+                    "localname": "Main Chowk to Jaijon Road, Jaijon Road to Shahidan Road, East Side - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9ecaa5b-0f27-46cb-959a-0ed8d67c1512",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "a74bd087-9e25-41d7-9925-47d06af78d53",
+                    "boundaryNum": 1,
+                    "name": "Shahidan Road in front of police station to New Bus Stand - WARD_3",
+                    "localname": "Shahidan Road in front of police station to New Bus Stand - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e9397a95-5b83-4972-99c3-b651b51c328a",
+                    "boundaryNum": 1,
+                    "name": "Civil Hospital Road To Langeri Road to H/o Gr. Daroli Wale to Main Road - WARD_3",
+                    "localname": "Civil Hospital Road To Langeri Road to H/o Gr. Daroli Wale to Main Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3f3561be-64aa-44ea-a139-1ba283c44a0f",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "1865f239-595a-41dd-92bd-54489d628065",
+                    "boundaryNum": 1,
+                    "name": "New Bus Stand to Milan Palace Road to Girls School Road to Ambedkar - WARD_4",
+                    "localname": "New Bus Stand to Milan Palace Road to Girls School Road to Ambedkar - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dea8e90a-0b3a-49d7-87f5-a3cf2f670ee4",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "3ae49e6f-fc2e-44af-87ab-a90b3efbfaa3",
+                    "boundaryNum": 1,
+                    "name": "Civil Hospital Road Old CDPO Office to Ravidass Gurudwara to Nagar Panchayat Road, East Side - WARD_5",
+                    "localname": "Civil Hospital Road Old CDPO Office to Ravidass Gurudwara to Nagar Panchayat Road, East Side - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31382b8e-99ad-4a83-bb9b-0d159466f87f",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "8fdfc35d-015f-497d-b9a2-c37b11b54c8e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Office to Bagichi Mohalla to Jamun Chowk to Dewankhana to Balmik Mohalla - WARD_6",
+                    "localname": "Nagar Panchayat Office to Bagichi Mohalla to Jamun Chowk to Dewankhana to Balmik Mohalla - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3654759c-eb3f-4150-a1d0-ba920d08943f",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "8e4da0d9-2cc3-4482-a8f5-567316bd5878",
+                    "boundaryNum": 1,
+                    "name": "Diwankhana Road to H/o Amandeep Bains to H/o Jagtar Operator to Jamun Chowk to Baba Sidh Chano Thara to H/o Kirpal Tailor - WARD_7",
+                    "localname": "Diwankhana Road to H/o Amandeep Bains to H/o Jagtar Operator to Jamun Chowk to Baba Sidh Chano Thara to H/o Kirpal Tailor - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d586a9ce-d89b-40a5-8cb2-dcf0a1ae00a7",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "4b640ace-9563-40a1-9d40-5cb82e4b9ba1",
+                    "boundaryNum": 1,
+                    "name": "Anjur Public School to Pirthi Canadian wali Gali to Bunga Sahib Gurudwara to Langeri Road, East Side - WARD_8",
+                    "localname": "Anjur Public School to Pirthi Canadian wali Gali to Bunga Sahib Gurudwara to Langeri Road, East Side - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1fc0eed-2c6d-4be6-9ca6-1b3cac49560a",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "07a46259-4c58-44de-ba11-8ccd9196079e",
+                    "boundaryNum": 1,
+                    "name": "Neelbana to Phagwara Road to Ram Lubhatya Ex-MC to BDO Colony - WARD_9",
+                    "localname": "Neelbana to Phagwara Road to Ram Lubhatya Ex-MC to BDO Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18a41bb4-fd18-43da-b486-f3577d35cd8e",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "54ba3a4d-abbd-4bb6-a79c-f39f92d87528",
+                    "boundaryNum": 1,
+                    "name": "Karam Palace to Kalandari Shari Road to New Ravidas Gurudwara to Maharaja Ice Factory to Nangal Gate - WARD_10",
+                    "localname": "Karam Palace to Kalandari Shari Road to New Ravidas Gurudwara to Maharaja Ice Factory to Nangal Gate - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fef1ed9c-15f7-4263-bb0f-4f364afcf69a",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "e3eceb56-b7c0-4179-bc1d-836d66210e17",
+                    "boundaryNum": 1,
+                    "name": "Phagwara Road to Mohalla Hassnian to Balmik Mohalla to Bhagaura Road - WARD_11",
+                    "localname": "Phagwara Road to Mohalla Hassnian to Balmik Mohalla to Bhagaura Road - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "672f0afb-a9e5-48bb-96f2-1c92c9d3703b",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "053c70a2-c935-4e96-8e3c-97a6b3af844d",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar Road to Karam Palace - WARD_12",
+                    "localname": "Guru Nanak Nagar Road to Karam Palace - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e900cdd-f370-43b5-8b60-ae7ea286c2f6",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "dbed0913-452e-47de-babd-454387008520",
+                    "boundaryNum": 1,
+                    "name": "Hoshiarpur Road to Main Chowk, Main Chowk to Bapu Ganga Dass Road, North Side - WARD_13",
+                    "localname": "Hoshiarpur Road to Main Chowk, Main Chowk to Bapu Ganga Dass Road, North Side - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ccd1b44c-e67a-4946-8812-fa9e08685b4a",
+                    "boundaryNum": 1,
+                    "name": "Khadar Bhandar Gali to Phagwara Road to Civil Hospital Road to Police Station to main Chowk - WARD_13",
+                    "localname": "Khadar Bhandar Gali to Phagwara Road to Civil Hospital Road to Police Station to main Chowk - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
