@@ -1,0 +1,540 @@
+{
+  "tenantId": "pb.mehatpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mehatpur",
+        "localname": "mehatpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mehatpur",
+        "children": [
+          {
+            "id": "4057af7d-91e1-4e85-b840-00218f69ad19",
+            "boundaryNum": 1,
+            "name": "Mehatpur",
+            "localname": "Mehatpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MZ1",
+            "children": [
+              {
+                "id": "ac49afc4-003c-4d56-8cbd-2662980a5c75",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "633b5e1d-e48f-4dbb-8782-a497b0a4a8cb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Samra - WARD_1",
+                    "localname": "Mohalla Samra - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9add8180-fd81-4012-a787-62387a5f4d73",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dhangara - WARD_1",
+                    "localname": "Mohalla Dhangara - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "09bb939c-a2c5-4d38-ac05-258e2a182b36",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "668846c8-cad0-4878-9b73-61eddb7bc7d1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shadi Kha - WARD_2",
+                    "localname": "Mohalla Shadi Kha - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0706857c-69b2-4da4-954e-131249c473c6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Talab Wala - WARD_2",
+                    "localname": "Mohalla Talab Wala - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a7c4f69-bfce-492c-8ca4-6adf7e4c1602",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "799c19b0-46e8-4f67-b804-44a840ba9c41",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Soodan - WARD_3",
+                    "localname": "Mohalla Soodan - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72efb969-bbf7-4e22-91a2-31ce309a5f1e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Blocha - WARD_3",
+                    "localname": "Mohalla Blocha - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8eb58a15-f4ee-43f8-a919-4b0956d68e92",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "c642680a-9560-45ea-b74c-ca9b3f289dd7",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Vadda - WARD_4",
+                    "localname": "Mohalla Vadda - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "834a4d27-a872-42e2-a721-103a0c7bc133",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mattuan - WARD_4",
+                    "localname": "Mohalla Mattuan - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3d7e3d98-3ea3-44ec-9403-8c2534d35216",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "b7a7c8b5-6ebd-4bbf-b900-4808d4eda642",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rayatpur - WARD_5",
+                    "localname": "Mohalla Rayatpur - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dc8a7a29-dcc4-4d5b-b5da-41b012f57ae3",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bajwa - WARD_5",
+                    "localname": "Mohalla Bajwa - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1b30413c-dd32-4be3-8a39-dad0b5a204b2",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "3f97d2f2-a4dd-48c5-b09f-91dfc411634c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shaslempur - WARD_6",
+                    "localname": "Mohalla Shaslempur - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c1d76c33-23d8-4d37-bf20-3acb6a0f3cd5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Killa - WARD_6",
+                    "localname": "Mohalla Killa - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2534bb01-1227-4753-bfe2-e66d90b2ed56",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "90713e1f-6691-4e58-8e8a-0d4aa3873ec3",
+                    "boundaryNum": 1,
+                    "name": "Virak Colony - WARD_7",
+                    "localname": "Virak Colony - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1c8af292-d18f-40c8-a7a4-8bd685bc6847",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Suniara - WARD_7",
+                    "localname": "Mohalla Suniara - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70c2cd35-86ef-4d7b-976b-aa8326b1d8cd",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "704800c9-fe09-4872-a799-3f50c3ea6d4a",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Angakiri - WARD_8",
+                    "localname": "Mohalla Angakiri - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d982d5f0-e925-4a7f-8bc3-1fa1e346fc80",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jhugian - WARD_8",
+                    "localname": "Mohalla Jhugian - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "03b086b0-6183-4f7b-a48a-40e78bec155d",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "394d56f9-4fe4-4faa-8d81-0dd5517a7202",
+                    "boundaryNum": 1,
+                    "name": "Model Town Colony - WARD_9",
+                    "localname": "Model Town Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7f2c9706-4c5e-4436-90b3-3bdc96f3a6aa",
+                    "boundaryNum": 1,
+                    "name": "Shahed Udham Singh - WARD_9",
+                    "localname": "Shahed Udham Singh - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7c9176c9-c47c-424c-a13d-59548b145a22",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khurampur - WARD_9",
+                    "localname": "Mohalla Khurampur - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78fa3a1f-1a62-4d3d-9eb0-23bf756be0a7",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "ca4fbfca-c6e8-45e9-add8-3287c629fb56",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Colony - WARD_10",
+                    "localname": "Dashmesh Colony - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c84119a2-682a-460c-88f7-f769053dd7d1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khurampur colony - WARD_10",
+                    "localname": "Mohalla Khurampur colony - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49e1bdfc-6e30-498e-942f-e206893a10ed",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "55506c9c-1b94-45b9-9f2c-386556e05bc6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shahpur - WARD_11",
+                    "localname": "Mohalla Shahpur - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b9ee9d27-d5ff-4731-a394-4f0f3dc64d1e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rasulpur - WARD_11",
+                    "localname": "Mohalla Rasulpur - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "db29c0c0-b4f1-4eda-851a-341e16fc0686",
+                    "boundaryNum": 1,
+                    "name": "Green Avenue - WARD_11",
+                    "localname": "Green Avenue - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f84fd82-e16a-4ed8-aa1d-3b9c8964db33",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "89ab638a-390f-498e-a309-d97e72a201fe",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bawa - WARD_12",
+                    "localname": "Mohalla Bawa - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "798c3e72-0b09-4ad0-891d-9c68ceeef293",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Wanwatt - WARD_12",
+                    "localname": "Mohalla Wanwatt - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d30320b3-ddcf-4762-994d-b9865c43f34a",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "95e31c38-59f5-48e8-980b-f9fed5e44177",
+                    "boundaryNum": 1,
+                    "name": "Mehta Colony - WARD_13",
+                    "localname": "Mehta Colony - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "32c595e3-96fc-436b-bc42-7a6355932c20",
+                    "boundaryNum": 1,
+                    "name": "Kasba Mohalla - WARD_13",
+                    "localname": "Kasba Mohalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ae22ac98-fc5c-4d55-a798-c8707120e37c",
+                    "boundaryNum": 1,
+                    "name": "Tower Colony - WARD_13",
+                    "localname": "Tower Colony - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MH29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
