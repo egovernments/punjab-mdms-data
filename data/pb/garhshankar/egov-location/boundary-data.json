@@ -463,6 +463,562 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "garhshankar",
+        "localname": "garhshankar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.garhshankar",
+        "children": [
+          {
+            "id": "eee6f79f-ff61-4357-80a5-b4734ceb267e",
+            "boundaryNum": 1,
+            "name": "GARHSHANKAR",
+            "localname": "GARHSHANKAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GSK1",
+            "children": [
+              {
+                "id": "dc7f680b-d0b5-4808-b49f-717cc062e3b4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "190afeb2-e434-4a17-9cb1-a8e8793f49e1",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - WARD_1",
+                    "localname": "Railway Road - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b3105d2b-82bc-4b5f-90c6-d04ee6320505",
+                    "boundaryNum": 1,
+                    "name": "Mount Carmel School - WARD_1",
+                    "localname": "Mount Carmel School - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a189962-c365-460b-ba15-be59eecf2366",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi Road - WARD_1",
+                    "localname": "Dana Mandi Road - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ee18087-d05c-48a6-889f-adb56388a20e",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": []
+              },
+              {
+                "id": "13c8cef5-75fe-4ed7-b976-0e741547c1b7",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "8bcc0c23-cb5b-4e49-89cf-73f6f131d28d",
+                    "boundaryNum": 1,
+                    "name": "Raika Mohalla - WARD_3",
+                    "localname": "Raika Mohalla - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7a7a8548-10c5-447a-9dfc-175c4db767d8",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_3",
+                    "localname": "Main Bazar - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "19235f9d-55b4-43c9-97af-f2ec35b4e56d",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "c98ce9fb-7432-4851-bcc4-2ef47481cf64",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Mohalla - WARD_4",
+                    "localname": "Bhatta Mohalla - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "695020b5-ef7e-49d6-ab08-396a76cc2343",
+                    "boundaryNum": 1,
+                    "name": "Ghatti Mohalla - WARD_4",
+                    "localname": "Ghatti Mohalla - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06978faf-d549-4e1e-a413-e4751d439dbc",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "78a6ee17-c872-4003-8000-2710670365f2",
+                    "boundaryNum": 1,
+                    "name": "Hoshairpur Road - WARD_5",
+                    "localname": "Hoshairpur Road - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fefd0fee-1bb7-4f6b-a178-0dfb37ab8659",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar - WARD_5",
+                    "localname": "Ram Nagar - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5cbff532-1875-4efd-a71a-fcda8bc1a4a1",
+                    "boundaryNum": 1,
+                    "name": "Sham Nagar - WARD_5",
+                    "localname": "Sham Nagar - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c4d542f8-a418-4aa6-988f-a649bf654179",
+                    "boundaryNum": 1,
+                    "name": "Nangal Road - WARD_5",
+                    "localname": "Nangal Road - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48fa5391-e66c-4f6b-bc70-873bc9518707",
+                    "boundaryNum": 1,
+                    "name": "Santokh Nagar - WARD_5",
+                    "localname": "Santokh Nagar - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c7a70eb-b4b5-43a4-b243-dff3ef7d6098",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "55ed2abd-1ed7-4c27-825c-a7b8d1a0f1a7",
+                    "boundaryNum": 1,
+                    "name": "Deep Colony - WARD_6",
+                    "localname": "Deep Colony - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "218e42c1-dabb-488d-a8d4-e79e990619b8",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "7bca9b89-e103-48ee-8686-8306dc825528",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar - WARD_7",
+                    "localname": "Adarsh Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9e442c2c-dfd5-43a7-bf9f-8df654bca9c3",
+                    "boundaryNum": 1,
+                    "name": "Minarva School Mohalla - WARD_7",
+                    "localname": "Minarva School Mohalla - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "11af7635-16a4-4d90-86d0-3e4f45d89ebb",
+                    "boundaryNum": 1,
+                    "name": "Dr Ambadekar Nagar - WARD_7",
+                    "localname": "Dr Ambadekar Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "afd9e057-d8e7-4d44-a3b6-b998692edb70",
+                    "boundaryNum": 1,
+                    "name": "Kashmir Singh Nagar - WARD_7",
+                    "localname": "Kashmir Singh Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13ded360-2657-440d-99e1-d00fe55b9118",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "59beea65-f7e8-482d-a9ef-db9ef7ab85e7",
+                    "boundaryNum": 1,
+                    "name": "Anandpur Sahib Road - WARD_8",
+                    "localname": "Anandpur Sahib Road - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b52288c-d61d-449d-a891-0ee55932e49e",
+                    "boundaryNum": 1,
+                    "name": "Parmar Colony - WARD_8",
+                    "localname": "Parmar Colony - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c0aa5601-06fe-41f2-a52b-d508799cdabc",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": []
+              },
+              {
+                "id": "bd88d9ab-722b-415a-91f5-197f14510f21",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "74f8a3bb-7eef-442a-8b6d-9cca096e2f7d",
+                    "boundaryNum": 1,
+                    "name": "Banga Road - WARD_10",
+                    "localname": "Banga Road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "87f13723-775c-451d-ae83-688dc42e1b95",
+                    "boundaryNum": 1,
+                    "name": "Sri Guru Nanak Nagar - WARD_10",
+                    "localname": "Sri Guru Nanak Nagar - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cab66717-75a4-42ef-9fc3-0c8fa6a48586",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "0be0d95f-d9f0-49ef-b195-2703497847c3",
+                    "boundaryNum": 1,
+                    "name": "Pansarian Mohalla - WARD_11",
+                    "localname": "Pansarian Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "71a7afc6-0e4b-4b7d-a654-3467a88b59aa",
+                    "boundaryNum": 1,
+                    "name": "Bada Roza - WARD_11",
+                    "localname": "Bada Roza - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22e41cb2-8851-4891-98e0-ad346d6050a0",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "34625f9e-a307-4de1-84fa-ce0b24fb9dfe",
+                    "boundaryNum": 1,
+                    "name": "Fatehpur Road - WARD_12",
+                    "localname": "Fatehpur Road - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a09987de-c2b0-4ecf-9389-03d615d7b3ef",
+                    "boundaryNum": 1,
+                    "name": "Moti Nagar - WARD_12",
+                    "localname": "Moti Nagar - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eb005c1e-79ce-4619-83e8-1cfe2df5aa5c",
+                    "boundaryNum": 1,
+                    "name": "Dr Longia Mohalla - WARD_12",
+                    "localname": "Dr Longia Mohalla - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c3c23ac-cdae-4c6c-a24a-976b85906564",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "eca5cd0d-48a2-4c5c-a3f9-9da24a8827ea",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - WARD_13",
+                    "localname": "Jourrian Mohalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc71a830-a5bd-4177-ad98-2db15b9c7b0b",
+                    "boundaryNum": 1,
+                    "name": "DAV College Road - WARD_13",
+                    "localname": "DAV College Road - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b99441e8-fc28-4883-a25c-b9fa9203eb31",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - WARD_13",
+                    "localname": "Jourrian Mohalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33848bbb-b94e-4e56-b16d-cdb98957a155",
+                    "boundaryNum": 1,
+                    "name": "Jourrian Mohalla - WARD_13",
+                    "localname": "Jourrian Mohalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "66edc9ed-8ebc-440b-aaa3-c370ab108b21",
+                    "boundaryNum": 1,
+                    "name": "Parmod Nagar - WARD_13",
+                    "localname": "Parmod Nagar - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSK20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
