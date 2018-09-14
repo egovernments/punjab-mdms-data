@@ -954,6 +954,792 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "urmartanda",
+        "localname": "urmartanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.urmartanda",
+        "children": [
+          {
+            "id": "d219c257-22a3-4288-ace4-1312a40623c3",
+            "boundaryNum": 1,
+            "name": "URMARTANDA",
+            "localname": "URMARTANDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "UTZN1",
+            "children": [
+              {
+                "id": "b10a4893-3fc1-4f4e-92f1-a89bffff3f4e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "ea7b989e-c947-4ae1-a386-1848cd390752",
+                    "boundaryNum": 1,
+                    "name": "Govind Nagar - WARD_1",
+                    "localname": "Govind Nagar - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e2e8b17d-c1a6-4f58-957d-cbd0e54819c7",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar - WARD_1",
+                    "localname": "Preet Nagar - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd06ff34-ba54-4f73-a07b-a812aa3b4650",
+                    "boundaryNum": 1,
+                    "name": "Darapur - WARD_1",
+                    "localname": "Darapur - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC47",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fd550c3-f338-4a4d-adb2-2d1f4d24bcec",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "c8d72136-ef43-45eb-9479-419b37bc9942",
+                    "boundaryNum": 1,
+                    "name": "Power House Colony - WARD_2",
+                    "localname": "Power House Colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc0b048f-0982-452f-ae49-bcf0cbfcb2dc",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "f1b59e89-38ef-4bc8-93ae-023216a05837",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar - WARD_3",
+                    "localname": "Dashmesh Nagar - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d688d1b-d83f-419e-b74c-391b915a53e4",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "7fa01264-acc5-451c-be24-4e378d7105a8",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar - WARD_4",
+                    "localname": "Dashmesh Nagar - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2366e8a2-af1d-4cf9-b9c1-54f24a745342",
+                    "boundaryNum": 1,
+                    "name": "Kacha Qila - WARD_4",
+                    "localname": "Kacha Qila - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1003af3f-cba0-4e9a-a2b4-8e4c1b971a80",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "1671c574-5611-44bc-a08c-e47213186e41",
+                    "boundaryNum": 1,
+                    "name": "Valmik Mohalla Tanda - WARD_5",
+                    "localname": "Valmik Mohalla Tanda - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ae547fa-c017-4e80-9474-c5e9f5dac822",
+                    "boundaryNum": 1,
+                    "name": "Tanda - WARD_5",
+                    "localname": "Tanda - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9213acc0-19f9-4863-902f-905a2059ed38",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "b012b1e1-8985-43ea-ad9f-56eba9303882",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Talwar - WARD_6",
+                    "localname": "Mohalla Talwar - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26a3d1fe-f9c5-44bc-a727-574f2bd4934f",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_6",
+                    "localname": "Main Bazar - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3f46fbaa-c5c6-4f4d-a1d4-ea53db71a9ee",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Valmik - WARD_6",
+                    "localname": "Mohalla Valmik - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2bff0154-21d9-4d22-ae16-600d8b966501",
+                    "boundaryNum": 1,
+                    "name": "Tanda - WARD_6",
+                    "localname": "Tanda - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "980f9568-f6c1-43a0-9aa1-14cd75c58a8b",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "d2e1fca0-b6e6-488f-986c-4707d60a3899",
+                    "boundaryNum": 1,
+                    "name": "Vijay Nagar - WARD_7",
+                    "localname": "Vijay Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "385f4c0b-02c4-49d5-897f-b08561924a83",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar - WARD_7",
+                    "localname": "Preet Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3e3b8f59-4876-4dcf-9f4c-8b136344091b",
+                    "boundaryNum": 1,
+                    "name": "Chandigarh Colony - WARD_7",
+                    "localname": "Chandigarh Colony - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "743b7c59-eab5-453a-93a5-4b7eec2473b4",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "c7966b6e-6820-41f2-9c4e-ae0ecb7728f1",
+                    "boundaryNum": 1,
+                    "name": "Sant Prem Singh Nagar - WARD_8",
+                    "localname": "Sant Prem Singh Nagar - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e24a4a48-cc86-4a61-8431-7f698ef4633c",
+                    "boundaryNum": 1,
+                    "name": "Mastgarh Mohalla - WARD_8",
+                    "localname": "Mastgarh Mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aa3b88c5-2bb2-4d2c-92f6-c4673e19228d",
+                    "boundaryNum": 1,
+                    "name": "kaloty Nagar - WARD_8",
+                    "localname": "kaloty Nagar - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc88e1ba-98bf-46f8-a671-fb92c1d78a0f",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0e9b5e83-ffb2-4705-ab8d-873c40b3b593",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kharka - WARD_9",
+                    "localname": "Mohalla Kharka - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f39bcd8b-632b-4667-82ee-87dad7f34f28",
+                    "boundaryNum": 1,
+                    "name": "Radha Swami - WARD_9",
+                    "localname": "Radha Swami - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "598ec160-73dc-43ed-b8cc-f87facd7eafc",
+                    "boundaryNum": 1,
+                    "name": "Nirankari Colony - WARD_9",
+                    "localname": "Nirankari Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48501d1c-dc5e-4a8a-8e7c-ab96efdf22c7",
+                    "boundaryNum": 1,
+                    "name": "Sangra Mohalla - WARD_9",
+                    "localname": "Sangra Mohalla - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "83fa3330-aff4-4060-b170-d965f00dca35",
+                    "boundaryNum": 1,
+                    "name": "Sainian Mohalla - WARD_9",
+                    "localname": "Sainian Mohalla - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8be04141-d151-4bb6-9cbe-bd20941e5279",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "016cb5ee-4e33-489b-ab59-2113b50d4950",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Urmar - WARD_10",
+                    "localname": "Main Bazar Urmar - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d2efde6-c28f-452e-ba49-6f314fff3311",
+                    "boundaryNum": 1,
+                    "name": "Thakar Duwara Mohalla - WARD_10",
+                    "localname": "Thakar Duwara Mohalla - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e87a65a5-5566-4ac6-afec-c89022f84b90",
+                    "boundaryNum": 1,
+                    "name": "Mahaveer Mohalla - WARD_10",
+                    "localname": "Mahaveer Mohalla - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7d183119-650b-4fed-af94-ab112afd9b75",
+                    "boundaryNum": 1,
+                    "name": "Jain Gali - WARD_10",
+                    "localname": "Jain Gali - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5edef949-4f82-4303-b7f7-8a7c18ae86ee",
+                    "boundaryNum": 1,
+                    "name": "Urmar - WARD_10",
+                    "localname": "Urmar - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06673ce8-9a1b-4c88-8916-c7c910893c3d",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "c96b7af9-04ba-42b6-a012-e2ec4a86f824",
+                    "boundaryNum": 1,
+                    "name": "Garhi Mohalla - WARD_11",
+                    "localname": "Garhi Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f9af44b9-d151-403f-9825-9413e3d6e085",
+                    "boundaryNum": 1,
+                    "name": "Ram Garhian Mohalla - WARD_11",
+                    "localname": "Ram Garhian Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "befc8ae4-1c91-4669-8ab6-fffbc8b93978",
+                    "boundaryNum": 1,
+                    "name": "Mahashian Mohalla - WARD_11",
+                    "localname": "Mahashian Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a99d636a-62fb-45dd-a104-5e3d87fae5fe",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "75309a40-b821-42d5-b5e1-d9c9119724df",
+                    "boundaryNum": 1,
+                    "name": "Ahiyapur Road - WARD_12",
+                    "localname": "Ahiyapur Road - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ddb1839-7575-4041-9173-dc736edd3075",
+                    "boundaryNum": 1,
+                    "name": "kaloty Nagar - WARD_12",
+                    "localname": "kaloty Nagar - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "24098ac3-e83a-4bd8-a8f2-cdfb50fbdd50",
+                    "boundaryNum": 1,
+                    "name": "Suniarian Mohalla - WARD_12",
+                    "localname": "Suniarian Mohalla - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a0b715b0-772d-49be-8e80-9410c9dede43",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "8350f62d-6095-42a8-b9eb-098c23c36529",
+                    "boundaryNum": 1,
+                    "name": "Marwaha Gali - WARD_13",
+                    "localname": "Marwaha Gali - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a4c6275-18dd-4a81-87a5-2eb6238264bf",
+                    "boundaryNum": 1,
+                    "name": "Refuji Mohalla - WARD_13",
+                    "localname": "Refuji Mohalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "435928f4-17e1-4cfb-9635-6d4448af52ea",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_13",
+                    "localname": "Main Bazar - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91e4be74-6068-46f5-aaa7-d68f1e9d6f0e",
+                    "boundaryNum": 1,
+                    "name": "Ram Gali - WARD_13",
+                    "localname": "Ram Gali - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b472d8e-c4b9-4479-b8b5-c6695f2004bb",
+                    "boundaryNum": 1,
+                    "name": "Krishna Gali - WARD_13",
+                    "localname": "Krishna Gali - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf75e5fe-7746-4e80-a1a7-ce5ca1d239d7",
+                    "boundaryNum": 1,
+                    "name": "Puran Gill Gali - WARD_13",
+                    "localname": "Puran Gill Gali - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a021b187-85cc-4915-bdc7-d6151affb7ad",
+                    "boundaryNum": 1,
+                    "name": "Ahiyapur - WARD_13",
+                    "localname": "Ahiyapur - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC48",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59a8061f-7400-4829-8cb0-393bdf81dcc2",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "29fd65df-0d28-4aaf-832c-66c6ba0e1f66",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla - WARD_14",
+                    "localname": "Balmik Mohalla - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ddc2cae-312e-4cd6-8af0-710d65f07d65",
+                    "boundaryNum": 1,
+                    "name": "Sahota Colony - WARD_14",
+                    "localname": "Sahota Colony - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c33fc57e-f0d5-4537-a27a-69cecfb9b388",
+                    "boundaryNum": 1,
+                    "name": "Refuji Mohalla - WARD_14",
+                    "localname": "Refuji Mohalla - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1f3003a9-f78f-416d-9198-f0fb000e3561",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "3ba01685-ebf2-42c8-ad00-6f7abb988708",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Lahorian - WARD_15",
+                    "localname": "Mohalla Lahorian - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8b815e81-4a13-467f-9704-622637ffa534",
+                    "boundaryNum": 1,
+                    "name": "Munka Gali - WARD_15",
+                    "localname": "Munka Gali - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "13e2746d-cc2a-41b4-89d6-758cb0ae4511",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_15",
+                    "localname": "Main Bazar - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ULC44",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
