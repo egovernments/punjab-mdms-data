@@ -1,0 +1,336 @@
+{
+  "tenantId": "pb.nathana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nathana",
+        "localname": "Nathana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nathana",
+        "children": [
+          {
+            "id": "d5840099-f219-4769-8f47-779bc3fc6937",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "f14df270-a7c4-44c8-b168-55c76d499e15",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "2f58fd31-f3bc-4e62-9a4a-0a857fc92d47",
+                    "boundaryNum": 1,
+                    "name": "Balla Patti - WARD 1",
+                    "localname": "Balla Patti - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccdfb852-b6c8-4ef4-b62a-f36264c95626",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "ed51a1d1-2d04-451c-9073-246000558d93",
+                    "boundaryNum": 1,
+                    "name": "Balla Patti - WARD 2",
+                    "localname": "Balla Patti - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d50b1a3-69de-45f8-a2ac-60285a3f23a0",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "2efabd24-3099-45dd-9ac7-c0dc758ccdcc",
+                    "boundaryNum": 1,
+                    "name": "Veera Patti - WARD 3",
+                    "localname": "Veera Patti - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25afcd11-8e6c-4513-ad6b-466cac3fe16f",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "3930c436-3eb6-4cf9-9361-74d92a96878a",
+                    "boundaryNum": 1,
+                    "name": "Veera Patti - WARD 4",
+                    "localname": "Veera Patti - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17166e99-f80c-40c3-85dc-28e7b7e7edc7",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "d8717c7c-807e-485e-9b87-7e79c9040a56",
+                    "boundaryNum": 1,
+                    "name": "Saina Patti - WARD 5",
+                    "localname": "Saina Patti - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "acac18d8-53dd-4f6e-8042-631ac5d55442",
+            "boundaryNum": 1,
+            "name": "ZONE2",
+            "localname": "ZONE2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN2",
+            "children": [
+              {
+                "id": "53ec4f18-437c-4c67-9c3e-5a26e565a2ff",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "41649814-2f60-4bb8-b752-49562c9e4168",
+                    "boundaryNum": 1,
+                    "name": "Sukhu Patti - WARD 6",
+                    "localname": "Sukhu Patti - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a324c77a-cc29-4db4-901a-51de6d1281d1",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "8f88e436-19b8-4164-ab2b-6c0ef18b03c1",
+                    "boundaryNum": 1,
+                    "name": "Jagta Patti - WARD 7",
+                    "localname": "Jagta Patti - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "d4a97daf-544e-4c31-8466-0d6d82db7543",
+            "boundaryNum": 1,
+            "name": "ZONE3",
+            "localname": "ZONE3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN3",
+            "children": [
+              {
+                "id": "3521f80e-d2b7-4d23-b253-6a663bc04fd6",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "ea2d72ee-f295-4654-bf6e-9780ebca7e45",
+                    "boundaryNum": 1,
+                    "name": "Jagta Patti - WARD 8",
+                    "localname": "Jagta Patti - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15de0f53-ffd9-4c31-949e-30d87b1c2b94",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "cc99dde0-096e-4a2f-a494-4fb899536e04",
+                    "boundaryNum": 1,
+                    "name": "Salani Patti - WARD 9",
+                    "localname": "Salani Patti - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fc2d8e31-aa89-419c-882b-d95378eafc06",
+            "boundaryNum": 1,
+            "name": "ZONE4",
+            "localname": "ZONE4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN4",
+            "children": [
+              {
+                "id": "b499556a-11ee-455d-885c-fc7a89961122",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "729fcc18-eb39-4e7f-ae09-9c15d2c627ec",
+                    "boundaryNum": 1,
+                    "name": "Salani Patti - WARD 10",
+                    "localname": "Salani Patti - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1845e953-409a-4c9e-bcd9-78641fb49472",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "3d8ea5e8-a20e-4934-923f-ffd7aba4aa18",
+                    "boundaryNum": 1,
+                    "name": "Salani Patti - WARD 11",
+                    "localname": "Salani Patti - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
