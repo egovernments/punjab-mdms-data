@@ -1,0 +1,852 @@
+{
+  "tenantId": "pb.kotissekhan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kotissekhan",
+        "localname": "kotissekhan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotissekhan",
+        "children": [
+          {
+            "id": "bee07021-2b97-451e-b34e-530ca0942ca5",
+            "boundaryNum": 1,
+            "name": "KOT ISE KHAN",
+            "localname": "KOT ISE KHAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f47f5783-186a-47ab-976b-bcd902203ae4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3f85f1da-291f-442f-879c-ba6fa75069a4",
+                    "boundaryNum": 1,
+                    "name": "GALI PREM SAGAR - WARD_1",
+                    "localname": "GALI PREM SAGAR - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ced8d209-e372-4507-87cb-af2f94b7859c",
+                    "boundaryNum": 1,
+                    "name": "SHAMSHANGHAT MASITAN ROAD - WARD_1",
+                    "localname": "SHAMSHANGHAT MASITAN ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2e9964bc-1370-4488-a339-2ac7101b1026",
+                    "boundaryNum": 1,
+                    "name": "GAU SHALA MASITAN ROAD - WARD_1",
+                    "localname": "GAU SHALA MASITAN ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a33d70c0-cd23-4917-907a-1d334604d323",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI MASITAN ROAD - WARD_1",
+                    "localname": "HARIJAN BASTI MASITAN ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d6727276-22f8-472c-bca7-1c7800f0430c",
+                    "boundaryNum": 1,
+                    "name": "MASITAN ROAD TO HOUSE OF BUTTA GADI - WARD_1",
+                    "localname": "MASITAN ROAD TO HOUSE OF BUTTA GADI - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2163d413-c847-42d8-81d3-d185efe49934",
+                    "boundaryNum": 1,
+                    "name": "MASITAN ROAD TO GULATI FARM BABA \nSUNDER DASS JI ROAD - WARD_1",
+                    "localname": "MASITAN ROAD TO GULATI FARM BABA \nSUNDER DASS JI ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-55",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d331566-a2fc-45da-ad0f-3d9a2a77d57c",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "4b465015-3bab-4b1b-a7b9-d665a24f805d",
+                    "boundaryNum": 1,
+                    "name": "GALI NO 7 TO 13 JANIYAN ROAD \nSUNDER NAGAR - WARD_2",
+                    "localname": "GALI NO 7 TO 13 JANIYAN ROAD \nSUNDER NAGAR - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50c200a1-5c53-4e7c-8e22-0a34fc5ad099",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "2e10c0ff-ba35-45aa-8840-12cdf25f8187",
+                    "boundaryNum": 1,
+                    "name": "SIDHU COLONY CHEEMA ROAD - WARD_3",
+                    "localname": "SIDHU COLONY CHEEMA ROAD - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "447e2ca0-3fc9-4594-860a-432ad969fc28",
+                    "boundaryNum": 1,
+                    "name": "GALI HARNEK MASTER - WARD_3",
+                    "localname": "GALI HARNEK MASTER - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9c78d1ed-d2de-4839-afc3-98bc1ecbf8fa",
+                    "boundaryNum": 1,
+                    "name": "GURUDWARA BABA BACHITAR TO GALI \nCHURCH WALI DHARAMKOT ROAD - WARD_3",
+                    "localname": "GURUDWARA BABA BACHITAR TO GALI \nCHURCH WALI DHARAMKOT ROAD - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9e49c979-8c7e-46bd-ab66-bf080f3a1ee8",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "376ea0cc-bec1-4c92-85ae-ba8ff9cc1982",
+                    "boundaryNum": 1,
+                    "name": "MASITAN ROAD TO GALI BINDER DHODHI WALI\nDHARAMKOT ROAD - WARD_4",
+                    "localname": "MASITAN ROAD TO GALI BINDER DHODHI WALI\nDHARAMKOT ROAD - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5736ffd0-2933-418b-b433-54b85be745ee",
+                    "boundaryNum": 1,
+                    "name": "MASITAN ROAD TO GURUDWARA \nKALGIDHAR SAHIB - WARD_4",
+                    "localname": "MASITAN ROAD TO GURUDWARA \nKALGIDHAR SAHIB - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "64cba2f1-7838-425f-8c61-d903da6f43ae",
+                    "boundaryNum": 1,
+                    "name": "MASITAN ROAD TO GALI KULDEEP GROVER\n WALI RIGHT SIDE - WARD_4",
+                    "localname": "MASITAN ROAD TO GALI KULDEEP GROVER\n WALI RIGHT SIDE - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8350af84-d6ce-4530-ad54-42aa4052a70a",
+                    "boundaryNum": 1,
+                    "name": "GALI BABA BORH WALI & SIDHU MOHALLA \nRIGHT SIDE - WARD_4",
+                    "localname": "GALI BABA BORH WALI & SIDHU MOHALLA \nRIGHT SIDE - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "19b57020-5d55-4c8d-91bd-11a027cb7188",
+                    "boundaryNum": 1,
+                    "name": "GURUDWARA KALGIDHAR SAHIB TO TEHSIL\n COMPLEX JANIYAN ROAD - WARD_4",
+                    "localname": "GURUDWARA KALGIDHAR SAHIB TO TEHSIL\n COMPLEX JANIYAN ROAD - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d27f93b-e05a-4142-a5b9-1355e417d678",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "a0cc227f-c6cc-438e-8a1d-ded8de2e3d2f",
+                    "boundaryNum": 1,
+                    "name": "BAULI MANDIR AREA SUNDER NAGAR - WARD_5",
+                    "localname": "BAULI MANDIR AREA SUNDER NAGAR - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b9e253e8-85d5-407b-9c2c-9196b6ddc831",
+                    "boundaryNum": 1,
+                    "name": "GALI BABA SUNDER DASS JI - WARD_5",
+                    "localname": "GALI BABA SUNDER DASS JI - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "00e99d9b-178f-4227-99a2-b990739312e0",
+                    "boundaryNum": 1,
+                    "name": "PARK GALI NO 5 SUNDER NAGAR - WARD_5",
+                    "localname": "PARK GALI NO 5 SUNDER NAGAR - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "536c3aad-b658-427b-a42d-6be79a963a4e",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "b404e5be-404e-485e-9dd1-8722aae6b021",
+                    "boundaryNum": 1,
+                    "name": "GALI No 1 TO 4 SUNDER NAGAR - WARD_6",
+                    "localname": "GALI No 1 TO 4 SUNDER NAGAR - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36931b78-8bbf-42e8-8c4b-b57c8ed40ca1",
+                    "boundaryNum": 1,
+                    "name": "GALI GULATI MC WALI & DOCTOR RAJU WALI - WARD_6",
+                    "localname": "GALI GULATI MC WALI & DOCTOR RAJU WALI - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a00ce248-4bf7-4c75-a8c4-1eda2fdda59d",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "b34fd66e-27bb-4eba-88f7-60f04a5ce960",
+                    "boundaryNum": 1,
+                    "name": "NIRANKARI BHAVAN - WARD_7",
+                    "localname": "NIRANKARI BHAVAN - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "05db25bc-4a81-4fc7-b10a-c3ab023c9714",
+                    "boundaryNum": 1,
+                    "name": "GURUDWARA BABA UTTAM SINGH - WARD_7",
+                    "localname": "GURUDWARA BABA UTTAM SINGH - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3663d291-37f5-4715-a0b0-887db37abedc",
+                    "boundaryNum": 1,
+                    "name": "GALI ASHOK BANIYAN - WARD_7",
+                    "localname": "GALI ASHOK BANIYAN - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "45c0254e-301d-4ee9-af25-198175171cb5",
+                    "boundaryNum": 1,
+                    "name": "MALHOTRA MOHALLA - WARD_7",
+                    "localname": "MALHOTRA MOHALLA - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-49",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ad4d5086-de1c-4fb7-9693-614d47de9e50",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "4a48365e-9362-4b31-a3f8-76d12ddb0328",
+                    "boundaryNum": 1,
+                    "name": "GALOTI ROAD TO GALI BABA NAMDEV\n WALI RIGHT SIDE - WARD_8",
+                    "localname": "GALOTI ROAD TO GALI BABA NAMDEV\n WALI RIGHT SIDE - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "73176bfe-58db-404e-b71d-e01c446940e3",
+                    "boundaryNum": 1,
+                    "name": "MAIN CHOWNK TO MOGA ROAD LEFT SIDE - WARD_8",
+                    "localname": "MAIN CHOWNK TO MOGA ROAD LEFT SIDE - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c879102c-ca57-4e90-b5dd-8020c687e2a7",
+                    "boundaryNum": 1,
+                    "name": "KRISHNA MARKET - WARD_8",
+                    "localname": "KRISHNA MARKET - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "43e8edfc-28d8-429a-a945-f1176ad62b07",
+                    "boundaryNum": 1,
+                    "name": "GALI BABA TOTAL WALI - WARD_8",
+                    "localname": "GALI BABA TOTAL WALI - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "526189cc-db54-472d-963e-137699a16d18",
+                    "boundaryNum": 1,
+                    "name": "RAJPOOT MUHALLA - WARD_8",
+                    "localname": "RAJPOOT MUHALLA - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d442a9e-17d3-4d0b-9703-80b433329106",
+                    "boundaryNum": 1,
+                    "name": "K.R.B TRUST MARKET - WARD_8",
+                    "localname": "K.R.B TRUST MARKET - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2a77d7df-ddfc-4845-97b4-0b459489bb06",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "856190d5-23bc-4e93-be32-b84fe0c87eee",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD TO DATA ROAD LEFT SIDE - WARD_9",
+                    "localname": "ZIRA ROAD TO DATA ROAD LEFT SIDE - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7c777899-58d5-457b-9cd9-d6a0b6c9ad02",
+                    "boundaryNum": 1,
+                    "name": "GALI KRISHAN TIWARI WALI - WARD_9",
+                    "localname": "GALI KRISHAN TIWARI WALI - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e4fdf136-8cfa-43f5-813a-9369c710dfd4",
+                    "boundaryNum": 1,
+                    "name": "GALOTI ROAD TO GALI BABA NAMDEV\n WALI LEFT SIDE - WARD_9",
+                    "localname": "GALOTI ROAD TO GALI BABA NAMDEV\n WALI LEFT SIDE - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83c2ecba-593a-4d9e-8a7a-6aa56e32ffdf",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "d90ef5d5-3686-4d42-a651-c0bd4a2c8e41",
+                    "boundaryNum": 1,
+                    "name": "HEMKUNT SCHOOL ZIRA ROAD - WARD_10",
+                    "localname": "HEMKUNT SCHOOL ZIRA ROAD - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "69eedb1a-4972-40fd-bc72-a29a82f4d206",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD GALI PREM TANEJA - WARD_10",
+                    "localname": "ZIRA ROAD GALI PREM TANEJA - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f69bf2d4-3e95-470a-af13-dbe6ad40988a",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD GALI GURCHARAN WALI - WARD_10",
+                    "localname": "ZIRA ROAD GALI GURCHARAN WALI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "11d31fbf-5542-4ca7-896b-2e3fe05b7824",
+                    "boundaryNum": 1,
+                    "name": "GALI SATPAL CHABRA ZIRA ROAD - WARD_10",
+                    "localname": "GALI SATPAL CHABRA ZIRA ROAD - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8278040e-dcdd-41fe-8632-ae077b444c4d",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD TO DATA ROAD RIGHT SIDE - WARD_10",
+                    "localname": "ZIRA ROAD TO DATA ROAD RIGHT SIDE - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dc81d866-d8fd-4bef-abae-92d1674243c9",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "4006cb88-8f3a-4f30-90a9-3a1d25a54f43",
+                    "boundaryNum": 1,
+                    "name": "VISHAVKARMA MUHALLA-1 - WARD_11",
+                    "localname": "VISHAVKARMA MUHALLA-1 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2f6e515e-06f5-46f7-ad15-3afd43f9a9ca",
+                    "boundaryNum": 1,
+                    "name": "KAMAL CINEMA ROAD - WARD_11",
+                    "localname": "KAMAL CINEMA ROAD - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8c85b492-8f87-42d1-8cbf-e4060a759472",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD GURU RAM DASS NAGAR - WARD_11",
+                    "localname": "ZIRA ROAD GURU RAM DASS NAGAR - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f2ef6c0f-cfce-4298-a9a9-993dcdb8f7c1",
+                    "boundaryNum": 1,
+                    "name": "ZIRA ROAD GM RESTORENT - WARD_11",
+                    "localname": "ZIRA ROAD GM RESTORENT - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a3aeec3-1ab2-4dc6-9735-b543c31329ab",
+                    "boundaryNum": 1,
+                    "name": "AMRITSAR ROAD HAPPY FILLING STATION - WARD_11",
+                    "localname": "AMRITSAR ROAD HAPPY FILLING STATION - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5d3ac743-94d6-482b-907f-50f25f204fa6",
+                    "boundaryNum": 1,
+                    "name": "VISHAVKARMA MUHALLA- 2 - WARD_11",
+                    "localname": "VISHAVKARMA MUHALLA- 2 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f1ee46cd-c11b-4382-a3f3-10b951ae94a5",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "03289254-33c8-48c4-8bba-07922ee6af6e",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZZAR-1 - WARD_12",
+                    "localname": "MAIN BAZZAR-1 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "76538876-e6f2-4d27-a102-dcf1a797bcb7",
+                    "boundaryNum": 1,
+                    "name": "GALI DOCTOR ASHOK WALI - WARD_12",
+                    "localname": "GALI DOCTOR ASHOK WALI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bdbdd87e-612b-42bf-be97-4a1213e48e98",
+                    "boundaryNum": 1,
+                    "name": "GALI PARDHAN JI WALI - WARD_12",
+                    "localname": "GALI PARDHAN JI WALI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36c770cf-3dcb-4ba6-b0aa-aab6ae1bb899",
+                    "boundaryNum": 1,
+                    "name": "GALI TOWER WALI - WARD_12",
+                    "localname": "GALI TOWER WALI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "34605f43-de31-4399-85f8-da40f72e81a2",
+                    "boundaryNum": 1,
+                    "name": "BOYS SCHOOL - WARD_12",
+                    "localname": "BOYS SCHOOL - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "64794e50-4156-49b8-b24e-663392620722",
+                    "boundaryNum": 1,
+                    "name": "POLICE STATION - WARD_12",
+                    "localname": "POLICE STATION - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5cdc9add-e85a-462c-a7b2-042af8d4b9c9",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZZAR-2 - WARD_12",
+                    "localname": "MAIN BAZZAR-2 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7e24e40b-a70a-4f58-8391-0e12ef9782d7",
+                    "boundaryNum": 1,
+                    "name": "AMRITSAR ROAD PHIRNI - WARD_12",
+                    "localname": "AMRITSAR ROAD PHIRNI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b3371df-3ec3-45e6-b25a-1c42c4e488b5",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "8645555f-e037-4833-8da3-05e66936c88c",
+                    "boundaryNum": 1,
+                    "name": "GALI BAJRANG BHAVAN - WARD_13",
+                    "localname": "GALI BAJRANG BHAVAN - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "641d3f46-a9ec-4e12-bc05-3e53d7c427b7",
+                    "boundaryNum": 1,
+                    "name": "PALTA MOHALLA - WARD_13",
+                    "localname": "PALTA MOHALLA - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7f5aaf32-b632-411f-a289-702d06117048",
+                    "boundaryNum": 1,
+                    "name": "PANDITAN WALA MOHALLA - WARD_13",
+                    "localname": "PANDITAN WALA MOHALLA - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LKIK-45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
