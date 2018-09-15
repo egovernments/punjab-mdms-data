@@ -1,8 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
-  "actions-test": [  
-    {
+  "actions-test": [{
       "id": 14,
       "name": "Get File by FileStoreId",
       "url": "/filestore/v1/files/id",
@@ -15,7 +14,7 @@
       "code": "null",
       "path": "PGR.Get File by FileStoreId"
     },
-   
+
     {
       "id": 180,
       "name": "CommunitySearch",
@@ -29,7 +28,7 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.Community.CommunitySearch"
     },
-    
+
     {
       "id": 192,
       "name": "CalendarSearch",
@@ -78,8 +77,8 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.CalendarHolidaysSetUp.CalendarHolidaysSearch"
     },
-    
-    
+
+
     {
       "id": 203,
       "name": "CommonReligions",
@@ -92,7 +91,7 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.CommonReligions"
     },
-    
+
     {
       "id": 207,
       "name": "CommonDepartmentsSearch",
@@ -105,7 +104,7 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.CommonDepartmentsSearch"
     },
-  
+
     {
       "id": 276,
       "name": "uploadfiles",
@@ -142,7 +141,7 @@
       "code": "null",
       "path": ""
     },
-   
+
     {
       "id": 285,
       "name": "Holidays",
@@ -155,9 +154,9 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.Holidays"
     },
-  
-   
-    
+
+
+
     {
       "id": 296,
       "name": "SearchUomService",
@@ -182,11 +181,11 @@
       "code": "null",
       "path": ""
     },
-    
-   
-   
-  
-   
+
+
+
+
+
     {
       "id": 353,
       "name": "SearchGender",
@@ -211,8 +210,8 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.SearchRelationship"
     },
-  
-  
+
+
     {
       "id": 570,
       "name": "createInstrument",
@@ -401,8 +400,8 @@
       "code": "null",
       "path": "Access Control.Get All Actions"
     },
-    
-    
+
+
     {
       "id": 604,
       "name": "SearchUser",
@@ -425,7 +424,7 @@
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
     },
-    
+
     {
       "id": 612,
       "name": "GetReportData",
@@ -459,7 +458,7 @@
       "code": "null",
       "path": "Collection.Collection Reports.ReloadReport"
     },
-    
+
     {
       "id": 623,
       "name": "GenerateNumber",
@@ -471,7 +470,7 @@
       "code": "null",
       "path": "Administration.GenerateNumber"
     },
-   
+
     {
       "id": 628,
       "name": "CreateTenant",
@@ -1560,7 +1559,7 @@
       "code": "null",
       "path": "Billing Service.Billing Masters.BS Tax Periods.BS_SearchTaxPeriod"
     },
-   
+
     {
       "id": 724,
       "name": "SearchActions",
@@ -1649,7 +1648,7 @@
       "code": "null",
       "path": "Access Control.updateRoles"
     },
-    
+
     {
       "id": 733,
       "name": "SearchModules",
@@ -1683,9 +1682,9 @@
       "code": "null",
       "path": "Collection.Collection Transactions.UpdateWorkflow"
     },
-    
-   
-    
+
+
+
     {
       "id": 743,
       "name": "UpdateReceipt",
@@ -1697,9 +1696,9 @@
       "code": "null",
       "path": "Collection.Collection Transactions.UpdateReceipt"
     },
-   
-    
-   
+
+
+
     {
       "id": 781,
       "name": "GetDistinctCollectedBy",
@@ -1744,7 +1743,7 @@
       "code": "null",
       "path": "Collection.Collection Transactions.Chart Of Accounts"
     },
-    
+
     {
       "id": 789,
       "name": "GetBusinessTypes",
@@ -1767,8 +1766,8 @@
       "enabled": false,
       "path": "Grievance Redressal.Masters.SDS.Service Definition Search"
     },
-    
-    
+
+
     {
       "id": 798,
       "name": "Update Department",
@@ -1781,9 +1780,9 @@
       "code": "null",
       "path": "Administration.Department.Update Department"
     },
-    
-   
-  
+
+
+
     {
       "id": 809,
       "name": "BS_TaxPeriodSearch",
@@ -1806,7 +1805,7 @@
       "code": "null",
       "path": "Billing Service.BS_GetDemandDues"
     },
-   
+
     {
       "id": 908,
       "name": "VoucherCreate",
@@ -1867,7 +1866,7 @@
       "code": "null",
       "path": "VOUCHER SERVICE.VoucherDelete"
     },
-   
+
     {
       "id": 917,
       "name": "LegacyCreateReceipt",
@@ -1879,7 +1878,7 @@
       "code": "null",
       "path": "Collection.Collection Transactions.LegacyCreateReceipt"
     },
-    
+
     {
       "id": 926,
       "name": "FinancialstatusesSearch",
@@ -1904,7 +1903,7 @@
       "code": "null",
       "path": ""
     },
-   
+
     {
       "id": 938,
       "name": "VoucherSubTypeCreate",
@@ -1941,7 +1940,7 @@
       "code": "null",
       "path": "VOUCHERSUBTYPE SERVICE.VoucherSubTypeSearch"
     },
-    
+
     {
       "id": 954,
       "name": "MDMS Search",
@@ -1954,16 +1953,16 @@
       "code": "null",
       "path": ""
     },
-    
-    
-   
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
     {
       "id": 870,
       "name": "Get Actions from MDMS",
@@ -1976,7 +1975,7 @@
       "code": "null",
       "path": "Access Control.Get Actions from MDMS"
     },
-    
+
     {
       "id": 1221,
       "name": "Get Roles from MDMS",
@@ -1987,7 +1986,7 @@
       "serviceCode": "AccessControl",
       "path": "AccessControl"
     },
-    
+
     {
       "id": 697,
       "name": "UpdateUserWithoutValidation",
@@ -2083,10 +2082,10 @@
       "code": "null",
       "path": "Location.Search Boundary"
     },
-    
-    
-   
-    
+
+
+
+
     {
       "id": 1465,
       "name": "Bill Create",
@@ -2123,7 +2122,7 @@
       "code": "null",
       "path": "Financials.Transactions.Search Bill"
     },
-    
+
     {
       "id": 1444,
       "name": "CheckList Create",
@@ -2184,7 +2183,7 @@
       "code": "null",
       "path": "Financials.Transactions.Update CheckList"
     },
-    
+
     {
       "id": 1475,
       "name": "Upload",
@@ -2219,7 +2218,7 @@
       "code": "null",
       "path": "Mdms.Update"
     },
-    
+
     {
       "id": 1484,
       "name": "User Jobs",
@@ -2232,7 +2231,7 @@
       "code": "null",
       "path": "Upload.User Jobs"
     },
-   
+
     {
       "id": 1519,
       "name": "Uploaded File MetaData",
@@ -2246,7 +2245,7 @@
       "code": "null",
       "path": ""
     },
-    
+
     {
       "id": 1522,
       "name": "Get GeoJSON and other geographical data of requested tenant",
@@ -2403,8 +2402,8 @@
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
     },
-    
-   
+
+
     {
       "id": 1553,
       "name": "RainmakerPGRReportMetadata",
@@ -2897,6 +2896,36 @@
       "code": "null",
       "path": "PGR.PGR Reports.EmployeeReport",
       "navigationURL": "report/rainmaker-pgr/EmployeeReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1584,
+      "name": "ULB-wise PT Collection",
+      "url": "url",
+      "displayName": "ULB-wise PT Collection Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ULB-wise PT Collection",
+      "navigationURL": "report/rainmaker-pt/UlbWisePtCollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1580,
+      "name": "Receipt Register",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Receipt Register",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
