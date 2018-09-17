@@ -1,0 +1,864 @@
+{
+  "tenantId": "pb.garhdiwala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "garhdiwala",
+        "localname": "garhdiwala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.garhdiwala",
+        "children": [
+          {
+            "id": "60cbbe1a-d004-4f2b-81b1-884d4d3bcef8",
+            "boundaryNum": 1,
+            "name": "Garhdiwala",
+            "localname": "Garhdiwala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN1",
+            "children": [
+              {
+                "id": "eaf7692b-3b72-4c24-b2ba-ac9d30cb681c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "797ace07-e75a-4b79-8181-23d9069122a7",
+                    "boundaryNum": 1,
+                    "name": "Balala Raod - WARD_1",
+                    "localname": "Balala Raod - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "13992e8a-129d-463f-bc54-f6eb6a5ddab8",
+                    "boundaryNum": 1,
+                    "name": "Koi Road Near B.S.N.L office - WARD_1",
+                    "localname": "Koi Road Near B.S.N.L office - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a41c6fb-ae14-43e0-9572-c6821ae18aee",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Namdhari - WARD_1",
+                    "localname": "Mohalla Namdhari - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "22920031-3976-443b-b1b6-057572ae1f37",
+                    "boundaryNum": 1,
+                    "name": "Kokla Market North area - WARD_1",
+                    "localname": "Kokla Market North area - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "512b7d44-343d-4b90-9a03-8f1ee5f3e801",
+                    "boundaryNum": 1,
+                    "name": "Jain Colony North - WARD_1",
+                    "localname": "Jain Colony North - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "21b99ec6-bf39-48e8-a16f-dac22a6ed5a9",
+                    "boundaryNum": 1,
+                    "name": "Near Punjab State Power Corpation office - WARD_1",
+                    "localname": "Near Punjab State Power Corpation office - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7dfdf778-4ccc-4610-ba03-1acf8962727e",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "61e82186-4188-4ecf-ba6c-3a9da4fc6e74",
+                    "boundaryNum": 1,
+                    "name": "Jain  Colony South Area - WARD_2",
+                    "localname": "Jain  Colony South Area - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1cef0387-07be-4e09-a2ea-b6159d377e41",
+                    "boundaryNum": 1,
+                    "name": "Vishwkarma Road - WARD_2",
+                    "localname": "Vishwkarma Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1166c4f2-e4ee-4a36-bd9e-7c62b579e45a",
+                    "boundaryNum": 1,
+                    "name": "Kokla Market South area - WARD_2",
+                    "localname": "Kokla Market South area - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "798b5bba-5bca-41d0-978c-04c37f70c15a",
+                    "boundaryNum": 1,
+                    "name": "Hans Nagar - WARD_2",
+                    "localname": "Hans Nagar - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d194f45-8f42-4cf6-8318-6a743c7bf5ae",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "a4db7bb1-f4e4-486a-90c6-3789cb0c0f8f",
+                    "boundaryNum": 1,
+                    "name": "Baba Balak Nath Mohalla - WARD_3",
+                    "localname": "Baba Balak Nath Mohalla - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "18c650ce-c55c-4f77-af3f-d37b76564b11",
+                    "boundaryNum": 1,
+                    "name": "Anmol Nagar Sariala Road - WARD_3",
+                    "localname": "Anmol Nagar Sariala Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9a931748-c640-497f-a8be-fce7bb86df16",
+                    "boundaryNum": 1,
+                    "name": "Chokha Road - WARD_3",
+                    "localname": "Chokha Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d0507cb2-9e69-420d-860e-0b4c6d75ef06",
+                    "boundaryNum": 1,
+                    "name": "Singhpurian Mohalla - WARD_3",
+                    "localname": "Singhpurian Mohalla - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ab4c4c3-2405-4392-9aed-b941c9fefddf",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "ea90846a-b76c-4d93-b123-372dd3ef5d98",
+                    "boundaryNum": 1,
+                    "name": "Parana Post officie Mohalla South area - WARD_4",
+                    "localname": "Parana Post officie Mohalla South area - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "731ef260-97e0-42eb-a022-506bbadf71d7",
+                    "boundaryNum": 1,
+                    "name": "Thana Road - WARD_4",
+                    "localname": "Thana Road - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b6a7430d-c329-4e2b-b699-ba831b1224b0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mandian - WARD_4",
+                    "localname": "Mohalla Mandian - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d1d9703-be5d-4017-b3ed-c80647997f8c",
+                    "boundaryNum": 1,
+                    "name": "Baba Dharam Mohalla - WARD_4",
+                    "localname": "Baba Dharam Mohalla - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a52bee12-ddc7-4d00-acc1-b3cb1041bf21",
+                    "boundaryNum": 1,
+                    "name": "Parana Post officie Mohalla North area - WARD_4",
+                    "localname": "Parana Post officie Mohalla North area - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "977de48a-f0d8-4a12-80a6-b3d4f79dc7bb",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "3fddc06d-3925-4069-b3ce-5b647c2f148c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sardaran - WARD_5",
+                    "localname": "Mohalla Sardaran - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "feb8d250-a0c7-4e89-b986-b1120f44ba85",
+                    "boundaryNum": 1,
+                    "name": "Khangha Mohalla - WARD_5",
+                    "localname": "Khangha Mohalla - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fdd87dce-de91-4d81-a342-45d69e625586",
+                    "boundaryNum": 1,
+                    "name": "Near Maseet - WARD_5",
+                    "localname": "Near Maseet - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f3c96b17-cdbd-47e2-b457-91e90fb16d8a",
+                    "boundaryNum": 1,
+                    "name": "Gujatian Mohalla - WARD_5",
+                    "localname": "Gujatian Mohalla - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8589e337-352e-4615-b67a-4286c0461ed2",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "25556c66-2bbc-49e1-97fa-c5a525390f57",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Purian - WARD_6",
+                    "localname": "Mohalla Purian - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "19fe7e7e-d6dd-40a3-8d1d-80738c5d5b32",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jattan - WARD_6",
+                    "localname": "Mohalla Jattan - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "74ef2017-f21c-4485-ab27-2ada94a1d7a2",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khanga west area - WARD_6",
+                    "localname": "Mohalla Khanga west area - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b468f27b-9d0b-463a-9b40-66b8aecfd4d9",
+                    "boundaryNum": 1,
+                    "name": "Choka  Raod Area - WARD_6",
+                    "localname": "Choka  Raod Area - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2255a3cd-550a-4f75-b5a1-015b76fbf6de",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shiv Singh - WARD_6",
+                    "localname": "Mohalla Shiv Singh - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9cb3241b-7133-4aa3-852e-903963ffe9b9",
+                    "boundaryNum": 1,
+                    "name": "Gali dalip Singh - WARD_6",
+                    "localname": "Gali dalip Singh - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c2458c2-a753-4b5a-8c05-2f19cb99b5c9",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5b5141ae-6997-4e0a-bb84-f3524ff765d0",
+                    "boundaryNum": 1,
+                    "name": "Main Bazzar South Area - WARD_7",
+                    "localname": "Main Bazzar South Area - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c1fe33bc-36d1-49cd-9bef-4597c880ca3a",
+                    "boundaryNum": 1,
+                    "name": "Gandhi  Chowk - WARD_7",
+                    "localname": "Gandhi  Chowk - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c3f8515a-3def-4b4f-a09d-90849b081d8a",
+                    "boundaryNum": 1,
+                    "name": "Purian Gali - WARD_7",
+                    "localname": "Purian Gali - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bdc52a61-2ecc-4192-9461-189375f4955f",
+                    "boundaryNum": 1,
+                    "name": "Jattan Mohalla - WARD_7",
+                    "localname": "Jattan Mohalla - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6e4cafdc-962c-4109-aedb-6f672c6d6980",
+                    "boundaryNum": 1,
+                    "name": "Babian Mohalla - WARD_7",
+                    "localname": "Babian Mohalla - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "893bb853-a0ac-4dd7-b606-83f37d762b65",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Singh Shabha Road - WARD_7",
+                    "localname": "Gurudwara Singh Shabha Road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "40578b5e-896b-42ee-9995-ce438fb0434c",
+                    "boundaryNum": 1,
+                    "name": "Krisha Gali - WARD_7",
+                    "localname": "Krisha Gali - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58c09098-219e-433d-a14b-f714f4093893",
+                    "boundaryNum": 1,
+                    "name": "Lajwanti Gali - WARD_7",
+                    "localname": "Lajwanti Gali - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b18796a8-cf04-490e-89f7-fbcd68291efd",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "cecfac47-f567-42da-ba53-3ff20d90bd2b",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla - WARD_8",
+                    "localname": "Balmik Mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a4d0f033-0e31-4946-a37b-ce4b46f96df2",
+                    "boundaryNum": 1,
+                    "name": "Hari Singh Store Mohalla - WARD_8",
+                    "localname": "Hari Singh Store Mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "41494f85-c78e-43ca-bb6f-f138a82dc629",
+                    "boundaryNum": 1,
+                    "name": "Tanda Road Gali  near Lal Singh House - WARD_8",
+                    "localname": "Tanda Road Gali  near Lal Singh House - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ef5d664-4341-443b-aa25-912beda611eb",
+                    "boundaryNum": 1,
+                    "name": "Near Service Gali Tanda Road - WARD_8",
+                    "localname": "Near Service Gali Tanda Road - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "743de8f0-d9d0-40b1-b916-ea71dd46b0d5",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "d5227c5d-3084-43a8-96c5-6e2f692a9215",
+                    "boundaryNum": 1,
+                    "name": "Oppsite Khalsa College Mohalla - WARD_9",
+                    "localname": "Oppsite Khalsa College Mohalla - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4d396b74-2a00-4edd-baae-104b67d1c871",
+                    "boundaryNum": 1,
+                    "name": "Balala Road South Area - WARD_9",
+                    "localname": "Balala Road South Area - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4b1a17c3-44f4-4ae4-8f89-16cdc1a5fe8f",
+                    "boundaryNum": 1,
+                    "name": "New Abadi Tanda Road Bedi wali gali and others - WARD_9",
+                    "localname": "New Abadi Tanda Road Bedi wali gali and others - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e2c8a44e-af33-45ca-9af4-0631b6997232",
+                    "boundaryNum": 1,
+                    "name": "Sub. Resham wali gali Tanda road - WARD_9",
+                    "localname": "Sub. Resham wali gali Tanda road - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd0f03a8-8624-4bd1-9b3b-962322a5c345",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mashian Tanda road - WARD_9",
+                    "localname": "Mohalla Mashian Tanda road - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "552ef3ee-d1c7-4946-9d9f-579bcf07177d",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "d58df01b-f941-4c09-a9ea-78f107b4313b",
+                    "boundaryNum": 1,
+                    "name": "Sant Niewan wali gali Tanda road - WARD_10",
+                    "localname": "Sant Niewan wali gali Tanda road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "977459d6-0cb9-4217-a26d-327156569ee5",
+                    "boundaryNum": 1,
+                    "name": "Shadi lal wali gali - WARD_10",
+                    "localname": "Shadi lal wali gali - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "df88938a-deb9-45fc-bdab-cddfd4aa7993",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mashian Tanda road - WARD_10",
+                    "localname": "Mohalla Mashian Tanda road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4b430f85-9a0d-4e36-89cf-37d7be373fde",
+                    "boundaryNum": 1,
+                    "name": "New Abadi near Main Naula. - WARD_10",
+                    "localname": "New Abadi near Main Naula. - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8a8130fd-0f19-43cb-8092-16579bdaded5",
+                    "boundaryNum": 1,
+                    "name": "Near Civil Hospital Mohalla - WARD_10",
+                    "localname": "Near Civil Hospital Mohalla - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d469a182-cd7a-40dc-96d4-b2ff533d7b9a",
+                    "boundaryNum": 1,
+                    "name": "Bagowal Colony - WARD_10",
+                    "localname": "Bagowal Colony - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC52",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88936b44-435a-49da-b41d-4f073e157c53",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "c993a058-e80d-4793-ae90-c08c8c374bdc",
+                    "boundaryNum": 1,
+                    "name": "Jainian Mohalla - WARD_11",
+                    "localname": "Jainian Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "00e1a7a5-6cb8-4ec0-8afa-c9a0ebe1537b",
+                    "boundaryNum": 1,
+                    "name": "Chang Gali South area - WARD_11",
+                    "localname": "Chang Gali South area - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1ea6539b-1925-4d92-94af-5e59730f531e",
+                    "boundaryNum": 1,
+                    "name": "Guptain Mohalla - WARD_11",
+                    "localname": "Guptain Mohalla - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ca7fb191-7f6d-4263-85b1-a8026e00465c",
+                    "boundaryNum": 1,
+                    "name": "Gandi chowk North area - WARD_11",
+                    "localname": "Gandi chowk North area - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC56",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "afd16c6a-9351-483f-a14e-14aa995ed9e0",
+                    "boundaryNum": 1,
+                    "name": "Gurtian Mohalla North area - WARD_11",
+                    "localname": "Gurtian Mohalla North area - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC57",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aefe8aea-f87b-475a-93fc-e43a7ec79ec3",
+                    "boundaryNum": 1,
+                    "name": "Thane chowk wali main gali - WARD_11",
+                    "localname": "Thane chowk wali main gali - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC58",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
