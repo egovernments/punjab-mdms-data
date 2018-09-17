@@ -1,0 +1,516 @@
+{
+  "tenantId": "pb.mudki",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mudki",
+        "localname": "mudki",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mudki",
+        "children": [
+          {
+            "id": "4858b2b5-2648-498c-b5fc-5b824960a905",
+            "boundaryNum": 1,
+            "name": "NP Mudki",
+            "localname": "NP Mudki",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZN01",
+            "children": [
+              {
+                "id": "1eeb6d7d-90df-4c9d-8fc9-128c43512533",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "9dca6977-6c9f-4111-a6d0-3037374a26fa",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar W-1 - WARD_1",
+                    "localname": "Ambedkar Nagar W-1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d622b683-a6a3-4ac3-be06-63ad58bc800f",
+                    "boundaryNum": 1,
+                    "name": "Street Baba Jiwan Singh - WARD_1",
+                    "localname": "Street Baba Jiwan Singh - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46aa498c-33ec-4414-b0dd-04ccd87d2c27",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "63c617ba-235d-4170-9dbc-7999aa404d0f",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar W-2 - WARD_2",
+                    "localname": "Ambedkar Nagar W-2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0265c217-c7ef-4883-a805-38f01e4b81c1",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar W-2 - WARD_2",
+                    "localname": "Guru Gobind Singh Nagar W-2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "622ebec7-e990-4800-ab59-1b60a4446199",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "a96d5160-2bb7-44ef-9312-2a4b60cb3255",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar W-3 - WARD_3",
+                    "localname": "Guru Gobind Singh Nagar W-3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16e0f4d0-1873-4d32-b4d6-79f9b3ea4e9a",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "1ee6f202-51b5-4676-9f54-d71543602ae1",
+                    "boundaryNum": 1,
+                    "name": "New Colony - WARD_4",
+                    "localname": "New Colony - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "76f74a36-e671-47d8-a188-ee25ed5b224b",
+                    "boundaryNum": 1,
+                    "name": "Street Basiyan wali - WARD_4",
+                    "localname": "Street Basiyan wali - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "609ad7c8-27b7-491a-93c9-46f416ddd3cf",
+                    "boundaryNum": 1,
+                    "name": "Gill Road W-4 - WARD_4",
+                    "localname": "Gill Road W-4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "caaf923d-d5d4-41f5-bd5b-76dbe353f1ce",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "d4573dde-6acc-4a8c-880d-4f2523323729",
+                    "boundaryNum": 1,
+                    "name": "Gill Road W-5 - WARD_5",
+                    "localname": "Gill Road W-5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bbca5388-c58f-4252-8481-4d38960e153f",
+                    "boundaryNum": 1,
+                    "name": "Nanak Nagari - WARD_5",
+                    "localname": "Nanak Nagari - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10cbbe4a-cff2-485c-b623-594fbd213b75",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "443619b4-4406-4aa1-9b4b-4dd40ab5b690",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar W-6 - WARD_6",
+                    "localname": "Christian Nagar W-6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cbcd9048-242d-49fc-8cb8-84f82e819c1e",
+                    "boundaryNum": 1,
+                    "name": "Chhota Vehda - WARD_6",
+                    "localname": "Chhota Vehda - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3379192-bc1d-4f0d-9bf4-77f518df4d5f",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5c5d1e3e-3058-4627-88a0-cb7fa11218dd",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar W-7 - WARD_7",
+                    "localname": "Christian Nagar W-7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "886ac517-45b5-4cca-8767-d9cc603eceb8",
+                    "boundaryNum": 1,
+                    "name": "Jaid patti W-7 - WARD_7",
+                    "localname": "Jaid patti W-7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64f2426e-501a-4bd9-9027-db5f2cb3a824",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "95f8f357-d8c2-4cfb-84ac-6d03c1e5d29b",
+                    "boundaryNum": 1,
+                    "name": "Jaid patti W-8 - WARD_8",
+                    "localname": "Jaid patti W-8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dd882823-5cb2-455b-ab52-c5a285e79171",
+                    "boundaryNum": 1,
+                    "name": "Wadda Wehra - WARD_8",
+                    "localname": "Wadda Wehra - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ee6958a5-93de-4ae3-a79b-440853f88ad7",
+                    "boundaryNum": 1,
+                    "name": "Purani Mudki - WARD_8",
+                    "localname": "Purani Mudki - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "10f26405-8c4f-4b75-ada7-ec4574ae8d95",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar W-8 - WARD_8",
+                    "localname": "Ram Nagar W-8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4b50e417-b313-439e-a1eb-d40548550f19",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "6763bc55-f582-44c9-b0af-657a9d7b6af1",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar W-9 - WARD_9",
+                    "localname": "Christian Nagar W-9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e0001142-4113-493b-9f01-c2ce2e934b80",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar W-9 - WARD_9",
+                    "localname": "Ranjit Nagar W-9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6d97bb8-1fa4-4a97-a69a-6b51ae8c435e",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "75fe9895-a14c-48a7-82f8-978a6d675c85",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar W-10 - WARD_10",
+                    "localname": "Ram Nagar W-10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ef375d42-a71c-4dd5-862f-f0bfe0b33573",
+                    "boundaryNum": 1,
+                    "name": "Multani Patti - WARD_10",
+                    "localname": "Multani Patti - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a6b1196-837b-482d-add9-2e5798364c7f",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "05fb6853-9520-446c-9615-dfac04d16893",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar W-11 - WARD_11",
+                    "localname": "Ram Nagar W-11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29fbe854-2e0e-4bd9-9178-1f11cbe4b1e1",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "883972f7-49d9-4394-9d40-871a6cf55983",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar W-12 - WARD_12",
+                    "localname": "Ranjit Nagar W-12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7fdac3f9-c089-44ac-b44a-21174c71711f",
+                    "boundaryNum": 1,
+                    "name": "Chhokar Patti - WARD_12",
+                    "localname": "Chhokar Patti - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "471f37ca-3df0-4948-ab5d-b6d4445fceeb",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "6bc89211-928d-4f02-9480-e81f1bc488b1",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar W-13 - WARD_13",
+                    "localname": "Ranjit Nagar W-13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3385466e-0188-4e7b-a93b-f401934e8c8b",
+                    "boundaryNum": 1,
+                    "name": "Valmik Basti - WARD_13",
+                    "localname": "Valmik Basti - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
