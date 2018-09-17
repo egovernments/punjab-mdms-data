@@ -1,0 +1,672 @@
+{
+  "tenantId": "pb.mamdot",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mamdot",
+        "localname": "mamdot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mamdot",
+        "children": [
+          {
+            "id": "867fd89a-bcc4-4878-8158-791f63726a1a",
+            "boundaryNum": 1,
+            "name": "MAMDOT",
+            "localname": "MAMDOT",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MZN1",
+            "children": [
+              {
+                "id": "abd6396e-77d3-4aed-b389-b48eb88aeaf6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "c6c785b6-fa6c-4a42-a423-a69ef2695597",
+                    "boundaryNum": 1,
+                    "name": "Bhatian Wali - WARD_1",
+                    "localname": "Bhatian Wali - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35184d45-76b1-4e5b-adaa-9f081d6e188d",
+                    "boundaryNum": 1,
+                    "name": "Pojo Ke Road - WARD_1",
+                    "localname": "Pojo Ke Road - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ac28eea-83aa-46c3-a4be-92247a6c4a47",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "f7e783a6-3bba-43dd-a7c5-c1b3a7f166a3",
+                    "boundaryNum": 1,
+                    "name": "Ferozepur Road (Right) - WARD_2",
+                    "localname": "Ferozepur Road (Right) - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dc1b9a35-7825-450e-8ef2-e5b43f1e57d6",
+                    "boundaryNum": 1,
+                    "name": "Basti Pathana Wali - WARD_2",
+                    "localname": "Basti Pathana Wali - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91c4a91a-4fc0-41d0-ac59-7aa15ea1538d",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "dd8d87b3-9969-4621-9789-9b810b3a1a14",
+                    "boundaryNum": 1,
+                    "name": "Ferozepur Road (Left) - WARD_3",
+                    "localname": "Ferozepur Road (Left) - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5dc0e5c6-b5d8-483b-998f-4d3e1c02d694",
+                    "boundaryNum": 1,
+                    "name": "Chapati Road (Left) - WARD_3",
+                    "localname": "Chapati Road (Left) - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a218a700-aadb-48ad-96a3-ecdf475c0234",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "87101531-2d0d-495e-8918-dd718645317d",
+                    "boundaryNum": 1,
+                    "name": "Dashemsh Nagar - WARD_4",
+                    "localname": "Dashemsh Nagar - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3ccb6e0c-68d7-4d58-a734-636d7ef6f2e5",
+                    "boundaryNum": 1,
+                    "name": "OBC Colony - WARD_4",
+                    "localname": "OBC Colony - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7684fcd-a5f6-4159-97a8-3854c6c30365",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "10765cf0-82bf-431b-92c6-110f19a28a65",
+                    "boundaryNum": 1,
+                    "name": "Wadhwa Hospital Street - WARD_5",
+                    "localname": "Wadhwa Hospital Street - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "68b7816a-fc54-4326-9e4f-3cec9b93b23e",
+                    "boundaryNum": 1,
+                    "name": "Nanak Niwas Mohalla (Opp) - WARD_5",
+                    "localname": "Nanak Niwas Mohalla (Opp) - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9185a67d-bba4-44f4-9568-49bf279fd6ef",
+                    "boundaryNum": 1,
+                    "name": "Circular Road (Left) - WARD_5",
+                    "localname": "Circular Road (Left) - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "142cad23-5fee-4afc-9199-5623cc7b94ef",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "c989a862-17c6-40ef-acdd-17db20d89399",
+                    "boundaryNum": 1,
+                    "name": "Narang Mohalla - WARD_6",
+                    "localname": "Narang Mohalla - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b6d570db-8ec8-4387-95e8-ce0967131480",
+                    "boundaryNum": 1,
+                    "name": "Gabba Street - WARD_6",
+                    "localname": "Gabba Street - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33e8e523-3b0c-4ecd-b3f5-3ecdf9f73df6",
+                    "boundaryNum": 1,
+                    "name": "Post Office Street - WARD_6",
+                    "localname": "Post Office Street - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a147887-436b-447d-853c-7de2465844fc",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "29260c80-8b43-4ec9-b0b3-2528693a4d3b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_7",
+                    "localname": "Main Bazar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dd96f513-e2ea-45be-a491-dac2e7ea9ae9",
+                    "boundaryNum": 1,
+                    "name": "Jhugian Hazara Road - WARD_7",
+                    "localname": "Jhugian Hazara Road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b9bbc1ae-3734-4a51-8be5-b362fb4ce776",
+                    "boundaryNum": 1,
+                    "name": "Chapati Road (Right) - WARD_7",
+                    "localname": "Chapati Road (Right) - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "325d79d5-b919-483b-a44c-eae9eb26d418",
+                    "boundaryNum": 1,
+                    "name": "Sawai Ke Road (Left) - WARD_7",
+                    "localname": "Sawai Ke Road (Left) - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33560deb-6c9c-4091-8afd-34f0b5722616",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "222c66cd-c004-4493-bc47-b557cb0e7277",
+                    "boundaryNum": 1,
+                    "name": "Tibba - WARD_8",
+                    "localname": "Tibba - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "61889350-e1ea-4106-bde3-de2b69e4dcd4",
+                    "boundaryNum": 1,
+                    "name": "Muralian Wali Gali - WARD_8",
+                    "localname": "Muralian Wali Gali - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "906668bc-e974-4541-b58c-87feebd328c5",
+                    "boundaryNum": 1,
+                    "name": "Hazara Road (Right) - WARD_8",
+                    "localname": "Hazara Road (Right) - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cc15ac02-99db-4ae2-9e84-d1c4accfd87e",
+                    "boundaryNum": 1,
+                    "name": "Opp. BDPO Office - WARD_8",
+                    "localname": "Opp. BDPO Office - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77ffb189-ec70-491d-8cd8-33920519ea6a",
+                    "boundaryNum": 1,
+                    "name": "Guruwara Singh Sabha - WARD_8",
+                    "localname": "Guruwara Singh Sabha - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f8dc70ad-2f1f-47c8-88ec-a8350aad3aa5",
+                    "boundaryNum": 1,
+                    "name": "Ghumiaran Wala Chowk - WARD_8",
+                    "localname": "Ghumiaran Wala Chowk - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8a4fc17-2b4f-499f-9ba1-51bf5c882569",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "354136e6-b708-4503-bd86-6f0cff744260",
+                    "boundaryNum": 1,
+                    "name": "Sawai Ke Road (Right) - WARD_9",
+                    "localname": "Sawai Ke Road (Right) - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "81a31141-ccf1-4db8-8c7b-60d478441f58",
+                    "boundaryNum": 1,
+                    "name": "Vehri - WARD_9",
+                    "localname": "Vehri - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc58a5ae-4ced-44f3-a9dc-af4d875dce8b",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Office - WARD_9",
+                    "localname": "Tehsil Office - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0213cab-677b-43f1-a783-9ec377b7f5d7",
+                    "boundaryNum": 1,
+                    "name": "B/S Tehsil - WARD_9",
+                    "localname": "B/S Tehsil - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "864de5dd-4a70-4962-a386-6ae26e94ece7",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f0d5973d-59d8-4151-8e4c-46e61c2bed51",
+                    "boundaryNum": 1,
+                    "name": "Basti Kashmir singh - WARD_10",
+                    "localname": "Basti Kashmir singh - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "694ad8aa-a863-478f-ad14-513941e89aac",
+                    "boundaryNum": 1,
+                    "name": "Jallo Ke Road (Left) - WARD_10",
+                    "localname": "Jallo Ke Road (Left) - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fccf4c33-93bd-4ab3-8db7-e640059b2319",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "2b794a45-2bab-4429-9586-4a61d59ead37",
+                    "boundaryNum": 1,
+                    "name": "Basti Sethan - WARD_11",
+                    "localname": "Basti Sethan - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bee4666d-7a82-4012-baf3-6f5b7c92fc1b",
+                    "boundaryNum": 1,
+                    "name": "Basti Bhalerian - WARD_11",
+                    "localname": "Basti Bhalerian - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fc1873a-0de6-487b-9033-4346f2c8cb37",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "60d2e288-731b-420a-883a-d66b41477e8b",
+                    "boundaryNum": 1,
+                    "name": "Jallo Ke (Right) - WARD_12",
+                    "localname": "Jallo Ke (Right) - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c2f83c73-62e4-4787-9026-57dbc5134a00",
+                    "boundaryNum": 1,
+                    "name": "Janglat (Right) - WARD_12",
+                    "localname": "Janglat (Right) - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "abbf399f-e930-4475-a9f5-66aebf030e4e",
+                    "boundaryNum": 1,
+                    "name": "Killa - WARD_12",
+                    "localname": "Killa - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6c76992-d26c-4b31-b7d6-5046b7354649",
+                    "boundaryNum": 1,
+                    "name": "Ghore Chak Road (Left) - WARD_12",
+                    "localname": "Ghore Chak Road (Left) - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7871b2ad-f6fb-49ac-bcaf-5618cc5179f5",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b1513e96-2644-42fc-9de2-ac7e89806e8f",
+                    "boundaryNum": 1,
+                    "name": "Ghore Chak Road (Right) - WARD_13",
+                    "localname": "Ghore Chak Road (Right) - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e217e6bf-de15-40de-b321-b974cdfce0d4",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Nanak Niwas - WARD_13",
+                    "localname": "Gurudwara Nanak Niwas - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e53be5a-26b7-439c-b1ac-912051145634",
+                    "boundaryNum": 1,
+                    "name": "Sem Nalla - WARD_13",
+                    "localname": "Sem Nalla - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "da89497a-e302-4f10-8d44-efa3244187f9",
+                    "boundaryNum": 1,
+                    "name": "Devi Dawara Road Opp. - WARD_13",
+                    "localname": "Devi Dawara Road Opp. - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MDT40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
