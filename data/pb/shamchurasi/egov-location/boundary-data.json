@@ -1,0 +1,456 @@
+{
+  "tenantId": "pb.shamchurasi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "shamchurasi",
+        "localname": "shamchurasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.shamchurasi",
+        "children": [
+          {
+            "id": "25f5ae70-52de-4493-a25b-a7de13cadbcb",
+            "boundaryNum": 1,
+            "name": "Sham Chaurasi",
+            "localname": "Sham Chaurasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SCZN1",
+            "children": [
+              {
+                "id": "037cb1f6-cd22-487b-b776-569b2a9b862b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "72bf96c6-539a-46dd-a18d-d96f7055257b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dhobian - WARD_1",
+                    "localname": "Mohalla Dhobian - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "534a8804-8bec-4830-8398-6538637a0fd7",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Behalan - WARD_1",
+                    "localname": "Mohalla Behalan - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a673afeb-1553-4340-8e7c-dfc6130d6c28",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "9a60f1c0-105e-422e-81dd-0fc2084cef36",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gujratian - WARD_2",
+                    "localname": "Mohalla Gujratian - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b776e8ca-8324-4db8-bd30-5993b6ca45d5",
+                    "boundaryNum": 1,
+                    "name": "Arya Samaj Mandir Gali - WARD_2",
+                    "localname": "Arya Samaj Mandir Gali - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7857bd80-ce0c-4814-806c-51cbf0b66f7a",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mochian - WARD_2",
+                    "localname": "Mohalla Mochian - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9bccbf98-b3dc-4890-90bd-a028b4e2a914",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Chowk - WARD_2",
+                    "localname": "Main Bazar Chowk - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ed14149-01d3-4e2c-88c7-4d3760f6468c",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "c2e20fee-4486-4b53-b25b-ac7126a5a93a",
+                    "boundaryNum": 1,
+                    "name": "New Model Town Colony/Navi Abaadi - WARD_3",
+                    "localname": "New Model Town Colony/Navi Abaadi - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8f227284-3628-4dbf-8239-761baf65688b",
+                    "boundaryNum": 1,
+                    "name": "Haryana Road - WARD_3",
+                    "localname": "Haryana Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "503e177b-180f-48ce-9b5d-182b4e5dd346",
+                    "boundaryNum": 1,
+                    "name": "Post Office Road - WARD_3",
+                    "localname": "Post Office Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57f1598a-ee45-4ee9-a015-afeee215fc5e",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "e833dee0-5388-4c27-9d98-dd43e144c4f5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mehmoodkan - WARD_4",
+                    "localname": "Mohalla Mehmoodkan - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c28aac77-fe07-4e15-948f-4b79e512520e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Chembian - WARD_4",
+                    "localname": "Mohalla Chembian - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "faaabc33-98a6-4c19-a5b9-856c9a62d0f3",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "91257ebf-db6d-4bed-adae-0a77bd0f9415",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thakuran - WARD_5",
+                    "localname": "Mohalla Thakuran - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "00d3c354-4097-4228-af8f-3ce9e7118e4e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mehmoodkan - WARD_5",
+                    "localname": "Mohalla Mehmoodkan - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58c8bafd-8c1f-4c82-a290-7c8bcb759f6c",
+                    "boundaryNum": 1,
+                    "name": "Kotli Road - WARD_5",
+                    "localname": "Kotli Road - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "539f550e-6578-410c-b6db-4fdac8216fdf",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "bdddc4ed-eba0-4cd2-a984-aa2d027f83cb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ghumaran - WARD_6",
+                    "localname": "Mohalla Ghumaran - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9dc9e548-a1c7-4746-9e02-b4c8127521e6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rai Khan - WARD_6",
+                    "localname": "Mohalla Rai Khan - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52c01775-5a78-4763-969b-529b6bd16cdf",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "c78f7dae-c97f-41b6-8611-dccb4bab2216",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Partian - WARD_7",
+                    "localname": "Mohalla Partian - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "97c224f3-d582-475f-95ed-b5b904e2c4f5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shergiran - WARD_7",
+                    "localname": "Mohalla Shergiran - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "661d94b7-3098-4270-b739-767e2137988b",
+                    "boundaryNum": 1,
+                    "name": "Circle road - WARD_7",
+                    "localname": "Circle road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f2f04a36-c145-4f22-bc66-b22482cbbc19",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "d84b96f1-a78a-4fa7-b78e-215a78bdf1bf",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thakuran - WARD_8",
+                    "localname": "Mohalla Thakuran - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f1753443-7236-4bdf-8e9d-28fba086bfdb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shergiran North Side - WARD_8",
+                    "localname": "Mohalla Shergiran North Side - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "24f35bee-74a4-4b84-b991-99b27dc1d312",
+                    "boundaryNum": 1,
+                    "name": "West Cirlce Road Kotli Road - WARD_8",
+                    "localname": "West Cirlce Road Kotli Road - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "90e95f9b-7ca2-44ae-8152-d9c7d54d6dac",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ghumaran - WARD_8",
+                    "localname": "Mohalla Ghumaran - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe9b9fd2-b14e-4851-8e75-5dba2743641f",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "b1a6039b-1d07-40b8-bc70-413c6378f005",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Behlan - WARD_9",
+                    "localname": "Mohalla Behlan - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "081c0051-eeec-4321-bada-5552195f2bf9",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Chowk Naian - WARD_9",
+                    "localname": "Mohalla Chowk Naian - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1d796c48-c200-4fd7-8d92-b1efc190f2e9",
+                    "boundaryNum": 1,
+                    "name": "Chowk Partian - WARD_9",
+                    "localname": "Chowk Partian - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SCLC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
