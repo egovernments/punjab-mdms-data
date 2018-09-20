@@ -1,0 +1,1740 @@
+{
+  "tenantId": "pb.gurdaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gurdaspur",
+        "localname": "gurdaspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.gurdaspur",
+        "children": [
+          {
+            "id": "d1e6b61c-37fb-4099-b6d4-be1e500fdbfd",
+            "boundaryNum": 1,
+            "name": "Gurdaspur",
+            "localname": "Gurdaspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a7eed909-ba31-4959-9411-444ee6f7c1fa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "757f75e3-1646-462d-81a9-645cc2a3672b",
+                    "boundaryNum": 1,
+                    "name": "Improvement Trust Scheme No. 5 Jail Road W1 - WARD_1",
+                    "localname": "Improvement Trust Scheme No. 5 Jail Road W1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9667f194-8895-44e6-accf-b3acdf8bfdbe",
+                    "boundaryNum": 1,
+                    "name": "Bhagowal House To Jail Road upto M.C.Limit W1 - WARD_1",
+                    "localname": "Bhagowal House To Jail Road upto M.C.Limit W1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a829d1ab-4595-4a0b-a558-3228823ec4fc",
+                    "boundaryNum": 1,
+                    "name": "Baba Farid Avenue W1 - WARD_1",
+                    "localname": "Baba Farid Avenue W1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_61",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d1b33901-e285-4446-b25b-fbb91b4539c4",
+                    "boundaryNum": 1,
+                    "name": "Aariya  Nagar Jail Road W1 - WARD_1",
+                    "localname": "Aariya  Nagar Jail Road W1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_62",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e85aa70c-e635-4d3b-928b-af7d24b8b2c6",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "fa504dde-f39a-43e7-8dc7-9bf82e66a69d",
+                    "boundaryNum": 1,
+                    "name": "Bhagowal House To Jail Road upto M.C.Limit W2 - WARD_2",
+                    "localname": "Bhagowal House To Jail Road upto M.C.Limit W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_57",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "546cc61e-009f-465d-9a1a-9a7baf0685b6",
+                    "boundaryNum": 1,
+                    "name": "Red Cross Road Back side Bus Stand W2 - WARD_2",
+                    "localname": "Red Cross Road Back side Bus Stand W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_63",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "40a3131a-445f-4e91-b11e-642dc4740053",
+                    "boundaryNum": 1,
+                    "name": "Jahaj Chowk To Panchayat Bhawan  W2 - WARD_2",
+                    "localname": "Jahaj Chowk To Panchayat Bhawan  W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_64",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2d97651b-5fa5-4215-ab33-1a697dd0a2b0",
+                    "boundaryNum": 1,
+                    "name": "D.C. Office To Panchayat Bhawan W2 - WARD_2",
+                    "localname": "D.C. Office To Panchayat Bhawan W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_66",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d93d62eb-5ef8-4677-889d-4d0c74344ecd",
+                    "boundaryNum": 1,
+                    "name": "Rulia Ram Colony W2 - WARD_2",
+                    "localname": "Rulia Ram Colony W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_72",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b41580fa-5a17-4a64-8628-6f5abf902a03",
+                    "boundaryNum": 1,
+                    "name": "Sundar Bagh Colony Jail Road W2 - WARD_2",
+                    "localname": "Sundar Bagh Colony Jail Road W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_75",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1f7444bc-2f3b-402e-8d8e-f3276e396d24",
+                    "boundaryNum": 1,
+                    "name": "Rori Mohalla W2 - WARD_2",
+                    "localname": "Rori Mohalla W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_76",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "59aa9cdb-5ca2-49a6-828a-5996f59a61a8",
+                    "boundaryNum": 1,
+                    "name": "Panchi Colony Bariar W2 - WARD_2",
+                    "localname": "Panchi Colony Bariar W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_78",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bda5d62-3b8a-460c-bc30-b651727bbbe8",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "234a970c-656b-4cf6-a689-5c30dff6e2f5",
+                    "boundaryNum": 1,
+                    "name": "D.C. Office To Panchayat Bhawan W3 - WARD_3",
+                    "localname": "D.C. Office To Panchayat Bhawan W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_67",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12917829-b5b7-4a30-a394-b1b7c2000af9",
+                    "boundaryNum": 1,
+                    "name": "Panchayat Bhawan To Railway Road (B.S.F Road) W3 - WARD_3",
+                    "localname": "Panchayat Bhawan To Railway Road (B.S.F Road) W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_68",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9c95eea1-73a8-4a2a-9108-2c66c56a6743",
+                    "boundaryNum": 1,
+                    "name": "little Flower School To Panchayat Bhawan W3 - WARD_3",
+                    "localname": "little Flower School To Panchayat Bhawan W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_70",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4b7dccc7-1717-490a-95ad-8fd935386065",
+                    "boundaryNum": 1,
+                    "name": "Mandi Chowk To Milan Palace W3 - WARD_3",
+                    "localname": "Mandi Chowk To Milan Palace W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_71",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c91e83fa-fbf8-48e4-a83d-9f65e876966f",
+                    "boundaryNum": 1,
+                    "name": "Panchi Colony Bariar W3 - WARD_3",
+                    "localname": "Panchi Colony Bariar W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_77",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6274e555-d231-464c-a40a-41c5ab2064a1",
+                    "boundaryNum": 1,
+                    "name": "Railway Fatak To I.T.I Boys Pathankot Road upto M.C.Limit W3 - WARD_3",
+                    "localname": "Railway Fatak To I.T.I Boys Pathankot Road upto M.C.Limit W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_79",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "200b6009-829d-4ea8-8dde-aa6071efce81",
+                    "boundaryNum": 1,
+                    "name": "New Sabji mandi & Dana Mandi W3 - WARD_3",
+                    "localname": "New Sabji mandi & Dana Mandi W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_80",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "abc834cf-9da4-4207-8f7c-d9e6fd4b1460",
+                    "boundaryNum": 1,
+                    "name": "Railway Fatak To Pandori Road upto M.C.Limit W3 - WARD_3",
+                    "localname": "Railway Fatak To Pandori Road upto M.C.Limit W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_81",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4a8d1aae-e676-489d-8c49-051942540725",
+                    "boundaryNum": 1,
+                    "name": "Mandi Fatak To Milk Plant W3 - WARD_3",
+                    "localname": "Mandi Fatak To Milk Plant W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_83",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e9ab23f2-f0c4-43da-910a-967b85ec40e9",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f4a143c9-cd62-4591-9a2b-2abf7db4b331",
+                    "boundaryNum": 1,
+                    "name": "Jahaj Chowk To Panchayat Bhawan  W4 - WARD_4",
+                    "localname": "Jahaj Chowk To Panchayat Bhawan  W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_65",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5e488625-2e22-4972-a405-81359dcb1037",
+                    "boundaryNum": 1,
+                    "name": "Panchayat Bhawan To Railway Road (B.S.F Road) W4 - WARD_4",
+                    "localname": "Panchayat Bhawan To Railway Road (B.S.F Road) W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_69",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d3120ad-f8b3-4bd2-a536-1761fe9624cd",
+                    "boundaryNum": 1,
+                    "name": "Purani Dana Mandi W4 - WARD_4",
+                    "localname": "Purani Dana Mandi W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_73",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7ba612ee-72b5-4856-a4c1-678e11a8c970",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W4 - WARD_4",
+                    "localname": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_86",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "494c1386-4f8e-4780-8d47-87cda1ef3e97",
+                    "boundaryNum": 1,
+                    "name": "Railway Fatak to Jahaj Chowk  W4 - WARD_4",
+                    "localname": "Railway Fatak to Jahaj Chowk  W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_89",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "93c61155-a58d-42f2-bf71-317b6c69fa6b",
+                    "boundaryNum": 1,
+                    "name": "Shri Ram Colony W4 - WARD_4",
+                    "localname": "Shri Ram Colony W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_102",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "297ced63-17ab-412f-9dac-863f29682dee",
+                    "boundaryNum": 1,
+                    "name": "Aadarsh Nagar W4 - WARD_4",
+                    "localname": "Aadarsh Nagar W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_103",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e0a6fe22-3480-43fe-b71b-3c6d960aeb99",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "dbdd691b-dd12-42a8-b029-ed194f9d9d8f",
+                    "boundaryNum": 1,
+                    "name": "Sehzada Nangal W 5 - WARD_5",
+                    "localname": "Sehzada Nangal W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4d23395c-f2e7-4f1a-a44b-85786316e931",
+                    "boundaryNum": 1,
+                    "name": "Purani Dana Mandi W5 - WARD_5",
+                    "localname": "Purani Dana Mandi W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_74",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6c784b24-4517-49a9-9969-6f7bbadbe749",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W5 - WARD_5",
+                    "localname": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_87",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1295eff8-f774-4cd2-92fc-6c931fdaba3d",
+                    "boundaryNum": 1,
+                    "name": "Railway Fatak to Jahaj Chowk  W5 - WARD_5",
+                    "localname": "Railway Fatak to Jahaj Chowk  W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_90",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "74d9e2e6-35fb-4538-826b-4483e721cae4",
+                    "boundaryNum": 1,
+                    "name": "Kotli Nangal W5 - WARD_5",
+                    "localname": "Kotli Nangal W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_106",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "959b0da7-ba9e-4410-9cae-3afbd78b0abf",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "62a1dc0b-6edf-4dfc-af43-57dc3da3ee62",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Bhai Lalo Chowk W6 - WARD_6",
+                    "localname": "Hanuman Chowk To Bhai Lalo Chowk W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_93",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fba5b0db-0d22-4e57-8bb0-ee29598c2ed9",
+                    "boundaryNum": 1,
+                    "name": "Bhai Lalo Chowk To MandI Chowk W6 - WARD_6",
+                    "localname": "Bhai Lalo Chowk To MandI Chowk W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_94",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cc3f592a-769c-4e58-9f1c-7ede42dbcbb7",
+                    "boundaryNum": 1,
+                    "name": "Mandi Chowk To Tibri Chowk (Sangalpura Road) W6 - WARD_6",
+                    "localname": "Mandi Chowk To Tibri Chowk (Sangalpura Road) W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_97",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e4843371-e2c7-4fce-b7d9-d678d00c51ec",
+                    "boundaryNum": 1,
+                    "name": "Sangalpura Mohalla  Both Side W6 - WARD_6",
+                    "localname": "Sangalpura Mohalla  Both Side W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_107",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c07123cc-5287-4de6-9698-20b191fea72c",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5230a4d2-3735-4bd4-a6e8-694bde3cfa1f",
+                    "boundaryNum": 1,
+                    "name": "Bhai Lalo Chowk To MandI Chowk W7 - WARD_7",
+                    "localname": "Bhai Lalo Chowk To MandI Chowk W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_95",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3f0daaf7-e645-4d5d-8994-0463d41f20fc",
+                    "boundaryNum": 1,
+                    "name": "Mandi Chowk To Tibri Chowk (Sangalpura Road) W7 - WARD_7",
+                    "localname": "Mandi Chowk To Tibri Chowk (Sangalpura Road) W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_98",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "baeb449e-5647-4895-a442-49ac873f01a3",
+                    "boundaryNum": 1,
+                    "name": "Sangalpura Mohalla  Both Side W7 - WARD_7",
+                    "localname": "Sangalpura Mohalla  Both Side W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_108",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "959c39da-69ac-43ac-88d4-9dd15b2fdb61",
+                    "boundaryNum": 1,
+                    "name": "All Colonies Near Railway Line,Sehzada Nangal W7 - WARD_7",
+                    "localname": "All Colonies Near Railway Line,Sehzada Nangal W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_109",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d332082-c045-4d1a-938f-bf6b1783a486",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "6d03bdd9-b320-4168-8205-0edfbe2a262b",
+                    "boundaryNum": 1,
+                    "name": "Railway Fatak To Pandori Road upto M.C.Limit W8 - WARD_8",
+                    "localname": "Railway Fatak To Pandori Road upto M.C.Limit W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_82",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2bca5bcd-2bcf-4bab-909f-0488b3785f7f",
+                    "boundaryNum": 1,
+                    "name": "All Colonies Near Railway Line,Sehzada Nangal W8 - WARD_8",
+                    "localname": "All Colonies Near Railway Line,Sehzada Nangal W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_110",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "01aa4be9-4960-4205-8b74-8cddac82d31f",
+                    "boundaryNum": 1,
+                    "name": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart W-8 W8 - WARD_8",
+                    "localname": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart W-8 W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_115",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5f3017d-667e-40c5-92c4-24f9550c8d20",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0f7174ef-db15-4c78-ae97-ba1de4c236aa",
+                    "boundaryNum": 1,
+                    "name": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said ChartW-9 W9 - WARD_9",
+                    "localname": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said ChartW-9 W9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_112",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5c058395-3f61-4d75-995b-f589f6c8c073",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "15078e66-ac6d-4187-98f1-91c57a810d8b",
+                    "boundaryNum": 1,
+                    "name": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart-W10 W10 - WARD_10",
+                    "localname": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart-W10 W10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_113",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23ce468f-6a90-4f71-987a-cad362d73d9f",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "cd3e3d2f-c5ac-4b37-aa45-f4490e3510b5",
+                    "boundaryNum": 1,
+                    "name": "Improvement Trust Secheme no.7 Tibri raod W11 - WARD_11",
+                    "localname": "Improvement Trust Secheme no.7 Tibri raod W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d2bbcc04-31b1-4a76-95bc-d36d76def983",
+                    "boundaryNum": 1,
+                    "name": "Kahnuwan Road To S.D.College upto M.C.Limit  W11 - WARD_11",
+                    "localname": "Kahnuwan Road To S.D.College upto M.C.Limit  W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2ebf549b-18f1-4e14-ac11-cbbd907859e1",
+                    "boundaryNum": 1,
+                    "name": "Ram Sharnam Mandir Colony Back side S.D.College W11 - WARD_11",
+                    "localname": "Ram Sharnam Mandir Colony Back side S.D.College W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "00cd23fe-cc27-4474-b86e-e4be37cc484c",
+                    "boundaryNum": 1,
+                    "name": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said ChartW-11 W11 - WARD_11",
+                    "localname": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said ChartW-11 W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_114",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da07446a-f58c-4857-a41c-8035d7619b29",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "5e76d0ee-6cc3-4267-a5f9-17ffa7709a31",
+                    "boundaryNum": 1,
+                    "name": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart.-W12 W12 - WARD_12",
+                    "localname": "Surrounding Area and All  new Area in M.C.Limit & Which Part Not mentioned Above said Chart.-W12 W12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_111",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120eb5f9-8423-404c-96f6-fab3e8a44944",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "915e73ee-d43e-4835-8c51-6a73b4b01e71",
+                    "boundaryNum": 1,
+                    "name": "Improvement Trust Scheme No. 1 Batala Road W13 - WARD_13",
+                    "localname": "Improvement Trust Scheme No. 1 Batala Road W13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "76b583e0-4165-4a48-a4c3-6877328c0bd7",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar nagar W13 - WARD_13",
+                    "localname": "Ambedkar nagar W13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d7718a6-dba4-4eab-b011-fd870a2a8b5c",
+                    "boundaryNum": 1,
+                    "name": "Mohan Plaza To M.C.Limit Both sides W13 - WARD_13",
+                    "localname": "Mohan Plaza To M.C.Limit Both sides W13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "40ff0da1-e24e-4d75-8d36-131fe247e2e1",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "94dcd3a2-303e-4cd8-977d-52c9dc7a4eaf",
+                    "boundaryNum": 1,
+                    "name": "Mohan Plaza To M.C.Limit Both sides W14 - WARD_14",
+                    "localname": "Mohan Plaza To M.C.Limit Both sides W14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c774bad-5c17-4a93-921e-fa6745d3a5b9",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "73b78641-7bac-4861-ab29-60b633d7f971",
+                    "boundaryNum": 1,
+                    "name": "Kahnuwan Road To Mohan Plaza  W15 - WARD_15",
+                    "localname": "Kahnuwan Road To Mohan Plaza  W15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7d224751-177f-4531-b3ea-f3005ebc58e8",
+                    "boundaryNum": 1,
+                    "name": "Sukhda Enclave Hardochanni Road W15 - WARD_15",
+                    "localname": "Sukhda Enclave Hardochanni Road W15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "03d0b33a-c1cb-4995-9c2d-a03a301e6087",
+                    "boundaryNum": 1,
+                    "name": "Chowk Hardochanni Road To Normal School  W15 - WARD_15",
+                    "localname": "Chowk Hardochanni Road To Normal School  W15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3332cbda-b57f-43ff-9c39-15078193cf38",
+                    "boundaryNum": 1,
+                    "name": "Kadri Mohalla W15 - WARD_15",
+                    "localname": "Kadri Mohalla W15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72df78c4-d926-49c5-a1d8-8d51756b1498",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W15 - WARD_15",
+                    "localname": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_84",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78a64ba0-12f8-4f8b-8371-fc6efaf496e1",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "df19a8c9-5181-42bf-b798-85560a8998d4",
+                    "boundaryNum": 1,
+                    "name": "Hari Darbar colony Kahnuwan Road W16 - WARD_16",
+                    "localname": "Hari Darbar colony Kahnuwan Road W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "54d01057-20d8-46a7-9413-f6e27f51be3d",
+                    "boundaryNum": 1,
+                    "name": "Shiv Nagar W16 - WARD_16",
+                    "localname": "Shiv Nagar W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ed433344-fd95-480f-88cd-8999b41eed1e",
+                    "boundaryNum": 1,
+                    "name": "Bach Side Mai Da Talab W16 - WARD_16",
+                    "localname": "Bach Side Mai Da Talab W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91629f5a-8b25-4580-84ab-b860d0a878d3",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk To G.T. Raod Batala upto M.c Limit W16 - WARD_16",
+                    "localname": "Dera Chowk To G.T. Raod Batala upto M.c Limit W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf22c60c-9fa3-4142-83a7-b30f19adbb8c",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W16 - WARD_16",
+                    "localname": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_85",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4d790a82-6485-4d4a-8c9e-317d9844f678",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Sita Ram petrol Pump W16 - WARD_16",
+                    "localname": "Hanuman Chowk To Sita Ram petrol Pump W16 - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_100",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5cb57aad-75f1-4d73-82f8-74f8b9b5dca8",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "7b6e079b-ba34-48d0-a743-b48135070184",
+                    "boundaryNum": 1,
+                    "name": "Islamabad mohalla W17 - WARD_17",
+                    "localname": "Islamabad mohalla W17 - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33ae6e9a-9fda-403d-ad4e-564023b498cd",
+                    "boundaryNum": 1,
+                    "name": "Back Side Geeta Bhawan Mandir W17 - WARD_17",
+                    "localname": "Back Side Geeta Bhawan Mandir W17 - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d43d423-1898-4666-96af-3d5a9c33dfbf",
+                    "boundaryNum": 1,
+                    "name": "Tibri Chowk To Chandan palace Mehar Chand Road  W17 - WARD_17",
+                    "localname": "Tibri Chowk To Chandan palace Mehar Chand Road  W17 - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "39eaaa52-528c-404a-970b-c51e6a3b0fc2",
+                    "boundaryNum": 1,
+                    "name": "Near Chandan Palace W17 - WARD_17",
+                    "localname": "Near Chandan Palace W17 - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f0615def-7037-4f14-8cb3-0e3ef7175c55",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Sita Ram petrol Pump W17 - WARD_17",
+                    "localname": "Hanuman Chowk To Sita Ram petrol Pump W17 - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_101",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "535c3e68-bb95-429e-95a0-92d72f4cef2a",
+                "boundaryNum": 1,
+                "name": "WARD_18",
+                "localname": "WARD_18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD18",
+                "children": [
+                  {
+                    "id": "9508e457-5985-479d-b149-ba9bd24f28d8",
+                    "boundaryNum": 1,
+                    "name": "Shankar Nagar W18 - WARD_18",
+                    "localname": "Shankar Nagar W18 - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7110e1aa-db8b-4015-83a2-1e5568b4bf3e",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Sita Ram petrol Pump W18 - WARD_18",
+                    "localname": "Hanuman Chowk To Sita Ram petrol Pump W18 - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_99",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "212ef1f8-a2ec-4ccd-a074-6624cba359c6",
+                "boundaryNum": 1,
+                "name": "WARD_19",
+                "localname": "WARD_19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD19",
+                "children": [
+                  {
+                    "id": "966d84c7-9d7d-4a66-b0d4-aff2ff54b02c",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar W19 - WARD_19",
+                    "localname": "Main Bazar W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f50fdb8-0334-4a36-a881-268137adee6a",
+                    "boundaryNum": 1,
+                    "name": "Purana Bazar W19 - WARD_19",
+                    "localname": "Purana Bazar W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "90c2c98e-02cf-4dae-b1a0-aaa404b61115",
+                    "boundaryNum": 1,
+                    "name": "Berian Mohalla W19 - WARD_19",
+                    "localname": "Berian Mohalla W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "adfe88a2-dcee-4368-83e5-bfb785b6c029",
+                    "boundaryNum": 1,
+                    "name": "Khazanchian Mohalla W19 - WARD_19",
+                    "localname": "Khazanchian Mohalla W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c75fbbb0-0703-4a98-ba2a-147c8b4e084c",
+                    "boundaryNum": 1,
+                    "name": "Jhulna Mehal W19 - WARD_19",
+                    "localname": "Jhulna Mehal W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "05476270-a6f6-443b-a5c1-6d1eefd634b8",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh nagar W19 - WARD_19",
+                    "localname": "Dashmesh nagar W19 - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64a31e1e-127b-4d94-a95e-0fc8ee3d6d9d",
+                "boundaryNum": 1,
+                "name": "WARD_20",
+                "localname": "WARD_20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD20",
+                "children": [
+                  {
+                    "id": "20ff1e90-e9eb-442c-974b-89e4323857e7",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Tibri Road W20 - WARD_20",
+                    "localname": "Hanuman Chowk To Tibri Road W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0d5a3a71-5c08-46f9-b6c6-3ded501f9417",
+                    "boundaryNum": 1,
+                    "name": "Onkar Nagar W20 - WARD_20",
+                    "localname": "Onkar Nagar W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "53063814-d017-4d2b-9151-c2c4af7d2298",
+                    "boundaryNum": 1,
+                    "name": "Back Side Police Line W20 - WARD_20",
+                    "localname": "Back Side Police Line W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "55f79c0f-6409-476d-a68e-683066779252",
+                    "boundaryNum": 1,
+                    "name": "Jahaj Chowk To Hanuman Chowk W20 - WARD_20",
+                    "localname": "Jahaj Chowk To Hanuman Chowk W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_91",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4da8ae2d-949b-4095-9410-35d76b5a09aa",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Bhai Lalo Chowk W20 - WARD_20",
+                    "localname": "Hanuman Chowk To Bhai Lalo Chowk W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_92",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0430102-0230-41d7-b6de-732651dbd1ea",
+                    "boundaryNum": 1,
+                    "name": "Hanuman Chowk To Jahaj Chowk  W20 - WARD_20",
+                    "localname": "Hanuman Chowk To Jahaj Chowk  W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_96",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3db9efb1-5365-4630-9ce1-2aad6364a9a4",
+                    "boundaryNum": 1,
+                    "name": "Secretray Mohalla W20 - WARD_20",
+                    "localname": "Secretray Mohalla W20 - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_104",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0958b244-9151-471d-9cae-733215db53f9",
+                "boundaryNum": 1,
+                "name": "WARD_21",
+                "localname": "WARD_21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD21",
+                "children": [
+                  {
+                    "id": "741206ab-ed39-4075-bcaf-87e77cc7fa00",
+                    "boundaryNum": 1,
+                    "name": "Bata Chowk To Hanuman Chowk W21 - WARD_21",
+                    "localname": "Bata Chowk To Hanuman Chowk W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1cba5a99-d6b0-4e67-8c27-6d7acb4047ab",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar W21 - WARD_21",
+                    "localname": "Sadar Bazar W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a48904ba-e940-4e95-9e9a-b0e12812fe55",
+                    "boundaryNum": 1,
+                    "name": "Bhag singh Road W21 - WARD_21",
+                    "localname": "Bhag singh Road W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c1492cdd-222c-4b09-8bec-ac54305d0c1b",
+                    "boundaryNum": 1,
+                    "name": "Library Chowk To Hanuman Chowk W21 - WARD_21",
+                    "localname": "Library Chowk To Hanuman Chowk W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dea5da56-22cf-4775-a5bc-07cc7b66fd9c",
+                    "boundaryNum": 1,
+                    "name": "Kabootri Gate W21 - WARD_21",
+                    "localname": "Kabootri Gate W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f044a1f2-78a2-4936-b6ae-fbca4b97c1e1",
+                    "boundaryNum": 1,
+                    "name": "Ghurali Gate W21 - WARD_21",
+                    "localname": "Ghurali Gate W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b6156f18-0bba-49d0-9406-0247373331e9",
+                    "boundaryNum": 1,
+                    "name": "Old Sabji Mandi Trimmo Road To M.C.Limit W21 - WARD_21",
+                    "localname": "Old Sabji Mandi Trimmo Road To M.C.Limit W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "474c8467-4b4d-476c-a7e3-9c25885a29b7",
+                    "boundaryNum": 1,
+                    "name": "Krishna Nagar W21 - WARD_21",
+                    "localname": "Krishna Nagar W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "af79e88b-523f-4270-a35b-c59ec769f4dd",
+                    "boundaryNum": 1,
+                    "name": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W21 - WARD_21",
+                    "localname": "Dera Chowk to Railway Fatak G.T.Road mandi (Main Road) W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_88",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f9810122-34e3-4d29-9618-d09bafa4aecc",
+                    "boundaryNum": 1,
+                    "name": "Secretray Mohalla W21 - WARD_21",
+                    "localname": "Secretray Mohalla W21 - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_105",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83046cc8-111a-49b1-b5af-ce308d2ec030",
+                "boundaryNum": 1,
+                "name": "WARD_22",
+                "localname": "WARD_22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD22",
+                "children": [
+                  {
+                    "id": "491a6b0c-786b-4df1-9b84-56a99d63cc11",
+                    "boundaryNum": 1,
+                    "name": "Post office Chowk to Bhagowal House Jail Road W22 - WARD_22",
+                    "localname": "Post office Chowk to Bhagowal House Jail Road W22 - WARD_22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "209dd173-438c-4b73-83b9-16eb3516f2b9",
+                    "boundaryNum": 1,
+                    "name": "Batth Wali Gali W22 - WARD_22",
+                    "localname": "Batth Wali Gali W22 - WARD_22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_52",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6de06ed-d66c-465a-9115-46cbc51f6122",
+                "boundaryNum": 1,
+                "name": "WARD_23",
+                "localname": "WARD_23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD23",
+                "children": [
+                  {
+                    "id": "638eff18-2101-4cea-aa1b-ba90a0edbb11",
+                    "boundaryNum": 1,
+                    "name": "Greater Kailash Sant Nagar Trimmo Road W23 - WARD_23",
+                    "localname": "Greater Kailash Sant Nagar Trimmo Road W23 - WARD_23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "82fa1b65-6a24-4bd6-8f6c-caf7b02f85d5",
+                    "boundaryNum": 1,
+                    "name": "Trimmo Road To Behrampur Road upto M.C.Limit W23 - WARD_23",
+                    "localname": "Trimmo Road To Behrampur Road upto M.C.Limit W23 - WARD_23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "874ca900-a622-44ed-a81d-f22604bf66a0",
+                    "boundaryNum": 1,
+                    "name": "Babu Parmanand Mohalla W23 - WARD_23",
+                    "localname": "Babu Parmanand Mohalla W23 - WARD_23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "663891e9-e712-4b8b-8679-dea3e7051fd1",
+                "boundaryNum": 1,
+                "name": "WARD_24",
+                "localname": "WARD_24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD24",
+                "children": [
+                  {
+                    "id": "4b429071-014a-404a-92dc-5a8a6e0f0030",
+                    "boundaryNum": 1,
+                    "name": "Normal school To Guru Nanak College upto M.C.Limit Hardochanni Road W24 - WARD_24",
+                    "localname": "Normal school To Guru Nanak College upto M.C.Limit Hardochanni Road W24 - WARD_24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a5fb5c6d-61d4-4410-9895-b6d54b3b989e",
+                    "boundaryNum": 1,
+                    "name": "Mission Compound W24 - WARD_24",
+                    "localname": "Mission Compound W24 - WARD_24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "baf0e673-1f35-480c-9ae5-996a62944f6f",
+                    "boundaryNum": 1,
+                    "name": "Sant Nagar W24 - WARD_24",
+                    "localname": "Sant Nagar W24 - WARD_24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a32b9d70-ad50-43b6-86b0-47fe70759f08",
+                "boundaryNum": 1,
+                "name": "WARD_25",
+                "localname": "WARD_25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD25",
+                "children": [
+                  {
+                    "id": "2e6007a7-ec50-4a9e-a1a9-708b4c9826e9",
+                    "boundaryNum": 1,
+                    "name": "Prem Nagar W25 - WARD_25",
+                    "localname": "Prem Nagar W25 - WARD_25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f64f8cf-07c4-4db6-8b44-f06985059634",
+                "boundaryNum": 1,
+                "name": "WARD_26",
+                "localname": "WARD_26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD26",
+                "children": [
+                  {
+                    "id": "120c5cda-654b-4cc5-98f4-60c873159289",
+                    "boundaryNum": 1,
+                    "name": "Trimmo Road To Behrampur Road upto M.C.Limit W26 - WARD_26",
+                    "localname": "Trimmo Road To Behrampur Road upto M.C.Limit W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58851b8f-a305-4ebe-8e62-7acbe7b982ff",
+                    "boundaryNum": 1,
+                    "name": "Babu Parmanand Mohalla W26 - WARD_26",
+                    "localname": "Babu Parmanand Mohalla W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "416c5785-6a1b-44a1-9675-80202543c0b2",
+                    "boundaryNum": 1,
+                    "name": "Kothe Behrampur Road W26 - WARD_26",
+                    "localname": "Kothe Behrampur Road W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "68012f4c-6702-4345-9c71-15142eea2d97",
+                    "boundaryNum": 1,
+                    "name": "Preet Avenue Behrampur Road W26 - WARD_26",
+                    "localname": "Preet Avenue Behrampur Road W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6a9c1064-6813-4ae5-be2e-ecc80f039ab7",
+                    "boundaryNum": 1,
+                    "name": "Ghumiara Mohalla W26 - WARD_26",
+                    "localname": "Ghumiara Mohalla W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "925a6407-7285-4499-9514-4c25a90ee6c8",
+                    "boundaryNum": 1,
+                    "name": "Gopal Nagar W26 - WARD_26",
+                    "localname": "Gopal Nagar W26 - WARD_26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_60",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4f08090-0864-47a3-a2af-61aa2545054e",
+                "boundaryNum": 1,
+                "name": "WARD_27",
+                "localname": "WARD_27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD27",
+                "children": [
+                  {
+                    "id": "2968e97f-f174-4cdc-be9d-bf30f1233469",
+                    "boundaryNum": 1,
+                    "name": "Saheed Bhagat singh Nagar Jail Road W27 - WARD_27",
+                    "localname": "Saheed Bhagat singh Nagar Jail Road W27 - WARD_27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3b404222-ae29-4e7a-bc06-b7ed5c8eacee",
+                    "boundaryNum": 1,
+                    "name": "Purane Littar & New Littar W27 - WARD_27",
+                    "localname": "Purane Littar & New Littar W27 - WARD_27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e573d903-b601-4651-8355-37ba35283af5",
+                    "boundaryNum": 1,
+                    "name": "Puda Colony Jail Road W27 - WARD_27",
+                    "localname": "Puda Colony Jail Road W27 - WARD_27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "71911e9b-8926-46dc-b1a2-6b9bed1e17b1",
+                    "boundaryNum": 1,
+                    "name": "Bhagowal House To Jail Road upto M.C.Limit W27 - WARD_27",
+                    "localname": "Bhagowal House To Jail Road upto M.C.Limit W27 - WARD_27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GSP_56",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
