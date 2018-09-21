@@ -487,6 +487,432 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhogpur",
+        "localname": "Bhogpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhogpur",
+        "children": [
+          {
+            "id": "29ea810e-dd40-46eb-8fed-5533f0c792d5",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1541d171-ea21-4f30-94fb-0415946d5384",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "6f005890-4fb7-473f-a206-476d9330560d",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar - B1",
+                    "localname": "Guru Nanak Nagar - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bea9edc-abfa-49bd-8510-4055588f12b4",
+                    "boundaryNum": 1,
+                    "name": "Roop Nagar - B1",
+                    "localname": "Roop Nagar - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a719e6fe-4e73-4add-b23e-f636507173f1",
+                    "boundaryNum": 1,
+                    "name": "Baba Mast Colony - B1",
+                    "localname": "Baba Mast Colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4dcb380a-de7d-437d-8d3e-1fc82896e8b6",
+                    "boundaryNum": 1,
+                    "name": "Bullowal Road - B1",
+                    "localname": "Bullowal Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8911ed8b-aaa9-42d7-b03a-6bd9c0055745",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "68c6a732-5028-44b3-aa60-812b6d7c2157",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar - B2",
+                    "localname": "Adarsh Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "33cbef94-cd17-4bca-ac45-d8e2d590697f",
+                    "boundaryNum": 1,
+                    "name": "Guru Ravidass Nagar - B2",
+                    "localname": "Guru Ravidass Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96dd8c3a-bf12-432b-a8eb-1bdba2e2fc4b",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "74d86c3f-b62b-4c37-9933-0b348c938108",
+                    "boundaryNum": 1,
+                    "name": "Basant Vihar - B3",
+                    "localname": "Basant Vihar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5a2564f9-acc0-4725-ac91-1e6f7439d611",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar - B3",
+                    "localname": "Dashmesh Nagar - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "439bed03-4159-4fe3-8d44-8543d6477020",
+                    "boundaryNum": 1,
+                    "name": "Rose Park Colony - B3",
+                    "localname": "Rose Park Colony - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d25c593-a047-4ce3-8375-c35a6639c965",
+                    "boundaryNum": 1,
+                    "name": "Adampur Road - B3",
+                    "localname": "Adampur Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ddd3ad79-f508-484b-a92d-e8c3d2034706",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "85d842ee-7e2b-4767-ac0f-59bc2d8cdffe",
+                    "boundaryNum": 1,
+                    "name": "Navi Abadi - B4",
+                    "localname": "Navi Abadi - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1d1d1e24-39f7-4639-b513-997f7aeaf8dd",
+                    "boundaryNum": 1,
+                    "name": "Seeta Ram Wali Gali - B4",
+                    "localname": "Seeta Ram Wali Gali - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ac28d702-08aa-43bf-bca0-b218c28f7d76",
+                    "boundaryNum": 1,
+                    "name": "Dr. Thakur Wali Gali - B4",
+                    "localname": "Dr. Thakur Wali Gali - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a905f702-17cc-4938-88e7-f79a3c91e920",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "a4ad77a8-efac-44d4-abbe-d3703a4b31a4",
+                    "boundaryNum": 1,
+                    "name": "Arora Muhalla - B5",
+                    "localname": "Arora Muhalla - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c73f57b7-a5a4-4ec0-9adc-57f92a759b3e",
+                    "boundaryNum": 1,
+                    "name": "Dr. Mittal wali gali - B5",
+                    "localname": "Dr. Mittal wali gali - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ddcc2d9a-5669-4668-970b-829db06a7073",
+                    "boundaryNum": 1,
+                    "name": "Chaura Bazaar - B5",
+                    "localname": "Chaura Bazaar - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9940a2d5-b7b4-4321-a571-4a0ea0112ba5",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - B5",
+                    "localname": "Railway Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16c76f1e-d1f7-43e7-a334-ee63a826f1fe",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "573dec79-b8a8-43ca-bebc-cd8b148c8fd4",
+                    "boundaryNum": 1,
+                    "name": "Purani Abadi - B6",
+                    "localname": "Purani Abadi - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "31194d8e-6648-4d23-b75e-ad4124f70900",
+                    "boundaryNum": 1,
+                    "name": "Jattan Muhalla - B6",
+                    "localname": "Jattan Muhalla - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bbec7ff4-d32c-4f4f-b0c7-71073f8abbef",
+                    "boundaryNum": 1,
+                    "name": "Ghumiara Muhalla - B6",
+                    "localname": "Ghumiara Muhalla - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccd3a29f-928e-4a2c-ac3c-365d35defe95",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "ed9d9a51-3d0d-4b9b-abe8-b0f59ef314f0",
+                    "boundaryNum": 1,
+                    "name": "Shakti Nagar - B7",
+                    "localname": "Shakti Nagar - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2103b34e-f2fa-4ffb-96b7-78ea95c5e7bd",
+                    "boundaryNum": 1,
+                    "name": "Laroi Road - B7",
+                    "localname": "Laroi Road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8e88725e-e8fd-46db-9aba-1e5d1b06bac2",
+                    "boundaryNum": 1,
+                    "name": "Loharan Road - B7",
+                    "localname": "Loharan Road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fcf71680-9157-4574-a39c-c7f51351840a",
+                    "boundaryNum": 1,
+                    "name": "Guru Ramdass Nagar - B7",
+                    "localname": "Guru Ramdass Nagar - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_24",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66d6b612-3c0f-4d88-8bc3-36625f240e62",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "53d1590f-0900-4175-ad6f-2c325e82726f",
+                    "boundaryNum": 1,
+                    "name": "Dalli - B8",
+                    "localname": "Dalli - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BH_25",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
