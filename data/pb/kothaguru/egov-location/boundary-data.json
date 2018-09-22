@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.kothaguru",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kothaguru",
+        "localname": "Kothaguru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kothaguru",
+        "children": [
+          {
+            "id": "28ae7616-a380-4a92-b677-4ca897d81d45",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5776a9fe-68b1-4688-b91c-e19320e3c610",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "cf2f149a-44cd-4104-8907-a66bcabf5ca4",
+                    "boundaryNum": 1,
+                    "name": "Romania da Agwar - Ward 1",
+                    "localname": "Romania da Agwar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a862687d-1dea-4985-81d1-0d71a7c1007b",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "5dab6671-cf00-4c5e-a1a6-997265694d8e",
+                    "boundaryNum": 1,
+                    "name": "Gumti Road - Ward 2",
+                    "localname": "Gumti Road - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25d5fe05-80b4-4ef5-b0aa-d1945851e704",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "16aca7ec-193e-4c75-8754-6e462d496860",
+                    "boundaryNum": 1,
+                    "name": "Gumti Road - Ward 3",
+                    "localname": "Gumti Road - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "365b797a-daad-4977-8fc6-d7a6f711a3e7",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "80517c37-1498-43e2-9176-a7fc8a59f5e9",
+                    "boundaryNum": 1,
+                    "name": "Jalal Road - Ward 10",
+                    "localname": "Jalal Road - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "423c74e1-42f1-47c4-a772-ec185279f579",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "fa2b9923-e600-4961-974e-be67a30ee580",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "c80a32d7-0bce-4d8b-bff5-6bfa6a551e0d",
+                    "boundaryNum": 1,
+                    "name": "Borie Sikha da Agwar - Ward 4",
+                    "localname": "Borie Sikha da Agwar - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5c1e95d-9e76-4bbc-a3ce-717b127274c7",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "8b358404-d7e5-40d4-be4a-3b098ca6d3c7",
+                    "boundaryNum": 1,
+                    "name": "Sarawan da Agwar - Ward 5",
+                    "localname": "Sarawan da Agwar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a099c905-d8c3-4520-a1cc-b1e03b17f1cd",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "4478d2c4-15d5-4f4b-9b07-13ac1d3261d9",
+                    "boundaryNum": 1,
+                    "name": "Grain Market - Ward 6",
+                    "localname": "Grain Market - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77af8055-7939-4c7e-b28d-be0370dc9256",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "824f30e9-2f1d-42e5-a97e-853ddc1a6a11",
+                    "boundaryNum": 1,
+                    "name": "NP Office maluka - Ward 7",
+                    "localname": "NP Office maluka - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5033211a-08b7-4ac1-a11c-b807aaf0d677",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "716f7a8a-caa1-41f3-a28f-95e6ad823dc0",
+                    "boundaryNum": 1,
+                    "name": "Bhagta Nathana Road - Ward 8",
+                    "localname": "Bhagta Nathana Road - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a3db5e2-49a7-4937-8152-0165c2dbff1d",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "f717c20a-71ee-4da5-bf54-4c134635c31f",
+                    "boundaryNum": 1,
+                    "name": "Mayie ka agwar - Ward 9",
+                    "localname": "Mayie ka agwar - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05f2557e-83b3-4683-80fa-6c2b9f8907fa",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "e9e781c3-4e75-4e83-bd4d-ea7f4a822718",
+                    "boundaryNum": 1,
+                    "name": "Mai wala khoo - Ward 11",
+                    "localname": "Mai wala khoo - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
