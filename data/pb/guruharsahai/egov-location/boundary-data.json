@@ -1,0 +1,621 @@
+{
+  "tenantId": "pb.guruharsahai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "guruharsahai",
+        "localname": "guruharsahai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.guruharsahai",
+        "children": [
+          {
+            "id": "39295af3-2804-495b-9d05-58b6b28687f2",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN1",
+            "children": [
+              {
+                "id": "3df33e8e-1742-493b-86db-7bfdbdf5eea0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "1207f591-10f9-4823-9369-0d16577e247b",
+                    "boundaryNum": 1,
+                    "name": "Basti Arian wala - WARD_1",
+                    "localname": "Basti Arian wala - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6d6debd9-e77a-40e0-b1b6-98e1a7f91e64",
+                    "boundaryNum": 1,
+                    "name": "Mange wali colony - WARD_1",
+                    "localname": "Mange wali colony - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "290a1332-ed4c-4253-9caa-5e8c672a84ef",
+                    "boundaryNum": 1,
+                    "name": "Green avinu - WARD_1",
+                    "localname": "Green avinu - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ddd8e715-6192-4567-a560-6ec18fa601d2",
+                    "boundaryNum": 1,
+                    "name": "Teshil Complex - WARD_1",
+                    "localname": "Teshil Complex - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "71378fdb-71fa-4883-8617-ea64b4f7e562",
+                    "boundaryNum": 1,
+                    "name": "Miri Piri Nagar - WARD_1",
+                    "localname": "Miri Piri Nagar - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "45cb0e90-3ae8-4c44-b88b-2dd296fc3eb9",
+                    "boundaryNum": 1,
+                    "name": "B.ed colony - WARD_1",
+                    "localname": "B.ed colony - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "19e17d06-07be-49d0-af3a-90f08f780261",
+                    "boundaryNum": 1,
+                    "name": "Prince & Incalve - WARD_1",
+                    "localname": "Prince & Incalve - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "021a20e3-fa63-462f-afb8-e2ed952c8b81",
+                    "boundaryNum": 1,
+                    "name": "SKS Colony - WARD_1",
+                    "localname": "SKS Colony - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e3f42438-87bf-4bcd-b559-3f9bbd944638",
+                    "boundaryNum": 1,
+                    "name": "Shan encalve - WARD_1",
+                    "localname": "Shan encalve - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d037915c-c932-495e-8f72-4dbde9dcef62",
+                    "boundaryNum": 1,
+                    "name": "Basti Gurukaram Singh - WARD_1",
+                    "localname": "Basti Gurukaram Singh - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ada36ab0-9360-423f-9df3-98cdc2d48407",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "1b5ea688-a23e-4b1b-9735-e10213103ed0",
+                    "boundaryNum": 1,
+                    "name": "Dhank Muhala - WARD_2",
+                    "localname": "Dhank Muhala - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8652f0e0-5122-4801-a70f-b2c0811a0443",
+                    "boundaryNum": 1,
+                    "name": "Chanan Singh Darshan Singh Colony - WARD_2",
+                    "localname": "Chanan Singh Darshan Singh Colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd0de1a8-105f-43e8-89b7-45ab7077c8b8",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "8240e1da-4e3a-420e-be67-fbb801e75743",
+                    "boundaryNum": 1,
+                    "name": "Bhatha Basti - WARD_3",
+                    "localname": "Bhatha Basti - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "952b0c67-b637-48f7-b18c-67539c74b772",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "3a1379a1-b29f-45bc-b351-199e16863c1d",
+                    "boundaryNum": 1,
+                    "name": "Dhani Sona Chandi - WARD_4",
+                    "localname": "Dhani Sona Chandi - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ed828d4a-2668-4214-a393-adbcf01cbb98",
+                    "boundaryNum": 1,
+                    "name": "JKS Colony - WARD_4",
+                    "localname": "JKS Colony - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b45ad8d2-0e05-4c81-9cc8-0353c7386d23",
+                    "boundaryNum": 1,
+                    "name": "Iqbal enclave - WARD_4",
+                    "localname": "Iqbal enclave - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "07a00e49-1ea8-4f2c-9bc3-3b09fca024a8",
+                    "boundaryNum": 1,
+                    "name": "Gurugobind Singh Nagar Faridkot road - WARD_4",
+                    "localname": "Gurugobind Singh Nagar Faridkot road - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f0a62d2-67b8-4c94-a104-0d6a4cbaeeca",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "80a158a7-e9ef-42af-a13d-ccbd1cf50f6d",
+                    "boundaryNum": 1,
+                    "name": "Bakshish enclave - WARD_5",
+                    "localname": "Bakshish enclave - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75e29576-bc6e-4280-b395-120f98cbe2c0",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": []
+              },
+              {
+                "id": "03679bb9-20c6-4f44-b64d-9fb4c46dd956",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": []
+              },
+              {
+                "id": "dbe1cfe2-335a-4225-9494-b546869fc734",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": []
+              },
+              {
+                "id": "21db5e02-ab16-4bda-87d4-35a2ee17df71",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2dc037c8-ee69-4868-903d-7d1645823234",
+                    "boundaryNum": 1,
+                    "name": "empirail enclave - WARD_9",
+                    "localname": "empirail enclave - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "981b839d-300d-4b80-8732-da7e844b567f",
+                    "boundaryNum": 1,
+                    "name": "KTS Colony - WARD_9",
+                    "localname": "KTS Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "874fafce-bd58-4bb2-853c-cb6ca72c3b98",
+                    "boundaryNum": 1,
+                    "name": "Basti Gurugobind Singh - WARD_9",
+                    "localname": "Basti Gurugobind Singh - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5424f2c1-1502-4b2f-bb58-633ae71a4c2b",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "03385b01-f6d5-4e04-ab53-449afc6698cb",
+                    "boundaryNum": 1,
+                    "name": "Modal Town - WARD_10",
+                    "localname": "Modal Town - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12768208-0bc9-4050-8360-5ab8fea6abbe",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "dbe76836-2d83-416b-aee7-9a1edfb9115a",
+                    "boundaryNum": 1,
+                    "name": "Compex Mata jajjal Wali - WARD_11",
+                    "localname": "Compex Mata jajjal Wali - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "477d817c-1af2-4093-8da3-a3a33551fb3f",
+                    "boundaryNum": 1,
+                    "name": "Nanak Chouk - WARD_11",
+                    "localname": "Nanak Chouk - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d57971c4-feb1-4bfd-a26b-ab8d986cba8b",
+                    "boundaryNum": 1,
+                    "name": "Krishan Chowk - WARD_11",
+                    "localname": "Krishan Chowk - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57fba885-1b44-49d9-af16-3a1723b3c298",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "b5f7f73a-2b67-4881-a229-3a0d6aa1edcb",
+                    "boundaryNum": 1,
+                    "name": "Adersh Nagar - WARD_12",
+                    "localname": "Adersh Nagar - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "89a334e2-0ba9-4f70-ba7d-e1127803f150",
+                    "boundaryNum": 1,
+                    "name": "Ram Chowk - WARD_12",
+                    "localname": "Ram Chowk - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "46abcbdb-f0e5-4ba8-bc8f-e50d56b89834",
+                    "boundaryNum": 1,
+                    "name": "Rishi Chowk - WARD_12",
+                    "localname": "Rishi Chowk - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3762d885-a58f-439e-ad8b-2dc3546584e7",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b52f27b1-2cf8-431a-adec-ee45cfdc7c9b",
+                    "boundaryNum": 1,
+                    "name": "Green Market  Mohan ke Road - WARD_13",
+                    "localname": "Green Market  Mohan ke Road - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c69d26c4-ff05-417a-979e-7e915f9c4842",
+                    "boundaryNum": 1,
+                    "name": "Basti Kishan Singh wali - WARD_13",
+                    "localname": "Basti Kishan Singh wali - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e08cd78f-81c8-462b-81b9-35827bc53c4b",
+                    "boundaryNum": 1,
+                    "name": "Shankar Basti - WARD_13",
+                    "localname": "Shankar Basti - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "27882351-9698-48fa-9250-0348f61f00bd",
+                    "boundaryNum": 1,
+                    "name": "Idera colony - WARD_13",
+                    "localname": "Idera colony - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a6d8595-603e-4cee-a5ca-1030d3e0681e",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "802a0657-d347-4e72-a262-e3c4d7294612",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh Nagar Railway Basti - WARD_14",
+                    "localname": "Dasmesh Nagar Railway Basti - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e1201dc4-b218-4b6a-801e-c4bee45b8765",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "fe4d5927-509c-46ca-887b-53350fe81ca8",
+                    "boundaryNum": 1,
+                    "name": "Basti Tibe  Wali - WARD_15",
+                    "localname": "Basti Tibe  Wali - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
