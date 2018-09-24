@@ -1,0 +1,636 @@
+{
+  "tenantId": "pb.faridkot",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "faridkot",
+        "localname": "faridkot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.faridkot",
+        "children": [
+          {
+            "id": "018937a3-078c-4ac9-89b0-88e242db7b4a",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "FDK1",
+            "children": [
+              {
+                "id": "b8f23a8f-05f1-4456-9a13-43286da60cbd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3397ea52-cf22-45d0-ad2a-b17d71e93894",
+                    "boundaryNum": 1,
+                    "name": "Puri Colony Ferozepur Raod - WARD_1",
+                    "localname": "Puri Colony Ferozepur Raod - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f392e87-6976-4e1a-93af-d44f5033491d",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "8293905e-92bd-4d5b-aa87-86d6697d212d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Talab - WARD_2",
+                    "localname": "Mohalla Talab - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d184dd09-19da-4274-8c80-bacc42adcbc7",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "9a81a7a3-b96e-4e7a-8548-3b74c7f2711f",
+                    "boundaryNum": 1,
+                    "name": "Sanjay Nagar - WARD_3",
+                    "localname": "Sanjay Nagar - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8955edeb-b5e7-4a8f-a788-3b7cdd0d6206",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "454555fb-fbc5-43a2-b17c-80a5653b414c",
+                    "boundaryNum": 1,
+                    "name": "Green Avenue Friendz Colony - WARD_4",
+                    "localname": "Green Avenue Friendz Colony - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c928f98-8400-4d1b-82a1-da54b46f659b",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "e5ff778c-f970-4ed1-8f52-caef719aa6a6",
+                    "boundaryNum": 1,
+                    "name": "Jeevan Nagar - WARD_5",
+                    "localname": "Jeevan Nagar - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f764326-8979-4cba-b7e6-9e18953c23e2",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "f3f6c255-9dcc-4013-ae06-5e827a69798a",
+                    "boundaryNum": 1,
+                    "name": "Balbir Basti - WARD_6",
+                    "localname": "Balbir Basti - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0b0c04aa-78f2-4a21-87e8-bc6598578dd3",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "74e6eefd-a668-4cec-a375-327aa49cf6e6",
+                    "boundaryNum": 1,
+                    "name": "Brijindra College Road - WARD_7",
+                    "localname": "Brijindra College Road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "194bdbfb-fd2f-4ef0-b531-c6f152e919bd",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "f18b52aa-d5f4-4bcf-a614-2b319bd252eb",
+                    "boundaryNum": 1,
+                    "name": "Harindra Nagar - WARD_8",
+                    "localname": "Harindra Nagar - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99077e8a-f1d8-4b19-a0b8-88e5c475728c",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "5f0e6a8a-93a8-4047-8250-dd2618ec8a2a",
+                    "boundaryNum": 1,
+                    "name": "Guru Teg Bahadur Nagar - WARD_9",
+                    "localname": "Guru Teg Bahadur Nagar - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "071c3be6-c576-496d-977c-656cf9b68243",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "704364e0-96b2-4d8d-8ffc-ae4a83d81016",
+                    "boundaryNum": 1,
+                    "name": "Teacher Colony - WARD_10",
+                    "localname": "Teacher Colony - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c78b70c-f04d-4fe7-97e2-5373510b084c",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "c847cae8-d8d2-4d00-b54a-d2f2f603e023",
+                    "boundaryNum": 1,
+                    "name": "Old Cant Road - WARD_11",
+                    "localname": "Old Cant Road - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0bfce56c-6671-40e2-98d8-ecf83a47c8a1",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "fcb1636f-c4dd-486a-8df4-9424d9f7eb33",
+                    "boundaryNum": 1,
+                    "name": "New Cant Road - WARD_12",
+                    "localname": "New Cant Road - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "215d0889-caae-401b-b5d4-cc533e6e549a",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "8ecedd10-ef71-4c0a-a446-0522c24c065a",
+                    "boundaryNum": 1,
+                    "name": "Govt Harindra School Kamiana Chowk - WARD_13",
+                    "localname": "Govt Harindra School Kamiana Chowk - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1eea8dd4-4780-44cd-8e8d-cf6aa9d37875",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "3c8a45c0-fac9-4959-84eb-2b01cc3c6d07",
+                    "boundaryNum": 1,
+                    "name": "Doggar Basti Street No. 6 - WARD_14",
+                    "localname": "Doggar Basti Street No. 6 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e656bd32-14df-4088-aaa4-1cd06f7de6b8",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "7c1768ae-4af7-4ca2-a5cf-701cc15f0bba",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar & Doggar Basti - WARD_15",
+                    "localname": "Guru Nanak Nagar & Doggar Basti - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48e4b71a-4d88-476b-9498-739603034006",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "018562fb-2c6a-4a3f-b51f-9786c0eaaeb5",
+                    "boundaryNum": 1,
+                    "name": "Doggar Basti Left Side - WARD_16",
+                    "localname": "Doggar Basti Left Side - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58028f0d-1a63-4d1b-af6f-5084fe8dd081",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "1487a97a-665f-4fbd-b126-962c5c626601",
+                    "boundaryNum": 1,
+                    "name": "Main Bazzar - WARD_17",
+                    "localname": "Main Bazzar - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3fd4b81d-302a-476a-9eb8-050dc58da92d",
+                "boundaryNum": 1,
+                "name": "WARD_18",
+                "localname": "WARD_18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD18",
+                "children": [
+                  {
+                    "id": "d54d36d6-6c22-49a5-8b65-f6f2d3f9d132",
+                    "boundaryNum": 1,
+                    "name": "Old Jail Road - WARD_18",
+                    "localname": "Old Jail Road - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c72ab676-13b7-4f62-8ebc-ba29bb31b1b4",
+                "boundaryNum": 1,
+                "name": "WARD_19",
+                "localname": "WARD_19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD19",
+                "children": [
+                  {
+                    "id": "d2f12b7b-aa27-45b6-a133-f3915b46a9c1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jania - WARD_19",
+                    "localname": "Mohalla Jania - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bad935a-98cd-4faa-beba-e1a3c1762060",
+                "boundaryNum": 1,
+                "name": "WARD_20",
+                "localname": "WARD_20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD20",
+                "children": [
+                  {
+                    "id": "56fa81b0-198a-4ad9-9043-0dca5741ee14",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Khokhra - WARD_20",
+                    "localname": "Mohalla Khokhra - WARD_20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a7d84367-94a6-49f9-8f19-46f41a894d94",
+                "boundaryNum": 1,
+                "name": "WARD_21",
+                "localname": "WARD_21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD21",
+                "children": [
+                  {
+                    "id": "85c4f018-77b6-4d85-a919-9a914485fd85",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mahikhana - WARD_21",
+                    "localname": "Mohalla Mahikhana - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7204ab6d-5ecc-48c8-aebe-4f1aebdce411",
+                "boundaryNum": 1,
+                "name": "WARD_22",
+                "localname": "WARD_22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD22",
+                "children": [
+                  {
+                    "id": "758ae036-4abf-4527-ae8c-c5266007bf52",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti - WARD_22",
+                    "localname": "Bazigar Basti - WARD_22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d4d3e5ff-97a6-4deb-9f5e-01e9de0c9484",
+                "boundaryNum": 1,
+                "name": "WARD_23",
+                "localname": "WARD_23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD23",
+                "children": [
+                  {
+                    "id": "c4bdc7a9-677d-466e-ab30-a044c7676dea",
+                    "boundaryNum": 1,
+                    "name": "Saheed Balwinder Singh Nagar - WARD_23",
+                    "localname": "Saheed Balwinder Singh Nagar - WARD_23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "148752b9-f867-4e77-b696-fa4c8d31038c",
+                "boundaryNum": 1,
+                "name": "WARD_24",
+                "localname": "WARD_24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD24",
+                "children": [
+                  {
+                    "id": "e6716932-8604-4ead-bd8c-09e60779dad6",
+                    "boundaryNum": 1,
+                    "name": "Ajit Nagar - WARD_24",
+                    "localname": "Ajit Nagar - WARD_24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e270718c-4890-4c6c-8bb4-6174d176ab9b",
+                "boundaryNum": 1,
+                "name": "WARD_25",
+                "localname": "WARD_25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD25",
+                "children": [
+                  {
+                    "id": "2cc55c45-e6b0-4c10-84ce-7ed4cac1b825",
+                    "boundaryNum": 1,
+                    "name": "Bhan Singh Colony - WARD_25",
+                    "localname": "Bhan Singh Colony - WARD_25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FDK25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
