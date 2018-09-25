@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.patran",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "patran",
+        "localname": "patran",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.patran",
+        "children": [
+          {
+            "id": "4a9a2250-16b2-4790-bcc4-980143fe1343",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "82904f30-784d-4820-8bf7-c9acf9ae755d",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "a0f1e1ef-1741-4caa-9510-d751be6e4307",
+                    "boundaryNum": 1,
+                    "name": "Chanda Colony - Ward No. 1",
+                    "localname": "Chanda Colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9355b1a-fded-4557-b49f-64bff59c4222",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "29b82ab2-f76b-4281-ad8a-f4abefbee343",
+                    "boundaryNum": 1,
+                    "name": "Ghumiar Basti - Ward No. 2",
+                    "localname": "Ghumiar Basti - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc506a8c-24c0-4fd9-b72d-17ae56a9bceb",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "33dfda51-f711-45f0-a6e9-d1aefaca24fb",
+                    "boundaryNum": 1,
+                    "name": "Mai Dera Basti - Ward No. 3",
+                    "localname": "Mai Dera Basti - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "977f8398-0023-49ff-8832-5b6d4b4733cb",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "69e62cd3-92d5-487b-860f-7a11df8e5074",
+                    "boundaryNum": 1,
+                    "name": "Suniar Basti - Ward No. 4",
+                    "localname": "Suniar Basti - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79b77202-c0fd-41ac-b7ee-8a787cd98477",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "83ebde19-4039-4141-902b-083e4a2bec22",
+                    "boundaryNum": 1,
+                    "name": "Soham Aashram Muhalla - Ward No. 5",
+                    "localname": "Soham Aashram Muhalla - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c591c2c-3d80-4ec9-94ac-c86491a30402",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "c02c4504-e5bf-4cf6-af4b-3d42c64f1cac",
+                    "boundaryNum": 1,
+                    "name": "Kesav Nagar/Puda - Ward No. 6",
+                    "localname": "Kesav Nagar/Puda - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38579362-d9d7-4c63-b8f0-7cd7c1c91cce",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "80bfb611-934c-4d2e-9f39-b99a69990e1c",
+                    "boundaryNum": 1,
+                    "name": "Kanda Basti & Mahesh Nagar - Ward No. 7",
+                    "localname": "Kanda Basti & Mahesh Nagar - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5dbfe059-28fe-45b4-9506-98fd2610bb53",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "63e9f68a-992c-4672-8d43-3b133e74bf61",
+                    "boundaryNum": 1,
+                    "name": "Lakhwali Basti - Ward No. 8",
+                    "localname": "Lakhwali Basti - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d382483-801e-454c-9862-c26210454393",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "3c00e941-2b98-4775-863c-79a37b9b599d",
+                    "boundaryNum": 1,
+                    "name": "Dhanak Basti - Ward No. 9",
+                    "localname": "Dhanak Basti - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d3ae05b-449a-4972-9303-ebaa2792c8ce",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "dd7f0ac2-4c39-4636-983f-3d2e9c9378bc",
+                    "boundaryNum": 1,
+                    "name": "Jora Basti - Ward No. 10",
+                    "localname": "Jora Basti - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "caddcf12-6144-4a6a-9bc7-b7234e87a43e",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "25dcbcc4-0dc3-4632-b3d5-426cb3631252",
+                    "boundaryNum": 1,
+                    "name": "Mangal Basti/Vikas Colony - Ward No. 11",
+                    "localname": "Mangal Basti/Vikas Colony - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fed40212-c538-43d8-801f-bc95f9eb6cb7",
+                "boundaryNum": 1,
+                "name": "Ward No. 12",
+                "localname": "Ward No. 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "cb0f43c4-e212-40cd-ac8f-026a414fb7a9",
+                    "boundaryNum": 1,
+                    "name": "Tibba Basti/Vikas Colony - Ward No. 12",
+                    "localname": "Tibba Basti/Vikas Colony - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "abe46d8e-e01a-459d-b09e-08c2fb542ac9",
+                "boundaryNum": 1,
+                "name": "Ward No. 13",
+                "localname": "Ward No. 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "e48db49f-4f04-4c39-8462-6404d138b54f",
+                    "boundaryNum": 1,
+                    "name": "Tibba Basti - Ward No. 13",
+                    "localname": "Tibba Basti - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b6cc852-8d77-48e8-a383-bc0191726517",
+                "boundaryNum": 1,
+                "name": "Ward No. 14",
+                "localname": "Ward No. 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 14",
+                "children": [
+                  {
+                    "id": "160be353-b606-4015-8c6e-5cc070cecedf",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar & Sagar Basti - Ward No. 14",
+                    "localname": "Guru Nanak Nagar & Sagar Basti - Ward No. 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "440ef4f3-4758-4714-8393-4b4ec49cec46",
+                "boundaryNum": 1,
+                "name": "Ward No. 15",
+                "localname": "Ward No. 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 15",
+                "children": [
+                  {
+                    "id": "090f4e3a-6580-434d-b6b0-111e3034d1c2",
+                    "boundaryNum": 1,
+                    "name": "Sunder Basti - Ward No. 15",
+                    "localname": "Sunder Basti - Ward No. 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PT15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
