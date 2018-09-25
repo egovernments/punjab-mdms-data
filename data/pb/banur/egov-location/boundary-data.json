@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.banur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "banur",
+        "localname": "banur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.banur",
+        "children": [
+          {
+            "id": "00f8ccda-c29b-4f39-954f-f6b6ae4aa190",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZ1",
+            "children": [
+              {
+                "id": "3d07de68-c6bf-4a0c-aea3-b2495afd627a",
+                "boundaryNum": 1,
+                "name": "WARD NO 1",
+                "localname": "WARD NO 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "b9a1f142-9b68-4aa6-80fc-55e66ce92c83",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 1 HAWELI BASSI, FOUJI COLONY - WARD NO 1",
+                    "localname": "WARD NO 1 HAWELI BASSI, FOUJI COLONY - WARD NO 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f19b7d2-89ff-4c1b-b8a1-c3fc46ffbdef",
+                "boundaryNum": 1,
+                "name": "WARD NO 2",
+                "localname": "WARD NO 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "138f6538-e677-4589-9138-a1a206aceaaa",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 2 BASSI ISSE KHAN - WARD NO 2",
+                    "localname": "WARD NO 2 BASSI ISSE KHAN - WARD NO 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8411bebf-bdd0-4859-8ec2-ed882ff4c85f",
+                "boundaryNum": 1,
+                "name": "WARD NO 3",
+                "localname": "WARD NO 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "9657f8f1-3d1d-4d43-a637-0f42cacae5fe",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 3 MOHALLA KHATIKA,MOHALLA RAJPUTA,MOHALLA KAMBOJ,MOHALLA TARKHANA,MOHALLA DAHE,MOHALLA KUCHBANE - WARD NO 3",
+                    "localname": "WARD NO 3 MOHALLA KHATIKA,MOHALLA RAJPUTA,MOHALLA KAMBOJ,MOHALLA TARKHANA,MOHALLA DAHE,MOHALLA KUCHBANE - WARD NO 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4a024e1-dd15-4a70-8f49-3944b3126265",
+                "boundaryNum": 1,
+                "name": "WARD NO 4",
+                "localname": "WARD NO 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "065db5c9-a971-46d5-a1e1-65a21247ae7c",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 4  BALMIK BASTI,I.T.I,BHAJAN COLONY - WARD NO 4",
+                    "localname": "WARD NO 4  BALMIK BASTI,I.T.I,BHAJAN COLONY - WARD NO 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6e1c7a27-0c67-4a92-ab66-b12488542ff3",
+                "boundaryNum": 1,
+                "name": "WARD NO 5",
+                "localname": "WARD NO 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "90473857-5408-4496-beb2-c089dd6f6c53",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 5 MOHALLA SAINIAN,MOHALLA BHAGTAN WALA,MOHALLA PANDATAN - WARD NO 5",
+                    "localname": "WARD NO 5 MOHALLA SAINIAN,MOHALLA BHAGTAN WALA,MOHALLA PANDATAN - WARD NO 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90b9abcb-a765-48fa-bfa8-e0137e363240",
+                "boundaryNum": 1,
+                "name": "WARD NO 6",
+                "localname": "WARD NO 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "38db4862-6e69-4886-97dc-f5ce0ee116bd",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 6 GHUMRIAN,MOHALLA SUNYIARAN,OLD HOSPITAL,MAIN BAZAR,NEAR GUGA MARI - WARD NO 6",
+                    "localname": "WARD NO 6 GHUMRIAN,MOHALLA SUNYIARAN,OLD HOSPITAL,MAIN BAZAR,NEAR GUGA MARI - WARD NO 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0b0ea4f9-2875-4fb6-9c4e-3721c84ac976",
+                "boundaryNum": 1,
+                "name": "WARD NO 7",
+                "localname": "WARD NO 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5bb7f833-45fa-48fc-8f85-4acf4dea1c86",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 7 AHULUWALIAN MOHALLA,MOHALLA SAINIAN,MOHALLA CHIMBE,NEAR BABY MODEL SCHOOL,OLD BAZAR - WARD NO 7",
+                    "localname": "WARD NO 7 AHULUWALIAN MOHALLA,MOHALLA SAINIAN,MOHALLA CHIMBE,NEAR BABY MODEL SCHOOL,OLD BAZAR - WARD NO 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec2a9193-4164-4d6b-827b-6e0db7a3a424",
+                "boundaryNum": 1,
+                "name": "WARD NO 8",
+                "localname": "WARD NO 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "7a36a312-76da-4522-8d39-b9e168a71480",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 8 ,MOHLLA JATTAN WALA,MOHALLA MEHTE,MOHALLA BHATTA,MOHALLA PANDATAN,MOHALLA NUNGAR,MOHALLA GHUMYIRAN,MOHALLA KAMBOJ - WARD NO 8",
+                    "localname": "WARD NO 8 ,MOHLLA JATTAN WALA,MOHALLA MEHTE,MOHALLA BHATTA,MOHALLA PANDATAN,MOHALLA NUNGAR,MOHALLA GHUMYIRAN,MOHALLA KAMBOJ - WARD NO 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eece509b-5bc5-4bde-83ff-6c8aed3f49d1",
+                "boundaryNum": 1,
+                "name": "WARD NO 9",
+                "localname": "WARD NO 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0d95f47b-b1ce-48b6-aaa9-988a6f460d48",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 9 MOHLLA JATTAN WALA, KAKRA BASSI,MOHALLA GHUMYIRAN,DHEHA BASTI,GANDILA BASTI - WARD NO 9",
+                    "localname": "WARD NO 9 MOHLLA JATTAN WALA, KAKRA BASSI,MOHALLA GHUMYIRAN,DHEHA BASTI,GANDILA BASTI - WARD NO 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "517f3125-7a26-477f-8694-fc1bd1d1647f",
+                "boundaryNum": 1,
+                "name": "WARD NO 10",
+                "localname": "WARD NO 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "424567e3-5575-49d3-b1f3-8a82823feca9",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 10 BANDA BAHADAR COLONY,GOYAL COLONY,KARTAR GAS AGENCY - WARD NO 10",
+                    "localname": "WARD NO 10 BANDA BAHADAR COLONY,GOYAL COLONY,KARTAR GAS AGENCY - WARD NO 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1dc62a6-73ed-4e43-968e-1c1205f4c33f",
+                "boundaryNum": 1,
+                "name": "WARD NO 11",
+                "localname": "WARD NO 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "28909858-50d4-48f4-82e4-e2b0eefae745",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 11 GURU NANAK NAGAR,BAJWA COLONY,UTTAM COLONY,MIRA SHAH,COLONY,HULKA ROAD - WARD NO 11",
+                    "localname": "WARD NO 11 GURU NANAK NAGAR,BAJWA COLONY,UTTAM COLONY,MIRA SHAH,COLONY,HULKA ROAD - WARD NO 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64301807-7203-4e07-b3ae-2cdb662ce54e",
+                "boundaryNum": 1,
+                "name": "WARD NO 12",
+                "localname": "WARD NO 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "cfe60e1f-8c26-4f07-bc19-42c481864259",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 12 BANDIAN BASSI,MOHALLA NUNGARA - WARD NO 12",
+                    "localname": "WARD NO 12 BANDIAN BASSI,MOHALLA NUNGARA - WARD NO 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83a249e2-2741-4ed4-a6b3-4190e210b0d2",
+                "boundaryNum": 1,
+                "name": "WARD NO 13",
+                "localname": "WARD NO 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "2c41411c-b7b1-4cc3-96d9-cfc6f54e743a",
+                    "boundaryNum": 1,
+                    "name": "WARD NO 13 MOHALLA BIBIAN WALA, MOHALLA NUNGARA,MOHALLA SIKLIGAR,MOHALLA GADRIYAN WALA,MOHALLA KAMBALKOTE - WARD NO 13",
+                    "localname": "WARD NO 13 MOHALLA BIBIAN WALA, MOHALLA NUNGARA,MOHALLA SIKLIGAR,MOHALLA GADRIYAN WALA,MOHALLA KAMBALKOTE - WARD NO 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BR_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
