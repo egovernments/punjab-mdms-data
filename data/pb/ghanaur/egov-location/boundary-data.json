@@ -1,0 +1,960 @@
+{
+  "tenantId": "pb.ghanaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ghanaur",
+        "localname": "ghanaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ghanaur",
+        "children": [
+          {
+            "id": "3bae0355-2059-4823-8f5e-5890e01eac8c",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a192fe3f-f0de-4b17-a446-52f89acf3400",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "edbe448c-4422-49a2-8eda-53585b83ca7d",
+                    "boundaryNum": 1,
+                    "name": "PSEB Ghanaur - Ward No. 1",
+                    "localname": "PSEB Ghanaur - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dc7f06e1-cae9-4526-8ab5-25e6d4ac6f0a",
+                    "boundaryNum": 1,
+                    "name": "Jasper School colony - Ward No. 1",
+                    "localname": "Jasper School colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9054abf3-fd04-49de-bf11-6fcb97a177ac",
+                    "boundaryNum": 1,
+                    "name": "Gugga Mari Colony - Ward No. 1",
+                    "localname": "Gugga Mari Colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5c7beea6-a252-46de-a986-03667178d0a1",
+                    "boundaryNum": 1,
+                    "name": "B.D.P.O office street - Ward No. 1",
+                    "localname": "B.D.P.O office street - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9d5eedbd-16b8-4d95-95d9-d3360ffcce29",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Medical hall street - Ward No. 1",
+                    "localname": "Guru Nanak Medical hall street - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72402599-f2fb-429a-b3cf-188e3d0d03df",
+                    "boundaryNum": 1,
+                    "name": "GIB to Bihari sweet street - Ward No. 1",
+                    "localname": "GIB to Bihari sweet street - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1fd7d983-af4f-466a-a11a-83684fad5ad8",
+                    "boundaryNum": 1,
+                    "name": "Mustak ali wali Street - Ward No. 1",
+                    "localname": "Mustak ali wali Street - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0b035b17-2244-40ad-a623-daf336f47826",
+                    "boundaryNum": 1,
+                    "name": "Vegetable Market - Ward No. 1",
+                    "localname": "Vegetable Market - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "668e225d-974f-40c4-a764-2646118d0605",
+                    "boundaryNum": 1,
+                    "name": "Grain Market - Ward No. 1",
+                    "localname": "Grain Market - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bedf57c0-0bb2-4fbc-aa53-5189785ccab7",
+                    "boundaryNum": 1,
+                    "name": "Market Committee office - Ward No. 1",
+                    "localname": "Market Committee office - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d3b00315-eaf8-4d71-8279-6fd2c7f628f3",
+                    "boundaryNum": 1,
+                    "name": "Master Colony - Ward No. 1",
+                    "localname": "Master Colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_56",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fc97f5a4-6ff8-4207-a072-88a545921854",
+                    "boundaryNum": 1,
+                    "name": "Jagat Palace Ghanaur - Ward No. 1",
+                    "localname": "Jagat Palace Ghanaur - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_57",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3d0af807-497d-4f98-8f21-456d8e0b7edb",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "6ab6021c-6354-4173-9376-2a71d8fc47a7",
+                    "boundaryNum": 1,
+                    "name": "Anttal Colony - Ward No. 2",
+                    "localname": "Anttal Colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c836f133-a06c-4bd9-9bc3-89c383b7d1e1",
+                    "boundaryNum": 1,
+                    "name": "Canal to Police station side - Ward No. 2",
+                    "localname": "Canal to Police station side - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "db726bba-b3eb-4d19-90af-171ccc758ca1",
+                    "boundaryNum": 1,
+                    "name": "Amar Hospital back side - Ward No. 2",
+                    "localname": "Amar Hospital back side - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_60",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c9d613ed-9982-494b-bd23-0f5831a49dc4",
+                    "boundaryNum": 1,
+                    "name": "Punjab National Bank back side - Ward No. 2",
+                    "localname": "Punjab National Bank back side - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_61",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eef6c341-514a-43c3-876a-31579a8ec84d",
+                    "boundaryNum": 1,
+                    "name": "Sarda Mata Mandir backside colony - Ward No. 2",
+                    "localname": "Sarda Mata Mandir backside colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_62",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5a2174d1-a3c7-4dca-b22c-8e2a5d668989",
+                    "boundaryNum": 1,
+                    "name": "Kali Mata Mandir backside colony - Ward No. 2",
+                    "localname": "Kali Mata Mandir backside colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_63",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f773cce1-240c-4fe0-ba2b-7b92d0b6a420",
+                    "boundaryNum": 1,
+                    "name": "Land Mortgage Bank - Ward No. 2",
+                    "localname": "Land Mortgage Bank - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_64",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d66588ab-4031-480b-8969-5110f0289de3",
+                    "boundaryNum": 1,
+                    "name": "Street of Raj Kumar Master - Ward No. 2",
+                    "localname": "Street of Raj Kumar Master - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_65",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ed8bb576-df8b-4875-85b2-9060b9ca420d",
+                    "boundaryNum": 1,
+                    "name": "Ali string Store - Ward No. 2",
+                    "localname": "Ali string Store - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_66",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56f573e5-77e5-4ac4-8292-b4f8026de997",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "a9669461-e0b9-4cab-ab12-cce4f442a33e",
+                    "boundaryNum": 1,
+                    "name": "Gurudawara Sahib to Nagar Khera street both side - Ward No. 3",
+                    "localname": "Gurudawara Sahib to Nagar Khera street both side - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eeaebbae-061c-48a2-9290-093a07b048a6",
+                    "boundaryNum": 1,
+                    "name": "Jain School to Nimb wala pir street both side - Ward No. 3",
+                    "localname": "Jain School to Nimb wala pir street both side - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_44",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3267dc1a-61fc-4a36-9882-221152e95df7",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "ccd3bb6c-f190-47ef-8d66-d17954273a64",
+                    "boundaryNum": 1,
+                    "name": "Mehduda Road to Modern Rice Mil both side - Ward No. 4",
+                    "localname": "Mehduda Road to Modern Rice Mil both side - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "baf7e886-3f97-411b-9f73-5d644ec944be",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar both side - Ward No. 4",
+                    "localname": "Main Bazar both side - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a33e26d5-4485-4ccb-b29f-5a0f8ade147d",
+                    "boundaryNum": 1,
+                    "name": "Markanda Mandir back Side - Ward No. 4",
+                    "localname": "Markanda Mandir back Side - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "57b127af-1c06-4f21-aaf5-3f2cdd3ee4bc",
+                    "boundaryNum": 1,
+                    "name": "Kuldeep Painter wali Street - Ward No. 4",
+                    "localname": "Kuldeep Painter wali Street - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4c42c9a7-2e42-4769-8487-c6445c9584dc",
+                    "boundaryNum": 1,
+                    "name": "Police Station to Dinesh Sood house street - Ward No. 4",
+                    "localname": "Police Station to Dinesh Sood house street - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee190639-0c66-4895-b4b1-e3ea47d0e879",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "f1112796-49c0-4fc6-9469-466dd26f153e",
+                    "boundaryNum": 1,
+                    "name": "Mehduda Road - Ward No. 5",
+                    "localname": "Mehduda Road - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b5991ef9-398f-40d2-a6a1-b3498d46de19",
+                    "boundaryNum": 1,
+                    "name": "Gurnam Singh Dera - Ward No. 5",
+                    "localname": "Gurnam Singh Dera - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cb5f5da0-a6f6-4785-908f-d30c13ad89cf",
+                    "boundaryNum": 1,
+                    "name": "Punjab Singh Street both side - Ward No. 5",
+                    "localname": "Punjab Singh Street both side - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58ca7d47-0938-4c6c-9a31-eec6a2f05d74",
+                    "boundaryNum": 1,
+                    "name": "Ram Singh Foji street both side - Ward No. 5",
+                    "localname": "Ram Singh Foji street both side - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3fb2617b-1c4a-47c6-b9be-b6455bcc1f5b",
+                    "boundaryNum": 1,
+                    "name": "Vikas Sharma M.C Street both side - Ward No. 5",
+                    "localname": "Vikas Sharma M.C Street both side - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2943f273-25d2-4b24-82f6-0f7aacb7f577",
+                    "boundaryNum": 1,
+                    "name": "Harwinder M.C street both side - Ward No. 5",
+                    "localname": "Harwinder M.C street both side - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7889b71b-9132-4eed-a354-5829da441307",
+                    "boundaryNum": 1,
+                    "name": "Budha Singh Street both side - Ward No. 5",
+                    "localname": "Budha Singh Street both side - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9df05e9-145c-47ef-b11e-ba3f2675a015",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "72dff7ac-b403-4470-82d2-f0e4059d7b50",
+                    "boundaryNum": 1,
+                    "name": "Harnek Singh Street both side - Ward No. 6",
+                    "localname": "Harnek Singh Street both side - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "28f4faa8-907e-4aea-b907-8ebb8c01f61e",
+                    "boundaryNum": 1,
+                    "name": "Sakura Khan street both side - Ward No. 6",
+                    "localname": "Sakura Khan street both side - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a9c37e04-4477-4ea8-ae5b-e3c754e788c2",
+                    "boundaryNum": 1,
+                    "name": "Nathu Ram Street both side - Ward No. 6",
+                    "localname": "Nathu Ram Street both side - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "23dea4fb-c7cc-4246-8f6f-480ef3f74574",
+                    "boundaryNum": 1,
+                    "name": "Ajay Singla street both side - Ward No. 6",
+                    "localname": "Ajay Singla street both side - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "aed56096-c285-4bfe-81f5-34a1b308b4c2",
+                    "boundaryNum": 1,
+                    "name": "Gurudawara Sahib street both side - Ward No. 6",
+                    "localname": "Gurudawara Sahib street both side - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34e14f39-6ede-4f2e-80eb-7f4109e31479",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "95c366c5-b30e-4bcf-9e6b-9c74d50f43f4",
+                    "boundaryNum": 1,
+                    "name": "University college - Ward No. 7",
+                    "localname": "University college - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e294846c-9601-4040-93cd-d8b080bf7997",
+                    "boundaryNum": 1,
+                    "name": "NP Ghanaur office - Ward No. 7",
+                    "localname": "NP Ghanaur office - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "39cf006a-9eec-4b32-b122-b8a099fa8a10",
+                    "boundaryNum": 1,
+                    "name": "CHC Ghanaur - Ward No. 7",
+                    "localname": "CHC Ghanaur - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "21a930ba-f3cd-4f58-8c8a-d717957af92a",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Deha Basti - Ward No. 7",
+                    "localname": "Mohalla Deha Basti - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "848b431a-83e9-4ac1-8fa8-3c661b9b1d92",
+                    "boundaryNum": 1,
+                    "name": "Manjoli Road - Ward No. 7",
+                    "localname": "Manjoli Road - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ad048a05-146c-4f4c-af70-55e4733d4886",
+                    "boundaryNum": 1,
+                    "name": "Don Bosco School Colony - Ward No. 7",
+                    "localname": "Don Bosco School Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51f9927a-6ac7-4af7-b7d2-a7465d2fc4db",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "3619c747-a466-4aab-bccc-9cb53810be2c",
+                    "boundaryNum": 1,
+                    "name": "Raman de ghar wali colony - Ward No. 8",
+                    "localname": "Raman de ghar wali colony - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0cf9faa-5b20-4853-9089-e7d4a72da1ba",
+                    "boundaryNum": 1,
+                    "name": "Jagdish Street both side - Ward No. 8",
+                    "localname": "Jagdish Street both side - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b0d0792-2610-45ea-8f42-c262bb97ea4d",
+                    "boundaryNum": 1,
+                    "name": "Balmik mandir street - Ward No. 8",
+                    "localname": "Balmik mandir street - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "51b71e74-2499-4185-88b6-8f88b417b05c",
+                    "boundaryNum": 1,
+                    "name": "Vaternary Hospital street both side - Ward No. 8",
+                    "localname": "Vaternary Hospital street both side - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8dd5b47d-ea5c-4488-9fe6-27f2a20cb646",
+                    "boundaryNum": 1,
+                    "name": "Govt. Senior Secondary school - Ward No. 8",
+                    "localname": "Govt. Senior Secondary school - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1cac09b0-a3ec-401e-96ba-ac2ca9e3284e",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "180d11ce-9ab6-445a-a437-a1f160dfe364",
+                    "boundaryNum": 1,
+                    "name": "Khatriya wali Street both side - Ward No. 9",
+                    "localname": "Khatriya wali Street both side - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "839da4ea-7981-465e-8754-ee3e32893bd6",
+                    "boundaryNum": 1,
+                    "name": "Nasabar Singh street both side - Ward No. 9",
+                    "localname": "Nasabar Singh street both side - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c7c1b9ae-cf1c-427e-a17b-9d2e2140d965",
+                    "boundaryNum": 1,
+                    "name": "Dalip Kaur wali Street both side - Ward No. 9",
+                    "localname": "Dalip Kaur wali Street both side - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a41949e-4093-44b9-bdc1-79491a01fda3",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "aac16654-6625-4ef0-b705-c5bd6a739bc8",
+                    "boundaryNum": 1,
+                    "name": "Amarpal wali street - Ward No. 10",
+                    "localname": "Amarpal wali street - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e58c51bf-f3fd-4804-8ae6-1f0c331d4f2b",
+                    "boundaryNum": 1,
+                    "name": "Nirpinder Singh President wali Colony - Ward No. 10",
+                    "localname": "Nirpinder Singh President wali Colony - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0fc95809-fec2-44bc-b4b9-d1296e874e61",
+                    "boundaryNum": 1,
+                    "name": "Kandiv Medicos - Ward No. 10",
+                    "localname": "Kandiv Medicos - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6432025-d69e-43c9-a588-cbf3c3e7a822",
+                    "boundaryNum": 1,
+                    "name": "Mohan Singh Master wali Street both side - Ward No. 10",
+                    "localname": "Mohan Singh Master wali Street both side - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "19811f26-3b88-4b51-b6f9-5b6ab8a2711c",
+                    "boundaryNum": 1,
+                    "name": "Amrik Singh wali Street both side - Ward No. 10",
+                    "localname": "Amrik Singh wali Street both side - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "03c488c0-ff0b-4f87-97ea-c6c04e231fb5",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "7f7498b6-3879-4adc-a1db-6c91bb469cb0",
+                    "boundaryNum": 1,
+                    "name": "Nirankari Bhawan back side Colony - Ward No. 11",
+                    "localname": "Nirankari Bhawan back side Colony - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "843a6e1f-5afc-4e10-a973-3067400a4c28",
+                    "boundaryNum": 1,
+                    "name": "Ghasitu Ram wali Street - Ward No. 11",
+                    "localname": "Ghasitu Ram wali Street - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bddb611e-3271-4113-a3a0-a36992fec1c9",
+                    "boundaryNum": 1,
+                    "name": "Subre Sadh wali Street - Ward No. 11",
+                    "localname": "Subre Sadh wali Street - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d619d2f-9e67-4ec4-9309-39d6767d7601",
+                    "boundaryNum": 1,
+                    "name": "Back Side BSNL Exchange - Ward No. 11",
+                    "localname": "Back Side BSNL Exchange - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "50034c2a-c35c-4f15-9088-48377033fae0",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh School - Ward No. 11",
+                    "localname": "Dashmesh School - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bde378a0-a845-46a2-9414-0f5c2a56eb3a",
+                    "boundaryNum": 1,
+                    "name": "Appollo Public School - Ward No. 11",
+                    "localname": "Appollo Public School - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fba5f57b-c0a8-47dd-861d-0a153082bb3d",
+                    "boundaryNum": 1,
+                    "name": "Oppsite of Balmik mandir - Ward No. 11",
+                    "localname": "Oppsite of Balmik mandir - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GNR_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
