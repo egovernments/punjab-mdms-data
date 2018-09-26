@@ -367,6 +367,264 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mahilpur",
+        "localname": "Mahilpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mahilpur",
+        "children": [
+          {
+            "id": "b0a398ab-1cd7-40a4-b5da-0af4a7408b95",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "99fa69e4-5aa0-46e8-9d5d-d08f5e107df0",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "c4b35822-7f45-4a24-89d8-030e6e1d2c53",
+                    "boundaryNum": 1,
+                    "name": "Main Chowk to Jaijon Road, Jaijon Road to Shahidan Road, East Side - B1",
+                    "localname": "Main Chowk to Jaijon Road, Jaijon Road to Shahidan Road, East Side - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9d1fb3f-96d0-4190-9443-a1e1c55993af",
+                    "boundaryNum": 1,
+                    "name": "Main Chowk to Garhshankar Road, Garhshankar Road to Shahidan Road in fornt of Police Station, East Side - B1",
+                    "localname": "Main Chowk to Garhshankar Road, Garhshankar Road to Shahidan Road in fornt of Police Station, East Side - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ebc2e46e-f5b5-4a30-a5a6-fd3dd85dc484",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak School Back Side Area to Bajrang Gas Service to New Bus Stand Garhshankar Road, East Side - B1",
+                    "localname": "Guru Nanak School Back Side Area to Bajrang Gas Service to New Bus Stand Garhshankar Road, East Side - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6dbab81f-a964-45b7-90ec-8aed778695de",
+                    "boundaryNum": 1,
+                    "name": "Bank Colony to Main Chowk, Main Chowk to Jaijon Road, North Side - B1",
+                    "localname": "Bank Colony to Main Chowk, Main Chowk to Jaijon Road, North Side - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8257e83e-e56f-4314-b561-68af3e2df34b",
+                    "boundaryNum": 1,
+                    "name": "Phagwara Road to Civil Hospital Road to Mohalla Parha - B1",
+                    "localname": "Phagwara Road to Civil Hospital Road to Mohalla Parha - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8249dbd5-e7e5-43ca-aed6-a76c5a5f75ca",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "8d8bdc17-636b-4698-bb6c-d86438240d1d",
+                    "boundaryNum": 1,
+                    "name": "Hoshiarpur Road to Main Chowk, Main Chowk to Bapu Ganga Dass Road, North Side - B2",
+                    "localname": "Hoshiarpur Road to Main Chowk, Main Chowk to Bapu Ganga Dass Road, North Side - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "29f2204d-a52a-4611-b236-d8f6ff5bcccd",
+                    "boundaryNum": 1,
+                    "name": "Main Chowk to Phagwara Road to Baghaura Road North Side, North Side - B2",
+                    "localname": "Main Chowk to Phagwara Road to Baghaura Road North Side, North Side - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "11760504-87c1-4eef-9c64-955c7ec0b564",
+                    "boundaryNum": 1,
+                    "name": "Civil Hoispital Road to Girl School Road to Ambedkar Nagar - B2",
+                    "localname": "Civil Hoispital Road to Girl School Road to Ambedkar Nagar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c709f0ef-351a-4c95-bf25-f50ba18eb6b4",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "c7f3ebcf-370b-4c80-a559-d9b988d77e90",
+                    "boundaryNum": 1,
+                    "name": "Main Road to Civil Hospital Road to Nagar Panchayat Office Road to Gujjran Mohalla - B3",
+                    "localname": "Main Road to Civil Hospital Road to Nagar Panchayat Office Road to Gujjran Mohalla - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c966cd58-1bf0-4636-a8d3-4cdc1f61f7da",
+                    "boundaryNum": 1,
+                    "name": "Phagwara Road to Bagichi Mohalla to Jamun Chowk to Dewankhana, West Side - B3",
+                    "localname": "Phagwara Road to Bagichi Mohalla to Jamun Chowk to Dewankhana, West Side - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "72cc61e1-82a3-45cc-9ada-1853ceb5fed0",
+                    "boundaryNum": 1,
+                    "name": "Dewankhana to Maseet Mohalla to Balmiki Mohalla to Phagwara Road - B3",
+                    "localname": "Dewankhana to Maseet Mohalla to Balmiki Mohalla to Phagwara Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75b459cd-e941-470e-9b43-658b41b19f15",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "86f070d8-dc51-466b-84c6-e33b2c8bac9a",
+                    "boundaryNum": 1,
+                    "name": "Garhshankar Road to Milan Palace Road to Langeri Road to Gaushala Road, South Side - B4",
+                    "localname": "Garhshankar Road to Milan Palace Road to Langeri Road to Gaushala Road, South Side - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_12",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "18a59480-1b67-4262-8069-ccf5830a09bb",
+                    "boundaryNum": 1,
+                    "name": "Diwankhana Road to H/o Amandeep Bains to Bunga Sahib Gurudwara to Andar Bahar Mohalla - B4",
+                    "localname": "Diwankhana Road to H/o Amandeep Bains to Bunga Sahib Gurudwara to Andar Bahar Mohalla - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_13",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "e2092850-b66a-4700-8759-f6d49e88274f",
+                    "boundaryNum": 1,
+                    "name": "Langeri Road to Vishavkarma Road to Karam Palace, South-West Side - B4",
+                    "localname": "Langeri Road to Vishavkarma Road to Karam Palace, South-West Side - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_14",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "1922182a-f3d2-465d-90c7-5f82d2b06026",
+                    "boundaryNum": 1,
+                    "name": "Phagwara Road to B.D.O Colony, North Side - B4",
+                    "localname": "Phagwara Road to B.D.O Colony, North Side - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ML_15",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
