@@ -1,0 +1,444 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kurali",
+        "localname": "kurali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kurali",
+        "children": [
+          {
+            "id": "0e38645b-db32-44de-9a7d-38718fa154e8",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN1",
+            "children": [
+              {
+                "id": "0abd5a57-3a7c-4def-85d8-e5c2021038cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "e8896136-0c9c-4f55-837e-5c44eb622f41",
+                    "boundaryNum": 1,
+                    "name": "near Chakwal school, NEAR Durga Dharam Kanda, near Gugga Maadi, Backside Vishavkarma Mandir - WARD_1",
+                    "localname": "near Chakwal school, NEAR Durga Dharam Kanda, near Gugga Maadi, Backside Vishavkarma Mandir - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd5cc1d9-213e-49eb-abf3-96df17714395",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "dc3def68-7973-483f-a146-b203113eb3ee",
+                    "boundaryNum": 1,
+                    "name": "Near Nagar Khera Dharamshal, Kubi Shah, Chakhandi Gulbana, Jain Mandir, - WARD_2",
+                    "localname": "Near Nagar Khera Dharamshal, Kubi Shah, Chakhandi Gulbana, Jain Mandir, - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc07628b-5bc8-459f-9ef7-809bbb96b51e",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "58f8e2a1-fa69-4233-be35-f32e598e9e07",
+                    "boundaryNum": 1,
+                    "name": "Mansa Devi mandir, Chakhandi Shahpur Patti, Shiv Mandir, near Masjid - WARD_3",
+                    "localname": "Mansa Devi mandir, Chakhandi Shahpur Patti, Shiv Mandir, near Masjid - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65d7baab-89c8-492e-87e2-b84a145ec0be",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "bfb03976-4896-44b1-903d-5f0cb0716343",
+                    "boundaryNum": 1,
+                    "name": "Near PAKKA Darwaja, Viveknand chowk, Municipal Shopping Complex - WARD_4",
+                    "localname": "Near PAKKA Darwaja, Viveknand chowk, Municipal Shopping Complex - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a224ced-2500-4f21-b873-b26f0ba98780",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "44a756fe-d04a-4ac0-bf67-f36b93109dfc",
+                    "boundaryNum": 1,
+                    "name": "Krishna Mandi, Chakhandi Tarawati, Ravidas Dharamshala,  Municipal Council, Civil Hospital - WARD_5",
+                    "localname": "Krishna Mandi, Chakhandi Tarawati, Ravidas Dharamshala,  Municipal Council, Civil Hospital - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d22942ae-7120-4fa1-bfa6-3de8ae8bee50",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "d58dbdcd-40d6-48a0-9c58-616d4d665e04",
+                    "boundaryNum": 1,
+                    "name": "Model Town, Bhagat Singh colony, near Braham Kumari Ashram - WARD_6",
+                    "localname": "Model Town, Bhagat Singh colony, near Braham Kumari Ashram - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3177d415-71ef-422b-ba4e-7e0d0497ce29",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "a35cdb4c-3c24-4159-933a-9bf86685f61d",
+                    "boundaryNum": 1,
+                    "name": "Rajindera Enclave, Shri Guru Harkrishan Public School - WARD_7",
+                    "localname": "Rajindera Enclave, Shri Guru Harkrishan Public School - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a15e6a24-b090-4590-a26e-f3d2f831a6ec",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "15f7bda9-a232-4a07-b84d-a5a11ea4a51b",
+                    "boundaryNum": 1,
+                    "name": "Near Prabh Aasra, Padiala, - WARD_8",
+                    "localname": "Near Prabh Aasra, Padiala, - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8245b6f-8be8-41f0-b524-cda24dc57a65",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2fe5f79c-b060-430e-82ce-5e7fe9855e02",
+                    "boundaryNum": 1,
+                    "name": "Near Shaheed Bhagat Singh college,near Gramin Bank, near Virdi Shuttering store, Manav Kender - WARD_9",
+                    "localname": "Near Shaheed Bhagat Singh college,near Gramin Bank, near Virdi Shuttering store, Manav Kender - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e82dda4d-5dc8-4def-bfcb-9e22c5844457",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "a339106a-f9c1-4d73-8843-61ada4189e9a",
+                    "boundaryNum": 1,
+                    "name": "Baba Sarwan Gir Park, Near Masjid Chanalon, near Gurudwara Sahib, Chandigarh Road - WARD_10",
+                    "localname": "Baba Sarwan Gir Park, Near Masjid Chanalon, near Gurudwara Sahib, Chandigarh Road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d85061dd-7ee6-42ec-a965-67bc5fa90110",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "0906b4e7-ce9c-44b2-a576-31e9fff37f15",
+                    "boundaryNum": 1,
+                    "name": "Near Bhaag Ice Factory, Sai mandir, old Homeopethic Dispensery, YES Bank - WARD_11",
+                    "localname": "Near Bhaag Ice Factory, Sai mandir, old Homeopethic Dispensery, YES Bank - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17bfb02b-7e82-4ad3-a784-db82b6f059ba",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "2ca14bd0-0fb2-4556-af8b-e7e4afaf28b7",
+                    "boundaryNum": 1,
+                    "name": "Near Shri Guru Ram Rai Public School, Khalsa School, Gurudwara Shri Guru Hargobindgarh Sahib, Baba Jhaar Sahib - WARD_12",
+                    "localname": "Near Shri Guru Ram Rai Public School, Khalsa School, Gurudwara Shri Guru Hargobindgarh Sahib, Baba Jhaar Sahib - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d3481734-df1b-4732-9eef-9349ddcbc33d",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "9ebec0a0-7360-46c3-8ff4-d1ee79346fe7",
+                    "boundaryNum": 1,
+                    "name": "Near BusStand, Mata Rani Chowk, Dushehra Ground, Subji Mandi, - WARD_13",
+                    "localname": "Near BusStand, Mata Rani Chowk, Dushehra Ground, Subji Mandi, - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7466ed5e-e19a-4705-94ec-d7e072641b09",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "1741f78c-0593-45ad-b379-d4577823d923",
+                    "boundaryNum": 1,
+                    "name": "Near Baba Sodhi Mandir, Badali Road, PSEB Morinda Road, - WARD_14",
+                    "localname": "Near Baba Sodhi Mandir, Badali Road, PSEB Morinda Road, - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4680b6d-b2f3-433c-8bb0-7a18c79533e3",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "051079a7-13eb-4fda-b753-d9c55c25b081",
+                    "boundaryNum": 1,
+                    "name": "Near Sodhi Complex, Old station mandi,  near D.A.V School - WARD_15",
+                    "localname": "Near Sodhi Complex, Old station mandi,  near D.A.V School - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0152fa2e-98ee-43af-905d-0b49ed22173c",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "bcb8bf95-77cb-4ec2-af0e-49a896fc08d7",
+                    "boundaryNum": 1,
+                    "name": "Near Ananpur Aashram, church,anaj mandi area,Railway Station - WARD_16",
+                    "localname": "Near Ananpur Aashram, church,anaj mandi area,Railway Station - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd327a1d-5453-4c47-9847-475146fe801d",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "bcc4ab7c-a71b-4c94-a982-984f0b87b6af",
+                    "boundaryNum": 1,
+                    "name": "Khushi Ram colony, Dera Baba Gosaiana, - WARD_17",
+                    "localname": "Khushi Ram colony, Dera Baba Gosaiana, - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
