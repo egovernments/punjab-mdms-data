@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.banga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "banga",
+        "localname": "banga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.banga",
+        "children": [
+          {
+            "id": "4834b619-5b6a-42f3-91c5-88ba7534918b",
+            "boundaryNum": 1,
+            "name": "Banga",
+            "localname": "Banga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "68ab6f4f-0226-4754-9eb1-5202795286a5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "195f3a7f-8f0b-4ce1-b581-4599468efaf3",
+                    "boundaryNum": 1,
+                    "name": "Masanda patti, Hoppowal Road, Shmashan ghat, Sheetla mandir, Disposal - WARD_1",
+                    "localname": "Masanda patti, Hoppowal Road, Shmashan ghat, Sheetla mandir, Disposal - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee8ab584-fd58-4f10-9dd4-5a0eed07e4f9",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "65c7f348-b4be-4ac6-87dc-c6b23227b652",
+                    "boundaryNum": 1,
+                    "name": "Karan Hospital, Masnda patti, Krishna Nagar,Phgwara Road - WARD_2",
+                    "localname": "Karan Hospital, Masnda patti, Krishna Nagar,Phgwara Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5bed3584-80f4-451e-a4ba-cc97169d5de9",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "c4fb1e77-3813-408d-976a-73a55e8a6132",
+                    "boundaryNum": 1,
+                    "name": "katehra Chowk, Suneyara Bazar, Heon Road, - WARD_3",
+                    "localname": "katehra Chowk, Suneyara Bazar, Heon Road, - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c6a4cc5-71e6-4ac6-b107-908243afa654",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "b8c7041b-e0ae-4c34-be35-2df62da9794f",
+                    "boundaryNum": 1,
+                    "name": "Sanchali Bazar,Azad Chowk, Old Valmik Mohlla, Baba Gola Gurdwara - WARD_4",
+                    "localname": "Sanchali Bazar,Azad Chowk, Old Valmik Mohlla, Baba Gola Gurdwara - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0a7da715-0ccc-448f-b8ed-1f2835baff6d",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "76bdc341-e33d-4cc5-aecf-fb10cdfc8b9c",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Road, Khuh Wali gali,Garshankar Road, Sidha moahlla,Gujjran Mohlla,Santokh Nagar, Krishna Mandir - WARD_5",
+                    "localname": "Ravidas Road, Khuh Wali gali,Garshankar Road, Sidha moahlla,Gujjran Mohlla,Santokh Nagar, Krishna Mandir - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e6b8508-57b0-48e7-8b1a-cfb92fca37bf",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "fc65ab93-0f22-48df-8795-b832a9f98ed5",
+                    "boundaryNum": 1,
+                    "name": "Tungal Gate, Bedian Colony, Sagar Gate, - WARD_6",
+                    "localname": "Tungal Gate, Bedian Colony, Sagar Gate, - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d847f2f-d0fe-468c-a2ba-b5757ea995c1",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "2255aa16-60da-4d78-9b65-70993733339c",
+                    "boundaryNum": 1,
+                    "name": "Jain Colony, Jhikka Road, Kajla Road, Gulami  shah Sutlaj School - WARD_7",
+                    "localname": "Jain Colony, Jhikka Road, Kajla Road, Gulami  shah Sutlaj School - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d962dfca-dc7c-49bc-80a2-0da1a6349d1d",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "d48dae7a-cd64-4042-8d85-a506b53eb1ec",
+                    "boundaryNum": 1,
+                    "name": "Sidha Mohlla,Bhem Rao Colony, Ravidass Gurdwara, Community Hall Mukhtpura - WARD_8",
+                    "localname": "Sidha Mohlla,Bhem Rao Colony, Ravidass Gurdwara, Community Hall Mukhtpura - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a3138d0-767f-422d-81fb-8ebb7f81423c",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "d8cd1bb4-ea92-47e1-a079-8ded80c9b558",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar, New Modal Town ,Arya samaj Mandir, Gurdwara  Charan Kanwal - WARD_9",
+                    "localname": "Guru Nanak Nagar, New Modal Town ,Arya samaj Mandir, Gurdwara  Charan Kanwal - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8385d185-b776-43e1-a02d-bf153f15a50b",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "5cee02a6-c41d-418f-8ed4-32d3779365a3",
+                    "boundaryNum": 1,
+                    "name": "Dr. Ambedkar Nagar, Partap Nagar, Hadda Roadi, FCI godwon, Patale Nagar - WARD_10",
+                    "localname": "Dr. Ambedkar Nagar, Partap Nagar, Hadda Roadi, FCI godwon, Patale Nagar - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f621475-98e4-4e5f-8642-dc7a69ef1cd6",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "32057a53-74c3-4079-99c4-d087a4b702f7",
+                    "boundaryNum": 1,
+                    "name": "Adrash Nagar, Railway Road, Chitpurni Mandir, - WARD_11",
+                    "localname": "Adrash Nagar, Railway Road, Chitpurni Mandir, - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39030214-9414-4bf8-a6e8-f6a4e97ef732",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "f338da4e-242e-4523-a9d5-e134ccc8d585",
+                    "boundaryNum": 1,
+                    "name": "Overseas mohalla, old Gandhi Nagar, - WARD_12",
+                    "localname": "Overseas mohalla, old Gandhi Nagar, - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ef7d9a9-7008-465d-aef5-eae407d3ffd0",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "717d03fb-4ccb-4cf5-aff1-231e2ac59147",
+                    "boundaryNum": 1,
+                    "name": "New Gandhi Nagar, Post office, Old Grain Market, - WARD_13",
+                    "localname": "New Gandhi Nagar, Post office, Old Grain Market, - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb611e0f-cd1c-47fe-a423-640c909fbf11",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "252ab208-b80b-4848-993e-02f69c8d34ea",
+                    "boundaryNum": 1,
+                    "name": "NIR colony, ambedkar Nagar, MC Colony, Misra Mohlla, Mukadpur Road, Gaushla, - WARD_14",
+                    "localname": "NIR colony, ambedkar Nagar, MC Colony, Misra Mohlla, Mukadpur Road, Gaushla, - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89cc7518-0fe1-43af-8517-852d21de69f8",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "78a40cc0-5d10-4ef1-85c6-2def4d1543e1",
+                    "boundaryNum": 1,
+                    "name": "Valmik Mohlla, Police Colony, Hindu School Vale gali, MC colony, Sukhmani enclave - WARD_15",
+                    "localname": "Valmik Mohlla, Police Colony, Hindu School Vale gali, MC colony, Sukhmani enclave - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
