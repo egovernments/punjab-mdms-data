@@ -511,6 +511,624 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mudki",
+        "localname": "Mudki",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mudki",
+        "children": [
+          {
+            "id": "4526c55e-3eb9-49a5-b187-579c7f9f43fe",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a2076b8f-3463-4652-8a7b-caf6432be400",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "210cda6a-3e29-487d-b1b8-58db05ad2be7",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar B1 Area2 - B1",
+                    "localname": "Ambedkar Nagar B1 Area2 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c6613a7e-be34-4e38-b1d5-e44ad82fdecc",
+                    "boundaryNum": 1,
+                    "name": "Street Baba Jiwan Singh - B1",
+                    "localname": "Street Baba Jiwan Singh - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bdb5c66-3494-4fd8-a5c5-b5f93330bd7b",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "2cbcb4ce-773b-464e-a110-fb772de16c73",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar B2 Area1 - B2",
+                    "localname": "Ambedkar Nagar B2 Area1 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2e85b2b1-a600-4220-a699-64ed2692691e",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Nagar B2 Area2 - B2",
+                    "localname": "Ambedkar Nagar B2 Area2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b075d7ce-e219-492f-ab54-08453d0c0a34",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar B2 Area1 - B2",
+                    "localname": "Guru Gobind Singh Nagar B2 Area1 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1f2a4855-f425-4860-a8ea-14cc88002a22",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar B2 Area2 - B2",
+                    "localname": "Guru Gobind Singh Nagar B2 Area2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "903ddcf6-be1e-466c-a6e4-7989c7637f6a",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "5faca6ec-5008-47f9-bb6a-4c1578d7f30e",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar B3 Area1 - B3",
+                    "localname": "Guru Gobind Singh Nagar B3 Area1 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36dd784a-db4c-4f76-b59f-fb389b78d0d7",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind Singh Nagar B3 Area2 - B3",
+                    "localname": "Guru Gobind Singh Nagar B3 Area2 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "767e7e4b-9d96-45e3-96d2-bc6f7c168d95",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "65e8536c-3393-46ee-8739-ce8e6cc78e83",
+                    "boundaryNum": 1,
+                    "name": "New Colony Area1 - B4",
+                    "localname": "New Colony Area1 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bdb18076-50f6-46a3-9c0c-07185f01e393",
+                    "boundaryNum": 1,
+                    "name": "New Colony Area2 - B4",
+                    "localname": "New Colony Area2 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b5efc3ce-d382-4f03-91e9-9232f7cd9242",
+                    "boundaryNum": 1,
+                    "name": "Street Basiyan wali Area1 - B4",
+                    "localname": "Street Basiyan wali Area1 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f62e8d25-e7ae-4146-b66b-cd9fca373077",
+                    "boundaryNum": 1,
+                    "name": "Street Basiyan wali Area2 - B4",
+                    "localname": "Street Basiyan wali Area2 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e7e7541d-69f7-43bd-b620-005af7ea3e2b",
+                    "boundaryNum": 1,
+                    "name": "Gill Road B4 Area1 - B4",
+                    "localname": "Gill Road B4 Area1 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a876cd76-1086-49bd-8313-50f3adf40c89",
+                    "boundaryNum": 1,
+                    "name": "Gill Road B4 Area2 - B4",
+                    "localname": "Gill Road B4 Area2 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "939037e2-8831-455a-a529-f817a3cf643f",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "1fccc455-9b85-4aa3-bc3d-b5af9d8c5dea",
+                    "boundaryNum": 1,
+                    "name": "Gill Road B5 Area1 - B5",
+                    "localname": "Gill Road B5 Area1 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04ed6c1e-2da9-4444-bfb6-9e12859af086",
+                    "boundaryNum": 1,
+                    "name": "Gill Road B5 Area2 - B5",
+                    "localname": "Gill Road B5 Area2 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e47db19a-0f2a-4ded-baf3-b75ab83ee5a2",
+                    "boundaryNum": 1,
+                    "name": "Nanak Nagari Area1 - B5",
+                    "localname": "Nanak Nagari Area1 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "da2eff40-fd0b-4780-8ce4-7c7e3470f278",
+                    "boundaryNum": 1,
+                    "name": "Nanak Nagari Area2 - B5",
+                    "localname": "Nanak Nagari Area2 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d12154fb-885c-47d5-a1ca-e1ad765ac5de",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "1f68f09f-9630-4587-891b-e7079829e24c",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar B6 Area1 - B6",
+                    "localname": "Christian Nagar B6 Area1 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7def758-d583-4ba2-ac85-a73211683442",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar B6 Area2 - B6",
+                    "localname": "Christian Nagar B6 Area2 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "35f84f52-e5d1-48f0-a07c-da9d4e42d55b",
+                    "boundaryNum": 1,
+                    "name": "Chhota Vehda - B6",
+                    "localname": "Chhota Vehda - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5c553590-ed49-4606-9a36-a7d604b39cc2",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "f5822e44-9ed9-4f7b-915d-9a272f389cd9",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar B7 - B7",
+                    "localname": "Christian Nagar B7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6470a233-72f2-4c58-9cab-c2e635963a5b",
+                    "boundaryNum": 1,
+                    "name": "Jaid patti B7 - B7",
+                    "localname": "Jaid patti B7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-23",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7f403186-736d-46ec-a12b-243096da76ad",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "8b9fc7b3-989f-41d3-bf49-063ccc065894",
+                    "boundaryNum": 1,
+                    "name": "Jaid patti B8 - B8",
+                    "localname": "Jaid patti B8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe43768b-3e2a-4ccb-b81c-a4921ec49222",
+                    "boundaryNum": 1,
+                    "name": "Wadda Wehra - B8",
+                    "localname": "Wadda Wehra - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "7bd88c4f-98ec-4303-8fae-86266669533e",
+                    "boundaryNum": 1,
+                    "name": "Purani Mudki - B8",
+                    "localname": "Purani Mudki - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7339a2e-5c4e-47dd-8a4a-50ce281ab091",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar B8 - B8",
+                    "localname": "Ram Nagar B8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "742a8efa-9b32-415b-881b-5481ed2eaed7",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "29924a83-bdc6-4ed5-9c18-36a2b6aec35e",
+                    "boundaryNum": 1,
+                    "name": "Christian Nagar B9 - B9",
+                    "localname": "Christian Nagar B9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9fa091bf-ff15-406e-9435-d8fdc28c4e90",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar B9 - B9",
+                    "localname": "Ranjit Nagar B9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "367e6823-f7f5-44f8-b747-cce1bf881dc6",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "6ebd7bf1-c5d1-49c6-8854-d247064ae528",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar B10 - B10",
+                    "localname": "Ram Nagar B10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1b4f019a-43c9-4379-93ba-4c78e8708786",
+                    "boundaryNum": 1,
+                    "name": "Multani Patti - B10",
+                    "localname": "Multani Patti - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63216267-a817-473e-b482-70df184474f4",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "f716d7e2-3feb-4af0-a695-554c935f52f6",
+                    "boundaryNum": 1,
+                    "name": "Ram Nagar B11 - B11",
+                    "localname": "Ram Nagar B11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-32",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8024a5a-e426-4271-bb20-21892aff88a0",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "dd295bce-d875-49bb-8de1-b79a9ee656e6",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar B12 - B12",
+                    "localname": "Ranjit Nagar B12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e28205ae-db55-4be6-ac77-d6833b3e39ab",
+                    "boundaryNum": 1,
+                    "name": "Chhokar Patti - B12",
+                    "localname": "Chhokar Patti - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8fbd62ba-744e-4591-b2a9-5930c10f7138",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "387c58e5-e27c-42b9-a14d-3eb229a7c683",
+                    "boundaryNum": 1,
+                    "name": "Ranjit Nagar B13 - B13",
+                    "localname": "Ranjit Nagar B13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2801bcca-fa61-4dae-94cc-6924239f34b7",
+                    "boundaryNum": 1,
+                    "name": "Valmik Basti - B13",
+                    "localname": "Valmik Basti - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-36",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
