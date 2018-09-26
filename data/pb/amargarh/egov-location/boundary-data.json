@@ -1,0 +1,384 @@
+{
+  "tenantId": "pb.amargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "amargarh",
+        "localname": "amargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.amargarh",
+        "children": [
+          {
+            "id": "87a68b30-fbc1-4908-bb9e-58e30a7fa516",
+            "boundaryNum": 1,
+            "name": "AMARGARH",
+            "localname": "AMARGARH",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1b2a989c-7d93-4345-b5ef-e4adce6ab9ab",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "c7e1acfe-6a5e-4c2b-b923-983acb1e3360",
+                    "boundaryNum": 1,
+                    "name": "Bajigar Basti to Chaunda mod - WARD_1",
+                    "localname": "Bajigar Basti to Chaunda mod - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "003f1b1e-ffd6-460a-8799-20448a38ef93",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "93f6e782-d5c6-4a87-8506-21a747eccc1c",
+                    "boundaryNum": 1,
+                    "name": "Chaunda Mod Area to Jhunda Road W2 - WARD_2",
+                    "localname": "Chaunda Mod Area to Jhunda Road W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f221fa1-cc9b-4664-b5ee-173bc2b43156",
+                    "boundaryNum": 1,
+                    "name": "Harnama colony - WARD_2",
+                    "localname": "Harnama colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2ba4ca34-bf38-411d-9c4f-9b21099cd1b8",
+                    "boundaryNum": 1,
+                    "name": "Khalsa Colony - WARD_2",
+                    "localname": "Khalsa Colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78761250-8bde-43ca-84ed-fbd9c9e45a3c",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "5e5fa2b3-6c69-47ce-a756-a53e2b6185df",
+                    "boundaryNum": 1,
+                    "name": "Chaunda Mod Area to Jhunda Road W3 - WARD_3",
+                    "localname": "Chaunda Mod Area to Jhunda Road W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f74f6281-0950-474b-9168-a701ab691c96",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f90efde1-bf27-465f-ad17-333fb93f4892",
+                    "boundaryNum": 1,
+                    "name": "Devi mata Mandir Area - WARD_4",
+                    "localname": "Devi mata Mandir Area - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5130606e-98c0-4a62-bf8b-dec34c2eb8a0",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir Area - WARD_4",
+                    "localname": "Shiv Mandir Area - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c67c6a5-b109-4373-ab49-e966187dbf60",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "efd62ccf-73aa-4035-95af-9600585b09e9",
+                    "boundaryNum": 1,
+                    "name": "Dewana Colony And Dhab Vala Area Alipur Road W5 - WARD_5",
+                    "localname": "Dewana Colony And Dhab Vala Area Alipur Road W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27805fe4-084a-4573-ae4a-1494f208d85a",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "aef4629a-372b-4a19-9595-9b5b894f87b0",
+                    "boundaryNum": 1,
+                    "name": "Dewana Colony And Dhab Vala Area Alipur Road W6 - WARD_6",
+                    "localname": "Dewana Colony And Dhab Vala Area Alipur Road W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "da97ad07-afbc-425b-af07-0102168a560d",
+                    "boundaryNum": 1,
+                    "name": "Mohali Link Road  Near Vishawkarma Mechenicals - WARD_6",
+                    "localname": "Mohali Link Road  Near Vishawkarma Mechenicals - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "140691c3-6f45-41a2-8535-b944db4bd896",
+                    "boundaryNum": 1,
+                    "name": "Gyani Jail Singh Colony - WARD_6",
+                    "localname": "Gyani Jail Singh Colony - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fc800a3-0aaa-4a53-9bfc-d71c01e11003",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "718aee97-7cac-431e-b0da-fc0b607108ad",
+                    "boundaryNum": 1,
+                    "name": "Mahajan Muhalla - WARD_7",
+                    "localname": "Mahajan Muhalla - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b97ca90-de33-436d-a8db-f4f45d7f707e",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "25bf012d-c841-4969-9ca7-599b9e0c44a7",
+                    "boundaryNum": 1,
+                    "name": "Gyani Jail Singh Colony - WARD_8",
+                    "localname": "Gyani Jail Singh Colony - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ffb82b8-d7f8-4110-a131-0acfa40de590",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "3c5f5331-40f9-46e5-a264-8db1cee5eb84",
+                    "boundaryNum": 1,
+                    "name": "Gyani Jail Singh Colony - WARD_9",
+                    "localname": "Gyani Jail Singh Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75f4964d-b040-47fa-9cdf-0143b71574ab",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f520e908-7057-4779-a9ef-4aed25607d3f",
+                    "boundaryNum": 1,
+                    "name": "Dhuri Road Both Sides - WARD_10",
+                    "localname": "Dhuri Road Both Sides - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f0eaf30-1300-480b-97d4-1d931374198c",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "60f2c17a-e0b4-4ff4-9299-428f7498d84d",
+                    "boundaryNum": 1,
+                    "name": "Dhuri Road Both Sides - WARD_11",
+                    "localname": "Dhuri Road Both Sides - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1f544fa5-8f78-4f93-9dd5-20d16f44ee9b",
+                    "boundaryNum": 1,
+                    "name": "Back Side Gurduwara - WARD_11",
+                    "localname": "Back Side Gurduwara - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d51660a4-c7d0-4413-a095-fa6ac38e9a5a",
+                    "boundaryNum": 1,
+                    "name": "Back Side Police Station - WARD_11",
+                    "localname": "Back Side Police Station - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "AMG_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
