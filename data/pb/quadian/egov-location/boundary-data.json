@@ -1,0 +1,528 @@
+{
+  "tenantId": "pb.quadian",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "quadian",
+        "localname": "quadian",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.quadian",
+        "children": [
+          {
+            "id": "156c97b4-dee4-48dc-ad04-e7fe5832c2ee",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "QZN1",
+            "children": [
+              {
+                "id": "88ce33e4-f9c4-4fd6-bd41-21335517515f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "2924cc6e-27e2-4d11-909d-5b3204f97cc2",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK PURA1 - WARD_1",
+                    "localname": "GURU NANAK PURA1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77c7904f-a0f7-4f65-b22f-c83054c30950",
+                    "boundaryNum": 1,
+                    "name": "KRISHAN NAGAR1 - WARD_1",
+                    "localname": "KRISHAN NAGAR1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c34184d-fe3c-4e1f-9c4e-f6f420688d66",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "3c8950fd-39b3-4cba-abb3-7bd6434d775f",
+                    "boundaryNum": 1,
+                    "name": "SANT NAGAR3 - WARD_2",
+                    "localname": "SANT NAGAR3 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3dea97d7-5ddb-40da-b0c8-2e0d03dcfe40",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "a07bd05e-1b59-463a-ac9a-52b5ff7d0d37",
+                    "boundaryNum": 1,
+                    "name": "PARTAP NAGAR1 - WARD_3",
+                    "localname": "PARTAP NAGAR1 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7de073b8-1ae2-45bb-b97a-34a03737fb4b",
+                    "boundaryNum": 1,
+                    "name": "SANT NAGAR2 - WARD_3",
+                    "localname": "SANT NAGAR2 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c02eba9c-b97c-4b06-8992-aa77d0822118",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "280d6fd1-96c6-4f9d-a796-a723956adb5a",
+                    "boundaryNum": 1,
+                    "name": "PARTAP NAGAR2 - WARD_4",
+                    "localname": "PARTAP NAGAR2 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c207a422-9754-4d51-b436-c225379b34ca",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "50f23e12-da01-4f06-ba3f-6a1a2302acf7",
+                    "boundaryNum": 1,
+                    "name": "CIVIL LINES1 - WARD_5",
+                    "localname": "CIVIL LINES1 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7caa8ae8-8a43-481f-b9ab-6875a61a09e7",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "30c48933-d5da-43f5-b7f2-410582475f21",
+                    "boundaryNum": 1,
+                    "name": "AKALGARH2 - WARD_6",
+                    "localname": "AKALGARH2 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "932cfd7a-effd-47c7-9467-5b7bc357aeb7",
+                    "boundaryNum": 1,
+                    "name": "ARJUNPURA - WARD_6",
+                    "localname": "ARJUNPURA - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de9db673-c12c-4363-a473-749ef6605bc2",
+                    "boundaryNum": 1,
+                    "name": "CIVIL LINES2 - WARD_6",
+                    "localname": "CIVIL LINES2 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c6eb709-e8af-4048-8332-dd344e413d8c",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6544c46b-ec56-4531-8031-951143dc7e0f",
+                    "boundaryNum": 1,
+                    "name": "AKALGARH1 - WARD_7",
+                    "localname": "AKALGARH1 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6e80facc-ae64-41b6-a60e-a4a01b3172d9",
+                    "boundaryNum": 1,
+                    "name": "AHAMIDIYYA MOHALLA 1 - WARD_7",
+                    "localname": "AHAMIDIYYA MOHALLA 1 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35165075-391c-46f4-9863-784da2d917ae",
+                    "boundaryNum": 1,
+                    "name": "CIVIL LINES3 - WARD_7",
+                    "localname": "CIVIL LINES3 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5fdff45f-f483-49cb-8411-88d03617de85",
+                    "boundaryNum": 1,
+                    "name": "HINDU MOHALLA1 - WARD_7",
+                    "localname": "HINDU MOHALLA1 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd24d0cd-9d0c-41d9-8858-930a0c1f4f9f",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "94dfe863-7062-4902-be54-670c16fd45e4",
+                    "boundaryNum": 1,
+                    "name": "AHAMIDIYYA MOHALLA 2 - WARD_8",
+                    "localname": "AHAMIDIYYA MOHALLA 2 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eaa7aa61-89a2-49c0-bafe-c79f925b6381",
+                    "boundaryNum": 1,
+                    "name": "BALMIKI MOHALLA1 - WARD_8",
+                    "localname": "BALMIKI MOHALLA1 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "536b7456-122f-4c7f-81d9-db735f8fd5fa",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "f8046f68-3f3f-4061-9770-9dd748c0ae6f",
+                    "boundaryNum": 1,
+                    "name": "BALMIKI MOHALLA2 - WARD_9",
+                    "localname": "BALMIKI MOHALLA2 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c2d4a27-df46-4529-94b3-55249b75419f",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "815fd3e0-03ab-42ec-ac31-0d330cb448d1",
+                    "boundaryNum": 1,
+                    "name": "DHARAMPURA1 - WARD_10",
+                    "localname": "DHARAMPURA1 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05deaa2c-5b62-4787-914d-20468fb793a4",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "33a8c351-a128-449d-975b-db38c68d257b",
+                    "boundaryNum": 1,
+                    "name": "DHARAMPURA2 - WARD_11",
+                    "localname": "DHARAMPURA2 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5a4d2b7f-93cd-4619-b9f5-7dcd3f5f351e",
+                    "boundaryNum": 1,
+                    "name": "HINDU MOHALLA2 - WARD_11",
+                    "localname": "HINDU MOHALLA2 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bec47fbd-3674-44ea-9cf1-6bbc9b6df547",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "cf77520a-f6dc-45e8-92cb-0815753d0921",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK PURA2 - WARD_12",
+                    "localname": "GURU NANAK PURA2 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a7d73715-a17a-437f-8d10-4858c3ccb31a",
+                    "boundaryNum": 1,
+                    "name": "SANT NAGAR1 - WARD_12",
+                    "localname": "SANT NAGAR1 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f2c514e7-8b1a-4218-b99c-fbe31ced0c46",
+                    "boundaryNum": 1,
+                    "name": "KRISHAN NAGAR2 - WARD_12",
+                    "localname": "KRISHAN NAGAR2 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b06918e9-db2c-47ca-8231-e33858f428d7",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b8ef980c-b82b-4aa7-b6d8-edd9cfebf694",
+                    "boundaryNum": 1,
+                    "name": "KRISHAN NAGAR3 - WARD_13",
+                    "localname": "KRISHAN NAGAR3 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a03b0373-406e-4949-850b-ffa3c2a33118",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "7e7053a9-fd28-47e0-be10-d1fcbdb4acdf",
+                    "boundaryNum": 1,
+                    "name": "DHARAMPURA3 - WARD_14",
+                    "localname": "DHARAMPURA3 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16d1d7af-046e-4864-89ff-ef3f70d39882",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "d99be34d-ec80-4105-8549-293517c0a5e7",
+                    "boundaryNum": 1,
+                    "name": "DHARAMPURA4 - WARD_15",
+                    "localname": "DHARAMPURA4 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "QLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
