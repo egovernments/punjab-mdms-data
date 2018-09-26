@@ -1,0 +1,917 @@
+{
+  "tenantId": "pb.abohar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "abohar",
+        "localname": "abohar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.abohar",
+        "children": [
+          {
+            "id": "b8ca0ef5-c352-46b4-84f9-ebfaf6510aa4",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ABH 1",
+            "children": [
+              {
+                "id": "97e4c19c-edb5-425c-b900-e6eeb1f35b0f",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "259a22d9-f7b5-4ba5-89d3-8e4f99009d90",
+                    "boundaryNum": 1,
+                    "name": "JAMMU BASTI AND ANAND NAGRI - Ward 1",
+                    "localname": "JAMMU BASTI AND ANAND NAGRI - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f2e54ea5-6a7b-45a5-ac67-21beedf716b4",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "27c873d3-ae5c-4251-834f-1c18336efbf6",
+                    "boundaryNum": 1,
+                    "name": "JAMMU BASTI AND ANAND NAGRI - Ward 2",
+                    "localname": "JAMMU BASTI AND ANAND NAGRI - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78926f1e-19e1-4c5c-9419-421f2afa0336",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "16e7fd7a-3590-4d93-b226-203c6372f955",
+                    "boundaryNum": 1,
+                    "name": "MALOUT AND DHARAM NAGRI - Ward 3",
+                    "localname": "MALOUT AND DHARAM NAGRI - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e35ce3e3-f318-44d7-8a9c-39c7748aaf7d",
+                    "boundaryNum": 1,
+                    "name": "PAJPEER TIBBA - Ward 3",
+                    "localname": "PAJPEER TIBBA - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b856c243-eae5-4d5b-97d7-c443f5b17114",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "1cf1caea-8ec2-4f1f-875e-fb2cf1d4196f",
+                    "boundaryNum": 1,
+                    "name": "BASANT NAGAR, EKTA COLONY AND GURDAYAL NAGAR - Ward 4",
+                    "localname": "BASANT NAGAR, EKTA COLONY AND GURDAYAL NAGAR - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cfa6afae-8678-4f38-9d77-f09b2e212815",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "5e875564-0a2d-44e2-995a-d0af7c2e3434",
+                    "boundaryNum": 1,
+                    "name": "SUNDER NAGRI ST NO.7-16 - Ward 5",
+                    "localname": "SUNDER NAGRI ST NO.7-16 - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "083d53bb-ad81-49db-bdbd-56c3ddb9042d",
+                    "boundaryNum": 1,
+                    "name": "MODEL TOWN, LAJPAT NAGAR,ANAND NAGRI - Ward 5",
+                    "localname": "MODEL TOWN, LAJPAT NAGAR,ANAND NAGRI - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43b92f14-d041-4a36-aa10-8bf5c71176e0",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "820d5c27-031a-46da-bcf2-4a7974afb875",
+                    "boundaryNum": 1,
+                    "name": "JAIN NAGRI  TO SUNDER NAGRI ST 6 - Ward 6",
+                    "localname": "JAIN NAGRI  TO SUNDER NAGRI ST 6 - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d611eac0-5311-4411-820b-8ef900999bb4",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "c23c5396-da5a-4dff-8016-d1b008562fac",
+                    "boundaryNum": 1,
+                    "name": "SAHITYA SADAN ROAD - Ward 7",
+                    "localname": "SAHITYA SADAN ROAD - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2bb36949-cf1f-4f95-b28c-e13f59c36cc3",
+                "boundaryNum": 1,
+                "name": "Ward 24",
+                "localname": "Ward 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward24",
+                "children": [
+                  {
+                    "id": "8df4c4a5-e0ff-430e-9ecf-8839636b4473",
+                    "boundaryNum": 1,
+                    "name": "INDERA NAGRI - Ward 24",
+                    "localname": "INDERA NAGRI - Ward 24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "be655ba2-f556-4dc7-b161-7d30fe562b91",
+                    "boundaryNum": 1,
+                    "name": "SHAM VIHAR - Ward 24",
+                    "localname": "SHAM VIHAR - Ward 24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c09c34c-e20b-4a50-8681-91aa57bbfe2a",
+                "boundaryNum": 1,
+                "name": "Ward 25",
+                "localname": "Ward 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward25",
+                "children": [
+                  {
+                    "id": "1cab24fc-4c86-4328-b608-550a171f8901",
+                    "boundaryNum": 1,
+                    "name": "CITY AREA 7 TO 13 - Ward 25",
+                    "localname": "CITY AREA 7 TO 13 - Ward 25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12aa0904-b2ef-4600-8982-22ef7e9c3c5d",
+                    "boundaryNum": 1,
+                    "name": "CITY ST NO. 13 TO 15 - Ward 25",
+                    "localname": "CITY ST NO. 13 TO 15 - Ward 25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f64fc30-298a-46c4-9a87-23a0d2ddb0d5",
+                "boundaryNum": 1,
+                "name": "Ward 26",
+                "localname": "Ward 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward26",
+                "children": [
+                  {
+                    "id": "6bcd33a5-3ca6-4b9d-b931-facd3c68d981",
+                    "boundaryNum": 1,
+                    "name": "KRISHNA NAGRI - Ward 26",
+                    "localname": "KRISHNA NAGRI - Ward 26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e46bb7e8-4faa-475b-874c-e19afbc7c1db",
+                    "boundaryNum": 1,
+                    "name": "MANDI ABOHAR - Ward 26",
+                    "localname": "MANDI ABOHAR - Ward 26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "051d62eb-5f38-4371-9140-f57d29266995",
+                "boundaryNum": 1,
+                "name": "Ward 27",
+                "localname": "Ward 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward27",
+                "children": [
+                  {
+                    "id": "396d0def-573a-4878-b137-26577f9eec81",
+                    "boundaryNum": 1,
+                    "name": "GOUSHALA ROAD - Ward 27",
+                    "localname": "GOUSHALA ROAD - Ward 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "37bd0571-63bb-4ad1-9ec2-d7e4ea1d3b33",
+                    "boundaryNum": 1,
+                    "name": "SUKHERA BASTI - Ward 27",
+                    "localname": "SUKHERA BASTI - Ward 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bf2f226-31d0-49fb-af51-106d6996268b",
+                "boundaryNum": 1,
+                "name": "Ward 28",
+                "localname": "Ward 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward28",
+                "children": [
+                  {
+                    "id": "ea739e33-2706-4134-9dd2-a4c0f2b91214",
+                    "boundaryNum": 1,
+                    "name": "CITY 2 AND PREM NAGAR - Ward 28",
+                    "localname": "CITY 2 AND PREM NAGAR - Ward 28",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e79df07c-3849-4600-a88e-d004f245591a",
+                "boundaryNum": 1,
+                "name": "Ward 29",
+                "localname": "Ward 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward29",
+                "children": [
+                  {
+                    "id": "e84ae722-a2be-44f7-b345-72b925a40571",
+                    "boundaryNum": 1,
+                    "name": "NANAK NAGRI AND GOBIND NAGRI - Ward 29",
+                    "localname": "NANAK NAGRI AND GOBIND NAGRI - Ward 29",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "873499e4-c7a7-486c-a2f2-7964c35ac522",
+                "boundaryNum": 1,
+                "name": "Ward 30",
+                "localname": "Ward 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward30",
+                "children": [
+                  {
+                    "id": "7dea7ece-a3e0-435d-8bbc-caaa0c8087c3",
+                    "boundaryNum": 1,
+                    "name": "SHIVRAM PURA AND CITY AREA - Ward 30",
+                    "localname": "SHIVRAM PURA AND CITY AREA - Ward 30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ab5430a7-8186-4f6e-a010-20c430d94d14",
+                    "boundaryNum": 1,
+                    "name": "GOBIND NAGRI - Ward 30",
+                    "localname": "GOBIND NAGRI - Ward 30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "28558124-9d44-47bc-ae0b-e75ad83f207a",
+                "boundaryNum": 1,
+                "name": "Ward 31",
+                "localname": "Ward 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward31",
+                "children": []
+              },
+              {
+                "id": "94956f6e-402a-4fe8-be70-61395ef7b8d3",
+                "boundaryNum": 1,
+                "name": "Ward 32",
+                "localname": "Ward 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward32",
+                "children": [
+                  {
+                    "id": "b6906643-6880-4ff5-9546-92d6521cc612",
+                    "boundaryNum": 1,
+                    "name": "OLD FAZILKA ROAD - Ward 32",
+                    "localname": "OLD FAZILKA ROAD - Ward 32",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c9710ee-d1cb-4f13-a093-1ddea88533aa",
+                "boundaryNum": 1,
+                "name": "Ward 33",
+                "localname": "Ward 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward33",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "61a62c78-af89-4a2d-a4f1-43ba5b8f0afa",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ABH 2",
+            "children": [
+              {
+                "id": "31a65f89-b3a9-4a72-8734-5297f2449064",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "b66bc392-1024-4495-a20f-677e93f0558d",
+                    "boundaryNum": 1,
+                    "name": "THAKKAR ABADI AND RAMDEV NAGRI - Ward 8",
+                    "localname": "THAKKAR ABADI AND RAMDEV NAGRI - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a21be374-995e-49ee-9cd7-eea9ab9f960d",
+                    "boundaryNum": 1,
+                    "name": "OLD SURAJ NAGRI - Ward 8",
+                    "localname": "OLD SURAJ NAGRI - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1f9544b-270e-4acf-9752-9a0f4c552f3e",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "f3358f78-441e-418c-9da4-111f394df1af",
+                    "boundaryNum": 1,
+                    "name": "SOUTH AVANUE AND GANGA VIHAR - Ward 9",
+                    "localname": "SOUTH AVANUE AND GANGA VIHAR - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "90be1b53-a7c5-48a4-85c5-e5bc46469cc2",
+                    "boundaryNum": 1,
+                    "name": "NEW SURAJ NAGRI - Ward 9",
+                    "localname": "NEW SURAJ NAGRI - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "efa28b2b-4fac-4613-8b6f-e748955b3c60",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "79be5f06-d4cb-44a1-920b-1af4fca461d8",
+                    "boundaryNum": 1,
+                    "name": "GREEN AVENUE,WARYAM NAGAR AND SUBHASH NAGAR - Ward 10",
+                    "localname": "GREEN AVENUE,WARYAM NAGAR AND SUBHASH NAGAR - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18f42011-6d95-42ba-970e-13ceb021b836",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "d3236c79-42e7-4fea-82ed-d0b7bb850635",
+                    "boundaryNum": 1,
+                    "name": "AZIMGARH - Ward 11",
+                    "localname": "AZIMGARH - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8e65bef4-bb7c-4b85-814d-52e065601496",
+                    "boundaryNum": 1,
+                    "name": "AZIMGARH NEAR GURUDWARA - Ward 11",
+                    "localname": "AZIMGARH NEAR GURUDWARA - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5741ba55-97d5-4098-9ea3-4976cd25d617",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": []
+              },
+              {
+                "id": "ce9a7bb4-7f4a-40e3-a33a-457688ccc632",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": []
+              },
+              {
+                "id": "44b980b1-8b55-4909-a005-0f78660609fe",
+                "boundaryNum": 1,
+                "name": "Ward 14",
+                "localname": "Ward 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward14",
+                "children": []
+              },
+              {
+                "id": "b34000d0-4524-44fd-850d-5e6614fe3eb7",
+                "boundaryNum": 1,
+                "name": "Ward 15",
+                "localname": "Ward 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward15",
+                "children": [
+                  {
+                    "id": "94fc74a9-a01f-4f23-8a2c-5d57814456dc",
+                    "boundaryNum": 1,
+                    "name": "BADI PODI ST NO.0-13 - Ward 15",
+                    "localname": "BADI PODI ST NO.0-13 - Ward 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00bef168-49c4-4bb4-93a9-6e6757d646a0",
+                "boundaryNum": 1,
+                "name": "Ward 16",
+                "localname": "Ward 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward16",
+                "children": []
+              },
+              {
+                "id": "74936f02-c394-4365-b555-cadd312b4558",
+                "boundaryNum": 1,
+                "name": "Ward 17",
+                "localname": "Ward 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward17",
+                "children": []
+              },
+              {
+                "id": "0c184787-fb79-48db-8035-ffd59581c3cf",
+                "boundaryNum": 1,
+                "name": "Ward 18",
+                "localname": "Ward 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward18",
+                "children": [
+                  {
+                    "id": "8a28e5e5-df20-4e04-ba72-662124f5882d",
+                    "boundaryNum": 1,
+                    "name": "JP PARK TO NEW ABADI ST NO.4 - Ward 18",
+                    "localname": "JP PARK TO NEW ABADI ST NO.4 - Ward 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5b5b92ce-0bd8-4ab0-8f93-67bc504b1579",
+                    "boundaryNum": 1,
+                    "name": "AHUJA COLONY,SIDHI NAGRI, ARYA NAGRI - Ward 18",
+                    "localname": "AHUJA COLONY,SIDHI NAGRI, ARYA NAGRI - Ward 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e1d37233-105d-4b5a-94ed-686127a629fc",
+                "boundaryNum": 1,
+                "name": "Ward 19",
+                "localname": "Ward 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward19",
+                "children": [
+                  {
+                    "id": "a11f0466-7295-4ca7-a5a8-419a2a889fbc",
+                    "boundaryNum": 1,
+                    "name": "CHOTI PODI ST NO.5-11 - Ward 19",
+                    "localname": "CHOTI PODI ST NO.5-11 - Ward 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a748117c-5b1b-4414-9dc1-7a5543270b60",
+                "boundaryNum": 1,
+                "name": "Ward 20",
+                "localname": "Ward 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward20",
+                "children": [
+                  {
+                    "id": "3d74e06f-01d1-407b-93d5-e8f4b2a3d429",
+                    "boundaryNum": 1,
+                    "name": "BADI PODI ST NO.14-24 - Ward 20",
+                    "localname": "BADI PODI ST NO.14-24 - Ward 20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2fd406f-f42f-452d-b502-59def8dd97c1",
+                "boundaryNum": 1,
+                "name": "Ward 21",
+                "localname": "Ward 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward21",
+                "children": [
+                  {
+                    "id": "7fc9a35e-4f18-4630-bf96-49cac30e229d",
+                    "boundaryNum": 1,
+                    "name": "CHOTI PODI ST NO.12-24 - Ward 21",
+                    "localname": "CHOTI PODI ST NO.12-24 - Ward 21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12e1a6be-6fa5-4d85-98fa-da24860de13d",
+                    "boundaryNum": 1,
+                    "name": "RAJIVE NAGAR, UTTAM VIHAR COLONY - Ward 21",
+                    "localname": "RAJIVE NAGAR, UTTAM VIHAR COLONY - Ward 21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "db86e880-e184-42e0-8d85-71a3547b8f33",
+                "boundaryNum": 1,
+                "name": "Ward 22",
+                "localname": "Ward 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward22",
+                "children": [
+                  {
+                    "id": "8e04e317-8f73-4e5d-9ebd-2f7394ad7002",
+                    "boundaryNum": 1,
+                    "name": "TARA ESTATE AND CHANDIGARH MOHALLA - Ward 22",
+                    "localname": "TARA ESTATE AND CHANDIGARH MOHALLA - Ward 22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "66de9039-80dc-4626-b933-10e000d12821",
+                    "boundaryNum": 1,
+                    "name": "DURGA NAGRI AND DASHMESH NAGAR - Ward 22",
+                    "localname": "DURGA NAGRI AND DASHMESH NAGAR - Ward 22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00299cbb-4d90-4d9e-844e-c5c365b02cee",
+                "boundaryNum": 1,
+                "name": "Ward 23",
+                "localname": "Ward 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward23",
+                "children": [
+                  {
+                    "id": "b27509c4-a191-4cab-90e7-c7f533b5e309",
+                    "boundaryNum": 1,
+                    "name": "TARA ESTATE AND CHANDIGARH MOHALLA - Ward 23",
+                    "localname": "TARA ESTATE AND CHANDIGARH MOHALLA - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "76d541d4-70df-4af7-8282-7e7ca009d8c8",
+                    "boundaryNum": 1,
+                    "name": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
+                    "localname": "DURGA NAGRI AND DASHMESH NAGAR - Ward 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
