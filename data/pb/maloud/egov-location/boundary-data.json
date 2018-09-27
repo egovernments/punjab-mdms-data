@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.maloud",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "maloud",
+        "localname": "maloud",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.maloud",
+        "children": [
+          {
+            "id": "2e7b9bbb-0c74-4ac5-85f6-a37c981a7cc8",
+            "boundaryNum": 1,
+            "name": "MALOUDH1",
+            "localname": "MALOUDH1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "MLD1",
+            "children": [
+              {
+                "id": "453c9cae-0552-4b3c-8243-ca895ff6fdc4",
+                "boundaryNum": 1,
+                "name": "WARD NO 1",
+                "localname": "WARD NO 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "f0e40070-cd90-440b-b6a5-3320706a20a0",
+                    "boundaryNum": 1,
+                    "name": "MTP School Mohalla - WARD NO 1",
+                    "localname": "MTP School Mohalla - WARD NO 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1910d98c-73e5-4319-9e46-0dce7fc80fe5",
+                    "boundaryNum": 1,
+                    "name": "Gossal Road Area - WARD NO 1",
+                    "localname": "Gossal Road Area - WARD NO 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8cc1e061-7afd-4f2e-b036-db20e1f292f2",
+                "boundaryNum": 1,
+                "name": "WARD NO 2",
+                "localname": "WARD NO 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "866c9888-53a4-4bfa-bcd2-17981c7160f9",
+                    "boundaryNum": 1,
+                    "name": "Dhanak Mohalla - WARD NO 2",
+                    "localname": "Dhanak Mohalla - WARD NO 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d6bf881-981a-4b41-b68a-49e1ec69187e",
+                "boundaryNum": 1,
+                "name": "WARD NO 3",
+                "localname": "WARD NO 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "91fb6e95-01eb-4481-97a3-09ce3add1977",
+                    "boundaryNum": 1,
+                    "name": "Daud Road Area - WARD NO 3",
+                    "localname": "Daud Road Area - WARD NO 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a91e7d1e-0f2c-41d7-9d0a-60cbb01e8572",
+                "boundaryNum": 1,
+                "name": "WARD NO 4",
+                "localname": "WARD NO 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "0db4f2ed-06b1-4844-be5f-d47c192b39da",
+                    "boundaryNum": 1,
+                    "name": "Bheni Mohalla - WARD NO 4",
+                    "localname": "Bheni Mohalla - WARD NO 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ee711f83-03f0-4fca-a58b-e3cba19a5b98",
+                    "boundaryNum": 1,
+                    "name": "Baniya Mohalla - WARD NO 4",
+                    "localname": "Baniya Mohalla - WARD NO 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a738654-7c9c-4fc4-a27e-58ec34d7f02b",
+                "boundaryNum": 1,
+                "name": "WARD NO 5",
+                "localname": "WARD NO 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "193f3db2-134c-4952-93f1-b4d6bfbe5f89",
+                    "boundaryNum": 1,
+                    "name": "Puri Mohalla - WARD NO 5",
+                    "localname": "Puri Mohalla - WARD NO 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cc5e0286-50ed-475c-9c62-129c62446794",
+                    "boundaryNum": 1,
+                    "name": "Khoo wala Mohalla - WARD NO 5",
+                    "localname": "Khoo wala Mohalla - WARD NO 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9102d8ba-d936-4322-87c5-a65007c3b10f",
+                    "boundaryNum": 1,
+                    "name": "Dhira Mohalla - WARD NO 5",
+                    "localname": "Dhira Mohalla - WARD NO 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af4f3a7a-2eda-4573-bd50-60b598ea4a33",
+                "boundaryNum": 1,
+                "name": "WARD NO 6",
+                "localname": "WARD NO 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "ae4a6fc5-84ec-4d65-a42d-629bfddd80de",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Gur Shahad Parkash Sahib Area Rorian - WARD NO 6",
+                    "localname": "Gurdwara Gur Shahad Parkash Sahib Area Rorian - WARD NO 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee9ad32c-87d6-4ca9-b475-a90e7a239eb5",
+                "boundaryNum": 1,
+                "name": "WARD NO 7",
+                "localname": "WARD NO 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "5576f077-14cb-4438-95a7-aa2600c87620",
+                    "boundaryNum": 1,
+                    "name": "Sekha Road Area Rorian - WARD NO 7",
+                    "localname": "Sekha Road Area Rorian - WARD NO 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ecbffe2c-be79-44ac-b78f-37b4452a0de7",
+                    "boundaryNum": 1,
+                    "name": "veterinary hospital Area Kheri - WARD NO 7",
+                    "localname": "veterinary hospital Area Kheri - WARD NO 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "381aa2bb-97db-4b19-9f66-4a8424dbefae",
+                "boundaryNum": 1,
+                "name": "WARD NO 8",
+                "localname": "WARD NO 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "fd11d1f2-bbc9-4145-9530-a022b18a2f71",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Dharamsar Sahib Area Rorian - WARD NO 8",
+                    "localname": "Gurdwara Dharamsar Sahib Area Rorian - WARD NO 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f8ea6ee-d095-4c71-a4ba-1fc5a8fc48cb",
+                "boundaryNum": 1,
+                "name": "WARD NO 9",
+                "localname": "WARD NO 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "d10be1f7-1b4e-4df9-a374-a1444c0f37d4",
+                    "boundaryNum": 1,
+                    "name": "Lahori Morh Road Somal kheri - WARD NO 9",
+                    "localname": "Lahori Morh Road Somal kheri - WARD NO 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b7c385c7-5b26-44bc-bab8-742a059474db",
+                    "boundaryNum": 1,
+                    "name": "SC Dharmsala Somal Kheri Area - WARD NO 9",
+                    "localname": "SC Dharmsala Somal Kheri Area - WARD NO 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e68eb93-24a9-4845-a92c-5746824087b7",
+                "boundaryNum": 1,
+                "name": "WARD NO 10",
+                "localname": "WARD NO 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "10ddb5ea-5f85-4ea9-984a-61693e4542e4",
+                    "boundaryNum": 1,
+                    "name": "SC Darwazza Mohalla Somal kheri - WARD NO 10",
+                    "localname": "SC Darwazza Mohalla Somal kheri - WARD NO 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4b402af5-b7b8-4c9e-ae75-341244abc6fc",
+                    "boundaryNum": 1,
+                    "name": "Rara Sahib Road Area - WARD NO 10",
+                    "localname": "Rara Sahib Road Area - WARD NO 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b489155e-0683-4fc8-a8a2-55aff407dd12",
+                "boundaryNum": 1,
+                "name": "WARD NO 11",
+                "localname": "WARD NO 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "282430d1-43d4-4e3b-884a-a914fd345c0b",
+                    "boundaryNum": 1,
+                    "name": "Sethi Chownk Area - WARD NO 11",
+                    "localname": "Sethi Chownk Area - WARD NO 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bab8ef18-b1c8-4a5f-8d48-c0eca4388e77",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Sahib Kheri Area - WARD NO 11",
+                    "localname": "Gurdwara Sahib Kheri Area - WARD NO 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MNO19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
