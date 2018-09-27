@@ -1242,6 +1242,972 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jalalabad",
+        "localname": "Jalalabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jalalabad",
+        "children": [
+          {
+            "id": "484f8647-31e5-4a78-8f33-22484e3dcdbe",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "57bfd77f-ed1c-4db0-af7e-9fdff4cea41d",
+                "boundaryNum": 1,
+                "name": "Ward No 1",
+                "localname": "Ward No 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-1",
+                "children": [
+                  {
+                    "id": "6784599e-3736-4fa3-a2c3-ca41dc6b6a31",
+                    "boundaryNum": 1,
+                    "name": "Kamra Wala Road - WD-1",
+                    "localname": "Kamra Wala Road - WD-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9d698e8-b0d2-486c-99bc-7580adcff26e",
+                "boundaryNum": 1,
+                "name": "Ward No 2",
+                "localname": "Ward No 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-2",
+                "children": [
+                  {
+                    "id": "9ea686cf-23a5-4dc7-8b56-6ea1e4fa40f9",
+                    "boundaryNum": 1,
+                    "name": "Aggerwal Colony St No 3,4 - WD-2",
+                    "localname": "Aggerwal Colony St No 3,4 - WD-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "736169b1-5008-4a43-9a96-af2152c8ed00",
+                "boundaryNum": 1,
+                "name": "Ward No 3",
+                "localname": "Ward No 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-3",
+                "children": [
+                  {
+                    "id": "4af667ba-0b6e-4d2e-8d95-96bbbbc09e1d",
+                    "boundaryNum": 1,
+                    "name": "Thana City Road - WD-3",
+                    "localname": "Thana City Road - WD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "effdf086-02ca-482e-9402-64a09d3b081d",
+                    "boundaryNum": 1,
+                    "name": "Lariaus Road - WD-3",
+                    "localname": "Lariaus Road - WD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7de537c1-1928-48fe-b287-b160c8041753",
+                    "boundaryNum": 1,
+                    "name": "Singh Sabha Gurudawara Road - WD-3",
+                    "localname": "Singh Sabha Gurudawara Road - WD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c3feafa1-cb12-46a6-9439-e9a7db0c4d41",
+                    "boundaryNum": 1,
+                    "name": "Thana Bazar - WD-3",
+                    "localname": "Thana Bazar - WD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c59a9bbc-2859-4d70-a792-f32a9186666b",
+                    "boundaryNum": 1,
+                    "name": "Juneja Street - WD-3",
+                    "localname": "Juneja Street - WD-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c56af890-7ba1-4052-a762-94f063fcb2cd",
+                "boundaryNum": 1,
+                "name": "Ward No 4",
+                "localname": "Ward No 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-4",
+                "children": [
+                  {
+                    "id": "bf2caf7d-45dd-4f6b-ba68-c3fc49cc59be",
+                    "boundaryNum": 1,
+                    "name": "Girl College Road - WD-4",
+                    "localname": "Girl College Road - WD-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9fa02e48-ff50-472a-a534-89cad996e802",
+                    "boundaryNum": 1,
+                    "name": "ST Sashtri Pandit Wali - WD-4",
+                    "localname": "ST Sashtri Pandit Wali - WD-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "191eaf44-8fbd-49fc-9fab-5ae89feeb9ea",
+                    "boundaryNum": 1,
+                    "name": "Aggerwal Colony St No 1,4 - WD-4",
+                    "localname": "Aggerwal Colony St No 1,4 - WD-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf5e2f8b-faed-4fe6-8eb9-ccd4ec8b220d",
+                "boundaryNum": 1,
+                "name": "Ward No 6",
+                "localname": "Ward No 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-6",
+                "children": [
+                  {
+                    "id": "58b230e8-a9ba-44ed-a826-26a18f851acc",
+                    "boundaryNum": 1,
+                    "name": "New Gandhi Nager - WD-6",
+                    "localname": "New Gandhi Nager - WD-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "88b412c9-1dd6-4f6a-b579-d123224bd06b",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Nager - WD-6",
+                    "localname": "Gandhi Nager - WD-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "42c9dfd8-2e83-46ad-970b-2767c08af7de",
+                    "boundaryNum": 1,
+                    "name": "Baba Sewa Singh Marg - WD-6",
+                    "localname": "Baba Sewa Singh Marg - WD-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bfd7643a-c47e-402b-936b-4823679e5a59",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - WD-6",
+                    "localname": "Railway Road - WD-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b262aa54-42d2-4fe6-a08d-206fec468555",
+                "boundaryNum": 1,
+                "name": "Ward No 7",
+                "localname": "Ward No 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-7",
+                "children": [
+                  {
+                    "id": "2ff0f402-ad92-4613-9aaa-58fe9fe8c0d5",
+                    "boundaryNum": 1,
+                    "name": "Karan Cinema Road - WD-7",
+                    "localname": "Karan Cinema Road - WD-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "300941a4-d5b9-4d51-912e-2a5c27100e83",
+                    "boundaryNum": 1,
+                    "name": "St Anand Jyoti School - WD-7",
+                    "localname": "St Anand Jyoti School - WD-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bcd5e6ba-af7b-40c4-b379-06a3b154f9d6",
+                    "boundaryNum": 1,
+                    "name": "St Jarnail Singh - WD-7",
+                    "localname": "St Jarnail Singh - WD-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9dae1833-53bb-40b2-97c8-f63b0a024f27",
+                    "boundaryNum": 1,
+                    "name": "New Bagh Colony - WD-7",
+                    "localname": "New Bagh Colony - WD-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b2d1b111-8936-4202-9c04-3282edc70e0d",
+                    "boundaryNum": 1,
+                    "name": "St Prabh Diyal Grover - WD-7",
+                    "localname": "St Prabh Diyal Grover - WD-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-24",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0ddd8aa6-61a9-4fb6-a2d9-5a5c46901881",
+                "boundaryNum": 1,
+                "name": "Ward No 9",
+                "localname": "Ward No 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-9",
+                "children": [
+                  {
+                    "id": "aaae2568-6e81-4138-ad08-b536aafb77fe",
+                    "boundaryNum": 1,
+                    "name": "Bahmani Bazar - WD-9",
+                    "localname": "Bahmani Bazar - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "22b24c30-16c3-41b3-811e-6b4049fea753",
+                    "boundaryNum": 1,
+                    "name": "Vatnery Hospital Road - WD-9",
+                    "localname": "Vatnery Hospital Road - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1de3656c-aaf2-47e4-8366-6121166d196e",
+                    "boundaryNum": 1,
+                    "name": "Old MC Street - WD-9",
+                    "localname": "Old MC Street - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "886449af-b615-403b-91e9-f04e3a2c0730",
+                    "boundaryNum": 1,
+                    "name": "Old Grain Market - WD-9",
+                    "localname": "Old Grain Market - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04b45268-f757-4bb9-8a4b-439175b4b192",
+                    "boundaryNum": 1,
+                    "name": "Old Civil Hospital Road - WD-9",
+                    "localname": "Old Civil Hospital Road - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fb6f98a3-b10c-478e-8311-e082d61a5821",
+                    "boundaryNum": 1,
+                    "name": "Krishna Mandir Street - WD-9",
+                    "localname": "Krishna Mandir Street - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2b31147f-0ec8-4222-a082-1b72a3bbaf8d",
+                    "boundaryNum": 1,
+                    "name": "Baba Bachitar Singh Gurudawara Street - WD-9",
+                    "localname": "Baba Bachitar Singh Gurudawara Street - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "59312acf-cf70-4275-9487-7b9088d057f1",
+                    "boundaryNum": 1,
+                    "name": "Bagha Bazar - WD-9",
+                    "localname": "Bagha Bazar - WD-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-44",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "754eb517-ce84-46a7-93a1-039e28cfc01f",
+                "boundaryNum": 1,
+                "name": "Ward No 12",
+                "localname": "Ward No 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-12",
+                "children": [
+                  {
+                    "id": "8f7d14ae-f374-4082-9e6e-5143b180700a",
+                    "boundaryNum": 1,
+                    "name": "Inder Nageri - WD-12",
+                    "localname": "Inder Nageri - WD-12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-41",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ed6524d-9c08-44af-9a85-c2878e30f8e9",
+                    "boundaryNum": 1,
+                    "name": "Ram Lilla Chowk - WD-12",
+                    "localname": "Ram Lilla Chowk - WD-12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-42",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aa442a02-ba76-489f-9a7f-cff7de4c13f9",
+                    "boundaryNum": 1,
+                    "name": "OBC Road - WD-12",
+                    "localname": "OBC Road - WD-12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-43",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bed32852-1c5d-4677-9b32-5e546727d6ee",
+                    "boundaryNum": 1,
+                    "name": "Gali Baba Bachan Das - WD-12",
+                    "localname": "Gali Baba Bachan Das - WD-12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-45",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "34d5a45c-86ff-4576-b90c-69597dc21946",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "7c7d6491-953f-443e-a066-55309824fdda",
+                "boundaryNum": 1,
+                "name": "Ward No 5",
+                "localname": "Ward No 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-5",
+                "children": [
+                  {
+                    "id": "2f4cc675-d7b6-4111-8c68-7d2e4b8453b6",
+                    "boundaryNum": 1,
+                    "name": "Jammu Basti - WD-5",
+                    "localname": "Jammu Basti - WD-5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cf6f532d-ac54-4965-8cd0-35f1c1e9b1ca",
+                    "boundaryNum": 1,
+                    "name": "High School Basti - WD-5",
+                    "localname": "High School Basti - WD-5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a75cd126-0074-4631-bf16-b0f155afe9ba",
+                    "boundaryNum": 1,
+                    "name": "Chandigarh Basti - WD-5",
+                    "localname": "Chandigarh Basti - WD-5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9d78607-2400-4ebb-82f6-d76c33b8524c",
+                "boundaryNum": 1,
+                "name": "Ward No 8",
+                "localname": "Ward No 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-8",
+                "children": [
+                  {
+                    "id": "af9c2488-2b94-4675-a179-657b2411df3a",
+                    "boundaryNum": 1,
+                    "name": "Mujral Colony - WD-8",
+                    "localname": "Mujral Colony - WD-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "883dcd46-4e1f-4f3a-bf85-4819f1290f48",
+                    "boundaryNum": 1,
+                    "name": "Gali Bhai Sant Singh Wali - WD-8",
+                    "localname": "Gali Bhai Sant Singh Wali - WD-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "daddb8ad-86ed-40c5-aad0-2be8cf199b66",
+                    "boundaryNum": 1,
+                    "name": "Baba Deep Singh Nager - WD-8",
+                    "localname": "Baba Deep Singh Nager - WD-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cb0de157-3bb0-481d-a08c-4e4cc17895cb",
+                    "boundaryNum": 1,
+                    "name": "Bahmani Road - WD-8",
+                    "localname": "Bahmani Road - WD-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-34",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b4fb18d2-3437-4cdd-9d4d-aca5a9f06d2a",
+                "boundaryNum": 1,
+                "name": "Ward No 10",
+                "localname": "Ward No 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-10",
+                "children": [
+                  {
+                    "id": "fb77c9c6-fcab-4b10-b49e-a2748bfc78c7",
+                    "boundaryNum": 1,
+                    "name": "Whear Housing Area - WD-10",
+                    "localname": "Whear Housing Area - WD-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-35",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e4db6241-cd6c-4892-b132-86bf1863a4e4",
+                    "boundaryNum": 1,
+                    "name": "Sheed Bhagat Singh Colony - WD-10",
+                    "localname": "Sheed Bhagat Singh Colony - WD-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-36",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d010c23d-1fba-4aba-97cf-76493f165c98",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nager - WD-10",
+                    "localname": "Adarsh Nager - WD-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8337950c-fc37-440e-beb7-b4fd2dc41d60",
+                    "boundaryNum": 1,
+                    "name": "Old Disposal Area - WD-10",
+                    "localname": "Old Disposal Area - WD-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-38",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a241f838-bfa1-47e5-927d-dacc9d0ad815",
+                "boundaryNum": 1,
+                "name": "Ward No 11",
+                "localname": "Ward No 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-11",
+                "children": [
+                  {
+                    "id": "9df9d8e8-bbe9-435e-be34-c66a205204ac",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Rathora Wala - WD-11",
+                    "localname": "Mohalla Rathora Wala - WD-11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-39",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fdf51a97-30d6-4fa0-90c9-7461230e522c",
+                    "boundaryNum": 1,
+                    "name": "Tiwana Road - WD-11",
+                    "localname": "Tiwana Road - WD-11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-40",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a46db145-157e-4dc5-b199-949df697e5e6",
+                "boundaryNum": 1,
+                "name": "Ward No 13",
+                "localname": "Ward No 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-13",
+                "children": [
+                  {
+                    "id": "12faa7d9-d63e-4171-b648-514c76fb4446",
+                    "boundaryNum": 1,
+                    "name": "Deshmesh Nagri - WD-13",
+                    "localname": "Deshmesh Nagri - WD-13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-46",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "81c028da-2d5a-4cfb-a107-5de2bebcaddc",
+                    "boundaryNum": 1,
+                    "name": "Deshmesh Nagri - WD-13",
+                    "localname": "Deshmesh Nagri - WD-13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-48",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c558ed96-efbf-4c61-9b81-cbc5f281c015",
+                    "boundaryNum": 1,
+                    "name": "Basti Ram Gariya Primery School - WD-13",
+                    "localname": "Basti Ram Gariya Primery School - WD-13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-50",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56131a60-7449-4053-9019-d137828a7f1b",
+                "boundaryNum": 1,
+                "name": "Ward No 14",
+                "localname": "Ward No 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-14",
+                "children": [
+                  {
+                    "id": "2ba8cbd8-67a7-441d-9768-87c864ea004c",
+                    "boundaryNum": 1,
+                    "name": "Gali Old Satsang Gher - WD-14",
+                    "localname": "Gali Old Satsang Gher - WD-14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-47",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a5d578f1-e78c-4d68-8175-855699590b8a",
+                    "boundaryNum": 1,
+                    "name": "Gali Tubwel No 4 - WD-14",
+                    "localname": "Gali Tubwel No 4 - WD-14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-49",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5174e5b6-bb2e-434c-89f5-219f15977bce",
+                "boundaryNum": 1,
+                "name": "Ward No 15",
+                "localname": "Ward No 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-15",
+                "children": [
+                  {
+                    "id": "25002bfb-b44d-4bc3-b642-eb0090c15edd",
+                    "boundaryNum": 1,
+                    "name": "Fazilka Road - WD-15",
+                    "localname": "Fazilka Road - WD-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-51",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "59f7b7fe-e2a7-4737-b626-fbfbb84534b9",
+                    "boundaryNum": 1,
+                    "name": "Gali Chinder Pal MC - WD-15",
+                    "localname": "Gali Chinder Pal MC - WD-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-52",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "11535e71-96bd-49b4-9f40-72acb744fc8d",
+                    "boundaryNum": 1,
+                    "name": "Gali OM Baba Wali - WD-15",
+                    "localname": "Gali OM Baba Wali - WD-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-53",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1383965a-3ce5-4fd9-be99-d1213e9f4463",
+                    "boundaryNum": 1,
+                    "name": "Gali Uttam Singh Wali - WD-15",
+                    "localname": "Gali Uttam Singh Wali - WD-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-54",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3628bc96-4bce-41c9-bbdb-bd8f6b50f54a",
+                "boundaryNum": 1,
+                "name": "Ward No 16",
+                "localname": "Ward No 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-16",
+                "children": [
+                  {
+                    "id": "a2b9cc28-caab-433f-abdd-bea4d15965b4",
+                    "boundaryNum": 1,
+                    "name": "Industrial Area - WD-16",
+                    "localname": "Industrial Area - WD-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "095a7240-7664-43f9-bd40-9707bfd30192",
+                    "boundaryNum": 1,
+                    "name": "Ariya Wali Road - WD-16",
+                    "localname": "Ariya Wali Road - WD-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-55",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4a6c64a7-3a3a-4fd8-95c9-722b1f42230b",
+                    "boundaryNum": 1,
+                    "name": "Gali Raj Kumar MC - WD-16",
+                    "localname": "Gali Raj Kumar MC - WD-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-56",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ee43ae75-1e6d-430d-a192-c925087cc47a",
+                    "boundaryNum": 1,
+                    "name": "Lalla Basti - WD-16",
+                    "localname": "Lalla Basti - WD-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-57",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d1fe73c-2285-4720-bd86-4fbea573f8ed",
+                "boundaryNum": 1,
+                "name": "Ward No 17",
+                "localname": "Ward No 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD-17",
+                "children": [
+                  {
+                    "id": "e7251c39-ed2c-4426-9138-73e8757d58e4",
+                    "boundaryNum": 1,
+                    "name": "New Power House Road - WD-17",
+                    "localname": "New Power House Road - WD-17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-58",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9882c46a-a2f1-49f4-baa1-6360dc0a168a",
+                    "boundaryNum": 1,
+                    "name": "Basti Baghwan Pura - WD-17",
+                    "localname": "Basti Baghwan Pura - WD-17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-59",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bea78190-11dc-4a15-a8ee-09405d17a55f",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagri - WD-17",
+                    "localname": "Gobind Nagri - WD-17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-60",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
