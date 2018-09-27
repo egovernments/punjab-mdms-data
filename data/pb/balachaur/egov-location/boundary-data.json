@@ -391,6 +391,264 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balachaur",
+        "localname": "Balachaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.balachaur",
+        "children": [
+          {
+            "id": "7baa822c-2d29-44d5-9f5b-0bc38b32edc8",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "17ad9cca-1ec0-4f2d-8f47-35d8c48f2500",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "ae2c3325-2893-4334-a33d-02fc18665bbe",
+                    "boundaryNum": 1,
+                    "name": "Old Civil Hospital & Durga Mandir - B1",
+                    "localname": "Old Civil Hospital & Durga Mandir - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eaa36bf6-e246-4ab3-877f-54a67019f667",
+                    "boundaryNum": 1,
+                    "name": "Raika Colony & Shiv Mandir - B1",
+                    "localname": "Raika Colony & Shiv Mandir - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "41c44afd-13a2-467c-aeca-021d627f8031",
+                    "boundaryNum": 1,
+                    "name": "Sita Ram Mandir - B1",
+                    "localname": "Sita Ram Mandir - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec9f6298-a336-49d4-a664-7dcae9fd1acb",
+                    "boundaryNum": 1,
+                    "name": "Nirmal Dera Gurudura Sahib - B1",
+                    "localname": "Nirmal Dera Gurudura Sahib - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cee54926-6d6a-450a-bafb-1edc19f96358",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Mandir - B1",
+                    "localname": "Ravidas Mandir - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab40351b-a965-4872-80e8-6f3d3c6ea85a",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "33bac798-0173-45b3-a274-1f09747c2a0f",
+                    "boundaryNum": 1,
+                    "name": "Mc Office & Bhatra Mohala - B2",
+                    "localname": "Mc Office & Bhatra Mohala - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "369517ea-99fa-4bfa-a610-8d306d76682e",
+                    "boundaryNum": 1,
+                    "name": "Singh sabha Gurudura & Ravidas Mandir - B2",
+                    "localname": "Singh sabha Gurudura & Ravidas Mandir - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c46f19ac-a4ef-42a9-9af9-d82012a55236",
+                    "boundaryNum": 1,
+                    "name": "Bajaj Milan Palace - B2",
+                    "localname": "Bajaj Milan Palace - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1b84d086-b4d1-4c39-9939-877f5c62ca25",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "7fa5e456-9985-4967-a8d3-3e45b791bb61",
+                    "boundaryNum": 1,
+                    "name": "Siana - B3",
+                    "localname": "Siana - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "06ebc469-ea78-4fad-8996-ae4a14d6ce5a",
+                    "boundaryNum": 1,
+                    "name": "Rolu colony - B3",
+                    "localname": "Rolu colony - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1a6ea5f8-ba7f-405a-8c2b-b0292f7b6fa2",
+                    "boundaryNum": 1,
+                    "name": "Sheller Colony - B3",
+                    "localname": "Sheller Colony - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4189e2be-81e4-42bb-aa68-9840623222fd",
+                    "boundaryNum": 1,
+                    "name": "Ram Mandir - B3",
+                    "localname": "Ram Mandir - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "576d8a3a-a99d-43a6-b2ef-f78a6b583210",
+                    "boundaryNum": 1,
+                    "name": "B.A.V. Sr. Sec. School &Teacher Colony - B3",
+                    "localname": "B.A.V. Sr. Sec. School &Teacher Colony - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "507e99f2-be3e-4413-900e-8d0b337d4a41",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "59f68dab-46d7-485a-942d-83c5b23686b0",
+                    "boundaryNum": 1,
+                    "name": "Baba Balraj College (back side) - B4",
+                    "localname": "Baba Balraj College (back side) - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a6c4ef14-5d14-4c07-9c90-043fe457060d",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi - B4",
+                    "localname": "Dana Mandi - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
