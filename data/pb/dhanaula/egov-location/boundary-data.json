@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.dhanaula",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "dhanaula",
+        "localname": "dhanaula",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dhanaula",
+        "children": [
+          {
+            "id": "e2e9a4ba-491b-4a9d-aa34-f1aee66a1b81",
+            "boundaryNum": 1,
+            "name": "DHANAULA",
+            "localname": "DHANAULA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN 1",
+            "children": [
+              {
+                "id": "57aa42ea-da61-4220-ac43-5279666b11ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "f167503a-8d21-4d33-9c1d-80768f0f2b07",
+                    "boundaryNum": 1,
+                    "name": "Maana Paati A - WARD_1",
+                    "localname": "Maana Paati A - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a058157f-27d5-4150-86f1-7a9ea99ca88f",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "3588e99f-01e9-4e70-8979-bc866e99bdc6",
+                    "boundaryNum": 1,
+                    "name": "Daana mandi to Dangarh road - WARD_2",
+                    "localname": "Daana mandi to Dangarh road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1665b92-1732-45ea-82ac-63c18b0ddd27",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "5940c869-9790-49e5-ab2c-3aa4ca200bf8",
+                    "boundaryNum": 1,
+                    "name": "Saharia Patti to Barnala road - WARD_3",
+                    "localname": "Saharia Patti to Barnala road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4a521cf-0201-4ee6-916a-9f74657639ae",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "c6ae96ca-8582-4c4c-a103-df43ec51be50",
+                    "boundaryNum": 1,
+                    "name": "Darngarh road to Bhathlan road - WARD_4",
+                    "localname": "Darngarh road to Bhathlan road - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "195cebab-baa5-4910-b8d4-b585690a1b48",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "e8eb99d8-7fe2-4097-b6a9-67cfaad094ce",
+                    "boundaryNum": 1,
+                    "name": "Bhaini sahib patti to Sangrur road dream city area - WARD_5",
+                    "localname": "Bhaini sahib patti to Sangrur road dream city area - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c39b112-e58c-43bd-a6fc-c73d9f29d1f9",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "05a21c48-41f5-4b9d-bf4e-3736bc804546",
+                    "boundaryNum": 1,
+                    "name": "Rawaria Mohalla, telia mohalla post office road - WARD_6",
+                    "localname": "Rawaria Mohalla, telia mohalla post office road - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8afcc08b-a8e4-4120-92d9-576e630d0d31",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6c2f8245-1faa-4130-ae83-e4bbcc465dd1",
+                    "boundaryNum": 1,
+                    "name": "Navi basti , attar singh wala road and long street - WARD_7",
+                    "localname": "Navi basti , attar singh wala road and long street - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7bb6c575-bbc8-4bf2-93a2-d5cade46dc28",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "572f82d1-8434-4bfb-9fc5-1757fe7fe536",
+                    "boundaryNum": 1,
+                    "name": "Navi Basti and nanakpura mohalla - WARD_8",
+                    "localname": "Navi Basti and nanakpura mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bea152ec-66af-4f84-8bff-467877996564",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "63cc84e1-c576-41c6-b46e-8988a95751fc",
+                    "boundaryNum": 1,
+                    "name": "Bangher Patti Jattan and Navi Basti - WARD_9",
+                    "localname": "Bangher Patti Jattan and Navi Basti - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9718817d-5f93-46a7-a974-e16aa5db0a6d",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f7131ac1-4a5c-4e45-83ea-1a66c3ad7925",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti and Bangher Patti - WARD_10",
+                    "localname": "Bazigar Basti and Bangher Patti - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "638dc1e9-3663-4b8f-a6e9-81308e1c9cff",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "a0fb0b32-0ef7-4600-a9ce-cd36e118607f",
+                    "boundaryNum": 1,
+                    "name": "Jawanda Patti, Paana Gali Chahr Patti - WARD_11",
+                    "localname": "Jawanda Patti, Paana Gali Chahr Patti - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8668d07-be38-4a57-ba33-a49c86f17415",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "f6f5f1db-ec85-4019-8aba-a1b766cf7a47",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti and Jhanjrian Patti A - WARD_12",
+                    "localname": "Dhillon Patti and Jhanjrian Patti A - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6ea7163-097f-4d98-bf08-6b6df75129a3",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "27fc9296-e511-47e8-b040-5420b6a54eb8",
+                    "boundaryNum": 1,
+                    "name": "Sangar Patti, Maana Patti B, Jhanjrian Patti B - WARD_13",
+                    "localname": "Sangar Patti, Maana Patti B, Jhanjrian Patti B - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "DNL_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
