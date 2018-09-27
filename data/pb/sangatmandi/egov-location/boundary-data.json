@@ -247,6 +247,264 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sangatmandi",
+        "localname": "Sangatmandi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sangatmandi",
+        "children": [
+          {
+            "id": "d5a2b356-892a-413c-a986-9e4ac0670415",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "048fcdc8-1b6d-4350-8701-a63ac227d1dc",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "90b3e520-fc3e-4034-b4d1-2d4db3e27087",
+                    "boundaryNum": 1,
+                    "name": "Post Office Road - W1",
+                    "localname": "Post Office Road - W1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3bb3186e-4c32-49a3-9d8b-186a20f44517",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "6d9827d4-42d0-4266-b16f-b027075e84e8",
+                    "boundaryNum": 1,
+                    "name": "Govt. School - W2",
+                    "localname": "Govt. School - W2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fcc259b3-0643-4acf-a4bc-c9066e85151e",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "3d68e430-578d-4099-b912-97630bf91b62",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Sahib - W3",
+                    "localname": "Gurudwara Sahib - W3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59ae40a5-86a8-41c1-a637-fbecb64834ef",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "076c5f7b-236c-4954-b9e1-628d103d14ac",
+                    "boundaryNum": 1,
+                    "name": "Durga Mander - W4",
+                    "localname": "Durga Mander - W4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e81a6cea-6476-4127-beb4-cc855207a5c4",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "1654ec99-9774-4e70-ac79-6e6bfec00ae6",
+                    "boundaryNum": 1,
+                    "name": "Water Works - W5",
+                    "localname": "Water Works - W5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb4e913b-4ffa-4240-b6bd-1faa5dcdb12a",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "23f53034-e046-436a-95d1-58ae91fae9d2",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand - W6",
+                    "localname": "Bus Stand - W6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "83e13f6d-d728-48f6-ba40-fe67b1b5866f",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "a26b291d-b5f7-48ca-be9e-76a7d4a7c7cf",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "15e733f6-f246-4190-b809-dca4c5458338",
+                    "boundaryNum": 1,
+                    "name": "Old Electric Office - W7",
+                    "localname": "Old Electric Office - W7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 7",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0f9819c8-eebf-40c8-afc5-ae0503b66033",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "104fa726-332e-4888-8e71-977052045dcf",
+                    "boundaryNum": 1,
+                    "name": "Pond - W8",
+                    "localname": "Pond - W8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 8",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d561f6b9-779d-4bc0-a1ef-fbaa7f07f080",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "ec7edb74-fa21-4286-91eb-fe6f1e76b8be",
+                    "boundaryNum": 1,
+                    "name": "Dharamshala - W9",
+                    "localname": "Dharamshala - W9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SM 9",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
