@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.longowal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Longowal",
+        "localname": "Longowal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.longowal",
+        "children": [
+          {
+            "id": "3ca6d743-2f5f-4d24-a36f-ec6cc92655a5",
+            "boundaryNum": 1,
+            "name": "LONGOWAL",
+            "localname": "LONGOWAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "LZN1",
+            "children": [
+              {
+                "id": "e20a7b45-1623-429c-87ca-244caa87d997",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "15f3baf9-36d9-4c38-9c93-0b45914e9fa3",
+                    "boundaryNum": 1,
+                    "name": "Near Jain Mandir - WARD_1",
+                    "localname": "Near Jain Mandir - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2edad191-f0d1-4295-9458-2111cd0ac0c2",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "c792eef9-9b61-4393-8f61-7b1e2dc4c6cb",
+                    "boundaryNum": 1,
+                    "name": "Near Drain Bridge - WARD_2",
+                    "localname": "Near Drain Bridge - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69f00084-e4f2-462c-bac2-6cb09c0048f0",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "c6d51a05-cef9-4213-b394-da6b2882d05e",
+                    "boundaryNum": 1,
+                    "name": "Near Bhattlan Wali Street and M.C. Office - WARD_3",
+                    "localname": "Near Bhattlan Wali Street and M.C. Office - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d2dec0b-8bc1-42dd-8f90-6120a9ac7bfb",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "4c5af785-7fcc-46f0-9ad4-16b170b176ae",
+                    "boundaryNum": 1,
+                    "name": "Near Gurdwara Dhaab Baba Aala Ji - WARD_4",
+                    "localname": "Near Gurdwara Dhaab Baba Aala Ji - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b076d4ac-3b8b-4397-a42f-7c8b24b2baca",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "5b1cff2d-0222-430e-92d4-8c4e85b5a610",
+                    "boundaryNum": 1,
+                    "name": "Near Vishawkarma Mandir - WARD_5",
+                    "localname": "Near Vishawkarma Mandir - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "251d93f9-5877-4613-ba65-b17c69205108",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "6ac97c3b-16a7-4cbf-806a-3d225c108325",
+                    "boundaryNum": 1,
+                    "name": "Near Vishawkarma Mandir - WARD_6",
+                    "localname": "Near Vishawkarma Mandir - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c064173d-ce36-4d51-8fc1-050b483be667",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5535840a-1b68-4ffe-831b-12a0331c97d9",
+                    "boundaryNum": 1,
+                    "name": "Near Gurdwara Chule Baba Aala Ji. - WARD_7",
+                    "localname": "Near Gurdwara Chule Baba Aala Ji. - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8002331b-a6c7-4111-b02d-ac306d0c265d",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "262320c0-d87c-45ab-9be1-9466bffa84ef",
+                    "boundaryNum": 1,
+                    "name": "Near Jain Mandir and Harbash Lal Marg - WARD_8",
+                    "localname": "Near Jain Mandir and Harbash Lal Marg - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f6328c2-32b9-4b5d-ae8b-8980ef538908",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "73420edc-c30e-4cbd-9736-c74e5fc7044e",
+                    "boundaryNum": 1,
+                    "name": "Near Andrla Khooh Chowk - WARD_9",
+                    "localname": "Near Andrla Khooh Chowk - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dec8676d-bd08-49af-ab79-4e3bc1ee2ba5",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "57b6aaa7-5c1b-4a30-922a-9aedef813310",
+                    "boundaryNum": 1,
+                    "name": "Near Gurdwara Shaheed Bhai Mani Singh Ji. - WARD_10",
+                    "localname": "Near Gurdwara Shaheed Bhai Mani Singh Ji. - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b04d7240-e8dd-4237-9645-68bac9adf099",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "d012ba51-0772-4b8b-8ffc-503ad61d3b00",
+                    "boundaryNum": 1,
+                    "name": "Near Peerkhana - WARD_11",
+                    "localname": "Near Peerkhana - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b272c4e0-0971-4a32-97e0-ca066cfd7c6f",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "ae1d7c86-da1a-42be-9a46-6bc3eb72ccb2",
+                    "boundaryNum": 1,
+                    "name": "Near Jhhiri Shaheedan Wali - WARD_12",
+                    "localname": "Near Jhhiri Shaheedan Wali - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc4b4501-cb90-408a-b1ee-f312a836e0fb",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b34a96a8-ba54-40ce-abe4-7c7f52acdcae",
+                    "boundaryNum": 1,
+                    "name": "Near Muleka Darwaja - WARD_13",
+                    "localname": "Near Muleka Darwaja - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "730ce98a-3de7-4a2a-9a2f-554595412a6b",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "39ea2108-5cf5-4cd5-b051-d37fd62701bb",
+                    "boundaryNum": 1,
+                    "name": "Near Patwarkhana - WARD_14",
+                    "localname": "Near Patwarkhana - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58dfae52-edb8-420f-a9f6-6ac1cfce54f1",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "b474fd88-a2f1-41f6-a907-2d0ed36648f9",
+                    "boundaryNum": 1,
+                    "name": "Near Kalai Mata Mandir - WARD_15",
+                    "localname": "Near Kalai Mata Mandir - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
