@@ -1,0 +1,1560 @@
+{
+  "tenantId": "pb.ghagga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ghagga",
+        "localname": "Ghagga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ghagga",
+        "children": [
+          {
+            "id": "6eeece22-e6ad-472a-abe6-be26acea3667",
+            "boundaryNum": 1,
+            "name": "GHAGGA",
+            "localname": "GHAGGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN 1",
+            "children": [
+              {
+                "id": "bdb365a9-9375-4aa1-93e7-397576c0f837",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3d869b90-04f5-4ae9-b114-8af3a14bbf38",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_1",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eceb1655-5577-4f73-84d3-6c2a63d3b9d8",
+                    "boundaryNum": 1,
+                    "name": "BRAHMAN MAJRA ROAD - WARD_1",
+                    "localname": "BRAHMAN MAJRA ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09dda99e-86c9-4a97-88bd-e20da0beabe9",
+                    "boundaryNum": 1,
+                    "name": "SAWAJKI PATI - WARD_1",
+                    "localname": "SAWAJKI PATI - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "27e35397-1ea4-44dc-99b0-c8f360d68b27",
+                    "boundaryNum": 1,
+                    "name": "PANNU GALLI - WARD_1",
+                    "localname": "PANNU GALLI - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe924264-7aa4-436e-8008-f7fd92cb898f",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "091c6f60-f5a6-4ff1-a40d-486cf68f93f9",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_2",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1f605e83-3986-48a5-83b6-2f635319cfac",
+                    "boundaryNum": 1,
+                    "name": "JODHA RAM GALLI - WARD_2",
+                    "localname": "JODHA RAM GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "01825908-002e-4cf1-9899-aba5289ed3fc",
+                    "boundaryNum": 1,
+                    "name": "Dr. ROHELA WALI GALLI - WARD_2",
+                    "localname": "Dr. ROHELA WALI GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33c9ecc5-416c-443c-970a-f7983ba3904e",
+                    "boundaryNum": 1,
+                    "name": "SH. GURCHARAN SINGH NIYALYA GALLI - WARD_2",
+                    "localname": "SH. GURCHARAN SINGH NIYALYA GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f348fd90-b46d-4de0-9b30-08d0c018b4e7",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "d20c0b4a-1b17-4fd9-a658-f6214d1867c6",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_3",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "855db145-e69a-4226-ac60-46645419522f",
+                    "boundaryNum": 1,
+                    "name": "KALWANU ROAD &  MASTER RAJ KUMAR GALLI - WARD_3",
+                    "localname": "KALWANU ROAD &  MASTER RAJ KUMAR GALLI - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "586f06cd-c707-4c3d-b14c-87d3f8157a64",
+                    "boundaryNum": 1,
+                    "name": "COLONY NEAR ANAJ MANDI KAUR SINGH DHILLON GALLI - WARD_3",
+                    "localname": "COLONY NEAR ANAJ MANDI KAUR SINGH DHILLON GALLI - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9cee5f4f-cadc-410e-999f-e09650f071d0",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "7f4a0946-13ec-45f4-bfbd-a36626e9d598",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_4",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5f93591b-f31b-4229-8ac9-2e8a79f0ac83",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO SH. SATISH KUMAR BATTRA GALLI - WARD_4",
+                    "localname": "MAIN ROAD TO SH. SATISH KUMAR BATTRA GALLI - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3a9f5d0c-f7c0-4a32-8330-1f7b12352a80",
+                    "boundaryNum": 1,
+                    "name": "KALWANU ROAD TO SH AMRIT LAL CONTRACT GALLI - WARD_4",
+                    "localname": "KALWANU ROAD TO SH AMRIT LAL CONTRACT GALLI - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a177903d-e81a-477c-a35e-5c0ece29417a",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "9a3be41c-2d80-4cba-9eac-71a63ae32e5a",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_5",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fd9720a9-5301-49ef-980b-fdcc25ef952b",
+                    "boundaryNum": 1,
+                    "name": "GUJJAR COLONY - WARD_5",
+                    "localname": "GUJJAR COLONY - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf9b2345-e9c4-4f9d-8d81-1660535d2201",
+                    "boundaryNum": 1,
+                    "name": "KAMBOJ COLONY - WARD_5",
+                    "localname": "KAMBOJ COLONY - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6998eeb1-b763-44bf-a24d-25fb77f99086",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO ATTALAN ROAD - WARD_5",
+                    "localname": "MAIN ROAD TO ATTALAN ROAD - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06961815-7586-4c78-9d63-737081c7ce2f",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "38888e69-614f-4007-9566-a0dd6bba453e",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_6",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ac109b7b-fa07-4f26-bf7c-9ede133a4763",
+                    "boundaryNum": 1,
+                    "name": "SH MANNA RAM WALI BAZIGAR BASTI - WARD_6",
+                    "localname": "SH MANNA RAM WALI BAZIGAR BASTI - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5e5020a9-53f6-4e06-8f83-5cb685a31825",
+                    "boundaryNum": 1,
+                    "name": "SH RAM SINGH KAMBOJ TO PATARAN, SAMANA MAIN ROAD - WARD_6",
+                    "localname": "SH RAM SINGH KAMBOJ TO PATARAN, SAMANA MAIN ROAD - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a04f718-6923-4e6c-b3b4-d878a955e30b",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "dccc2ad9-e7f3-4462-a9f3-38c6acaebc3f",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD NEAR SHIV MANDER - WARD_7",
+                    "localname": "SAMANA, PATRAN MAIN ROAD NEAR SHIV MANDER - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35a19bd4-957a-4665-97af-14962481d02d",
+                    "boundaryNum": 1,
+                    "name": "GOVT ALAIMENTRI SCHOOL WALI GALLI TO GAMI RAM - WARD_7",
+                    "localname": "GOVT ALAIMENTRI SCHOOL WALI GALLI TO GAMI RAM - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5f6e854d-11b7-49e1-94cd-0ab3c92a1e68",
+                    "boundaryNum": 1,
+                    "name": "GALLI MITHU RAM BAZIGAR BASTI - WARD_7",
+                    "localname": "GALLI MITHU RAM BAZIGAR BASTI - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f083807a-2c77-4597-93df-9167f09f57b7",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "475c3ad4-4f82-48bd-931a-9aac2f9fb25f",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_8",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6c472e02-9954-4a94-ad2d-8a92b794183d",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO BAZIGAR BASTI GALLI MALKEET SINGH - WARD_8",
+                    "localname": "MAIN ROAD TO BAZIGAR BASTI GALLI MALKEET SINGH - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7a52c253-486c-4bbb-8342-0fb612c7f7c6",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO SH  HARBANSH SINGH EX MC - WARD_8",
+                    "localname": "MAIN ROAD TO SH  HARBANSH SINGH EX MC - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d5eeec9-d9dc-4b83-9c57-b29ebde9c186",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI - WARD_8",
+                    "localname": "HARIJAN BASTI - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0749889c-8570-43f3-abb6-0b6f924ea913",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0801dd10-a237-4597-8042-488558dcd0a8",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_9",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "31941092-fab9-49d9-b38f-dd5f6a93f17f",
+                    "boundaryNum": 1,
+                    "name": "SHRI GURUDWARA GIAN SAGAR SHIAB WALI GALLI TO CHAND SINGH PARDHAN - WARD_9",
+                    "localname": "SHRI GURUDWARA GIAN SAGAR SHIAB WALI GALLI TO CHAND SINGH PARDHAN - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0a447feb-abae-4ca0-92d3-7819b57be4a0",
+                    "boundaryNum": 1,
+                    "name": "Dr. MALKEET SINGH WALI GALI and BRASS ROAD - WARD_9",
+                    "localname": "Dr. MALKEET SINGH WALI GALI and BRASS ROAD - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2f10b2e1-4052-40ef-8fb8-4f49db65b760",
+                    "boundaryNum": 1,
+                    "name": "SH LAL SINGH INDORIA TO KAMREDA WALI GALLI NEAR PATWARKHANA - WARD_9",
+                    "localname": "SH LAL SINGH INDORIA TO KAMREDA WALI GALLI NEAR PATWARKHANA - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72ee5eb9-bf90-464f-b1f5-0999e4f50101",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "871a69db-cb77-4a54-8de1-4ec3236fcffe",
+                    "boundaryNum": 1,
+                    "name": "SHRI GURUDWARA NANAKSAR SHIAB  ROAD - WARD_10",
+                    "localname": "SHRI GURUDWARA NANAKSAR SHIAB  ROAD - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9fe0593a-b2b5-4e5f-a331-75e003a4fbd3",
+                    "boundaryNum": 1,
+                    "name": "BRASS ROAD TO GUGGA MADHI - WARD_10",
+                    "localname": "BRASS ROAD TO GUGGA MADHI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "edf624c3-a303-4085-bdb9-e6dc1baec105",
+                    "boundaryNum": 1,
+                    "name": "SH CHAND SINGH MEMBAR WALLI GALLI - WARD_10",
+                    "localname": "SH CHAND SINGH MEMBAR WALLI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "20b0bb07-1e1e-4ec3-b910-b530c86665c0",
+                    "boundaryNum": 1,
+                    "name": "DESI BAZIGAR WALI GALLI & HARDEEP SINGH LIC WALI GALLI - WARD_10",
+                    "localname": "DESI BAZIGAR WALI GALLI & HARDEEP SINGH LIC WALI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "32cea42a-ff59-4a7e-be73-f69722bd9078",
+                    "boundaryNum": 1,
+                    "name": "SHAMSAN GHATT ROAD & NAMBERDAR JARNAIL SINGH  WALI GALLI - WARD_10",
+                    "localname": "SHAMSAN GHATT ROAD & NAMBERDAR JARNAIL SINGH  WALI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7f86d073-341f-4925-9b46-2e7b1f9c5fea",
+                    "boundaryNum": 1,
+                    "name": "KAMREDA WALI GALLI TO MATA RANIA - WARD_10",
+                    "localname": "KAMREDA WALI GALLI TO MATA RANIA - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "111a3f4d-5d22-4cbf-9d92-c9371e9dfeb9",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "8bc36998-4979-428e-97d1-8cfcc39d5783",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_11",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8e3bbb07-189a-41d9-a92e-4f3f1052235c",
+                    "boundaryNum": 1,
+                    "name": "PARJAPATTA WALI GALLI - WARD_11",
+                    "localname": "PARJAPATTA WALI GALLI - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de288661-ccd3-4eba-a7a5-964f00c83aad",
+                    "boundaryNum": 1,
+                    "name": "NAGAR PANCHAYAT OFFICE ROAD & BRASS ROAD - WARD_11",
+                    "localname": "NAGAR PANCHAYAT OFFICE ROAD & BRASS ROAD - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "939149cc-a0d4-41e6-9a30-16c695ac3509",
+                    "boundaryNum": 1,
+                    "name": "SHRI RAVIDAS MANDER WALI GALLI TO DURGA MANDER - WARD_11",
+                    "localname": "SHRI RAVIDAS MANDER WALI GALLI TO DURGA MANDER - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bc925ca-5b84-48c4-9660-4420eab200e2",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "e96d9e68-3a38-46ef-a3d2-981453e409aa",
+                    "boundaryNum": 1,
+                    "name": "SH FAQIR SINGH SANDHU WALLI GALLI - WARD_12",
+                    "localname": "SH FAQIR SINGH SANDHU WALLI GALLI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "acbca80a-0bb5-4d83-b8b1-17aa1180778a",
+                    "boundaryNum": 1,
+                    "name": "MASIT WALI GALLI - WARD_12",
+                    "localname": "MASIT WALI GALLI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b8878d6e-9b55-4cca-8993-96b4af1ba074",
+                    "boundaryNum": 1,
+                    "name": "DR HARPAL SINGH WALA MOHALLA - WARD_12",
+                    "localname": "DR HARPAL SINGH WALA MOHALLA - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9358b018-042b-43f1-817f-4de175761001",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "159ba515-2078-4217-a10d-23bf87351427",
+                    "boundaryNum": 1,
+                    "name": "DARVAJE WALI GALI - WARD_13",
+                    "localname": "DARVAJE WALI GALI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "49497c17-8352-47c2-90a9-8c9d35785f0a",
+                    "boundaryNum": 1,
+                    "name": "JANND MOHALLA & PANNUA WALI GALLI - WARD_13",
+                    "localname": "JANND MOHALLA & PANNUA WALI GALLI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ce81150-167b-435f-b6ec-511e827d050f",
+                    "boundaryNum": 1,
+                    "name": "FIRNI ROAD TO GUGGA MADHI - WARD_13",
+                    "localname": "FIRNI ROAD TO GUGGA MADHI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e9366f66-9431-4fb4-b636-82a9147afacf",
+                    "boundaryNum": 1,
+                    "name": "BRAHMAN MAJRA ROAD SHRI SHIV MANDER & SHRI GURUDWARA NANAKSAR SHIAB - WARD_13",
+                    "localname": "BRAHMAN MAJRA ROAD SHRI SHIV MANDER & SHRI GURUDWARA NANAKSAR SHIAB - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "280cd85e-359d-46bb-a878-cd4b3670f0f9",
+                    "boundaryNum": 1,
+                    "name": "SH HAKAM SINGH EX MC & SH HARCHARN SINGH SAHI GALLI - WARD_13",
+                    "localname": "SH HAKAM SINGH EX MC & SH HARCHARN SINGH SAHI GALLI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-50",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f8213a1d-f73b-4c24-9919-d59f2d26aa15",
+            "boundaryNum": 1,
+            "name": "GHAGGA",
+            "localname": "GHAGGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GZN 2",
+            "children": [
+              {
+                "id": "bdb365a9-9375-4aa1-93e7-397576c0f837",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3d869b90-04f5-4ae9-b114-8af3a14bbf38",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_1",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eceb1655-5577-4f73-84d3-6c2a63d3b9d8",
+                    "boundaryNum": 1,
+                    "name": "BRAHMAN MAJRA ROAD - WARD_1",
+                    "localname": "BRAHMAN MAJRA ROAD - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09dda99e-86c9-4a97-88bd-e20da0beabe9",
+                    "boundaryNum": 1,
+                    "name": "SAWAJKI PATI - WARD_1",
+                    "localname": "SAWAJKI PATI - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "27e35397-1ea4-44dc-99b0-c8f360d68b27",
+                    "boundaryNum": 1,
+                    "name": "PANNU GALLI - WARD_1",
+                    "localname": "PANNU GALLI - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe924264-7aa4-436e-8008-f7fd92cb898f",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "091c6f60-f5a6-4ff1-a40d-486cf68f93f9",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_2",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1f605e83-3986-48a5-83b6-2f635319cfac",
+                    "boundaryNum": 1,
+                    "name": "JODHA RAM GALLI - WARD_2",
+                    "localname": "JODHA RAM GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "01825908-002e-4cf1-9899-aba5289ed3fc",
+                    "boundaryNum": 1,
+                    "name": "Dr. ROHELA WALI GALLI - WARD_2",
+                    "localname": "Dr. ROHELA WALI GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "33c9ecc5-416c-443c-970a-f7983ba3904e",
+                    "boundaryNum": 1,
+                    "name": "SH. GURCHARAN SINGH NIYALYA GALLI - WARD_2",
+                    "localname": "SH. GURCHARAN SINGH NIYALYA GALLI - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHG_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f348fd90-b46d-4de0-9b30-08d0c018b4e7",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "d20c0b4a-1b17-4fd9-a658-f6214d1867c6",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_3",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "855db145-e69a-4226-ac60-46645419522f",
+                    "boundaryNum": 1,
+                    "name": "KALWANU ROAD &  MASTER RAJ KUMAR GALLI - WARD_3",
+                    "localname": "KALWANU ROAD &  MASTER RAJ KUMAR GALLI - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "586f06cd-c707-4c3d-b14c-87d3f8157a64",
+                    "boundaryNum": 1,
+                    "name": "COLONY NEAR ANAJ MANDI KAUR SINGH DHILLON GALLI - WARD_3",
+                    "localname": "COLONY NEAR ANAJ MANDI KAUR SINGH DHILLON GALLI - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9cee5f4f-cadc-410e-999f-e09650f071d0",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "7f4a0946-13ec-45f4-bfbd-a36626e9d598",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_4",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5f93591b-f31b-4229-8ac9-2e8a79f0ac83",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO SH. SATISH KUMAR BATTRA GALLI - WARD_4",
+                    "localname": "MAIN ROAD TO SH. SATISH KUMAR BATTRA GALLI - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3a9f5d0c-f7c0-4a32-8330-1f7b12352a80",
+                    "boundaryNum": 1,
+                    "name": "KALWANU ROAD TO SH AMRIT LAL CONTRACT GALLI - WARD_4",
+                    "localname": "KALWANU ROAD TO SH AMRIT LAL CONTRACT GALLI - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a177903d-e81a-477c-a35e-5c0ece29417a",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "9a3be41c-2d80-4cba-9eac-71a63ae32e5a",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_5",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fd9720a9-5301-49ef-980b-fdcc25ef952b",
+                    "boundaryNum": 1,
+                    "name": "GUJJAR COLONY - WARD_5",
+                    "localname": "GUJJAR COLONY - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bf9b2345-e9c4-4f9d-8d81-1660535d2201",
+                    "boundaryNum": 1,
+                    "name": "KAMBOJ COLONY - WARD_5",
+                    "localname": "KAMBOJ COLONY - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6998eeb1-b763-44bf-a24d-25fb77f99086",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO ATTALAN ROAD - WARD_5",
+                    "localname": "MAIN ROAD TO ATTALAN ROAD - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06961815-7586-4c78-9d63-737081c7ce2f",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "38888e69-614f-4007-9566-a0dd6bba453e",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD - WARD_6",
+                    "localname": "SAMANA, PATRAN MAIN ROAD - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ac109b7b-fa07-4f26-bf7c-9ede133a4763",
+                    "boundaryNum": 1,
+                    "name": "SH MANNA RAM WALI BAZIGAR BASTI - WARD_6",
+                    "localname": "SH MANNA RAM WALI BAZIGAR BASTI - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5e5020a9-53f6-4e06-8f83-5cb685a31825",
+                    "boundaryNum": 1,
+                    "name": "SH RAM SINGH KAMBOJ TO PATARAN, SAMANA MAIN ROAD - WARD_6",
+                    "localname": "SH RAM SINGH KAMBOJ TO PATARAN, SAMANA MAIN ROAD - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a04f718-6923-4e6c-b3b4-d878a955e30b",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "dccc2ad9-e7f3-4462-a9f3-38c6acaebc3f",
+                    "boundaryNum": 1,
+                    "name": "SAMANA, PATRAN MAIN ROAD NEAR SHIV MANDER - WARD_7",
+                    "localname": "SAMANA, PATRAN MAIN ROAD NEAR SHIV MANDER - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35a19bd4-957a-4665-97af-14962481d02d",
+                    "boundaryNum": 1,
+                    "name": "GOVT ALAIMENTRI SCHOOL WALI GALLI TO GAMI RAM - WARD_7",
+                    "localname": "GOVT ALAIMENTRI SCHOOL WALI GALLI TO GAMI RAM - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5f6e854d-11b7-49e1-94cd-0ab3c92a1e68",
+                    "boundaryNum": 1,
+                    "name": "GALLI MITHU RAM BAZIGAR BASTI - WARD_7",
+                    "localname": "GALLI MITHU RAM BAZIGAR BASTI - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f083807a-2c77-4597-93df-9167f09f57b7",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "475c3ad4-4f82-48bd-931a-9aac2f9fb25f",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_8",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6c472e02-9954-4a94-ad2d-8a92b794183d",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO BAZIGAR BASTI GALLI MALKEET SINGH - WARD_8",
+                    "localname": "MAIN ROAD TO BAZIGAR BASTI GALLI MALKEET SINGH - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7a52c253-486c-4bbb-8342-0fb612c7f7c6",
+                    "boundaryNum": 1,
+                    "name": "MAIN ROAD TO SH  HARBANSH SINGH EX MC - WARD_8",
+                    "localname": "MAIN ROAD TO SH  HARBANSH SINGH EX MC - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d5eeec9-d9dc-4b83-9c57-b29ebde9c186",
+                    "boundaryNum": 1,
+                    "name": "HARIJAN BASTI - WARD_8",
+                    "localname": "HARIJAN BASTI - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0749889c-8570-43f3-abb6-0b6f924ea913",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0801dd10-a237-4597-8042-488558dcd0a8",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_9",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "31941092-fab9-49d9-b38f-dd5f6a93f17f",
+                    "boundaryNum": 1,
+                    "name": "SHRI GURUDWARA GIAN SAGAR SHIAB WALI GALLI TO CHAND SINGH PARDHAN - WARD_9",
+                    "localname": "SHRI GURUDWARA GIAN SAGAR SHIAB WALI GALLI TO CHAND SINGH PARDHAN - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0a447feb-abae-4ca0-92d3-7819b57be4a0",
+                    "boundaryNum": 1,
+                    "name": "Dr. MALKEET SINGH WALI GALI and BRASS ROAD - WARD_9",
+                    "localname": "Dr. MALKEET SINGH WALI GALI and BRASS ROAD - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2f10b2e1-4052-40ef-8fb8-4f49db65b760",
+                    "boundaryNum": 1,
+                    "name": "SH LAL SINGH INDORIA TO KAMREDA WALI GALLI NEAR PATWARKHANA - WARD_9",
+                    "localname": "SH LAL SINGH INDORIA TO KAMREDA WALI GALLI NEAR PATWARKHANA - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72ee5eb9-bf90-464f-b1f5-0999e4f50101",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "871a69db-cb77-4a54-8de1-4ec3236fcffe",
+                    "boundaryNum": 1,
+                    "name": "SHRI GURUDWARA NANAKSAR SHIAB  ROAD - WARD_10",
+                    "localname": "SHRI GURUDWARA NANAKSAR SHIAB  ROAD - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9fe0593a-b2b5-4e5f-a331-75e003a4fbd3",
+                    "boundaryNum": 1,
+                    "name": "BRASS ROAD TO GUGGA MADHI - WARD_10",
+                    "localname": "BRASS ROAD TO GUGGA MADHI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "edf624c3-a303-4085-bdb9-e6dc1baec105",
+                    "boundaryNum": 1,
+                    "name": "SH CHAND SINGH MEMBAR WALLI GALLI - WARD_10",
+                    "localname": "SH CHAND SINGH MEMBAR WALLI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "20b0bb07-1e1e-4ec3-b910-b530c86665c0",
+                    "boundaryNum": 1,
+                    "name": "DESI BAZIGAR WALI GALLI & HARDEEP SINGH LIC WALI GALLI - WARD_10",
+                    "localname": "DESI BAZIGAR WALI GALLI & HARDEEP SINGH LIC WALI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "32cea42a-ff59-4a7e-be73-f69722bd9078",
+                    "boundaryNum": 1,
+                    "name": "SHAMSAN GHATT ROAD & NAMBERDAR JARNAIL SINGH  WALI GALLI - WARD_10",
+                    "localname": "SHAMSAN GHATT ROAD & NAMBERDAR JARNAIL SINGH  WALI GALLI - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7f86d073-341f-4925-9b46-2e7b1f9c5fea",
+                    "boundaryNum": 1,
+                    "name": "KAMREDA WALI GALLI TO MATA RANIA - WARD_10",
+                    "localname": "KAMREDA WALI GALLI TO MATA RANIA - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-38",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "111a3f4d-5d22-4cbf-9d92-c9371e9dfeb9",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "8bc36998-4979-428e-97d1-8cfcc39d5783",
+                    "boundaryNum": 1,
+                    "name": "PATARAN, SAMANA MAIN ROAD - WARD_11",
+                    "localname": "PATARAN, SAMANA MAIN ROAD - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8e3bbb07-189a-41d9-a92e-4f3f1052235c",
+                    "boundaryNum": 1,
+                    "name": "PARJAPATTA WALI GALLI - WARD_11",
+                    "localname": "PARJAPATTA WALI GALLI - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de288661-ccd3-4eba-a7a5-964f00c83aad",
+                    "boundaryNum": 1,
+                    "name": "NAGAR PANCHAYAT OFFICE ROAD & BRASS ROAD - WARD_11",
+                    "localname": "NAGAR PANCHAYAT OFFICE ROAD & BRASS ROAD - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "939149cc-a0d4-41e6-9a30-16c695ac3509",
+                    "boundaryNum": 1,
+                    "name": "SHRI RAVIDAS MANDER WALI GALLI TO DURGA MANDER - WARD_11",
+                    "localname": "SHRI RAVIDAS MANDER WALI GALLI TO DURGA MANDER - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bc925ca-5b84-48c4-9660-4420eab200e2",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "e96d9e68-3a38-46ef-a3d2-981453e409aa",
+                    "boundaryNum": 1,
+                    "name": "SH FAQIR SINGH SANDHU WALLI GALLI - WARD_12",
+                    "localname": "SH FAQIR SINGH SANDHU WALLI GALLI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "acbca80a-0bb5-4d83-b8b1-17aa1180778a",
+                    "boundaryNum": 1,
+                    "name": "MASIT WALI GALLI - WARD_12",
+                    "localname": "MASIT WALI GALLI - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b8878d6e-9b55-4cca-8993-96b4af1ba074",
+                    "boundaryNum": 1,
+                    "name": "DR HARPAL SINGH WALA MOHALLA - WARD_12",
+                    "localname": "DR HARPAL SINGH WALA MOHALLA - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9358b018-042b-43f1-817f-4de175761001",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "159ba515-2078-4217-a10d-23bf87351427",
+                    "boundaryNum": 1,
+                    "name": "DARVAJE WALI GALI - WARD_13",
+                    "localname": "DARVAJE WALI GALI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "49497c17-8352-47c2-90a9-8c9d35785f0a",
+                    "boundaryNum": 1,
+                    "name": "JANND MOHALLA & PANNUA WALI GALLI - WARD_13",
+                    "localname": "JANND MOHALLA & PANNUA WALI GALLI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ce81150-167b-435f-b6ec-511e827d050f",
+                    "boundaryNum": 1,
+                    "name": "FIRNI ROAD TO GUGGA MADHI - WARD_13",
+                    "localname": "FIRNI ROAD TO GUGGA MADHI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e9366f66-9431-4fb4-b636-82a9147afacf",
+                    "boundaryNum": 1,
+                    "name": "BRAHMAN MAJRA ROAD SHRI SHIV MANDER & SHRI GURUDWARA NANAKSAR SHIAB - WARD_13",
+                    "localname": "BRAHMAN MAJRA ROAD SHRI SHIV MANDER & SHRI GURUDWARA NANAKSAR SHIAB - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "280cd85e-359d-46bb-a878-cd4b3670f0f9",
+                    "boundaryNum": 1,
+                    "name": "SH HAKAM SINGH EX MC & SH HARCHARN SINGH SAHI GALLI - WARD_13",
+                    "localname": "SH HAKAM SINGH EX MC & SH HARCHARN SINGH SAHI GALLI - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHA-50",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
