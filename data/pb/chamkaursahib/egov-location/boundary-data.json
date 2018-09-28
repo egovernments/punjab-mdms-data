@@ -1,0 +1,744 @@
+{
+  "tenantId": "pb.chamkaursahib",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chamkaursahib",
+        "localname": "Chamkaursahib",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.chamkaursahib",
+        "children": [
+          {
+            "id": "32245022-8647-4ec9-8128-e72753fc990e",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "CHK",
+            "children": [
+              {
+                "id": "a9eb8828-dc1d-4d95-9f97-fd5196cdf6de",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "96e25eb8-93be-4810-80b2-24638284f7fb",
+                    "boundaryNum": 1,
+                    "name": "Raipur - Ward No. 1",
+                    "localname": "Raipur - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3eec9b74-0c47-441c-9299-49c5446b3c9b",
+                    "boundaryNum": 1,
+                    "name": "Raipur - Ward No. 1",
+                    "localname": "Raipur - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4246b079-32f1-456b-994b-68e597720646",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "252d0330-e662-4b2e-83a5-ad177d85ee79",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Colony - Ward No. 2",
+                    "localname": "Dashmesh Colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "343185a9-93bd-4967-b07d-a217550b2cf2",
+                    "boundaryNum": 1,
+                    "name": "Kalagarh Sahib Road - Ward No. 2",
+                    "localname": "Kalagarh Sahib Road - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ab281cc9-3db8-4b61-b9b7-5d2e2e91865d",
+                    "boundaryNum": 1,
+                    "name": "Khalasa Colony - Ward No. 2",
+                    "localname": "Khalasa Colony - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7d9f1652-543a-4958-a9e2-4a1147c6dca3",
+                    "boundaryNum": 1,
+                    "name": "Main Bazaar - Ward No. 2",
+                    "localname": "Main Bazaar - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e81855e0-86ed-49f7-8e69-bd7496d9ff4f",
+                    "boundaryNum": 1,
+                    "name": "Model Town - Ward No. 2",
+                    "localname": "Model Town - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "150165fa-0a9d-4b9a-bf4b-aeb2253a82e7",
+                    "boundaryNum": 1,
+                    "name": "Taari Sahib Mohalla - Ward No. 2",
+                    "localname": "Taari Sahib Mohalla - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7ad390b1-668a-4a1b-aeb1-8797ef3b1b21",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "e625aad1-cbda-4ba2-9e44-2a98c467db30",
+                    "boundaryNum": 1,
+                    "name": "Main Bazaar - Ward No. 3",
+                    "localname": "Main Bazaar - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "82cdf507-ec49-4506-9e5e-58fef891d363",
+                    "boundaryNum": 1,
+                    "name": "Raiwara - Ward No. 3",
+                    "localname": "Raiwara - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "322ab9ad-04fc-4a6b-bd58-bf053a3c0605",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "d9c6777f-3609-46d6-ae2a-832cdbe53abd",
+                    "boundaryNum": 1,
+                    "name": "Choudhary Mohala - Ward No. 4",
+                    "localname": "Choudhary Mohala - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "83a5a5a4-7fa0-43e4-af39-0f3f0443273c",
+                    "boundaryNum": 1,
+                    "name": "Garhi Sahib - Ward No. 4",
+                    "localname": "Garhi Sahib - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7b7dd592-00a3-4ac0-a84c-cc02a698f9d4",
+                    "boundaryNum": 1,
+                    "name": "Garhi Sahib Road - Ward No. 4",
+                    "localname": "Garhi Sahib Road - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "16c6e6c8-3563-4497-a6bf-db8c5a8f2bbb",
+                    "boundaryNum": 1,
+                    "name": "Puana Bazaar - Ward No. 4",
+                    "localname": "Puana Bazaar - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eb8e48ba-b3a5-4c59-b792-eb156e3a6455",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "7174880d-8cd9-4029-997e-0af8446baabc",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand - Ward No. 5",
+                    "localname": "Bus Stand - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1b30bd2e-6909-494f-aa63-fd1cd912eac1",
+                    "boundaryNum": 1,
+                    "name": "Girls School - Ward No. 5",
+                    "localname": "Girls School - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "303da1ff-db0b-4817-939f-3976b1cf5bd7",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "37b1c293-8e77-4b19-bb91-0ed9152e26b3",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohallla - Ward No. 6",
+                    "localname": "Balmik Mohallla - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9a1416aa-7d21-43cc-baa9-f39707ffd198",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Chowk - Ward No. 6",
+                    "localname": "Gandhi Chowk - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f56dd311-170a-483d-a72c-4e016a2f5f55",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Chowk - Ward No. 6",
+                    "localname": "Gandhi Chowk - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7c7cbf3a-0448-4261-8661-56240259758e",
+                    "boundaryNum": 1,
+                    "name": "Ghumaria Wala Mohalla - Ward No. 6",
+                    "localname": "Ghumaria Wala Mohalla - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5c8d5264-eabe-4dff-ad95-f44e626b15d1",
+                    "boundaryNum": 1,
+                    "name": "Pandita wala Mohalla - Ward No. 6",
+                    "localname": "Pandita wala Mohalla - Ward No. 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa184554-b020-4abc-b13e-d74a2d326ef2",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "2e9bc202-7982-4c70-a782-c35c64116b0c",
+                    "boundaryNum": 1,
+                    "name": "Ranjitgarh Colony - Ward No. 7",
+                    "localname": "Ranjitgarh Colony - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de1b2957-d6c5-4103-8fe2-a8c868c15aca",
+                    "boundaryNum": 1,
+                    "name": "Salho Majra - Ward No. 7",
+                    "localname": "Salho Majra - Ward No. 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60ea9e2f-3c05-489c-9a16-48edc3cc7f54",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "7863d0fd-799f-4e68-9aa2-69f8e8300e52",
+                    "boundaryNum": 1,
+                    "name": "Bank Road - Ward No. 8",
+                    "localname": "Bank Road - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4cece4ae-267c-426a-9056-0a73e1cefa83",
+                    "boundaryNum": 1,
+                    "name": "Marri Mohalla - Ward No. 8",
+                    "localname": "Marri Mohalla - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c70eee17-531a-48f6-a589-3397caa9fdb4",
+                    "boundaryNum": 1,
+                    "name": "Teacher Colony - Ward No. 8",
+                    "localname": "Teacher Colony - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a3069df-337a-4a34-bbd6-ea40506af676",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "0410bb5e-25dc-4f5d-a841-8faf8e19599b",
+                    "boundaryNum": 1,
+                    "name": "Anaj Mandi - Ward No. 9",
+                    "localname": "Anaj Mandi - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26d42456-0adb-489d-b23a-29409625dd80",
+                    "boundaryNum": 1,
+                    "name": "Bhurare Road - Ward No. 9",
+                    "localname": "Bhurare Road - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6841dd61-be23-4ff1-a14a-63555108177a",
+                    "boundaryNum": 1,
+                    "name": "Morinda Road - Ward No. 9",
+                    "localname": "Morinda Road - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ec4f9847-73ab-4800-893c-c7ba6fc7d399",
+                    "boundaryNum": 1,
+                    "name": "Morinda Road - Ward No. 9",
+                    "localname": "Morinda Road - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "552c1136-8554-4ed8-9416-f9f5fdc524cb",
+                    "boundaryNum": 1,
+                    "name": "Morinda Road - Ward No. 9",
+                    "localname": "Morinda Road - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4fb41148-f740-497c-a119-3bf1d4b7487e",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "a2a0fb5f-e582-43c0-856c-0bb2414f2d43",
+                    "boundaryNum": 1,
+                    "name": "Salho Majra - Ward No. 10",
+                    "localname": "Salho Majra - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cbd3bba2-c3be-4489-9fb6-844e4fe165d5",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - Ward No. 10",
+                    "localname": "Indra Colony - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "52ca75b7-64b6-4b1f-b927-5c22fd8d413d",
+                    "boundaryNum": 1,
+                    "name": "Sangat Singh Colony - Ward No. 10",
+                    "localname": "Sangat Singh Colony - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c527b5d6-65d0-4754-bb84-bfde6394b6cb",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "651156ff-72b7-4e80-9c33-d730596ddc85",
+                    "boundaryNum": 1,
+                    "name": "Bela Road - Ward No. 11",
+                    "localname": "Bela Road - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fd84daaa-301b-4bd2-a7ba-17ff29eb621e",
+                    "boundaryNum": 1,
+                    "name": "Manne Majra - Ward No. 11",
+                    "localname": "Manne Majra - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "23c4022a-61b9-484d-9ac9-338b3d25f67c",
+                    "boundaryNum": 1,
+                    "name": "Purani Mandi - Ward No. 11",
+                    "localname": "Purani Mandi - Ward No. 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f347faf0-22f8-4f0a-b28b-41187963a6c1",
+                "boundaryNum": 1,
+                "name": "Ward No. 12",
+                "localname": "Ward No. 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "5861c8f5-e1a6-4692-a2ed-a698bda16f71",
+                    "boundaryNum": 1,
+                    "name": "Ajit Nagar - Ward No. 12",
+                    "localname": "Ajit Nagar - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "54181865-c5b8-462f-9526-ba51d64f4ac2",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Colony - Ward No. 12",
+                    "localname": "Dashmesh Colony - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7ff3d899-e953-46f9-98b5-ed0887f1669f",
+                    "boundaryNum": 1,
+                    "name": "Sandhua Road - Ward No. 12",
+                    "localname": "Sandhua Road - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b95de0e8-0a2a-4b9a-a6ff-a56524240eb2",
+                    "boundaryNum": 1,
+                    "name": "Sandhua Road - Ward No. 12",
+                    "localname": "Sandhua Road - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e648d330-3e6c-4775-9e7f-03aa6739ff46",
+                    "boundaryNum": 1,
+                    "name": "Stadium Colony - Ward No. 12",
+                    "localname": "Stadium Colony - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4fea7e04-d2be-47df-bbf4-04f5107fb950",
+                    "boundaryNum": 1,
+                    "name": "Surjit Nagar - Ward No. 12",
+                    "localname": "Surjit Nagar - Ward No. 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_43",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76c560dd-66d9-43fc-8eda-33c1d5fafaac",
+                "boundaryNum": 1,
+                "name": "Ward No. 13",
+                "localname": "Ward No. 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "9898637d-07df-4a73-bfd0-13990b514e62",
+                    "boundaryNum": 1,
+                    "name": "Bela Road - Ward No. 13",
+                    "localname": "Bela Road - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "227986c8-fda6-419d-8b92-23e21db51f4e",
+                    "boundaryNum": 1,
+                    "name": "Manne Majra - Ward No. 13",
+                    "localname": "Manne Majra - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ab44f72-a9d1-41dc-8f58-91cfab8086fe",
+                    "boundaryNum": 1,
+                    "name": "Morinda Road - Ward No. 13",
+                    "localname": "Morinda Road - Ward No. 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
