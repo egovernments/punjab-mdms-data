@@ -1,0 +1,780 @@
+{
+  "tenantId": "pb.lohiankhas",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lohiankhas",
+        "localname": "Lohiankhas",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lohiankhas",
+        "children": [
+          {
+            "id": "43e4cec3-0e63-4d31-b0f1-736328711122",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "LZN1",
+            "children": [
+              {
+                "id": "598b99fb-ffec-4c39-822a-4cfd271df722",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "8bda9b91-640d-450b-82d6-edfb3c4eaada",
+                    "boundaryNum": 1,
+                    "name": "Makhu Raod-W 1 - WARD_1",
+                    "localname": "Makhu Raod-W 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6ebe2f45-7111-4348-aebd-0b0c6a5c9b8b",
+                    "boundaryNum": 1,
+                    "name": "Sultanpur Road-W 1 - WARD_1",
+                    "localname": "Sultanpur Road-W 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9d670afa-36e2-4dc2-8665-89a9181581e2",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Colony-W 1 - WARD_1",
+                    "localname": "Dashmesh Colony-W 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36bb65c4-1340-4480-8b6f-0ea04aaa1c24",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Colony-W 1 - WARD_1",
+                    "localname": "Guru Nanak Colony-W 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9d3a8dab-6f0d-4ad5-9747-3198371c4c5e",
+                    "boundaryNum": 1,
+                    "name": "Thirth Colony-W 1 - WARD_1",
+                    "localname": "Thirth Colony-W 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC45",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6d1df02d-5b66-44ea-87a6-e9f2969283b4",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "2c45eb9f-bbd8-46d4-885b-f774bd4cd756",
+                    "boundaryNum": 1,
+                    "name": "Basant Colony-W 2 - WARD_2",
+                    "localname": "Basant Colony-W 2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC46",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "149ee9f6-929b-4c6a-bd93-d79005174f09",
+                    "boundaryNum": 1,
+                    "name": "Indra Mandi-W 2 - WARD_2",
+                    "localname": "Indra Mandi-W 2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "024af059-de4b-445c-ab12-baf801d741ad",
+                    "boundaryNum": 1,
+                    "name": "Malian Road-W 2 - WARD_2",
+                    "localname": "Malian Road-W 2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC48",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "24398582-598f-46f4-b027-918511dd1380",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "ea27c8c5-901d-4ed2-b382-d8bbc265df77",
+                    "boundaryNum": 1,
+                    "name": "Main Road -W 3 - WARD_3",
+                    "localname": "Main Road -W 3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "47f54fd5-2592-4f8b-b4db-1e3cfe10ff94",
+                    "boundaryNum": 1,
+                    "name": "Muhala Mustabad-W 3 - WARD_3",
+                    "localname": "Muhala Mustabad-W 3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b53d85a3-06b0-4c86-b52d-9e534d7476e7",
+                    "boundaryNum": 1,
+                    "name": "Phukiwal Road-W 3 - WARD_3",
+                    "localname": "Phukiwal Road-W 3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc6a9785-8a8d-46ad-bbbb-54800dd7bd0b",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "08f8c7ed-1c4a-4364-9aea-882eadf1ca20",
+                    "boundaryNum": 1,
+                    "name": "Dumana Muhala-W 4 - WARD_4",
+                    "localname": "Dumana Muhala-W 4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "22180ccd-9fe4-457e-b35d-450c88d6233f",
+                    "boundaryNum": 1,
+                    "name": "Phukiwal Road-W 4 - WARD_4",
+                    "localname": "Phukiwal Road-W 4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "97925bf5-4f23-4f00-a46c-a6106f15b802",
+                    "boundaryNum": 1,
+                    "name": "Phull Road-W 4 - WARD_4",
+                    "localname": "Phull Road-W 4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6738908-fc5b-44e1-bcd3-dc88430010d7",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "cdff7a17-61d7-461f-96dc-089a4408f77d",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 5 - WARD_5",
+                    "localname": "Sarcular Road-W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ead22cd-2c80-40cf-a53a-bc690ba7923f",
+                    "boundaryNum": 1,
+                    "name": "Bhagat Namdev Bhawan Wali Gali-W 5 - WARD_5",
+                    "localname": "Bhagat Namdev Bhawan Wali Gali-W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "03d2cc8b-22d0-4374-a402-8fb734733d98",
+                    "boundaryNum": 1,
+                    "name": "Phull Road-W 5 - WARD_5",
+                    "localname": "Phull Road-W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2778fd93-f8c1-4ed8-bc3a-c5957ea3fce4",
+                    "boundaryNum": 1,
+                    "name": "Sidhupur Road-W 5 - WARD_5",
+                    "localname": "Sidhupur Road-W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "71143ffe-63c3-4091-aad6-04f8223cc75c",
+                    "boundaryNum": 1,
+                    "name": "Mangu Wal-W 5 - WARD_5",
+                    "localname": "Mangu Wal-W 5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC49",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "057afa5c-f058-412a-a12c-c9a793879bb0",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "884f189f-3db0-4cff-96e9-1943825fa260",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 6 - WARD_6",
+                    "localname": "Sarcular Road-W 6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "45904600-7eee-4b60-a14b-cbc0b808db19",
+                    "boundaryNum": 1,
+                    "name": "Sidhupur Road-W 6 - WARD_6",
+                    "localname": "Sidhupur Road-W 6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f5924466-cfd5-477b-acad-415b2be2d124",
+                    "boundaryNum": 1,
+                    "name": "Suhela Basti-W 6 - WARD_6",
+                    "localname": "Suhela Basti-W 6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3b6da47c-3a99-4fba-b892-99360f1c8a03",
+                    "boundaryNum": 1,
+                    "name": "Rinku wali Colony-W 6 - WARD_6",
+                    "localname": "Rinku wali Colony-W 6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "19316340-d420-49a3-afe0-5c2401ec30ce",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "9d93d1b7-b393-4889-a621-397791d1d0dc",
+                    "boundaryNum": 1,
+                    "name": "Sabuwal Raod-W 7 - WARD_7",
+                    "localname": "Sabuwal Raod-W 7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e31ca225-74d3-43a4-8451-505e2404b2b4",
+                    "boundaryNum": 1,
+                    "name": "Janta Mani-W 7 - WARD_7",
+                    "localname": "Janta Mani-W 7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a2aa77ce-6c51-4f59-84b2-546dda43808c",
+                    "boundaryNum": 1,
+                    "name": "Padda colony-W 7 - WARD_7",
+                    "localname": "Padda colony-W 7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "44d0440c-e085-4856-aa3c-c030bc8182ed",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "f5fbec19-dc8a-4d84-a817-2b12b2879bda",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar-W 8 - WARD_8",
+                    "localname": "Main Bazar-W 8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0b49f366-d45d-42cd-a5e1-5f52fe6dcecd",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 8 - WARD_8",
+                    "localname": "Sarcular Road-W 8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0640573f-958d-42d3-8a6a-2a6386db9f87",
+                    "boundaryNum": 1,
+                    "name": "Muhala Tarkhana Wala-W 8 - WARD_8",
+                    "localname": "Muhala Tarkhana Wala-W 8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32a7c6ff-166f-4a5a-805e-5d5f8b2257b5",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "73816676-dd87-45a0-aaf2-b12e987aa273",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar-W 9 - WARD_9",
+                    "localname": "Main Bazar-W 9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "63a5e4bd-5724-4765-aeb9-f30660699a0f",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 9 - WARD_9",
+                    "localname": "Sarcular Road-W 9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bdce0951-0eae-455a-9d1f-9c81bac5168a",
+                    "boundaryNum": 1,
+                    "name": "Muhala Tarkhana Wala-W 9 - WARD_9",
+                    "localname": "Muhala Tarkhana Wala-W 9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "347ceb0c-8a3d-4dba-9156-7a7b6dbccfcd",
+                    "boundaryNum": 1,
+                    "name": "Gita Bhawan wali gali-W 9 - WARD_9",
+                    "localname": "Gita Bhawan wali gali-W 9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab2551d8-155b-4f12-bef6-ff1e77af7afe",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "c2a61fe0-87f9-4403-a3b5-6931bcd90d43",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar-W 10 - WARD_10",
+                    "localname": "Main Bazar-W 10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6e507d1b-9372-4d48-8a6c-e0b4826f6f80",
+                    "boundaryNum": 1,
+                    "name": "Vetnery Hospital wali Gali-W 10 - WARD_10",
+                    "localname": "Vetnery Hospital wali Gali-W 10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c8b88c6b-999f-4fb1-afd8-428094093d5e",
+                    "boundaryNum": 1,
+                    "name": "Arora Muhala-W 10 - WARD_10",
+                    "localname": "Arora Muhala-W 10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8f441485-0c26-46d6-a9b2-1817d669be90",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "c912071d-f981-4865-b445-3bcd8319138f",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar-W 11 - WARD_11",
+                    "localname": "Main Bazar-W 11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d3bd4864-7da4-4f88-91c8-f536fe1a6bff",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 11 - WARD_11",
+                    "localname": "Sarcular Road-W 11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "888f8e9d-daab-43e2-ba6a-7ab86d4995bf",
+                    "boundaryNum": 1,
+                    "name": "Padda Market-W 11 - WARD_11",
+                    "localname": "Padda Market-W 11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c8d974c3-0124-4891-9b39-3114e0914d73",
+                    "boundaryNum": 1,
+                    "name": "Shaheed Udham singh-W 11 - WARD_11",
+                    "localname": "Shaheed Udham singh-W 11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77bf8998-f559-40a5-ab19-a4f676ee1f81",
+                    "boundaryNum": 1,
+                    "name": "Vetnery Hospital wali Gali-W 11 - WARD_11",
+                    "localname": "Vetnery Hospital wali Gali-W 11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b98c44f0-2ecb-48cd-8090-884c6dd67387",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "ec1e1af4-03b6-4b3e-b5ba-22d773194130",
+                    "boundaryNum": 1,
+                    "name": "Sarcular Road-W 12 - WARD_12",
+                    "localname": "Sarcular Road-W 12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ce64d1fc-4a61-4857-bba5-e8a7571fe796",
+                    "boundaryNum": 1,
+                    "name": "Shaheed Udham singh-W 12 - WARD_12",
+                    "localname": "Shaheed Udham singh-W 12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8fe60e27-b10d-4534-b307-e7cbf282db64",
+                    "boundaryNum": 1,
+                    "name": "Amru Basti-W  12 - WARD_12",
+                    "localname": "Amru Basti-W  12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "853d89b6-55c2-4426-bbf8-6843a33caf7d",
+                    "boundaryNum": 1,
+                    "name": "Chintpurni Colony-W 12 - WARD_12",
+                    "localname": "Chintpurni Colony-W 12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f0f49555-70ed-4a82-9f42-528e0b2e8671",
+                    "boundaryNum": 1,
+                    "name": "Manjit Nagar-W 12 - WARD_12",
+                    "localname": "Manjit Nagar-W 12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "144d232a-c390-44c9-9a82-9e826415032f",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "5d55be4d-eb06-424b-bde5-6911f00565f0",
+                    "boundaryNum": 1,
+                    "name": "Gurbachan Colony-W 13 - WARD_13",
+                    "localname": "Gurbachan Colony-W 13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "60df2596-19d2-4c57-b81c-892de8dda00c",
+                    "boundaryNum": 1,
+                    "name": "Butta Colony-W  13 - WARD_13",
+                    "localname": "Butta Colony-W  13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd625aea-89e5-47a6-828f-be3392335d7f",
+                    "boundaryNum": 1,
+                    "name": "Chacha Colony-W  13 - WARD_13",
+                    "localname": "Chacha Colony-W  13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LLC37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
