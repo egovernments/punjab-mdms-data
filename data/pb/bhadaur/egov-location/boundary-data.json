@@ -1,0 +1,576 @@
+{
+  "tenantId": "pb.bhadaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhadaur",
+        "localname": "Bhadaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhadaur",
+        "children": [
+          {
+            "id": "b7093f8a-9942-48e2-be7e-ddf351335a44",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a2e7c7bc-06a2-46d7-9a84-acf4d707ef59",
+                "boundaryNum": 1,
+                "name": "Ward_1",
+                "localname": "Ward_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "c7ffd0b9-a11d-47a5-ade4-49e4eb7711df",
+                    "boundaryNum": 1,
+                    "name": "talwand road - Ward_1",
+                    "localname": "talwand road - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_01",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a2d9107a-e2e3-407a-b07a-adfcb913d366",
+                    "boundaryNum": 1,
+                    "name": "mohalla ghaduya - Ward_1",
+                    "localname": "mohalla ghaduya - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_02",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a434eb2-c004-49da-aa30-d2e80c8be0a3",
+                "boundaryNum": 1,
+                "name": "Ward_2",
+                "localname": "Ward_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "6d0001e6-7e2a-47ef-856a-5ddac6d6a828",
+                    "boundaryNum": 1,
+                    "name": "mohala dibbipura - Ward_2",
+                    "localname": "mohala dibbipura - Ward_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_05",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d11de89-1808-4f45-be3c-171cad8068bf",
+                "boundaryNum": 1,
+                "name": "Ward_3",
+                "localname": "Ward_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "27e80a47-479c-44bb-8756-2d735b8a7495",
+                    "boundaryNum": 1,
+                    "name": "mohlla kasiya - Ward_3",
+                    "localname": "mohlla kasiya - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_07",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f78010a3-6bd7-4722-9a85-d3729f601041",
+                    "boundaryNum": 1,
+                    "name": "mohlla grewal - Ward_3",
+                    "localname": "mohlla grewal - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_09",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b83ffd9a-3d0f-48aa-978d-cf161acd665d",
+                    "boundaryNum": 1,
+                    "name": "main bazar - Ward_3",
+                    "localname": "main bazar - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bc08d583-db9b-4153-bdd7-edde0bc0d755",
+                    "boundaryNum": 1,
+                    "name": "bada chowk - Ward_3",
+                    "localname": "bada chowk - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d652899-2065-4970-a567-de0b6f450c14",
+                "boundaryNum": 1,
+                "name": "Ward_4",
+                "localname": "Ward_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "efca6161-391e-4b93-8e49-53b65e722aa6",
+                    "boundaryNum": 1,
+                    "name": "mohalla bhuleriya - Ward_4",
+                    "localname": "mohalla bhuleriya - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_08",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ffbe75e9-a537-42cc-8510-ee4df70fdf15",
+                    "boundaryNum": 1,
+                    "name": "mohalla bhaini - Ward_4",
+                    "localname": "mohalla bhaini - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38263e83-9278-4d41-9c7d-9b41f6f9f65f",
+                    "boundaryNum": 1,
+                    "name": "agarwal colony - Ward_4",
+                    "localname": "agarwal colony - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d79ab15-6a09-4812-bbda-c0ba5259a7d9",
+                "boundaryNum": 1,
+                "name": "Ward_5",
+                "localname": "Ward_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "799fecb3-5423-4c71-960e-fc070e9bdc45",
+                    "boundaryNum": 1,
+                    "name": "mohala suewala - Ward_5",
+                    "localname": "mohala suewala - Ward_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0cd13f45-95f8-49b2-b82f-0cb06bed07c5",
+                "boundaryNum": 1,
+                "name": "Ward_6",
+                "localname": "Ward_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "7a3f27dd-7f70-4ef8-847e-a2fad46d76c4",
+                    "boundaryNum": 1,
+                    "name": "majuke road - Ward_6",
+                    "localname": "majuke road - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_04",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d55d60f4-d647-4f11-a482-9f2344b89c9f",
+                    "boundaryNum": 1,
+                    "name": "pathran wali road - Ward_6",
+                    "localname": "pathran wali road - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9f8ddaee-b5db-45e0-bd29-9f7ab5d0ee80",
+                    "boundaryNum": 1,
+                    "name": "gobind basti - Ward_6",
+                    "localname": "gobind basti - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "091017b2-b0b4-472b-9e01-86df82cdf70e",
+                "boundaryNum": 1,
+                "name": "Ward_7",
+                "localname": "Ward_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6d2db4a1-f316-48a3-8f49-b96480ae6ec5",
+                    "boundaryNum": 1,
+                    "name": "mohalla jogiya - Ward_7",
+                    "localname": "mohalla jogiya - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0f9d5ed-5e29-407a-be4f-dadc80bc55d6",
+                    "boundaryNum": 1,
+                    "name": "mohalla ramdasiya - Ward_7",
+                    "localname": "mohalla ramdasiya - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "66e1ccfb-cb91-4c44-b7af-426136d4b3e3",
+                    "boundaryNum": 1,
+                    "name": "nanaksar road - Ward_7",
+                    "localname": "nanaksar road - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2cc7a83f-a2b6-42ec-b663-d9993bfe73a0",
+                    "boundaryNum": 1,
+                    "name": "khaira palace road - Ward_7",
+                    "localname": "khaira palace road - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a31b09ca-fb7e-4125-b4ed-356c58fa94ca",
+                "boundaryNum": 1,
+                "name": "Ward_8",
+                "localname": "Ward_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "0b6b14f5-dd7d-4b7f-9cc6-d558a6aac290",
+                    "boundaryNum": 1,
+                    "name": "mohalla kalalan - Ward_8",
+                    "localname": "mohalla kalalan - Ward_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8181a1b-55dd-4d46-8895-47e3b9d39ac3",
+                "boundaryNum": 1,
+                "name": "Ward_9",
+                "localname": "Ward_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2304bd06-5ed9-4778-bb83-243b0bbad645",
+                    "boundaryNum": 1,
+                    "name": "tanki basti - Ward_9",
+                    "localname": "tanki basti - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "187c55af-71ac-439d-bcb7-25e0b40a7faa",
+                    "boundaryNum": 1,
+                    "name": "nainewala road - Ward_9",
+                    "localname": "nainewala road - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "362f3ac4-5344-4536-9cdf-3540779d708e",
+                    "boundaryNum": 1,
+                    "name": "batha basti - Ward_9",
+                    "localname": "batha basti - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35801bbd-0e78-4271-a6ed-39c21242b54d",
+                    "boundaryNum": 1,
+                    "name": "channa road - Ward_9",
+                    "localname": "channa road - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b00fe9d3-d27d-4d1e-9a6f-c4937f9bb95c",
+                "boundaryNum": 1,
+                "name": "Ward_10",
+                "localname": "Ward_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "84bafde7-dafb-4d9c-aab2-a7552cb45777",
+                    "boundaryNum": 1,
+                    "name": "mohalla manna da - Ward_10",
+                    "localname": "mohalla manna da - Ward_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "961cfd1b-8940-4024-9079-bba0d5ef0afa",
+                "boundaryNum": 1,
+                "name": "Ward_11",
+                "localname": "Ward_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "9e58592a-6206-4db5-b9ed-11e90d4fc060",
+                    "boundaryNum": 1,
+                    "name": "mohalla dhindsa - Ward_11",
+                    "localname": "mohalla dhindsa - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c790eede-87ef-4ce1-835f-5b826dd616a9",
+                    "boundaryNum": 1,
+                    "name": "mohalla nainewala - Ward_11",
+                    "localname": "mohalla nainewala - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fa227b3f-3328-4725-9a75-411547394755",
+                    "boundaryNum": 1,
+                    "name": "mohalla sadha da - Ward_11",
+                    "localname": "mohalla sadha da - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7220a38-4b4e-4e57-afa0-1ece33480a38",
+                "boundaryNum": 1,
+                "name": "Ward_12",
+                "localname": "Ward_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "afa55c6d-078d-4f36-8ccc-84ff0070558d",
+                    "boundaryNum": 1,
+                    "name": "mohalla puriyan - Ward_12",
+                    "localname": "mohalla puriyan - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e0a4b97-a84f-47b6-a908-fa711f0d920d",
+                    "boundaryNum": 1,
+                    "name": "mohalla kaure - Ward_12",
+                    "localname": "mohalla kaure - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b283b9f4-a25c-46d6-8280-426463fdfceb",
+                "boundaryNum": 1,
+                "name": "Ward_13",
+                "localname": "Ward_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b4b3ac06-b2de-4e43-a814-57b7253dace3",
+                    "boundaryNum": 1,
+                    "name": "m jangika - Ward_13",
+                    "localname": "m jangika - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_06",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5a3e72f2-ca45-4894-8c0a-4d74bd896090",
+                    "boundaryNum": 1,
+                    "name": "mohalla gondare - Ward_13",
+                    "localname": "mohalla gondare - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e88cdad-7bd9-4b08-98c1-3328167f3a4a",
+                    "boundaryNum": 1,
+                    "name": "mohalla nimwala - Ward_13",
+                    "localname": "mohalla nimwala - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
