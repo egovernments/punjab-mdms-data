@@ -307,6 +307,300 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Maluka",
+        "localname": "Maluka",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.maluka",
+        "children": [
+          {
+            "id": "5403eef1-b5c3-45df-b913-2c764123e131",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bfba69c4-8560-4da2-931d-17e46cc1e77d",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW1",
+                "children": [
+                  {
+                    "id": "74d8b660-815e-489d-9e62-df76978e038f",
+                    "boundaryNum": 1,
+                    "name": "Dod Road - MW1",
+                    "localname": "Dod Road - MW1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "09b78ac9-35eb-47ad-8a19-d16f3f98476c",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW2",
+                "children": [
+                  {
+                    "id": "7d87504c-64b1-42ff-9a44-b01dce570e7c",
+                    "boundaryNum": 1,
+                    "name": "Near Balmik Mandir - MW2",
+                    "localname": "Near Balmik Mandir - MW2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e928c76-dc2b-4bd3-a835-06607f8a9b7a",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW3",
+                "children": [
+                  {
+                    "id": "d814bc09-29af-49a0-acbf-e097155f0c00",
+                    "boundaryNum": 1,
+                    "name": "Near Dera Baba Fateh Singh - MW3",
+                    "localname": "Near Dera Baba Fateh Singh - MW3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c122ae3-1d7b-4490-8fe2-bb1eac68274e",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW4",
+                "children": [
+                  {
+                    "id": "f63ee661-3b59-400f-8932-cc211b04ab71",
+                    "boundaryNum": 1,
+                    "name": "Near Govt. Girls School - MW4",
+                    "localname": "Near Govt. Girls School - MW4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92ef63c6-f900-4ed1-b0b9-c3b83baeb042",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW5",
+                "children": [
+                  {
+                    "id": "e9379174-6b32-4730-aceb-8ab5c6eab8cd",
+                    "boundaryNum": 1,
+                    "name": "Near Govt Boys School - MW5",
+                    "localname": "Near Govt Boys School - MW5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b00d2169-35fe-4ed1-aadb-56e8306f09ba",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW6",
+                "children": [
+                  {
+                    "id": "67cf12fa-db43-44db-9e2f-721f830c1fca",
+                    "boundaryNum": 1,
+                    "name": "MC ward 6  House - MW6",
+                    "localname": "MC ward 6  House - MW6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5307afd3-3d87-4a9b-853d-eebfb0ff67a8",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW7",
+                "children": [
+                  {
+                    "id": "261e97d9-49c2-4c94-a4c5-1e0077ed6d7e",
+                    "boundaryNum": 1,
+                    "name": "Dod Ghania Road - MW7",
+                    "localname": "Dod Ghania Road - MW7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "962b0151-8587-4410-b56b-add30bffabec",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW8",
+                "children": [
+                  {
+                    "id": "a4b665cf-a9b2-4144-bdb1-b8b3fe322c2a",
+                    "boundaryNum": 1,
+                    "name": "Near Ghania  Road - MW8",
+                    "localname": "Near Ghania  Road - MW8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45dd6813-0d6e-4399-a6d6-699589b3de6a",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW9",
+                "children": [
+                  {
+                    "id": "28b3803d-a6fb-49c5-9931-d0adcfd8850e",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti - MW9",
+                    "localname": "Dhillon Patti - MW9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce367e78-c8c5-4bed-95f3-029975fd775b",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW10",
+                "children": [
+                  {
+                    "id": "5d9a169c-b3f2-4ffb-a0f5-0d2a935d3fbb",
+                    "boundaryNum": 1,
+                    "name": "Near NP Office Maluka - MW10",
+                    "localname": "Near NP Office Maluka - MW10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd86d716-4596-43d1-bdb7-9d8d092ea25b",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "MW11",
+                "children": [
+                  {
+                    "id": "f1b0cc3c-4319-41a9-9359-88def7d562d3",
+                    "boundaryNum": 1,
+                    "name": "Purana Bhagte wala Rah - MW11",
+                    "localname": "Purana Bhagte wala Rah - MW11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLK11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
