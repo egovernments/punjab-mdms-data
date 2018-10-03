@@ -1,0 +1,624 @@
+{
+  "tenantId": "pb.rayya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rayya",
+        "localname": "Rayya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.rayya",
+        "children": [
+          {
+            "id": "a2418656-5785-48a6-8b9f-622d442c56bd",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc089737-c8ba-4603-ba6b-0db1f8c3ba8d",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "ead8b224-815a-4c3e-a9c4-a2725349c9a9",
+                    "boundaryNum": 1,
+                    "name": "Gagira colony,Rager Colony,Dubgrah Colony - B1",
+                    "localname": "Gagira colony,Rager Colony,Dubgrah Colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0f344c4b-133c-43ef-9ff4-7268741d1a1f",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "cb29e995-1cdc-4060-b1c4-afba21a1abfb",
+                    "boundaryNum": 1,
+                    "name": "Gali Lakha Singh,Gali Tarsem Singh wali - B2",
+                    "localname": "Gali Lakha Singh,Gali Tarsem Singh wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01329e66-aae9-45f2-abe6-51436757be0f",
+                    "boundaryNum": 1,
+                    "name": "Rayya Khurd Baba bakala road - B2",
+                    "localname": "Rayya Khurd Baba bakala road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3abb77a0-5bdf-423a-8cfe-f322282e820d",
+                    "boundaryNum": 1,
+                    "name": "Railway road - B2",
+                    "localname": "Railway road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8891cfc6-ca94-4197-a4ca-ca8ea4e28985",
+                    "boundaryNum": 1,
+                    "name": "Gali lovely sweet wali - B2",
+                    "localname": "Gali lovely sweet wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e0013510-6def-4d21-bb46-b160dd6db436",
+                    "boundaryNum": 1,
+                    "name": "Gali dargi wali - B2",
+                    "localname": "Gali dargi wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3af45079-c37a-4ff5-b5c1-11911dde2477",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "3a91010f-f1dd-413f-822e-b0565b87b72b",
+                    "boundaryNum": 1,
+                    "name": "Gali Majitha wali - B3",
+                    "localname": "Gali Majitha wali - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ca8e074b-edf7-4757-b3a8-b0bb01619c04",
+                    "boundaryNum": 1,
+                    "name": "Gali gajan wali - B3",
+                    "localname": "Gali gajan wali - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9c584f11-1968-4fbd-a228-355e5c5fc7bc",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "74d989c8-2605-4553-8b62-4f7bd0a77831",
+                    "boundaryNum": 1,
+                    "name": "Railway road - B4",
+                    "localname": "Railway road - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a5ec9eb8-fa1c-4599-9be7-3c07d0c0d0b8",
+                    "boundaryNum": 1,
+                    "name": "Gali dargi wali - B4",
+                    "localname": "Gali dargi wali - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8fb0ad81-465b-4e9c-9f59-ccb10f97a7d6",
+                    "boundaryNum": 1,
+                    "name": "Baba Bakal Morh - B4",
+                    "localname": "Baba Bakal Morh - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "904d7f92-4d07-4885-bac6-d9f32f8d7fb5",
+                    "boundaryNum": 1,
+                    "name": "Baba Bakal Morh to Pheruman road to Montenessri school - B4",
+                    "localname": "Baba Bakal Morh to Pheruman road to Montenessri school - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1f8fe91-909e-4775-9810-471968b473de",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "ec033a7f-4905-4345-954c-374781ce80cb",
+                    "boundaryNum": 1,
+                    "name": "Baba Bakal Morh to Pheruman road to Montenessri school - B5",
+                    "localname": "Baba Bakal Morh to Pheruman road to Montenessri school - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "439ab70c-d56b-470a-9922-5746fed9fe7b",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "e52eabda-88e4-46c6-811c-b002c0c1f778",
+                    "boundaryNum": 1,
+                    "name": "gali MC Rajwinder wali - B6",
+                    "localname": "gali MC Rajwinder wali - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_29",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3d9ed75e-85af-4c4c-94f5-c4110cce8626",
+                    "boundaryNum": 1,
+                    "name": "Mann Petrol Pump to Guru nanak School to Sircolar Road - B6",
+                    "localname": "Mann Petrol Pump to Guru nanak School to Sircolar Road - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_36",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc463740-84ab-4af5-ab35-b5f11b30d98b",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "3b3373f4-7322-44a0-9f6b-389b14ae7ad9",
+                    "boundaryNum": 1,
+                    "name": "Gali gard baljit singh wali - B7",
+                    "localname": "Gali gard baljit singh wali - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2629e10e-7aef-4628-9b3a-9dc32a72a338",
+                    "boundaryNum": 1,
+                    "name": "Gali sutaner wali, Madel town - B7",
+                    "localname": "Gali sutaner wali, Madel town - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_31",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "991fa781-8be5-4030-ac6f-c5a55bd1da08",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "cd18b4e3-f10d-488b-8665-41ca31291a8b",
+                    "boundaryNum": 1,
+                    "name": "Gali Babe Balaknath wali - B8",
+                    "localname": "Gali Babe Balaknath wali - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_30",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6868610e-4981-401d-9b48-fb09125dfaba",
+                    "boundaryNum": 1,
+                    "name": "Gali dispensory wali - B8",
+                    "localname": "Gali dispensory wali - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_32",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85c8fa98-c83a-472b-a738-c9edefe70ebe",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "bfb9d578-b3f0-431a-af0a-c9288899395d",
+                    "boundaryNum": 1,
+                    "name": "Gali maninder di hatti wali - B9",
+                    "localname": "Gali maninder di hatti wali - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "882286fd-ff51-4670-85ab-abd321dd5e89",
+                    "boundaryNum": 1,
+                    "name": "Gali boy school wali - B9",
+                    "localname": "Gali boy school wali - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_24",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "13e7f527-083f-4133-bc16-acc28bfdcdd5",
+                    "boundaryNum": 1,
+                    "name": "Gali dispensory wali - B9",
+                    "localname": "Gali dispensory wali - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_33",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce439dcb-3709-46de-bf0a-a55ed21d0cd7",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "e76888e7-e905-4b26-9596-7db9e7adf3be",
+                    "boundaryNum": 1,
+                    "name": "Gali new bank wali - B10",
+                    "localname": "Gali new bank wali - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f391b3a8-23a3-461f-9899-b4d93532314e",
+                    "boundaryNum": 1,
+                    "name": "Gali old office wali - B10",
+                    "localname": "Gali old office wali - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "90c23ccc-0585-47d8-9947-0c45d2b36d13",
+                    "boundaryNum": 1,
+                    "name": "Shant Nagar - B10",
+                    "localname": "Shant Nagar - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c7c0f579-bdeb-4332-a8af-2f5121a95882",
+                    "boundaryNum": 1,
+                    "name": "Gali Ex-MLA Jasbir singh Dimpa wali - B10",
+                    "localname": "Gali Ex-MLA Jasbir singh Dimpa wali - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_35",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f40686b6-f238-4e0e-a9d6-b42042a66929",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "4b51208d-826c-4089-b158-0387fefbb2b1",
+                    "boundaryNum": 1,
+                    "name": "Gali lovely sweet wali - B11",
+                    "localname": "Gali lovely sweet wali - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "03973701-a718-4459-ac1a-a9244883bb8c",
+                    "boundaryNum": 1,
+                    "name": "Dr. Shrama wali gali - B11",
+                    "localname": "Dr. Shrama wali gali - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9bcbe683-b1a6-45d9-a568-a50521ef4596",
+                    "boundaryNum": 1,
+                    "name": "Gali charan type wali - B11",
+                    "localname": "Gali charan type wali - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a3cf6102-709d-45f0-982d-4780982603b9",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "95d056d8-1f02-42c7-a934-67ade29151e5",
+                    "boundaryNum": 1,
+                    "name": "Gali lali busa wali - B12",
+                    "localname": "Gali lali busa wali - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "187ae3ae-e439-41c8-acd4-a214d2f0b7b5",
+                    "boundaryNum": 1,
+                    "name": "Gali Bharat gas wali - B12",
+                    "localname": "Gali Bharat gas wali - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5e5ee005-2ad1-4397-9ebe-f821267e60de",
+                    "boundaryNum": 1,
+                    "name": "Gali lalpuri wali - B12",
+                    "localname": "Gali lalpuri wali - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b6df38ae-d633-4b31-a450-0f9c0dd7c083",
+                    "boundaryNum": 1,
+                    "name": "Dr. Shrama wali gali - B12",
+                    "localname": "Dr. Shrama wali gali - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26a67faa-2259-4529-bccd-ae31f3d8de06",
+                    "boundaryNum": 1,
+                    "name": "Gali mochi bazar wali - B12",
+                    "localname": "Gali mochi bazar wali - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b485e3ee-6e2b-4ead-872b-ece554825a09",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "2a19f697-1fb9-4b08-b709-7af8bb3a2db1",
+                    "boundaryNum": 1,
+                    "name": "Canal avenue - B13",
+                    "localname": "Canal avenue - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_26",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "830b6af1-98b2-4f32-8d4a-6ab91d43416f",
+                    "boundaryNum": 1,
+                    "name": "Gali gurnam singh wali - B13",
+                    "localname": "Gali gurnam singh wali - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "R_27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
