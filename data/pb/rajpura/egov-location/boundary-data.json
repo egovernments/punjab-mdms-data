@@ -1,0 +1,1380 @@
+{
+  "tenantId": "pb.rajpura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajpura",
+        "localname": "Rajpura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.rajpura",
+        "children": [
+          {
+            "id": "e5cc7fa8-a58c-4f2f-b839-e85c41de795d",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3bb82c12-864e-482d-ae5b-efeca477c038",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "cb7deaeb-7d4f-4952-9dfb-effff682094f",
+                    "boundaryNum": 1,
+                    "name": "Focal Point ( Shaamdu Area) - B1",
+                    "localname": "Focal Point ( Shaamdu Area) - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ1",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bb5caa77-e407-43af-819b-d41bf7aa82fe",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "20d81b08-2c2b-4c60-a2ca-4d630031062f",
+                    "boundaryNum": 1,
+                    "name": "Gagan chowk to chandigarh road up to sunder nagar Chowk Right side - B2",
+                    "localname": "Gagan chowk to chandigarh road up to sunder nagar Chowk Right side - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "50ee9a1c-3e3f-45be-8634-d6a66fde1e2f",
+                    "boundaryNum": 1,
+                    "name": "Focal Point (Industry Area) - B2",
+                    "localname": "Focal Point (Industry Area) - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ee97306d-b5b5-439b-9913-dce21195aaf9",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Gagan Chowk to Focal Point Chowk Ambala Road - B2",
+                    "localname": "National Highway NH1 Gagan Chowk to Focal Point Chowk Ambala Road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f320cdfb-424f-4a16-aac1-b7f1a9130331",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "6d2d30be-c219-4f2d-adcd-cf48c2394fa7",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Focal Point Chowk to Municipal Limit Ambala Road - B3",
+                    "localname": "National Highway NH1 Focal Point Chowk to Municipal Limit Ambala Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b549f436-c5ac-4cdd-af7b-0cd7ef03f8d1",
+                    "boundaryNum": 1,
+                    "name": "Focal Point ( Resi Area, Satkar vihar, Star Evclave) - B3",
+                    "localname": "Focal Point ( Resi Area, Satkar vihar, Star Evclave) - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10b01d46-6675-44c4-a47a-191681057d77",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "228b0068-6fc0-4c7e-bd6a-f5a64d16b9ad",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Gagan Chowk to Up to Municipal Limit Ambala Road Right side - B4",
+                    "localname": "National Highway NH1 Gagan Chowk to Up to Municipal Limit Ambala Road Right side - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aa50b3a7-dec6-4211-aa9d-61cbe85275dc",
+                    "boundaryNum": 1,
+                    "name": "Gagan Chowk to Railway Crossing Kalka Road Left Side - B4",
+                    "localname": "Gagan Chowk to Railway Crossing Kalka Road Left Side - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "71e94a35-3fe1-49ac-90b5-1bf8bc92d7f9",
+                    "boundaryNum": 1,
+                    "name": "Chhaju Mazri Old G.T Road - B4",
+                    "localname": "Chhaju Mazri Old G.T Road - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a3d3ba9f-4ea0-47ca-b1b7-eeaa0cd97415",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "c7d410ac-7768-4c7a-8abf-51f54f950289",
+                    "boundaryNum": 1,
+                    "name": "Dalima Vihar - B5",
+                    "localname": "Dalima Vihar - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a2548e3a-e1fc-49bb-adf2-fa1be398c1b7",
+                    "boundaryNum": 1,
+                    "name": "Kanika Garden - B5",
+                    "localname": "Kanika Garden - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ec706031-9498-459a-ad29-6f98a9809e81",
+                    "boundaryNum": 1,
+                    "name": "Court Complex, SOS - B5",
+                    "localname": "Court Complex, SOS - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2754a299-9965-47fd-974d-8e5b57a39e16",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing to I.T.I Chowk Left Side (Caliber Market, Kanika Garden) - B5",
+                    "localname": "Railway Crossing to I.T.I Chowk Left Side (Caliber Market, Kanika Garden) - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5116ec60-2cf6-4200-8e53-4f0eeacf7743",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "3e764150-8288-4c9d-8d8d-fa2a7d35ca13",
+                    "boundaryNum": 1,
+                    "name": "Madhuban enclave - B6",
+                    "localname": "Madhuban enclave - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "424923f5-ecbc-4a49-a380-60860a379a3b",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "3e64e2f5-b2ea-45c1-95a8-4ad57889a8aa",
+                    "boundaryNum": 1,
+                    "name": "KSM Road (500 Plot) - B7",
+                    "localname": "KSM Road (500 Plot) - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89d4c4cb-6148-4db3-9f37-eb098f0b6d73",
+                    "boundaryNum": 1,
+                    "name": "Guru Arjan Dev Colony - B7",
+                    "localname": "Guru Arjan Dev Colony - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6b07750d-fb1a-437e-9a0c-c7836b4c26d7",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanan Pura Mohalla - B7",
+                    "localname": "Guru Nanan Pura Mohalla - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ17",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1710524f-caa1-4ab2-9e0f-e6432040d0cd",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "36d7145c-fc28-48f0-97ef-9872e42d13ee",
+                    "boundaryNum": 1,
+                    "name": "Deshmesh Colony, New Deshmesh Colony - B8",
+                    "localname": "Deshmesh Colony, New Deshmesh Colony - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "787158d2-6728-4e07-9f70-beb09224be59",
+                    "boundaryNum": 1,
+                    "name": "Giyani Jail Singh Market - B8",
+                    "localname": "Giyani Jail Singh Market - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ba711db-655f-4489-991d-a78275ce2437",
+                    "boundaryNum": 1,
+                    "name": "lakkad mandi - B8",
+                    "localname": "lakkad mandi - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b3a56657-77ab-490b-978d-6180aca76b26",
+                    "boundaryNum": 1,
+                    "name": "Meet Market (BVM) - B8",
+                    "localname": "Meet Market (BVM) - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "974b682a-e268-4bb8-b9fc-b9c90ca26cd4",
+                    "boundaryNum": 1,
+                    "name": "Sabzi Mandi - B8",
+                    "localname": "Sabzi Mandi - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bc4610d8-7292-4e4f-88d5-e7c5fc5cd115",
+                    "boundaryNum": 1,
+                    "name": "Anand Market - B8",
+                    "localname": "Anand Market - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3b603f8-ce09-4cb2-9137-97d3513bff90",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town ( H.NO. 2206 to 2225) - B8",
+                    "localname": "Rajpura Town ( H.NO. 2206 to 2225) - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fb0687db-fb64-4d55-a49e-c5ddf25a68e5",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town ( H.NO. 1012 to 1172) - B8",
+                    "localname": "Rajpura Town ( H.NO. 1012 to 1172) - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fb8f785c-4f8c-4473-9141-e54134f3564f",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Colony (Block K,L,M,N and H.P.NO. 1 to 52) - B8",
+                    "localname": "Gandhi Colony (Block K,L,M,N and H.P.NO. 1 to 52) - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff2a74f1-5b96-4899-840f-966746bc27ab",
+                    "boundaryNum": 1,
+                    "name": "I.T.I Chowk to Taali wala Chowk Left Side - B8",
+                    "localname": "I.T.I Chowk to Taali wala Chowk Left Side - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "16797d78-068b-4f1b-891e-dc6ffae0d3a9",
+                    "boundaryNum": 1,
+                    "name": "Banwari Internal Area - B8",
+                    "localname": "Banwari Internal Area - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1dfb927a-6dc7-44a1-9c5c-7bd6b837b57a",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "1e03b5fe-9c50-430e-af87-9f37f1647d87",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Market - B9",
+                    "localname": "Jawahar Market - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c66b7493-b449-46e9-9f1d-cfc143d1fb5b",
+                    "boundaryNum": 1,
+                    "name": "Subhash Market (Block 452 and NCS) - B9",
+                    "localname": "Subhash Market (Block 452 and NCS) - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "49b2f597-be41-41e5-94d9-8b88a8b38199",
+                    "boundaryNum": 1,
+                    "name": "Shastri Market - B9",
+                    "localname": "Shastri Market - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4cb0e324-9db0-4326-9d8d-c21916bb3243",
+                    "boundaryNum": 1,
+                    "name": "Indra Market - B9",
+                    "localname": "Indra Market - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b8d8588c-30ed-45ac-b96d-47c5e45c7e27",
+                    "boundaryNum": 1,
+                    "name": "Patel Market - B9",
+                    "localname": "Patel Market - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43674d06-c174-4376-ba80-806f54e5895c",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town ( H.NO. 1173 to 2205, 4007 to 4028) - B9",
+                    "localname": "Rajpura Town ( H.NO. 1173 to 2205, 4007 to 4028) - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ34",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db6f92ab-8fb9-4ecd-9d5c-897ffbaab22c",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town ( All Blcok: A,B,C,D,E,F,H,J) - B9",
+                    "localname": "Rajpura Town ( All Blcok: A,B,C,D,E,F,H,J) - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9ce9b3c-727c-4f9a-bf06-6b5024d41d1e",
+                    "boundaryNum": 1,
+                    "name": "Taali wala Chowk to Bhongla road chowk Left Side - B9",
+                    "localname": "Taali wala Chowk to Bhongla road chowk Left Side - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9732c54b-dc50-4eba-b87a-0f2f0b68e45b",
+                    "boundaryNum": 1,
+                    "name": "Partap Colony - B9",
+                    "localname": "Partap Colony - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ37",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c94c60b-e678-47b7-9370-c8a43b5b01dc",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "8f8a4e99-9eac-497d-bc59-abfa7bddacf3",
+                    "boundaryNum": 1,
+                    "name": "Bhongla Road to chuna Bhatti chowk Left Side - B10",
+                    "localname": "Bhongla Road to chuna Bhatti chowk Left Side - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ38",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9b042168-af36-4f8c-8f13-ac2d6f599422",
+                    "boundaryNum": 1,
+                    "name": "Vikram Colony - B10",
+                    "localname": "Vikram Colony - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ39",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63d91ffb-0525-44ff-9d1e-5cd3c659a021",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "6e91d9ca-fd4c-4130-af3f-707a74a6f74a",
+                    "boundaryNum": 1,
+                    "name": "Chuna Bhatti Chowk to Liberty Chowk Left Side - B11",
+                    "localname": "Chuna Bhatti Chowk to Liberty Chowk Left Side - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ40",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d29fda4d-4d16-4385-a123-6a90ebdf8b59",
+                    "boundaryNum": 1,
+                    "name": "Said Kheri ( Chauhan Colony, Officer Colony, New Officer Colony) - B11",
+                    "localname": "Said Kheri ( Chauhan Colony, Officer Colony, New Officer Colony) - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ41",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f63dfed9-3009-4764-8f98-fce6193daa75",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "abc9bdef-aed0-4b01-a58f-7066f68d6ebc",
+                    "boundaryNum": 1,
+                    "name": "Jhandoli ( Sunder Colony ) - B12",
+                    "localname": "Jhandoli ( Sunder Colony ) - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ42",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2fb946b-abe0-4c4a-bab9-49639a6831e2",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "38ed731c-b93c-481b-b4e8-af51757c841d",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town - B13",
+                    "localname": "Rajpura Town - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ43",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b9208f57-0e1a-434a-92df-4f2e6ed22fe0",
+                    "boundaryNum": 1,
+                    "name": "Durga Mandir Chowk to Liberty Chowk Right Side - B13",
+                    "localname": "Durga Mandir Chowk to Liberty Chowk Right Side - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ44",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7465c013-442d-4612-8ee9-f583cf311fea",
+                    "boundaryNum": 1,
+                    "name": "Neelpur - B13",
+                    "localname": "Neelpur - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ45",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7fe05356-dc4d-40a0-b59a-8159211ef025",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "0e92d8af-68f3-4625-bca0-fa9f98e90efd",
+                    "boundaryNum": 1,
+                    "name": "Dhamoli - B14",
+                    "localname": "Dhamoli - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ46",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d951b4e-8ea6-4f64-b6dc-72ab1c5e7fd1",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "7abfed00-ae44-420c-919e-51ca02da2393",
+                    "boundaryNum": 1,
+                    "name": "Dhamoli (Karan Farm, Bachitar Nagar, Guru Sagar Area) - B15",
+                    "localname": "Dhamoli (Karan Farm, Bachitar Nagar, Guru Sagar Area) - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ47",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9efedf2a-25df-4612-bb87-c4db1fe1bac9",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "64ed4a9d-4f03-47df-a8b3-59d2c8ba909e",
+                    "boundaryNum": 1,
+                    "name": "Dhamoli ( Singla colony, Mati dass colony, Bawa colony, Shastri Colony, Gurbaksh colony, New S.B.S. colony , Gulab Nagar) - B16",
+                    "localname": "Dhamoli ( Singla colony, Mati dass colony, Bawa colony, Shastri Colony, Gurbaksh colony, New S.B.S. colony , Gulab Nagar) - B16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ48",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "652c2150-8aad-4cd9-a453-dd6cbca78e36",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "e25b385b-9de3-40a5-8023-2ae50ef36ae6",
+                    "boundaryNum": 1,
+                    "name": "Telephone Colony - B17",
+                    "localname": "Telephone Colony - B17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a63647c9-64a5-494e-a682-182337dd5823",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town - B17",
+                    "localname": "Rajpura Town - B17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ50",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d193a33e-7628-48c5-90e2-b0348e7c86cd",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "36c86b33-10d8-480f-9342-97bbb38d7f2a",
+                    "boundaryNum": 1,
+                    "name": "Rajpura Town - B18",
+                    "localname": "Rajpura Town - B18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ51",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b855829c-17b0-4b08-bd7b-e8855617ac20",
+                    "boundaryNum": 1,
+                    "name": "Taali wala Chowk to Durga Mandir Chowk Right Side - B18",
+                    "localname": "Taali wala Chowk to Durga Mandir Chowk Right Side - B18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ52",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "adefc4ee-f2ee-44a6-8e7d-8f340752397d",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "ffb4d08c-ce10-4865-899c-dc505db23395",
+                    "boundaryNum": 1,
+                    "name": "Shaheed Bhagat Singh colony - B19",
+                    "localname": "Shaheed Bhagat Singh colony - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ53",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b776662c-1ece-45fc-b245-e09f1cb9f235",
+                    "boundaryNum": 1,
+                    "name": "Gobind Colony - B19",
+                    "localname": "Gobind Colony - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ54",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fc00e7e-3b8e-41b5-a735-eb70b71a8daf",
+                    "boundaryNum": 1,
+                    "name": "Aadarsh Colony - B19",
+                    "localname": "Aadarsh Colony - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ55",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bcfa4a06-01f7-4f7d-8656-671cb0627785",
+                    "boundaryNum": 1,
+                    "name": "I.T.I Chowk to Taali wala Chowk Right Side - B19",
+                    "localname": "I.T.I Chowk to Taali wala Chowk Right Side - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ56",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1571f05-a6c9-47bd-b458-ab5d67742542",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "6758e04e-2206-40c2-b775-0e08aed447d4",
+                    "boundaryNum": 1,
+                    "name": "City Centre - B20",
+                    "localname": "City Centre - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ57",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6c4babde-056e-4ff8-86f2-38cb35712de1",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Colony - B20",
+                    "localname": "Guru Nanak Colony - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ58",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b81920a4-5bd0-4775-a4f6-8da00716be3b",
+                    "boundaryNum": 1,
+                    "name": "Preet Colony - B20",
+                    "localname": "Preet Colony - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ59",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "35b1cb23-54eb-4c5e-bd4c-5833c803f879",
+                    "boundaryNum": 1,
+                    "name": "Work Centre Colony - B20",
+                    "localname": "Work Centre Colony - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ60",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e8f1896a-110f-4344-bbb1-bdb5fec2d92a",
+                    "boundaryNum": 1,
+                    "name": "Technical Collage - B20",
+                    "localname": "Technical Collage - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ61",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e1e91bd-a131-41fe-ad90-6c34859831d6",
+                    "boundaryNum": 1,
+                    "name": "Patel Colloage - B20",
+                    "localname": "Patel Colloage - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ62",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "efaf6dfc-7df5-4c5e-b523-218d3c1655ad",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing to I.T.I Chowk Right Side - B20",
+                    "localname": "Railway Crossing to I.T.I Chowk Right Side - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ63",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "846db6ee-ee3c-4261-9b77-c4a105050bb7",
+                    "boundaryNum": 1,
+                    "name": "Ganesh Nagar - B20",
+                    "localname": "Ganesh Nagar - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ64",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "52cce162-147b-49d4-94c7-f67680c18013",
+                    "boundaryNum": 1,
+                    "name": "Shaam Nagar - B20",
+                    "localname": "Shaam Nagar - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ65",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f4f2c57d-7bd6-4f82-a0b5-6f47d881d319",
+                    "boundaryNum": 1,
+                    "name": "Mohinder Ganj - B20",
+                    "localname": "Mohinder Ganj - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ66",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "55fb57c0-fc53-47a0-a14a-ceb7f85fa1ac",
+                    "boundaryNum": 1,
+                    "name": "Radha swami bhawan - B20",
+                    "localname": "Radha swami bhawan - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ67",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cb72dc1c-300e-4762-af8b-f64848987923",
+                    "boundaryNum": 1,
+                    "name": "Mirch Mandi - B20",
+                    "localname": "Mirch Mandi - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ68",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c92f0e5a-83b3-4e25-a6a9-5d87f60c64c0",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Luchman dass - B20",
+                    "localname": "Bhatta Luchman dass - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ69",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "acfb9a9a-5f9c-4c99-8a89-aca4d5be1692",
+                    "boundaryNum": 1,
+                    "name": "Sheetal  Colony - B20",
+                    "localname": "Sheetal  Colony - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ70",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b687daf8-5538-4e96-aa30-46a10b337d7a",
+                "boundaryNum": 1,
+                "name": "Block 21",
+                "localname": "Block 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21",
+                "children": [
+                  {
+                    "id": "49f8dd22-7f60-40cd-9242-721c0d1ed80a",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Railway Crossing to Municipal limit sirhind Road Left Side - B21",
+                    "localname": "National Highway NH1 Railway Crossing to Municipal limit sirhind Road Left Side - B21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ71",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fd7b45d6-7912-4197-a5a7-bda8d3d38f18",
+                    "boundaryNum": 1,
+                    "name": "Islaampur ( Gais Godown, new deshmesh Nagar - B21",
+                    "localname": "Islaampur ( Gais Godown, new deshmesh Nagar - B21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ72",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1157fe61-1870-4e7e-b7ab-2ad2fe116043",
+                "boundaryNum": 1,
+                "name": "Block 22",
+                "localname": "Block 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B22",
+                "children": [
+                  {
+                    "id": "52e8e4a9-e8d1-4dcb-a70d-ffe24f0ae148",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Gagan Chowk to Railway Crossing Ower Bridge sirhind Road Left Side - B22",
+                    "localname": "National Highway NH1 Gagan Chowk to Railway Crossing Ower Bridge sirhind Road Left Side - B22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ73",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "490f5f0d-6f08-491b-9e88-4bde6b232111",
+                    "boundaryNum": 1,
+                    "name": "Gagan Chowk to Railway Crossing Kalka Road Right Side - B22",
+                    "localname": "Gagan Chowk to Railway Crossing Kalka Road Right Side - B22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ74",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3991dabb-b130-4e92-bfed-c7bbf7d8ff97",
+                    "boundaryNum": 1,
+                    "name": "Old Rajpura ( Diffence colony, Jhullan wala mohalla, Gandhi colony, Naiyan wala mohalla, Bharat colony, Hari nagar, sewak enclave, teliyan wala mohalla - B22",
+                    "localname": "Old Rajpura ( Diffence colony, Jhullan wala mohalla, Gandhi colony, Naiyan wala mohalla, Bharat colony, Hari nagar, sewak enclave, teliyan wala mohalla - B22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ75",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3dae418c-6626-40af-aa03-5a1a6617d553",
+                "boundaryNum": 1,
+                "name": "Block 23",
+                "localname": "Block 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B23",
+                "children": [
+                  {
+                    "id": "2336d7ac-9069-4b4a-b806-30f1e2e9c89f",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Baba Deep singh colony to Municipa Limit Sirhind Road Right Side - B23",
+                    "localname": "National Highway NH1 Baba Deep singh colony to Municipa Limit Sirhind Road Right Side - B23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ76",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b6955e48-de12-41f2-b60e-91ee23358b83",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar Nalas Road - B23",
+                    "localname": "Guru Nanak Nagar Nalas Road - B23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ77",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6a35ba5-2c11-4a14-9606-26dc8655cc7b",
+                "boundaryNum": 1,
+                "name": "Block 24",
+                "localname": "Block 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B24",
+                "children": [
+                  {
+                    "id": "1bb124d8-72ff-433d-b5ad-972ce1f73a11",
+                    "boundaryNum": 1,
+                    "name": "National Highway NH1 Gagan Chowk to Baba Deep singh colony Chowk Sirhind road Right Side - B24",
+                    "localname": "National Highway NH1 Gagan Chowk to Baba Deep singh colony Chowk Sirhind road Right Side - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ78",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e822061-fcae-4409-87d9-f2daeacbccc9",
+                    "boundaryNum": 1,
+                    "name": "Gagan chowk to chandigarh road up to sunder nagar Chowk Left side - B24",
+                    "localname": "Gagan chowk to chandigarh road up to sunder nagar Chowk Left side - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ79",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3ebf4a63-a2cd-417c-946a-39177fa564d6",
+                    "boundaryNum": 1,
+                    "name": "Guru Gobind singh Nagar - B24",
+                    "localname": "Guru Gobind singh Nagar - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ80",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b65c2872-4692-49a6-964d-355377086857",
+                    "boundaryNum": 1,
+                    "name": "Sunder Nagar - B24",
+                    "localname": "Sunder Nagar - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ81",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "799db130-1121-45e1-bc6e-53d7041e20e9",
+                    "boundaryNum": 1,
+                    "name": "Gagan Vihar - B24",
+                    "localname": "Gagan Vihar - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ82",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "29b96d5d-2178-427b-8f7c-c56e7de940ca",
+                    "boundaryNum": 1,
+                    "name": "Baba deep Singh Colony - B24",
+                    "localname": "Baba deep Singh Colony - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ83",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc4fc660-6360-458f-b190-24c687ddddd6",
+                "boundaryNum": 1,
+                "name": "Block 25",
+                "localname": "Block 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B25",
+                "children": [
+                  {
+                    "id": "609b5827-7a39-41b7-8c12-d4e16cd7da35",
+                    "boundaryNum": 1,
+                    "name": "Dev Nagar - B25",
+                    "localname": "Dev Nagar - B25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ84",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "97a1ebca-137b-44c4-95e4-4ab7fe9d1801",
+                    "boundaryNum": 1,
+                    "name": "Bawa Nagar - B25",
+                    "localname": "Bawa Nagar - B25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ85",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e037101-2141-4008-9f7d-374ac54cd7fc",
+                "boundaryNum": 1,
+                "name": "Block 26",
+                "localname": "Block 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B26",
+                "children": [
+                  {
+                    "id": "6950cc73-0a2f-4966-858e-d573393de4a5",
+                    "boundaryNum": 1,
+                    "name": "Ekta Colony - B26",
+                    "localname": "Ekta Colony - B26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RJ86",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
