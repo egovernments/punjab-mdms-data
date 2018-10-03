@@ -1,0 +1,1029 @@
+{
+  "tenantId": "pb.zira",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Zira",
+        "localname": "Zira",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.zira",
+        "children": [
+          {
+            "id": "2c9d3ad9-d1d2-4a1d-9d54-6302f2a5b98b",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9165da2c-a686-4859-b20f-25934c2e1a67",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-4",
+                "children": [
+                  {
+                    "id": "2df27d50-d67a-4982-b128-e2db18714c73",
+                    "boundaryNum": 1,
+                    "name": "Gali Mata Da Mandir, Gaushala Road, Krishna Mandir Opp. And Wasti Machhian. - B-4",
+                    "localname": "Gali Mata Da Mandir, Gaushala Road, Krishna Mandir Opp. And Wasti Machhian. - B-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e0699759-bb30-4c51-8718-219652d87841",
+                    "boundaryNum": 1,
+                    "name": "Sran Lala Sawan Mall to Punjab Sind Bank to Krishna Mandir Bhushan Markit Old Post Office Street to Sran Lala Sawan Mall - B-4",
+                    "localname": "Sran Lala Sawan Mall to Punjab Sind Bank to Krishna Mandir Bhushan Markit Old Post Office Street to Sran Lala Sawan Mall - B-4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f46a2c1b-4ebb-4f1b-92a1-34538632076f",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-9",
+                "children": [
+                  {
+                    "id": "d49ae6fd-56f5-4a92-995c-807a3d963cb7",
+                    "boundaryNum": 1,
+                    "name": "Kot Ise Khan Road to Gas Agency to Petrol Pump to Awan Road upto kot ise khan Road. - B-9",
+                    "localname": "Kot Ise Khan Road to Gas Agency to Petrol Pump to Awan Road upto kot ise khan Road. - B-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63c0cd77-add1-4faa-bad7-0379bff413b6",
+                    "boundaryNum": 1,
+                    "name": "Jhatra Road H/o.Bao Beant Lal to Jhatra to Kot Ise Khan to Rice Mill - B-9",
+                    "localname": "Jhatra Road H/o.Bao Beant Lal to Jhatra to Kot Ise Khan to Rice Mill - B-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c94fb51f-cdcb-403f-b2d0-f2d1adc32a54",
+                    "boundaryNum": 1,
+                    "name": "Gurdita Malla Tara Chand to Jhatra Road. - B-9",
+                    "localname": "Gurdita Malla Tara Chand to Jhatra Road. - B-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-18a",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "440e9909-c8e6-46e0-9b55-f2864044c913",
+                    "boundaryNum": 1,
+                    "name": "Charanjit Singh to Guruduwara Road to Gali Mahasian to Yashpal Tea wala, Dr. Kumra Scooter wale to Guga Mandir to Employees Street. - B-9",
+                    "localname": "Charanjit Singh to Guruduwara Road to Gali Mahasian to Yashpal Tea wala, Dr. Kumra Scooter wale to Guga Mandir to Employees Street. - B-9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6f125bf-bf03-46a8-aa49-5205d99a074b",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-10",
+                "children": [
+                  {
+                    "id": "377ca52c-c81e-4d2e-8df1-e0dcbdaa8b81",
+                    "boundaryNum": 1,
+                    "name": "Jhatra Road Back Side Wasti to Jhatra Old Octroi No.2 to Gali Killi, Kacha Mansoor Deva Road to Mansoor Deva Road Total. - B-10",
+                    "localname": "Jhatra Road Back Side Wasti to Jhatra Old Octroi No.2 to Gali Killi, Kacha Mansoor Deva Road to Mansoor Deva Road Total. - B-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "41de6a41-1e81-418f-8729-34b1dda0205c",
+                    "boundaryNum": 1,
+                    "name": "H/o.Paramjit Singh to Old Post Office Street, Mohalla Jattan to Old Post Street BDO Office, - B-10",
+                    "localname": "H/o.Paramjit Singh to Old Post Office Street, Mohalla Jattan to Old Post Street BDO Office, - B-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c434b94-1097-4c89-b567-5d325dfe19f7",
+                    "boundaryNum": 1,
+                    "name": "Saner Road, Gali Baba Pipal Wala to Samadhi Mohalla to Opp. Dasehra Ground, Nehar Saner Road to Kacha Mansoor Deva Road, Sikki Colony . - B-10",
+                    "localname": "Saner Road, Gali Baba Pipal Wala to Samadhi Mohalla to Opp. Dasehra Ground, Nehar Saner Road to Kacha Mansoor Deva Road, Sikki Colony . - B-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9ffefb53-24af-4224-a0d0-45cbb08e90f1",
+                    "boundaryNum": 1,
+                    "name": "Moga Bypass - B-10",
+                    "localname": "Moga Bypass - B-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dd8c6854-67ec-4fde-871b-bff5df99784e",
+                    "boundaryNum": 1,
+                    "name": "Govt. College to Canal Talwandi Road to Politary Form. - B-10",
+                    "localname": "Govt. College to Canal Talwandi Road to Politary Form. - B-10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "248fa455-ca53-4fdf-9f1e-0934a2c49ca0",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-11",
+                "children": [
+                  {
+                    "id": "09eeeed2-11e3-4603-b69f-324ca46f1f15",
+                    "boundaryNum": 1,
+                    "name": "Opp.Parkash Halwai, Sarafa Bazar, Chowk Jhatian to Gali Jhande Wali, Gali Duabian to Talwandi Road to Guruduwara Singh Sabha to Malkiat Singh Shop to Opp. Parkash Halwai. - B-11",
+                    "localname": "Opp.Parkash Halwai, Sarafa Bazar, Chowk Jhatian to Gali Jhande Wali, Gali Duabian to Talwandi Road to Guruduwara Singh Sabha to Malkiat Singh Shop to Opp. Parkash Halwai. - B-11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ef9e96f-7642-4ba5-86df-398880493a71",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-14",
+                "children": [
+                  {
+                    "id": "36ce82cf-da29-4971-985a-13fc9d138ce9",
+                    "boundaryNum": 1,
+                    "name": "TR to Cooperative Society to Electricity Office - B-14",
+                    "localname": "TR to Cooperative Society to Electricity Office - B-14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7fa0d0d2-3d25-4af0-a2df-cb93b5561681",
+                    "boundaryNum": 1,
+                    "name": "Truk Union to Octroi No.5 Total Area, Nehar Road. - B-14",
+                    "localname": "Truk Union to Octroi No.5 Total Area, Nehar Road. - B-14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-29",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c353df56-d988-460f-a345-76313bdc4b12",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-15",
+                "children": [
+                  {
+                    "id": "339972fa-22f1-42a0-aa50-715a9c481d39",
+                    "boundaryNum": 1,
+                    "name": "T.R. to Water Motor to Gali Pilkan wali, T.R. to Kothi Dr.Mohan Sharma to upto Store . - B-15",
+                    "localname": "T.R. to Water Motor to Gali Pilkan wali, T.R. to Kothi Dr.Mohan Sharma to upto Store . - B-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3236806-c508-4c70-8712-ec9f8c3a5d6a",
+                    "boundaryNum": 1,
+                    "name": "Gali Bas Stand to H/o.Dharampal Jhatta to Shop of Kastoori Lal to Gali Pilkan Wali to T.R. - B-15",
+                    "localname": "Gali Bas Stand to H/o.Dharampal Jhatta to Shop of Kastoori Lal to Gali Pilkan Wali to T.R. - B-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "86b2028f-5f46-4099-86c1-63eebdb517da",
+                    "boundaryNum": 1,
+                    "name": "Shop of Old TR President Ashok Kumar to Main Chowk, Bus Stand to Old Talwandi Road upto Street. - B-15",
+                    "localname": "Shop of Old TR President Ashok Kumar to Main Chowk, Bus Stand to Old Talwandi Road upto Street. - B-15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aae9ea7d-5c2b-4449-9b14-a41297f4b5f0",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-16",
+                "children": [
+                  {
+                    "id": "7dd45a51-6944-442d-848d-e0ac87a6860b",
+                    "boundaryNum": 1,
+                    "name": "Kacha Gadri Wala Road, H/o.Nirmal Singh to T.R. to Opp. Electricity Office, Binda Colony, Jhatta Colony, Naman Enclave. - B-16",
+                    "localname": "Kacha Gadri Wala Road, H/o.Nirmal Singh to T.R. to Opp. Electricity Office, Binda Colony, Jhatta Colony, Naman Enclave. - B-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "92bacc61-5240-4462-b75f-8d7b9417f5bd",
+                    "boundaryNum": 1,
+                    "name": "FZR. Road to Govt.High School Pump to H/o.Nirmal Singh to Naresh Jhatta Haweli to T.R. to Main Chowk, Kalagidhar Nagar. - B-16",
+                    "localname": "FZR. Road to Govt.High School Pump to H/o.Nirmal Singh to Naresh Jhatta Haweli to T.R. to Main Chowk, Kalagidhar Nagar. - B-16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5f5855a-1bab-41e7-a944-58c042b81f3d",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-17",
+                "children": [
+                  {
+                    "id": "8b0d7788-3861-4e3a-bbe6-67466730305b",
+                    "boundaryNum": 1,
+                    "name": "Johal Nagar Sarwan Oil Shop to Makhu Road to New Zira Road to Johal Nagar, Mallan wala Road to Cinema Side to Sarwan Oil Shop - B-17",
+                    "localname": "Johal Nagar Sarwan Oil Shop to Makhu Road to New Zira Road to Johal Nagar, Mallan wala Road to Cinema Side to Sarwan Oil Shop - B-17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "83513367-1a15-46a4-a628-8af14ad604f9",
+                    "boundaryNum": 1,
+                    "name": "Mallan wala Road to Cinema Side, Mallan wala Road to Fzr. Road opp. Pump to Fzr.Road, Kalagidhar Nagar. - B-17",
+                    "localname": "Mallan wala Road to Cinema Side, Mallan wala Road to Fzr. Road opp. Pump to Fzr.Road, Kalagidhar Nagar. - B-17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-37",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e5e236e-7315-46cf-9a7e-6a13a5e617b5",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-18",
+                "children": []
+              },
+              {
+                "id": "88bb9921-7a69-4d4f-bb93-2b1f6ee7d42d",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-20",
+                "children": []
+              },
+              {
+                "id": "8d13d910-bbdc-46ca-8ac0-bbbd1d014e87",
+                "boundaryNum": 1,
+                "name": "Block 21",
+                "localname": "Block 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-21",
+                "children": []
+              },
+              {
+                "id": "260b5e01-0198-47f3-8b4a-4b5d463abaf6",
+                "boundaryNum": 1,
+                "name": "Block 26",
+                "localname": "Block 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-26",
+                "children": []
+              },
+              {
+                "id": "e389deba-a816-4d24-bf06-038a98d77cfa",
+                "boundaryNum": 1,
+                "name": "Block 27",
+                "localname": "Block 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-27",
+                "children": []
+              },
+              {
+                "id": "6e3ed9a6-d82c-46ea-9283-773ae58fb4a8",
+                "boundaryNum": 1,
+                "name": "Block 28",
+                "localname": "Block 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-28",
+                "children": []
+              },
+              {
+                "id": "4d73a366-debc-4cd0-b4cf-8edc35721aba",
+                "boundaryNum": 1,
+                "name": "Block 30",
+                "localname": "Block 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-30",
+                "children": []
+              },
+              {
+                "id": "e2152829-fe73-49f6-b47d-b399aec0e0d0",
+                "boundaryNum": 1,
+                "name": "Block 31",
+                "localname": "Block 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-31",
+                "children": []
+              },
+              {
+                "id": "f0e6f7c1-15b6-48b4-baf3-28e9b221dad8",
+                "boundaryNum": 1,
+                "name": "Block 32",
+                "localname": "Block 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-32",
+                "children": []
+              },
+              {
+                "id": "72251159-5d0c-44e1-b096-dbe7da4ce16c",
+                "boundaryNum": 1,
+                "name": "Block 33",
+                "localname": "Block 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-33",
+                "children": []
+              },
+              {
+                "id": "613b58a7-2c45-4927-8067-aa50f5385013",
+                "boundaryNum": 1,
+                "name": "Block 34",
+                "localname": "Block 34",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-34",
+                "children": []
+              },
+              {
+                "id": "554c3881-572e-4749-81f7-e6617acb97fa",
+                "boundaryNum": 1,
+                "name": "Block 35",
+                "localname": "Block 35",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-35",
+                "children": []
+              },
+              {
+                "id": "f767d302-6d50-4fd1-b93f-eb0585466c9d",
+                "boundaryNum": 1,
+                "name": "Block 36",
+                "localname": "Block 36",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-36",
+                "children": []
+              },
+              {
+                "id": "3bc08993-802a-482c-8ff5-cd3f39b45be4",
+                "boundaryNum": 1,
+                "name": "Block 37",
+                "localname": "Block 37",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-37",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "dac16348-04f5-4be8-b4c4-4a4144b3c157",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "976f483d-4568-4c19-9176-f8f8a476ee74",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-1",
+                "children": [
+                  {
+                    "id": "953bb77f-0e37-43f3-b59f-90cb19cc2e80",
+                    "boundaryNum": 1,
+                    "name": "Makhu Road to dera baba beas new Zira Mod to Treatment Plant. - B-1",
+                    "localname": "Makhu Road to dera baba beas new Zira Mod to Treatment Plant. - B-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "de17d7c8-befd-4f8f-ae42-ffcc2e59950c",
+                    "boundaryNum": 1,
+                    "name": "Makhu Road to H/O. Jathedar Hari Singh to Wasti Hazi Wali - B-1",
+                    "localname": "Makhu Road to H/O. Jathedar Hari Singh to Wasti Hazi Wali - B-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "60b2c19c-0712-4ac6-a2b4-e5fe9199abff",
+                    "boundaryNum": 1,
+                    "name": "Mallo ke Road School Swami Atma Nand Ji to Tibba Wasti upto makhu Road - B-1",
+                    "localname": "Mallo ke Road School Swami Atma Nand Ji to Tibba Wasti upto makhu Road - B-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f3cb380d-1d7b-4b66-acf8-817371b3c23e",
+                    "boundaryNum": 1,
+                    "name": "Guruduwara Vishvkarma, Sarabha Nagar, Guru Nagar, - B-1",
+                    "localname": "Guruduwara Vishvkarma, Sarabha Nagar, Guru Nagar, - B-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c289ada9-3a5d-436b-8f87-1117c11e317a",
+                    "boundaryNum": 1,
+                    "name": "Mallo ke Road, Badda Colony to Makhu Road upto old Octroi - B-1",
+                    "localname": "Mallo ke Road, Badda Colony to Makhu Road upto old Octroi - B-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-4a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9e50c328-f8ad-40d4-be85-340099540236",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-2",
+                "children": [
+                  {
+                    "id": "9e231e6d-8277-4f68-8618-9110bb468052",
+                    "boundaryNum": 1,
+                    "name": "Old PWD office, Wasti Machhian to Office, Mallo ke School Opp., Back Side Balmik Mandir Wasti Machhian Zira - B-2",
+                    "localname": "Old PWD office, Wasti Machhian to Office, Mallo ke School Opp., Back Side Balmik Mandir Wasti Machhian Zira - B-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e8e72d8f-1548-4747-8e80-e207f73ecdfc",
+                    "boundaryNum": 1,
+                    "name": "Dhakka Wasti, Shahwala Road, Mata da Mandir gali to Wasti School Back Side & Opp. Binde MC Side. - B-2",
+                    "localname": "Dhakka Wasti, Shahwala Road, Mata da Mandir gali to Wasti School Back Side & Opp. Binde MC Side. - B-2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2660c3dc-9813-4ac5-a0c9-c54ee7027258",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-3",
+                "children": [
+                  {
+                    "id": "2941d961-0198-4dd7-807c-769180e2ccba",
+                    "boundaryNum": 1,
+                    "name": "Wasti Machhian to Mallo ke Road, Miglani Tent, Mohalla Chah Berian, H/o. Dhillon President to Wasti Machhian. - B-3",
+                    "localname": "Wasti Machhian to Mallo ke Road, Miglani Tent, Mohalla Chah Berian, H/o. Dhillon President to Wasti Machhian. - B-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "de067b66-a55a-4698-abcf-b1b8ceb1f46d",
+                    "boundaryNum": 1,
+                    "name": "Railway Road to Krishna Mandir to Mohalla Chah Berian to H/o.Master Tandan to Railway Road to H/o. Balwant Singh Choudary. - B-3",
+                    "localname": "Railway Road to Krishna Mandir to Mohalla Chah Berian to H/o.Master Tandan to Railway Road to H/o. Balwant Singh Choudary. - B-3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc79998a-e489-4aed-90d5-7ca5d5b9e8c1",
+                "boundaryNum": 1,
+                "name": "Block 4a",
+                "localname": "Block 4a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-4a",
+                "children": []
+              },
+              {
+                "id": "0a6ddfaf-8909-4e7c-8094-04af0fc2d496",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-5",
+                "children": []
+              },
+              {
+                "id": "378c47e6-55b0-4eea-bd83-4fefd04fe2f1",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-6",
+                "children": [
+                  {
+                    "id": "2fde9b66-fba2-47fe-bbb9-ffe7c81076a8",
+                    "boundaryNum": 1,
+                    "name": "Shahwala Road, H/O.Joga Singh to New Court Complex Zira - B-6",
+                    "localname": "Shahwala Road, H/O.Joga Singh to New Court Complex Zira - B-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "db01d4ae-46d8-41d6-ad70-9b67ca52241a",
+                    "boundaryNum": 1,
+                    "name": "Shahwala Raod Right Side and Upto Awan Road - B-6",
+                    "localname": "Shahwala Raod Right Side and Upto Awan Road - B-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "136e72a9-e0db-45ba-a500-36b2a68a207f",
+                    "boundaryNum": 1,
+                    "name": "Office Municipal Council Quarter to Awan Road - B-6",
+                    "localname": "Office Municipal Council Quarter to Awan Road - B-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "932e321c-6487-49bd-b016-2c1f83fdcf96",
+                    "boundaryNum": 1,
+                    "name": "Shahwala Road to Office Municipal Council Zira. - B-6",
+                    "localname": "Shahwala Road to Office Municipal Council Zira. - B-6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-10a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a636ba9f-a851-410c-8dc9-187ebd6528ae",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-7",
+                "children": [
+                  {
+                    "id": "d91aded0-cbaa-41eb-b9a3-b0f207b9a0d0",
+                    "boundaryNum": 1,
+                    "name": "Dr.Majha Shop to Main Bazar to Shop of Sethian Opp. To Office of Old Nagar Council, Vetnary Hospital to Jhatra Road to Dr.Majha Shop - B-7",
+                    "localname": "Dr.Majha Shop to Main Bazar to Shop of Sethian Opp. To Office of Old Nagar Council, Vetnary Hospital to Jhatra Road to Dr.Majha Shop - B-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6227271f-3530-43b7-a6de-4a963c811c66",
+                    "boundaryNum": 1,
+                    "name": "Baba Moujdeen Chowk to Asr. Road to Main Chowk to Shop of Committee to Old Talwandi Road, Sheran Wala Chowk to Baba Maoujdeen. - B-7",
+                    "localname": "Baba Moujdeen Chowk to Asr. Road to Main Chowk to Shop of Committee to Old Talwandi Road, Sheran Wala Chowk to Baba Maoujdeen. - B-7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-35",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "390df569-16f5-4116-b88b-c8329ac75225",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-8",
+                "children": [
+                  {
+                    "id": "8263bd9d-6818-4c3f-a764-1b07d47f1ca4",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road to Police Quarter Shahwala Road, Gaushala Road to Dhakka Wasti to Shahwala Road. - B-8",
+                    "localname": "Gaushala Road to Police Quarter Shahwala Road, Gaushala Road to Dhakka Wasti to Shahwala Road. - B-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "637c98aa-f2bd-4d14-a7c0-096928086026",
+                    "boundaryNum": 1,
+                    "name": "Jain Markit to Chowk Baba Moujdeen to Gurnam Wali Gali to Baba Jhande Wali Gali to H/o. Naresh Kumar Jhatta Opp.Street ot Kile Wali Gali to Main Bazar to Sethian Side to Jain Markit. - B-8",
+                    "localname": "Jain Markit to Chowk Baba Moujdeen to Gurnam Wali Gali to Baba Jhande Wali Gali to H/o. Naresh Kumar Jhatta Opp.Street ot Kile Wali Gali to Main Bazar to Sethian Side to Jain Markit. - B-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2a6105d7-79de-4090-a864-c3722ce645d4",
+                    "boundaryNum": 1,
+                    "name": "Old Court to Gali Dhodian wali to Jhatra Road, Old Court to Gali Pandian Wali. - B-8",
+                    "localname": "Old Court to Gali Dhodian wali to Jhatra Road, Old Court to Gali Pandian Wali. - B-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "23ee3ce5-3364-47b2-ac54-b249a9d3770e",
+                    "boundaryNum": 1,
+                    "name": "Shiv Darbar, Old Court to Balwari H/o. Sohan Singh total Area. - B-8",
+                    "localname": "Shiv Darbar, Old Court to Balwari H/o. Sohan Singh total Area. - B-8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-21a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7de64f9e-5dab-4b09-9173-77a78e35f41f",
+                "boundaryNum": 1,
+                "name": "Block 10a",
+                "localname": "Block 10a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-10a",
+                "children": []
+              },
+              {
+                "id": "add8a7ae-3203-4189-8d71-67e27d023979",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-12",
+                "children": []
+              },
+              {
+                "id": "bf39d1aa-1f6c-4a81-b6e4-b90445f15cb4",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-13",
+                "children": [
+                  {
+                    "id": "398e03fa-55b7-4836-a498-81ef9f2e3f3d",
+                    "boundaryNum": 1,
+                    "name": "Guruduwara Singh Sabha Road Gali Vir Bhan to Guru Teg Bahadur Nagar Gurnam Singh Side, Nehar Wali Side, Saner Road to Octroi No.6 to Dashera Ground to Guruduwara Singh Sabha. - B-13",
+                    "localname": "Guruduwara Singh Sabha Road Gali Vir Bhan to Guru Teg Bahadur Nagar Gurnam Singh Side, Nehar Wali Side, Saner Road to Octroi No.6 to Dashera Ground to Guruduwara Singh Sabha. - B-13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "951f5d61-5de4-45f9-9ba6-913bb7c284a4",
+                    "boundaryNum": 1,
+                    "name": "Shop of Joginder Pal SDM Reader Side to Guga Mandir, Nehar Chakki to Guru Tega Bahadur Nagar to Shop Joginder Pal SDM Reader. - B-13",
+                    "localname": "Shop of Joginder Pal SDM Reader Side to Guga Mandir, Nehar Chakki to Guru Tega Bahadur Nagar to Shop Joginder Pal SDM Reader. - B-13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCZ-28a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b5479b9-7a81-4db6-9fdb-5e27b4c27978",
+                "boundaryNum": 1,
+                "name": "Block 18a",
+                "localname": "Block 18a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-18a",
+                "children": []
+              },
+              {
+                "id": "e100092e-dabe-47e5-b7c7-93df2fd912da",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-19",
+                "children": []
+              },
+              {
+                "id": "aedd653a-ee5a-4405-8fc7-0a70609317e8",
+                "boundaryNum": 1,
+                "name": "Block 21a",
+                "localname": "Block 21a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-21a",
+                "children": []
+              },
+              {
+                "id": "1f4a21ff-d693-4aee-82ae-913a0b094adc",
+                "boundaryNum": 1,
+                "name": "Block 22",
+                "localname": "Block 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-22",
+                "children": []
+              },
+              {
+                "id": "e8de05fa-cc2f-4eb3-bd6a-51f33ab86270",
+                "boundaryNum": 1,
+                "name": "Block 23",
+                "localname": "Block 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-23",
+                "children": []
+              },
+              {
+                "id": "b7e95701-b0bc-4464-b6be-28efaf79d7f3",
+                "boundaryNum": 1,
+                "name": "Block 24",
+                "localname": "Block 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-24",
+                "children": []
+              },
+              {
+                "id": "0d348b1a-e770-450a-a2ec-7e0dc853824e",
+                "boundaryNum": 1,
+                "name": "Block 25",
+                "localname": "Block 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-25",
+                "children": []
+              },
+              {
+                "id": "9c1f66b6-5d25-49e8-9047-1025d3ed22f8",
+                "boundaryNum": 1,
+                "name": "Block 28a",
+                "localname": "Block 28a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-28a",
+                "children": []
+              },
+              {
+                "id": "101a410d-ec3f-492a-bfe6-64358c4ca02e",
+                "boundaryNum": 1,
+                "name": "Block 29",
+                "localname": "Block 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B-29",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
