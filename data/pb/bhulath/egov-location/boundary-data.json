@@ -1,0 +1,466 @@
+{
+  "tenantId": "pb.bhulath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhulath",
+        "localname": "Bhulath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhulath",
+        "children": [
+          {
+            "id": "2637ec9c-1333-4300-a2d5-9beddeb86305",
+            "boundaryNum": 1,
+            "name": "Bhulath",
+            "localname": "Bhulath",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "43139654-2380-4dd1-92b7-dc334d1205a3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "56f2d14e-e0a7-4cd7-9b73-356a7c4329cb",
+                    "boundaryNum": 1,
+                    "name": "Harizan colony - WARD_1",
+                    "localname": "Harizan colony - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d8e166f5-cc05-43a5-84af-11a883c5e6ff",
+                    "boundaryNum": 1,
+                    "name": "Bholath Garbi Ward1 - WARD_1",
+                    "localname": "Bholath Garbi Ward1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "279f209b-cf71-426d-9df3-c5f5276ce7ee",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "e2149332-cbbb-4fdb-9f4c-7c58d83981d8",
+                    "boundaryNum": 1,
+                    "name": "Bholath Garbi Ward2 - WARD_2",
+                    "localname": "Bholath Garbi Ward2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9da1ba24-6e0d-4f34-ab61-c56c515f6580",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bedi nagar Ward2 - WARD_2",
+                    "localname": "Mohalla Bedi nagar Ward2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bad78c41-70b8-4a1e-bed3-4a0d36bdd7b4",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Guru Nanak Nagar Ward2 - WARD_2",
+                    "localname": "Mohalla Guru Nanak Nagar Ward2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07355aca-b671-41e5-9c11-aae739c71c79",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "47a86ce4-270d-40d2-af61-eda6a23f0587",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bedi nagar Ward3 - WARD_3",
+                    "localname": "Mohalla Bedi nagar Ward3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0a7830d3-0437-44c8-a35c-86729d5b349c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Guru Nanak Nagar Ward3 - WARD_3",
+                    "localname": "Mohalla Guru Nanak Nagar Ward3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a4f288c-b10e-450e-b3ca-d41f89d39325",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": []
+              },
+              {
+                "id": "265c0db4-c021-4cfa-a4e7-b2a9094ee599",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": []
+              },
+              {
+                "id": "52722452-5972-4956-84a5-1f1faf9a0acc",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "f679468e-6d86-41f4-af40-55441044e1ce",
+                    "boundaryNum": 1,
+                    "name": "Bholath Sharki Ward 6 - WARD_6",
+                    "localname": "Bholath Sharki Ward 6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d70ca78-abe7-4508-b853-f5343f79d5ab",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "7da160c1-4cc6-4712-adf7-51cc571d547d",
+                    "boundaryNum": 1,
+                    "name": "Bholath Sharki Ward 7 - WARD_7",
+                    "localname": "Bholath Sharki Ward 7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1cbf2fc6-7730-4ca6-a802-831969482639",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "fe80652c-8c43-4114-b3ea-9334ba32d5bf",
+                    "boundaryNum": 1,
+                    "name": "Rajpur road to Bholath left side upto puri medical store Ward8 - WARD_8",
+                    "localname": "Rajpur road to Bholath left side upto puri medical store Ward8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f07ea9ba-c8b3-4277-b5b8-5a3ee45ec0f0",
+                    "boundaryNum": 1,
+                    "name": "Puri Medical store to civil Hospital - WARD_8",
+                    "localname": "Puri Medical store to civil Hospital - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "21989a9d-58fc-4bfa-8437-f08879bbdf18",
+                    "boundaryNum": 1,
+                    "name": "Civil Hospital to Bachan ram salamatpur - WARD_8",
+                    "localname": "Civil Hospital to Bachan ram salamatpur - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8d3e28ac-96cb-4ce2-b400-044f3c0a51e1",
+                    "boundaryNum": 1,
+                    "name": "co-op Bank to Kartarpur road up to Bhagwanpur road - WARD_8",
+                    "localname": "co-op Bank to Kartarpur road up to Bhagwanpur road - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "15654435-a202-4d6c-8d89-e2a46fc2f411",
+                    "boundaryNum": 1,
+                    "name": "Bhagwanpur road to ward Bholath road up to co-op bank - WARD_8",
+                    "localname": "Bhagwanpur road to ward Bholath road up to co-op bank - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89e08ae8-62e0-4452-977c-87e4985d567c",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "99719fe5-d240-419d-afdd-b0d858b788d3",
+                    "boundaryNum": 1,
+                    "name": "Rajpur Ward9 - WARD_9",
+                    "localname": "Rajpur Ward9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ee60c403-d9fe-41d7-a6ab-2d3eee3c27ec",
+                    "boundaryNum": 1,
+                    "name": "Rajpur road to Bholath left side upto puri medical store Ward9 - WARD_9",
+                    "localname": "Rajpur road to Bholath left side upto puri medical store Ward9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74e5febd-90bf-4b1d-8c0b-fdbf20e66a66",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "3b454175-aa16-4c3a-a7a7-e3dced239320",
+                    "boundaryNum": 1,
+                    "name": "Rajpur Ward10 - WARD_10",
+                    "localname": "Rajpur Ward10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1dd68a83-8de8-4c8c-a03a-83fabb81093e",
+                    "boundaryNum": 1,
+                    "name": "Civil Hospital to Bachan ram salamatpur - WARD_10",
+                    "localname": "Civil Hospital to Bachan ram salamatpur - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77b12035-1e5a-49b1-b866-e64433e37c29",
+                    "boundaryNum": 1,
+                    "name": "Mohalla salamatpur - WARD_10",
+                    "localname": "Mohalla salamatpur - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa25d22d-4887-4e1f-8333-4a6d17c6b0a8",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "b7bbda90-db7b-491c-9916-74d93d0bcd44",
+                    "boundaryNum": 1,
+                    "name": "Bholath to Bhogpur road right side - WARD_11",
+                    "localname": "Bholath to Bhogpur road right side - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc30f78b-1273-4186-9e4a-1c4036047727",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "1d7493d3-3b1a-4b06-9885-40193ada555c",
+                    "boundaryNum": 1,
+                    "name": "Kamrai - WARD_12",
+                    "localname": "Kamrai - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68d97cb3-0bb7-4b11-adcd-8a999742eae0",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "daa704fd-9102-4798-8700-6d568467acaf",
+                    "boundaryNum": 1,
+                    "name": "Bholath Sharki Ward 13 - WARD_13",
+                    "localname": "Bholath Sharki Ward 13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e0bd36e5-eb3b-45f5-9dd9-35c67053148b",
+                    "boundaryNum": 1,
+                    "name": "Sukh Sagar colony - WARD_13",
+                    "localname": "Sukh Sagar colony - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHL_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
