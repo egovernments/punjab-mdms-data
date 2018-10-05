@@ -1,0 +1,744 @@
+{
+  "tenantId": "pb.goraya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Goraya",
+        "localname": "Goraya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.goraya",
+        "children": [
+          {
+            "id": "85424292-fd19-4431-ad34-fd3de5f163ae",
+            "boundaryNum": 1,
+            "name": "ZONE 1",
+            "localname": "ZONE 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "86e3f0aa-15bf-4d72-8afd-7b8aff67e0f4",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "c140b6fb-08a6-47f3-b3db-5c3c12f3daca",
+                    "boundaryNum": 1,
+                    "name": "Rishi Nagar - Ward7",
+                    "localname": "Rishi Nagar - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7798cc55-087d-4917-87ba-1b64e1e71317",
+                    "boundaryNum": 1,
+                    "name": "Ranvir Nagar - Ward7",
+                    "localname": "Ranvir Nagar - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35d83340-6cba-4975-9884-50ecfdda38cb",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Pura - Ward7",
+                    "localname": "Guru Nanak Pura - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c6f1b524-c96a-4119-8fea-c01ce6d2bb55",
+                    "boundaryNum": 1,
+                    "name": "Krishna Colony - Ward7",
+                    "localname": "Krishna Colony - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bbeefbaa-baf0-4f91-884e-4c6a30ae8a5a",
+                    "boundaryNum": 1,
+                    "name": "Dilbag Colony - Ward7",
+                    "localname": "Dilbag Colony - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37d9e223-df81-4d89-9ede-be4f0697e752",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "8720819a-6ed1-40ac-80d7-4ba255f8d096",
+                    "boundaryNum": 1,
+                    "name": "Krishna Colony - Ward8",
+                    "localname": "Krishna Colony - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48bb13dd-0096-4f3e-b5f7-f831c3a67809",
+                    "boundaryNum": 1,
+                    "name": "New Market - Ward8",
+                    "localname": "New Market - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b64e5ab6-0717-4eff-ac7c-bc1ce8164c87",
+                    "boundaryNum": 1,
+                    "name": "G.T.Road right - Ward8",
+                    "localname": "G.T.Road right - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63b780ea-68cc-4489-b036-f27637118b93",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "775789da-f81e-44fd-982d-8a88431cf802",
+                    "boundaryNum": 1,
+                    "name": "Krishna Colony - Ward9",
+                    "localname": "Krishna Colony - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "684f38cd-10a1-4f6b-98b3-56fef36269a8",
+                    "boundaryNum": 1,
+                    "name": "G.T.Road Left - Ward9",
+                    "localname": "G.T.Road Left - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "de452d4f-13e8-4f33-961a-d4410117266a",
+            "boundaryNum": 1,
+            "name": "ZONE 2",
+            "localname": "ZONE 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "e37f6ff2-f85e-4059-a721-bef2f22d9f46",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "bf743535-8de4-4c2b-b1dc-ebacf92029d1",
+                    "boundaryNum": 1,
+                    "name": "G.T.Road right - Ward4",
+                    "localname": "G.T.Road right - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ef59f0e-495b-45aa-b354-c639c8d1c6c4",
+                    "boundaryNum": 1,
+                    "name": "Bara Pind Road - Ward4",
+                    "localname": "Bara Pind Road - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "195a8015-cab6-4dd6-96e5-38bd92a4fb63",
+                    "boundaryNum": 1,
+                    "name": "G.T.Road Left - Ward4",
+                    "localname": "G.T.Road Left - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "049d5e2c-bf78-44f0-b220-7b5463fd0986",
+                    "boundaryNum": 1,
+                    "name": "Ramgarhia Mohalla - Ward4",
+                    "localname": "Ramgarhia Mohalla - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ae1437be-93b1-43f8-9e80-c9f59008cac3",
+                    "boundaryNum": 1,
+                    "name": "Mahal Road - Ward4",
+                    "localname": "Mahal Road - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f663e1d6-3419-432e-9f13-bb83424d8d7b",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "dcbb2771-f21f-4a8d-ac60-72887ecb3f0b",
+                    "boundaryNum": 1,
+                    "name": "Ramgarhia Mohalla - Ward5",
+                    "localname": "Ramgarhia Mohalla - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f1a3320-3892-4a17-b5c6-1a3755805ccc",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "bde1985f-02f3-4979-9911-08741558b394",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Pura - Ward6",
+                    "localname": "Guru Nanak Pura - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6c909f53-fe2a-4995-bc6b-3359e283cbc5",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar - Ward6",
+                    "localname": "Dashmesh Nagar - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "73d09f6c-3bb1-4051-b2e9-eecae1864fb5",
+                    "boundaryNum": 1,
+                    "name": "Dilbag Colony - Ward6",
+                    "localname": "Dilbag Colony - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38ff5972-12fb-49f9-b67f-d09b8cd6d216",
+                    "boundaryNum": 1,
+                    "name": "Bara Pind Road - Ward6",
+                    "localname": "Bara Pind Road - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a16b73ef-8e0a-40d0-a2dd-2a7fee5bfc0a",
+            "boundaryNum": 1,
+            "name": "ZONE 3",
+            "localname": "ZONE 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z3",
+            "children": [
+              {
+                "id": "67f8f6ce-6985-40f5-aa6c-7e1157f75889",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "712eba30-13c8-4cb9-b240-3ef1d4fbc397",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing - Ward10",
+                    "localname": "Railway Crossing - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "47385cea-471b-4e1f-85b3-687af8f3693f",
+                    "boundaryNum": 1,
+                    "name": "Daleawl Road - Ward10",
+                    "localname": "Daleawl Road - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d9dec6c0-3707-4402-92d3-be87f0da6413",
+                    "boundaryNum": 1,
+                    "name": "Post Office Road - Ward10",
+                    "localname": "Post Office Road - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "317c0f14-8b02-41ff-9485-206dd0469e22",
+                    "boundaryNum": 1,
+                    "name": "Prem Nagar - Ward10",
+                    "localname": "Prem Nagar - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8060260b-66df-44a4-87fb-1531d6aec8ac",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "2664dd88-ed40-433e-8a53-723e129e7b09",
+                    "boundaryNum": 1,
+                    "name": "Patti Rao Ki - Ward11",
+                    "localname": "Patti Rao Ki - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "52d66302-e57a-4777-8ded-1a73728221fc",
+                    "boundaryNum": 1,
+                    "name": "Post Office Road - Ward11",
+                    "localname": "Post Office Road - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f50b8a23-59f3-4e88-b290-828645e6d306",
+                    "boundaryNum": 1,
+                    "name": "Patti Nathay Ki - Ward11",
+                    "localname": "Patti Nathay Ki - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2cee90f3-a720-437a-8690-a8c1c0222b49",
+                    "boundaryNum": 1,
+                    "name": "Patti Jhewar Ki - Ward11",
+                    "localname": "Patti Jhewar Ki - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a7a1783f-4951-4887-ac8d-7a4db8ef6c9d",
+                    "boundaryNum": 1,
+                    "name": "Patti jalo ki - Ward11",
+                    "localname": "Patti jalo ki - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7a230da-a008-4494-8c84-2b3da82dc4f8",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "b673eba6-d9a1-495c-b02c-22f2fcafdd43",
+                    "boundaryNum": 1,
+                    "name": "Patti Rao Ki - Ward12",
+                    "localname": "Patti Rao Ki - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cb4a82b0-6489-482e-b9f0-15b21afc1226",
+                    "boundaryNum": 1,
+                    "name": "Gujran Miohalla - Ward12",
+                    "localname": "Gujran Miohalla - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5349cd45-6d90-41d2-aee5-2d56cc458dcc",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "34b0f790-17dd-452f-9b1c-c2c119d75526",
+                    "boundaryNum": 1,
+                    "name": "Langhria Mohalla - Ward13",
+                    "localname": "Langhria Mohalla - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "eefc5e64-e56c-44e7-94af-926f66ddab20",
+            "boundaryNum": 1,
+            "name": "ZONE 4",
+            "localname": "ZONE 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z4",
+            "children": [
+              {
+                "id": "e7490dad-b2c5-4589-8e31-a5e4663515bd",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "ebd92cbf-ec8c-4d2a-aefc-6e9f6cef3e45",
+                    "boundaryNum": 1,
+                    "name": "Boparai - Ward1",
+                    "localname": "Boparai - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5cfc0d15-a6d2-47b3-b933-a4d0b30ad64d",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "11b8334d-b886-44d9-978b-dac59443afcc",
+                    "boundaryNum": 1,
+                    "name": "Ravi Dass ohalla - Ward2",
+                    "localname": "Ravi Dass ohalla - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5d3ec08b-8b22-4588-a078-4d36b99aa509",
+                    "boundaryNum": 1,
+                    "name": "Rurka Road - Ward2",
+                    "localname": "Rurka Road - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0ef9c264-8431-4c34-9baa-06624b695e3d",
+                    "boundaryNum": 1,
+                    "name": "Boparai - Ward2",
+                    "localname": "Boparai - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "46c2f50f-1432-4686-a44e-2c7dce81a8b9",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar Colony - Ward2",
+                    "localname": "Ambedkar Colony - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "520a4a69-1f8e-4d48-89e4-43a2a5c234a7",
+                    "boundaryNum": 1,
+                    "name": "Bikar Colony - Ward2",
+                    "localname": "Bikar Colony - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG43",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "027bd2d2-3fb2-48b9-bc92-545a1238c9ce",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "c8988274-6754-4bec-a83d-d4445e07003a",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing - Ward3",
+                    "localname": "Railway Crossing - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2991cc8f-24dc-4808-a1dc-d916e9bf6767",
+                    "boundaryNum": 1,
+                    "name": "Aman Colony - Ward3",
+                    "localname": "Aman Colony - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dc49fa45-e125-474d-9f63-c119bf30d33c",
+                    "boundaryNum": 1,
+                    "name": "Sargundi Road - Ward3",
+                    "localname": "Sargundi Road - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9e35b637-b838-4661-8790-6b7f0ca50dad",
+                    "boundaryNum": 1,
+                    "name": "Jai Hind Colony - Ward3",
+                    "localname": "Jai Hind Colony - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "70e1f399-28b1-4479-948f-51a90e07642c",
+                    "boundaryNum": 1,
+                    "name": "Rurka Road - Ward3",
+                    "localname": "Rurka Road - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LG39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
