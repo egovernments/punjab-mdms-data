@@ -1,0 +1,684 @@
+{
+  "tenantId": "pb.phillaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Phillaur",
+        "localname": "Phillaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.phillaur",
+        "children": [
+          {
+            "id": "c31488c0-65b7-4b65-9067-1f13b66986be",
+            "boundaryNum": 1,
+            "name": "PHILLAUR",
+            "localname": "PHILLAUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "PZN1",
+            "children": [
+              {
+                "id": "86e63f9a-cb8f-4914-82a5-a647eac5e119",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "4c66e9d1-46ff-4935-98f8-2ce00179794a",
+                    "boundaryNum": 1,
+                    "name": "Moh.Ravidasspura Nurmahal road - WARD_1",
+                    "localname": "Moh.Ravidasspura Nurmahal road - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d4df71e4-6f9e-4598-b292-7157c9221448",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "c25d188c-cabb-4f53-8e98-41c1d8740748",
+                    "boundaryNum": 1,
+                    "name": "Moh.Santokhpura - WARD_2",
+                    "localname": "Moh.Santokhpura - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "76151001-7b9c-4e7e-88ff-04217a524d1d",
+                    "boundaryNum": 1,
+                    "name": "Moh.Ravidasspura - WARD_2",
+                    "localname": "Moh.Ravidasspura - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f558e81d-69fd-464e-8a9a-578eae9327b6",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "ec31a616-0241-45b1-a97b-452d452690fe",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi - WARD_3",
+                    "localname": "Dana Mandi - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a1b29635-fbbe-40f0-856c-e7ebbc06abd0",
+                    "boundaryNum": 1,
+                    "name": "Navi Abadi - WARD_3",
+                    "localname": "Navi Abadi - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d1d5a276-443e-498d-8f92-66db808759f0",
+                    "boundaryNum": 1,
+                    "name": "Moh.Mathurapuri - WARD_3",
+                    "localname": "Moh.Mathurapuri - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a216c525-5f0f-4f2b-acd8-e0801c7690b4",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "60314be6-ae17-4460-a697-6aea5d9807d9",
+                    "boundaryNum": 1,
+                    "name": "Mata Kalsi Nagar - WARD_4",
+                    "localname": "Mata Kalsi Nagar - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c3d1987b-ede9-4abd-9a3b-ed258a4410da",
+                    "boundaryNum": 1,
+                    "name": "Police Colony - WARD_4",
+                    "localname": "Police Colony - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afa14cc5-ad64-4324-9a09-e63009897b3c",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "c1accacb-3a0e-4cfe-8604-db523610746a",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian Garha Road - WARD_5",
+                    "localname": "Moh.Chaudhrian Garha Road - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "04eeac3d-52fa-428c-aeb1-2a8d3cb58980",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "01529384-cf93-4a86-87c0-76d35ee733b8",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian - WARD_6",
+                    "localname": "Moh.Chaudhrian - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e79866b0-6b86-42e4-9484-05ec8c8ab268",
+                    "boundaryNum": 1,
+                    "name": "Moh.Takatgarh - WARD_6",
+                    "localname": "Moh.Takatgarh - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32c04555-42c1-4424-9468-81d8aa92bf47",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "e22556fc-39cb-4255-b8d9-c6448d210f46",
+                    "boundaryNum": 1,
+                    "name": "Moh.Kazia - WARD_7",
+                    "localname": "Moh.Kazia - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38c44226-1a2e-4b05-8668-688f2e520b40",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian - WARD_7",
+                    "localname": "Moh.Chaudhrian - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6a360948-7777-4abb-b010-bf8909d231b4",
+                    "boundaryNum": 1,
+                    "name": "Moh. Guduraian - WARD_7",
+                    "localname": "Moh. Guduraian - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a15f810-a460-44ca-b0e7-e4f87220bdb7",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "944a246e-bcfd-462a-9ff0-8f5be968e90a",
+                    "boundaryNum": 1,
+                    "name": "Murad Mazil - WARD_8",
+                    "localname": "Murad Mazil - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e6acf997-b061-4c58-aa09-7ff729e9c5ee",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian - WARD_8",
+                    "localname": "Moh.Chaudhrian - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a5003401-a770-45da-9d20-0e06be8c5a89",
+                    "boundaryNum": 1,
+                    "name": "Moh.Bania - WARD_8",
+                    "localname": "Moh.Bania - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bc518b63-3964-42c0-9f9c-a53e0088a4a4",
+                    "boundaryNum": 1,
+                    "name": "Moh.Mitha Khoo - WARD_8",
+                    "localname": "Moh.Mitha Khoo - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2468fca2-72a5-4ffb-b1db-b0e9328e2097",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "bc733f02-c6bb-4b8d-92c1-04644f6e1595",
+                    "boundaryNum": 1,
+                    "name": "Moh.Shakhan - WARD_9",
+                    "localname": "Moh.Shakhan - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ffe3b148-3d1f-4e11-85bb-4ad4ed73e43b",
+                    "boundaryNum": 1,
+                    "name": "Gujra Wali Gali - WARD_9",
+                    "localname": "Gujra Wali Gali - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38865c60-cdef-409b-9dc2-daa8702e381b",
+                    "boundaryNum": 1,
+                    "name": "Sabzi MandI - WARD_9",
+                    "localname": "Sabzi MandI - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e795c800-c9c6-4142-8fb1-57f01b37840e",
+                    "boundaryNum": 1,
+                    "name": "Moh.Gulabi Kothi - WARD_9",
+                    "localname": "Moh.Gulabi Kothi - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d71712d-2b8c-4a93-8d92-17c8d6c2ac3c",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "39dba3bd-610a-4bf5-bf66-3f8bfc348cc8",
+                    "boundaryNum": 1,
+                    "name": "Moh.Uchi Ghati - WARD_10",
+                    "localname": "Moh.Uchi Ghati - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "52b685ef-7376-4be2-8896-714b7c146601",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian - WARD_10",
+                    "localname": "Moh.Chaudhrian - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "05ae8aae-7047-45ab-93de-d9b22bf0a274",
+                    "boundaryNum": 1,
+                    "name": "Moh.Sada - WARD_10",
+                    "localname": "Moh.Sada - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79dff9c6-bc79-4655-8bbb-4c4bcc30c0fb",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "71ce6904-dcf9-44fe-86cc-084a82e47f6a",
+                    "boundaryNum": 1,
+                    "name": "Moh.Bhandhera - WARD_11",
+                    "localname": "Moh.Bhandhera - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f848de08-a7e2-44c0-bba3-f11468b4a5d6",
+                    "boundaryNum": 1,
+                    "name": "Moh.Rajputan - WARD_11",
+                    "localname": "Moh.Rajputan - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8a2d98e-349a-4f2a-9bc7-0613318feb04",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "655ca32c-1219-452f-b112-ee76dc02af98",
+                    "boundaryNum": 1,
+                    "name": "Chowk Passian - WARD_12",
+                    "localname": "Chowk Passian - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b74a6889-74a2-4a20-81aa-0208e823635e",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - WARD_12",
+                    "localname": "Main Bazar - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "86654f34-e8f8-4981-82ce-43b2bb7e770f",
+                    "boundaryNum": 1,
+                    "name": "Moh.Bania - WARD_12",
+                    "localname": "Moh.Bania - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17692adb-91fb-44cf-90b8-8235386710ed",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "72404276-98db-4041-bae3-09ea9fe1c29c",
+                    "boundaryNum": 1,
+                    "name": "Moh.Bhandhera - WARD_13",
+                    "localname": "Moh.Bhandhera - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "815a8baf-899d-4a33-bdd8-6e32abf5f4ea",
+                    "boundaryNum": 1,
+                    "name": "Moh.Rajputan - WARD_13",
+                    "localname": "Moh.Rajputan - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "86a20db6-c851-474b-b001-eb48b9d92dbd",
+                    "boundaryNum": 1,
+                    "name": "Moh.Mathurapuri - WARD_13",
+                    "localname": "Moh.Mathurapuri - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f559fb6c-dbb8-4b16-bfc2-79ce70b20d83",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "33633af9-21fe-4948-ab0c-46acaef1bdb7",
+                    "boundaryNum": 1,
+                    "name": "radha soami Colony - WARD_14",
+                    "localname": "radha soami Colony - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b21199ef-076e-4d31-8360-2d87a4ca31f8",
+                    "boundaryNum": 1,
+                    "name": "Bawa da bohad - WARD_14",
+                    "localname": "Bawa da bohad - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0edbfcf5-c3ce-4fcb-bb0e-ba29bd13c957",
+                    "boundaryNum": 1,
+                    "name": "Talwan road - WARD_14",
+                    "localname": "Talwan road - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "558e05ba-60af-4de6-87ca-bf82ec256a93",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "1a902f6c-6489-4583-8152-36cf7940d095",
+                    "boundaryNum": 1,
+                    "name": "Moh.Ravidasspura - WARD_15",
+                    "localname": "Moh.Ravidasspura - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "927f3f39-88a8-43b2-abda-07fe05b23be0",
+                    "boundaryNum": 1,
+                    "name": "Nurmahal road - WARD_15",
+                    "localname": "Nurmahal road - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bb23436d-1a89-42c4-857d-335e52e5a31f",
+                    "boundaryNum": 1,
+                    "name": "Akalpur raod - WARD_15",
+                    "localname": "Akalpur raod - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PLC39",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
