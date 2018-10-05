@@ -1,0 +1,300 @@
+{
+  "tenantId": "pb.dhilwan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhilwan",
+        "localname": "Dhilwan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dhilwan",
+        "children": [
+          {
+            "id": "c5a9e91e-35b8-4d27-9d19-39cd509a3037",
+            "boundaryNum": 1,
+            "name": "DHILWAN",
+            "localname": "DHILWAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "DHL1",
+            "children": [
+              {
+                "id": "d28426f4-41c8-4e63-b64f-9b90123af397",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "cd0fecd2-e142-4140-9816-f9536939596f",
+                    "boundaryNum": 1,
+                    "name": "Patti Ladhu Ki - WARD_1",
+                    "localname": "Patti Ladhu Ki - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9c028114-f4bb-4d90-b4f6-24b9444bbbb0",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "678a99b9-0b4c-4558-822b-6d8e9b39ec8e",
+                    "boundaryNum": 1,
+                    "name": "Miani Bakarpur Dhilwan - WARD_2",
+                    "localname": "Miani Bakarpur Dhilwan - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d17c2836-a511-4099-8fc5-623a16eca7df",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "09091dea-e75f-4a8d-bca0-de53ef470f2f",
+                    "boundaryNum": 1,
+                    "name": "Miani Bakarpur Dhilwan - WARD_3",
+                    "localname": "Miani Bakarpur Dhilwan - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cf9e0438-9c9b-4c66-8930-776853a6c480",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "edf0c3bc-0402-4f3b-8b48-24f16e1103eb",
+                    "boundaryNum": 1,
+                    "name": "Patti Ladhu Ki - WARD_4",
+                    "localname": "Patti Ladhu Ki - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "532c5169-b6c6-425b-88aa-cc82ab788b01",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "4a7eb39b-b655-4965-9470-757bd3c2bd27",
+                    "boundaryNum": 1,
+                    "name": "Patti Jallu Ki - WARD_5",
+                    "localname": "Patti Jallu Ki - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d0d0860-a3e6-47c0-b2eb-a0f6cef1876d",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "52f0e14d-b89c-46e3-a157-5d2e08a3bc35",
+                    "boundaryNum": 1,
+                    "name": "Patti Jallu Ki - WARD_6",
+                    "localname": "Patti Jallu Ki - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8fcad260-a068-4a20-85b4-3f3ee82f7e90",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "2b531b8e-ecf8-4700-a15d-d62286059ca1",
+                    "boundaryNum": 1,
+                    "name": "Patti Ramu ki - WARD_7",
+                    "localname": "Patti Ramu ki - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "934112e5-41ce-4ef1-b879-22756e3dd6ab",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "f6948967-7974-4ebc-8b86-8dd4b4587142",
+                    "boundaryNum": 1,
+                    "name": "Patti Ramu ki - WARD_8",
+                    "localname": "Patti Ramu ki - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3200b2d0-9960-450e-906b-12ae75580268",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "4d35de19-6329-46d0-bef5-0bec75a0dd1a",
+                    "boundaryNum": 1,
+                    "name": "Patti Ramu ki - WARD_9",
+                    "localname": "Patti Ramu ki - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a8d94e7-92f1-41d1-aa94-0749ff85e87d",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "588f17ba-310a-4e7c-b326-49092c152946",
+                    "boundaryNum": 1,
+                    "name": "Patti Mahmad ki - WARD_10",
+                    "localname": "Patti Mahmad ki - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "576e4e2a-87c2-456c-b9f2-fabcd6cb0669",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "bade2953-81d7-438c-8973-e6157dbbef5b",
+                    "boundaryNum": 1,
+                    "name": "Patti Mahmad ki - WARD_11",
+                    "localname": "Patti Mahmad ki - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
