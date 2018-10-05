@@ -1,0 +1,333 @@
+{
+  "tenantId": "pb.nadala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nadala",
+        "localname": "Nadala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nadala",
+        "children": [
+          {
+            "id": "5810c9c9-eb1a-4884-97f2-c0d217f78498",
+            "boundaryNum": 1,
+            "name": "Nadala",
+            "localname": "Nadala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "adb1f6cc-06b6-4059-b969-084b8e3bc74c",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 1",
+                "children": [
+                  {
+                    "id": "36c17c1e-75ee-4a2c-9539-d0d224303715",
+                    "boundaryNum": 1,
+                    "name": "kutia mohalla - Ward No. 1",
+                    "localname": "kutia mohalla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fb85f158-2656-4ed2-bbc3-64a1cb95dbd5",
+                    "boundaryNum": 1,
+                    "name": "Chugawan road - Ward No. 1",
+                    "localname": "Chugawan road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b48fc882-3266-442a-9599-1505174953ca",
+                    "boundaryNum": 1,
+                    "name": "Dr. Mehar singh colony - Ward No. 1",
+                    "localname": "Dr. Mehar singh colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "252954d4-17df-417b-b634-1c6fe8b531f0",
+                    "boundaryNum": 1,
+                    "name": "Adda Nadala road - Ward No. 1",
+                    "localname": "Adda Nadala road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e564aa1b-dfbd-484b-b718-3b3829f471af",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 2",
+                "children": [
+                  {
+                    "id": "377ecc25-803a-425f-a0cd-a4687d98aef2",
+                    "boundaryNum": 1,
+                    "name": "Bilpur - Ward No. 2",
+                    "localname": "Bilpur - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0fa222b9-4ce4-4ca1-861f-567afaf54920",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 3",
+                "children": [
+                  {
+                    "id": "adadb7d9-4352-4c3b-9817-3d4798394479",
+                    "boundaryNum": 1,
+                    "name": "Bholath road walia wali street - Ward No. 3",
+                    "localname": "Bholath road walia wali street - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "334ce272-f6b0-4d93-8b4f-65adae5be918",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 4",
+                "children": [
+                  {
+                    "id": "c41165c0-ca70-429e-8457-572988413201",
+                    "boundaryNum": 1,
+                    "name": "Jaggi marg - Ward No. 4",
+                    "localname": "Jaggi marg - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "385c6f5b-50dd-4318-8c14-4772c3738695",
+                    "boundaryNum": 1,
+                    "name": "Khakha wala mohalla - Ward No. 4",
+                    "localname": "Khakha wala mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "998fce8a-f27a-4e96-a2e1-f9ad47ee377f",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 5",
+                "children": [
+                  {
+                    "id": "f5d67b3f-aa4a-48a4-a431-f4e81a62e9d1",
+                    "boundaryNum": 1,
+                    "name": "Pandita da mohalla - Ward No. 5",
+                    "localname": "Pandita da mohalla - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c68b839a-e881-433f-b9cf-415c8360b5b4",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 6",
+                "children": []
+              },
+              {
+                "id": "858700d0-0b4c-48d1-98cb-f853a9a559cd",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 7",
+                "children": []
+              },
+              {
+                "id": "8441dc10-89ef-4f67-83a4-f6082048d942",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 8",
+                "children": [
+                  {
+                    "id": "c5a3cafd-5976-4421-aaa9-13c8c363edf0",
+                    "boundaryNum": 1,
+                    "name": "Mana wala mohalla - Ward No. 8",
+                    "localname": "Mana wala mohalla - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4db79c1-a805-45b2-899d-7938c331a923",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 9",
+                "children": [
+                  {
+                    "id": "88412c24-2c77-4026-8f45-59fafdbdb02f",
+                    "boundaryNum": 1,
+                    "name": "Khajura wala Mohalla - Ward No. 9",
+                    "localname": "Khajura wala Mohalla - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a26b99f-7379-4bde-8ed6-3a965c3a0b83",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 10",
+                "children": [
+                  {
+                    "id": "15aa1370-589b-47b3-b1aa-7ac5884dffe2",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla - Ward No. 10",
+                    "localname": "Balmik Mohalla - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "df93cbaa-6369-4403-bb76-672f09606de8",
+                    "boundaryNum": 1,
+                    "name": "subhanpur road laxmi colony - Ward No. 10",
+                    "localname": "subhanpur road laxmi colony - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "07ba72cc-959c-48c5-ab4f-168d9bba5a64",
+                    "boundaryNum": 1,
+                    "name": "Goldan avinew - Ward No. 10",
+                    "localname": "Goldan avinew - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd1df74b-dd98-4ab9-a287-172db6d51980",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 11",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
