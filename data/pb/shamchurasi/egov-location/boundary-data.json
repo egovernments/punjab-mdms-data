@@ -451,6 +451,252 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "shamchurasi",
+        "localname": "shamchurasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.shamchurasi",
+        "children": [
+          {
+            "id": "f1eb5c7d-18ac-4d02-a1c3-3b018d8a7518",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "72f74a16-3c0d-430f-8328-0a8118f9aa8d",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "4096e0b5-8513-42b2-b52d-9ac20163b3ad",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Dhobian,Mohalla Behalan - B1",
+                    "localname": "Mohalla Dhobian,Mohalla Behalan - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_1",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "526adc93-6510-4fda-93db-857bd121b86f",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "f3c1c446-8bae-4a74-a5c7-768b6d2b677d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Gujratian,Arya Samaj Mandir Gali,Mohalla Mochian,Main Bazar Chowk - B2",
+                    "localname": "Mohalla Gujratian,Arya Samaj Mandir Gali,Mohalla Mochian,Main Bazar Chowk - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b670058-966e-4925-aa91-86d933b72add",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "e28bb49e-9ad4-4a9b-a82a-5bce98e58227",
+                    "boundaryNum": 1,
+                    "name": "New Model Town Colony/Navi Abaadi,Haryana Road,Post Office Road - B3",
+                    "localname": "New Model Town Colony/Navi Abaadi,Haryana Road,Post Office Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3face337-bf6c-41f8-9cd3-90996f7f3945",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "9fe84493-b460-43aa-b624-65490d843baa",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mehmoodkan,Mohalla Chembian, - B4",
+                    "localname": "Mohalla Mehmoodkan,Mohalla Chembian, - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_4",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "121b69eb-7d0e-4e2f-9ff6-dfa822b61715",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "c706dfaa-8721-4719-ad5b-d06b46868035",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thakuran,Mohalla Mehmoodkan,Kotli Road, - B5",
+                    "localname": "Mohalla Thakuran,Mohalla Mehmoodkan,Kotli Road, - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_5",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c2100029-74f7-4700-ae03-133c35883717",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "edaaf5b9-8b2a-4c8a-9d37-efebfc377d3e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ghumaran,Mohalla Rai Khan - B6",
+                    "localname": "Mohalla Ghumaran,Mohalla Rai Khan - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_6",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5922500-77c5-459e-80b6-453241b40553",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "01f36864-0dcd-49b5-bbf0-149fd6ca13e4",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Partian,Mohalla Shergiran,Circle road - B7",
+                    "localname": "Mohalla Partian,Mohalla Shergiran,Circle road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aad9c23a-fc9b-47bc-91da-2ebf0bcc30c5",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "a36ae8e7-9466-4dc6-9132-120079975502",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Thakuran,Mohalla Shergiran North Side,West Cirlce Road Kotli Road,Mohalla Ghumaran - B8",
+                    "localname": "Mohalla Thakuran,Mohalla Shergiran North Side,West Cirlce Road Kotli Road,Mohalla Ghumaran - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_8",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3160a5b3-d9f3-49d8-9388-35b717c2dda2",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "b1b424bf-bc1b-4989-8a85-3225c62c6bf1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Behlan,Mohalla Chowk Naian,Chowk Partian - B9",
+                    "localname": "Mohalla Behlan,Mohalla Chowk Naian,Chowk Partian - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SHM_9",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
