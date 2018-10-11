@@ -1,0 +1,600 @@
+{
+  "tenantId": "pb.srihargobindpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Srihargobindpur",
+        "localname": "Srihargobindpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.srihargobindpur",
+        "children": [
+          {
+            "id": "0206dbed-bfdc-4b25-8750-c07888146bce",
+            "boundaryNum": 1,
+            "name": "SriHargobindpur",
+            "localname": "SriHargobindpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "HPZN1",
+            "children": [
+              {
+                "id": "9e1ae376-d890-4a0d-a593-b7b068c038d9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "16e9ebf6-2827-4125-855b-be7a21447184",
+                    "boundaryNum": 1,
+                    "name": "Old Post Office road - WARD_1",
+                    "localname": "Old Post Office road - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "db12e5f1-d689-4293-9b8f-0836047f3c41",
+                    "boundaryNum": 1,
+                    "name": "Galli Ramdasia di - WARD_1",
+                    "localname": "Galli Ramdasia di - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c7f9a269-6653-44da-a085-7000cd4d3be8",
+                    "boundaryNum": 1,
+                    "name": "Shahmana Chowk - WARD_1",
+                    "localname": "Shahmana Chowk - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f5f05bd7-e326-49a9-83fa-bb81252b8924",
+                    "boundaryNum": 1,
+                    "name": "Tabbra Mohalla - WARD_1",
+                    "localname": "Tabbra Mohalla - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "058d7038-d993-4c2e-b79a-a60c7110cd2f",
+                    "boundaryNum": 1,
+                    "name": "Tambra  Mohalla - WARD_1",
+                    "localname": "Tambra  Mohalla - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eb9de2db-b5fc-4c91-a224-c42e8a1df765",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "49f97856-b9f0-47c2-beb0-b017f5ccdc8e",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Tarkhana da - WARD_2",
+                    "localname": "Mohalla Tarkhana da - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8cbbf99b-021d-413e-afba-9936bafe75dc",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Arraiyan - WARD_2",
+                    "localname": "Mohalla Arraiyan - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "90e2f35f-f453-4db0-ba51-c6e4f2c6ae65",
+                    "boundaryNum": 1,
+                    "name": "Galli Ghumiara di - WARD_2",
+                    "localname": "Galli Ghumiara di - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71909d48-0d9f-4911-9231-a5843f057b74",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "ae2400f6-6bfb-47db-96f4-08779ac1cefa",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Purian - WARD_3",
+                    "localname": "Mohalla Purian - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8b3dbf5d-efcc-4b84-9a82-89a53b35f1fb",
+                    "boundaryNum": 1,
+                    "name": "Krishan mandir - WARD_3",
+                    "localname": "Krishan mandir - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c724896-af6a-44c3-b47e-b12ca82d7416",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "03e019ae-5f47-4098-9eaa-fe3215f5073d",
+                    "boundaryNum": 1,
+                    "name": "Guru di galli - WARD_4",
+                    "localname": "Guru di galli - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4c24249f-c8a0-412e-ab7a-09f9f397d9bd",
+                    "boundaryNum": 1,
+                    "name": "Gali Aroriyan Di - WARD_4",
+                    "localname": "Gali Aroriyan Di - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b615c36f-c9d9-410c-86b4-0b6a2c980fc4",
+                    "boundaryNum": 1,
+                    "name": "Gali Julkia Di - WARD_4",
+                    "localname": "Gali Julkia Di - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bb28e8b3-c550-4051-a132-daf8c8d236c8",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bawian di - WARD_4",
+                    "localname": "Mohalla Bawian di - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c90f5f7-f48a-4e68-aa18-29e4fc968c0a",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "35b7a8bf-33fd-41c0-9f0f-5d46a00f42d8",
+                    "boundaryNum": 1,
+                    "name": "Mohalla khosla - WARD_5",
+                    "localname": "Mohalla khosla - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "13f36e0a-15e3-4ed0-a8bd-8d4460768bfc",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bhaghta - WARD_5",
+                    "localname": "Mohalla Bhaghta - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "994ab0a6-09d0-47f0-9c25-f35118e2997f",
+                    "boundaryNum": 1,
+                    "name": "Chabutra Chowk - WARD_5",
+                    "localname": "Chabutra Chowk - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09b13468-4d71-4dc8-85a4-711657f8b5d5",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bajaja - WARD_5",
+                    "localname": "Mohalla Bajaja - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69115830-ec50-42fc-8660-c55958054c62",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "4c631f42-f240-4f48-8faf-fd026d90c45d",
+                    "boundaryNum": 1,
+                    "name": "Lahori Gate - WARD_6",
+                    "localname": "Lahori Gate - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d582ffce-1e5a-40ca-9380-7e2c65d22a16",
+                    "boundaryNum": 1,
+                    "name": "Talwara Ghatti - WARD_6",
+                    "localname": "Talwara Ghatti - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "14e0a010-60f8-4237-a5ab-3cebcd6dd8ac",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kokali - WARD_6",
+                    "localname": "Mohalla Kokali - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a26bdfce-9acf-45ce-a425-29472c62a7d9",
+                    "boundaryNum": 1,
+                    "name": "Gali Bihara Singh - WARD_6",
+                    "localname": "Gali Bihara Singh - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48a4fcee-2f21-4248-9b18-4068421df292",
+                    "boundaryNum": 1,
+                    "name": "Purana Bus Stand - WARD_6",
+                    "localname": "Purana Bus Stand - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66c1e6be-5dcb-4b9e-a941-7678c1b23d78",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "8ba3c2e0-5db4-4806-a1d0-3391d7692aa6",
+                    "boundaryNum": 1,
+                    "name": "Old Electrcity Office - WARD_7",
+                    "localname": "Old Electrcity Office - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "feb50652-9f69-4605-a95f-0582e05ce5ff",
+                    "boundaryNum": 1,
+                    "name": "Batala Road - WARD_7",
+                    "localname": "Batala Road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6b258e86-3e2d-4070-9ca9-995204c3726e",
+                    "boundaryNum": 1,
+                    "name": "Amritsar Road - WARD_7",
+                    "localname": "Amritsar Road - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a5f3c937-8c2a-4411-b278-55387608384e",
+                    "boundaryNum": 1,
+                    "name": "Bdo office - WARD_7",
+                    "localname": "Bdo office - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8fdbc248-312f-42aa-8d02-23fdefe7c86e",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "0c6ff2e6-7d76-46f7-aa18-b29f71a8edbb",
+                    "boundaryNum": 1,
+                    "name": "Talwara Mohalla - WARD_8",
+                    "localname": "Talwara Mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f661bd95-58d2-4dc5-b943-371bf67fd812",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "78788d3a-aa83-4eaa-b747-a28d32bea9fe",
+                    "boundaryNum": 1,
+                    "name": "Rampura Talwara Road - WARD_9",
+                    "localname": "Rampura Talwara Road - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e3ce0c3-3318-467e-a12b-475351fd1670",
+                    "boundaryNum": 1,
+                    "name": "Rampura Mohalla - WARD_9",
+                    "localname": "Rampura Mohalla - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a31a69fa-3154-4aa1-a147-e362449e2a79",
+                    "boundaryNum": 1,
+                    "name": "Cheema Colony - WARD_9",
+                    "localname": "Cheema Colony - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f7ef6359-7596-41e4-ae30-9f8e13258001",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "7e1e1a77-f86e-4148-88b5-010d6acb02be",
+                    "boundaryNum": 1,
+                    "name": "Gurdaspur Road - WARD_10",
+                    "localname": "Gurdaspur Road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f650672-712b-48c5-bec6-94b6be69a93b",
+                    "boundaryNum": 1,
+                    "name": "Santokhpur - WARD_10",
+                    "localname": "Santokhpur - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a089b23d-f0f7-4ffc-a9f1-97f59347dc4d",
+                    "boundaryNum": 1,
+                    "name": "Bhokhra Mohalla - WARD_10",
+                    "localname": "Bhokhra Mohalla - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d3233d91-1a45-4015-91b4-8e99586e3b0a",
+                    "boundaryNum": 1,
+                    "name": "Sainia Mohalla - WARD_10",
+                    "localname": "Sainia Mohalla - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b56c5fb7-787f-41c2-9893-3e028294a5f1",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "ea467f9a-1764-444b-8783-17769b8b4cd6",
+                    "boundaryNum": 1,
+                    "name": "Gurdaspur Road Right side - WARD_11",
+                    "localname": "Gurdaspur Road Right side - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "HP35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
