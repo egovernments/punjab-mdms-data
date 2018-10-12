@@ -2802,6 +2802,28 @@
       "path": "Property Report"
     },
     {
+      "id": 9998,
+      "name": "BND Login",
+      "url": "/customization/protected/bndlogin",
+      "displayName": "BND Login",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PGRCUSTOMSERVICE",
+      "code": "null",
+      "path": "BDN Login"
+    },
+    {
+      "id": 9997,
+      "name": "BND Credentials Update",
+      "url": "/customization/protected/bndlogin/update",
+      "displayName": "BND Credentials Update",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PGRCUSTOMSERVICE",
+      "code": "null",
+      "path": "BND Credentials Update"
+    },
+    {
       "id": 9999,
       "name": "PGR LME Report",
       "url": "/customization/protected/reports/lmereport",
