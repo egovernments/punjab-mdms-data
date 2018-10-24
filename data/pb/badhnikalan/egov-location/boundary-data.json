@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.badhnikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Badhnikalan",
+        "localname": "Badhnikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.badhnikalan",
+        "children": [
+          {
+            "id": "6344a3e5-4984-4a6f-8c92-180d39d6cc86",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "10c92e58-a075-491d-bd2b-538db19a435f",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "cc4884d9-e02f-42f6-bdef-c349f8ee1290",
+                    "boundaryNum": 1,
+                    "name": "MALWA SCHOOL, SARHIND FEADER CANAL/SALLO PATTI HAL  Block 1 - B1",
+                    "localname": "MALWA SCHOOL, SARHIND FEADER CANAL/SALLO PATTI HAL  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7774b58-3848-40dc-830e-71995eb7e376",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "8f98da8e-4c42-4c6d-9e4e-caad47b69625",
+                    "boundaryNum": 1,
+                    "name": "NANKA GATE TO SLAAR PATTI, BHOPO PATTI  Block 2 - B2",
+                    "localname": "NANKA GATE TO SLAAR PATTI, BHOPO PATTI  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b786c3b-2c11-4d28-850c-4024cf324579",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "4fb3b216-c8f1-4a28-b133-81537eb110f5",
+                    "boundaryNum": 1,
+                    "name": "BHAJAN BASTI, JOHAL PATTI  Block 3 - B3",
+                    "localname": "BHAJAN BASTI, JOHAL PATTI  Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fde04e07-c677-4d19-b48f-7c5d316941ee",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "71f8bc43-2531-48b0-a659-e2752d1ba044",
+                    "boundaryNum": 1,
+                    "name": "FEED FACTORY, POWER GRID  Block 4 - B4",
+                    "localname": "FEED FACTORY, POWER GRID  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f61bbfff-983d-45ca-b6d6-22a06bf3cc5c",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "580e4532-fd21-47fa-9024-03782dc6610b",
+                    "boundaryNum": 1,
+                    "name": "OFFICE NAGAR PANCHAYAT BADHNI KALAN, KOTHE KHAJAN KE  Block 5 - B5",
+                    "localname": "OFFICE NAGAR PANCHAYAT BADHNI KALAN, KOTHE KHAJAN KE  Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8eb7af38-025e-49ce-9d31-8d0ad4823278",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "a17e88a1-ed7b-497b-bc43-37d19a5d0f4e",
+                    "boundaryNum": 1,
+                    "name": "ANGHEEN GAUSHALLA, DANA MANDI ANAJ MANDI  Block 6 - B6",
+                    "localname": "ANGHEEN GAUSHALLA, DANA MANDI ANAJ MANDI  Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c1c50fa1-293d-476e-9685-6b4f0785ba60",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "ecfc1313-84a2-424f-bc52-a068c2c5d7ba",
+                    "boundaryNum": 1,
+                    "name": "MASJID, PURANA BAZAR  Block 7 - B7",
+                    "localname": "MASJID, PURANA BAZAR  Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1bcf4079-31a9-4b57-a49f-df9058626301",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "4ffbf743-f346-4d6a-ac13-69b4390f4387",
+                    "boundaryNum": 1,
+                    "name": "BEDI MARKET, OLD MANDI RAUKE ROAD  Block 8 - B8",
+                    "localname": "BEDI MARKET, OLD MANDI RAUKE ROAD  Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88defc5d-a772-4777-800f-f4dad40e6978",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "cf7fa071-e1ac-49bb-bdde-6aeacb3244ee",
+                    "boundaryNum": 1,
+                    "name": "BALVEER PALACE, GILLA BASTI  Block 9 - B9",
+                    "localname": "BALVEER PALACE, GILLA BASTI  Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "acd6d809-6872-4360-96f9-da71c09d0fa6",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "cb3823e4-b2cc-4dd2-ae0a-deaf28f0b6ea",
+                    "boundaryNum": 1,
+                    "name": "ARO RAUKE ROAD, LALI DI WARHI  Block 10 - B10",
+                    "localname": "ARO RAUKE ROAD, LALI DI WARHI  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48b9ff47-6682-422b-9cff-fbb03f348bba",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "4e40e927-a45d-41f0-94de-e1f880615a6d",
+                    "boundaryNum": 1,
+                    "name": "BABA JEWAN SINGH NAGAR, DASHMESH SCHOOL  Block 11 - B11",
+                    "localname": "BABA JEWAN SINGH NAGAR, DASHMESH SCHOOL  Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89408dab-077e-4c50-bcf3-8ce2927dcbd9",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "57292624-cd9b-44be-adf6-414d89dc1d16",
+                    "boundaryNum": 1,
+                    "name": "VEERO PATTI, BABA GAAME SHA BASTI  Block 12 - B12",
+                    "localname": "VEERO PATTI, BABA GAAME SHA BASTI  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-12",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5305ed3-b215-4b06-b65a-f9c219d06675",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "df58687d-07a4-4666-89e9-c629518e9199",
+                    "boundaryNum": 1,
+                    "name": "VERO PATTI AND DANA PATTI  Block 13 - B13",
+                    "localname": "VERO PATTI AND DANA PATTI  Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC-13",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
