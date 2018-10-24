@@ -1,0 +1,394 @@
+{
+  "tenantId": "pb.bhikhiwind",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhikhiwind",
+        "localname": "Bhikhiwind",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhikhiwind",
+        "children": [
+          {
+            "id": "cb98eac9-bfd2-4050-a50e-88ca6944229e",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4a687539-7fc5-4416-b8f5-fafdf93a2fe8",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "1c260779-9111-470e-94fe-f85666d22945",
+                    "boundaryNum": 1,
+                    "name": "Blair road  Block 1 - B1",
+                    "localname": "Blair road  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "332471f2-d727-4689-bb24-cd1120bc5247",
+                    "boundaryNum": 1,
+                    "name": "Garden colony  Block 1 - B1",
+                    "localname": "Garden colony  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B1",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d18580f-4089-42e6-804c-042107cf5e36",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": []
+              },
+              {
+                "id": "bfefa406-c8fe-4a61-8f90-4a7183daa309",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": []
+              },
+              {
+                "id": "bd1c3d72-6d8d-4e05-97da-f1d0790c94d6",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "3033ef74-8a95-45db-95ec-d653cbbfd773",
+                    "boundaryNum": 1,
+                    "name": "Mandir bazar Block 4 - B4",
+                    "localname": "Mandir bazar Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "850d4556-a8ee-4cd7-9fc9-f568ab3ddc23",
+                    "boundaryNum": 1,
+                    "name": "sondhi mohalla Block 4 - B4",
+                    "localname": "sondhi mohalla Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c905db85-556f-40cc-b126-2206cf637179",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "2c084aa7-cbff-4395-b279-8fbf52488f7d",
+                    "boundaryNum": 1,
+                    "name": "Parveem medical store wali gali Block 5 - B5",
+                    "localname": "Parveem medical store wali gali Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f263a13-3c1f-4023-a5c4-7599da11a30c",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "b3d404dc-e05b-4a76-aa05-afbe62490764",
+                    "boundaryNum": 1,
+                    "name": "amrit hospital wali Mohalla Block 6 - B6",
+                    "localname": "amrit hospital wali Mohalla Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "30f009d1-b4e8-40e7-a0e5-16fb6ab95edf",
+                    "boundaryNum": 1,
+                    "name": "Passi colony Block 6 - B6",
+                    "localname": "Passi colony Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3115b425-679c-409f-8351-e55da1e0c186",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "8e5a430d-3e1c-4860-996e-e4b94cd0da09",
+                    "boundaryNum": 1,
+                    "name": "Chela colony Block 7 - B7",
+                    "localname": "Chela colony Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d18dbfe-3831-4a29-9bed-cdc9ff1a5235",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "082f941b-4a70-4082-8f35-a6768bfe35b1",
+                    "boundaryNum": 1,
+                    "name": "Chela colony Block 8 - B8",
+                    "localname": "Chela colony Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8f7a0f47-ca38-45b2-b1b0-49c43285bd9d",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "617af7e3-ff01-447f-992e-530fa6115fec",
+                    "boundaryNum": 1,
+                    "name": "Doctor karnal wali gali Block 9 - B9",
+                    "localname": "Doctor karnal wali gali Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ecf5e4cd-9dad-40b3-bc83-cecde0ee9510",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "2a6feca0-8b5d-4f54-a6ff-f1c705f3f307",
+                    "boundaryNum": 1,
+                    "name": "kanda Mohalla Block 10 - B10",
+                    "localname": "kanda Mohalla Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e09b35aa-4966-44bf-bea5-600269e93cbb",
+                    "boundaryNum": 1,
+                    "name": "kakkar mohalla Block 10 - B10",
+                    "localname": "kakkar mohalla Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "794284df-6805-4be8-bd8f-f82838410f1f",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "78dce356-5a9b-49c3-8a64-a1a664611dbb",
+                    "boundaryNum": 1,
+                    "name": "Bagri mohalla Block 11 - B11",
+                    "localname": "Bagri mohalla Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1f22e8f6-8868-44f9-bef4-0181e851c677",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "65909e89-6997-4040-9445-7f74c605d10d",
+                    "boundaryNum": 1,
+                    "name": "bedi market Block 12 - B12",
+                    "localname": "bedi market Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7a84166a-9626-4aa5-91da-21399df63769",
+                    "boundaryNum": 1,
+                    "name": "Sadanand wali gali  Block 12 - B12",
+                    "localname": "Sadanand wali gali  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a473c14e-e187-4b8b-be70-079fbc52a17b",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "eb64e90e-e25e-494b-9d4f-a4125ee1f977",
+                    "boundaryNum": 1,
+                    "name": "Pulaha Mohalla  Block 13 - B13",
+                    "localname": "Pulaha Mohalla  Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1b5caa09-a21f-44b6-bdf0-e6b1afecfeef",
+                    "boundaryNum": 1,
+                    "name": "Rice mill wali gali  Block 13 - B13",
+                    "localname": "Rice mill wali gali  Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
