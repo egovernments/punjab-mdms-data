@@ -331,6 +331,431 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotfatta",
+        "localname": "Kotfatta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotfatta",
+        "children": [
+          {
+            "id": "395bf404-dc43-463e-a456-6c9fd73eb732",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1a162ce1-ec80-489a-b236-a8cec8e69fa7",
+                "boundaryNum": 1,
+                "name": "Block1A",
+                "localname": "Block1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "289c3110-a46a-45ac-9244-7a769a7b253d",
+                    "boundaryNum": 1,
+                    "name": "Govt School road Block1A - B1A",
+                    "localname": "Govt School road Block1A - B1A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5546a16-7056-445c-b9b3-2f4df11b5fb1",
+                "boundaryNum": 1,
+                "name": "Block2A",
+                "localname": "Block2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "4b070034-fd37-4707-9355-d8c16c711d86",
+                    "boundaryNum": 1,
+                    "name": "Water wakes rood  Block2B - B2A",
+                    "localname": "Water wakes rood  Block2B - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd5262fa-ddf9-48c7-8626-5b9b05395c99",
+                "boundaryNum": 1,
+                "name": "Block9A",
+                "localname": "Block9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9A",
+                "children": [
+                  {
+                    "id": "b197565e-d513-4b47-99c2-e17d41eae9b9",
+                    "boundaryNum": 1,
+                    "name": "Main (vada) Bus Stand rood  Block9A - B9A",
+                    "localname": "Main (vada) Bus Stand rood  Block9A - B9A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3158d47-dcf6-4974-a52f-7ed2c3b571aa",
+                "boundaryNum": 1,
+                "name": "Block10A",
+                "localname": "Block10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10A",
+                "children": [
+                  {
+                    "id": "56b88667-044d-4ad4-ae6e-8775f8c7d54b",
+                    "boundaryNum": 1,
+                    "name": "Kuldeep Singh mc house rood Block10A - B10A",
+                    "localname": "Kuldeep Singh mc house rood Block10A - B10A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "958713cf-97a9-4266-8920-9d6b9073b35a",
+                "boundaryNum": 1,
+                "name": "Block11B",
+                "localname": "Block11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2bb88d61-2401-444c-bac9-c4238fae3acf",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "74aa76b3-919a-455c-bd52-c0a02dc58a6a",
+                "boundaryNum": 1,
+                "name": "Block1B",
+                "localname": "Block1B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1B",
+                "children": [
+                  {
+                    "id": "b1e8c80e-fd5d-4efe-9bbd-30c77ea87c39",
+                    "boundaryNum": 1,
+                    "name": "Decpensery road  Block1B - B1B",
+                    "localname": "Decpensery road  Block1B - B1B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "151200c4-746f-472c-99a1-708fe10efe0c",
+                "boundaryNum": 1,
+                "name": "Block2B",
+                "localname": "Block2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "4b070034-fd37-4707-9355-d8c16c711d86",
+                    "boundaryNum": 1,
+                    "name": "Water wakes rood  Block2B - B2A",
+                    "localname": "Water wakes rood  Block2B - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8d3ca99-38bd-4e50-af88-da768deb951c",
+                "boundaryNum": 1,
+                "name": "Block3",
+                "localname": "Block3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "66b5249a-ed1e-4c2b-b1a9-89bb55edd0c4",
+                    "boundaryNum": 1,
+                    "name": "wadha Khu rood  Block3 - B3",
+                    "localname": "wadha Khu rood  Block3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afd2d169-139e-4bb6-b197-df59ff7065fe",
+                "boundaryNum": 1,
+                "name": "Block4",
+                "localname": "Block4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "8247d3d8-4384-4097-8d7b-82eeab8dec6a",
+                    "boundaryNum": 1,
+                    "name": "Bhader Singh Aulkh house rood Block4 - B4",
+                    "localname": "Bhader Singh Aulkh house rood Block4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2aa7427-9a7e-4d5b-b7fa-6c59b54164d7",
+                "boundaryNum": 1,
+                "name": "Block5",
+                "localname": "Block5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "db75da41-5a56-4fdf-8985-67b8c520d6a5",
+                    "boundaryNum": 1,
+                    "name": "Gurmail Singh ex mc rood Block5 - B5",
+                    "localname": "Gurmail Singh ex mc rood Block5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3abf7fce-9fcb-4e20-84d5-73ac7bccfaa3",
+                "boundaryNum": 1,
+                "name": "Block6",
+                "localname": "Block6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "4bfae13c-3bd2-46ed-9b3f-98c6c1feed47",
+                    "boundaryNum": 1,
+                    "name": "Gurdeep Singh mc rood  Block6 - B6",
+                    "localname": "Gurdeep Singh mc rood  Block6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2bc63613-82a3-4733-8bbf-14d41e555158",
+                "boundaryNum": 1,
+                "name": "Block7",
+                "localname": "Block7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "e7e00bfc-6974-4a1c-b316-0638eb89c3a7",
+                    "boundaryNum": 1,
+                    "name": "Amrjeet Kaur mc rood  Block7 - B7",
+                    "localname": "Amrjeet Kaur mc rood  Block7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e40edd27-ff0c-4929-95ca-0c6f686c85b1",
+                "boundaryNum": 1,
+                "name": "Block8",
+                "localname": "Block8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "4894e572-7a34-48cd-9365-a6d4f8b8f04d",
+                    "boundaryNum": 1,
+                    "name": "Vice prisident Tejbir Singh Dhillon rood Block8 - B8",
+                    "localname": "Vice prisident Tejbir Singh Dhillon rood Block8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8ede92cc-4d66-4508-adfc-414344b5b6c5",
+                "boundaryNum": 1,
+                "name": "Block9B",
+                "localname": "Block9B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9B",
+                "children": [
+                  {
+                    "id": "cb49c6ae-f1a6-40e8-95c0-531fcdff0ba0",
+                    "boundaryNum": 1,
+                    "name": "Chuhr Singh house rood Block9B - B9B",
+                    "localname": "Chuhr Singh house rood Block9B - B9B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63398fdc-f1b7-425d-9532-74978c0443cd",
+                "boundaryNum": 1,
+                "name": "Block10B",
+                "localname": "Block10B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10B",
+                "children": [
+                  {
+                    "id": "964cef8a-9071-4957-90cb-6b4970bc69a4",
+                    "boundaryNum": 1,
+                    "name": "Angrej Singh house rood  Block10B - B10B",
+                    "localname": "Angrej Singh house rood  Block10B - B10B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84d64982-16cf-4082-b146-1aa35c9bbc69",
+                "boundaryNum": 1,
+                "name": "Block11B",
+                "localname": "Block11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11B",
+                "children": [
+                  {
+                    "id": "b9dc1d2c-a9ac-4a5e-ac9c-b924f0effd04",
+                    "boundaryNum": 1,
+                    "name": "Gege mall house rood Block11B - B11B",
+                    "localname": "Gege mall house rood Block11B - B11B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bb06026c-e738-4647-8069-9f1db93cfa19",
+                    "boundaryNum": 1,
+                    "name": "Dleep Singh Vann wala house rood  Block11B - B11B",
+                    "localname": "Dleep Singh Vann wala house rood  Block11B - B11B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
