@@ -715,6 +715,528 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khamano",
+        "localname": "Khamano",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.khamano",
+        "children": [
+          {
+            "id": "f247c816-e276-469e-881f-89fcff937902",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3eddc7b7-8f5f-4f6d-ae49-68021874f25b",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "3c1e4bc5-9a3a-4556-b5fe-1bb972534480",
+                    "boundaryNum": 1,
+                    "name": "NH95 Sun City Colony Khamano Khurd Block 1 - B1",
+                    "localname": "NH95 Sun City Colony Khamano Khurd Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "533363ed-b871-4173-bfd3-71e8815de9fd",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "34e04374-2dde-4516-8f71-2be6563340bb",
+                    "boundaryNum": 1,
+                    "name": "Amrala Road to Main Road Khamano Khurd Block 2 - B2",
+                    "localname": "Amrala Road to Main Road Khamano Khurd Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40a7afc4-03a6-47e2-9f0a-dfcf5181dfb8",
+                    "boundaryNum": 1,
+                    "name": "Amrala Road to Water Works Khamano Khurd Block 2 - B2",
+                    "localname": "Amrala Road to Water Works Khamano Khurd Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "78f42c33-ad01-4201-ba5b-6a88e6fb7b4c",
+                    "boundaryNum": 1,
+                    "name": "Near Gurudwara Ronty Sahib Khamano Khurd Block 2 - B2",
+                    "localname": "Near Gurudwara Ronty Sahib Khamano Khurd Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f897b9d1-658a-47da-b520-3c39b99c5a88",
+                    "boundaryNum": 1,
+                    "name": "Ghumaran Da Mohalla Khamanon Khurd Block 2 - B2",
+                    "localname": "Ghumaran Da Mohalla Khamanon Khurd Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64a0d5b9-1ca5-4765-a444-86ea9edcabff",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "f343bd50-e691-473d-bf0b-dcc34cba71e9",
+                    "boundaryNum": 1,
+                    "name": "Godown Road Khamano Kalan Block 3 - B3",
+                    "localname": "Godown Road Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "acf92d6b-80c4-43af-8c34-6b03c2ce22e6",
+                    "boundaryNum": 1,
+                    "name": "Phirni Khamano Kalan Block 3 - B3",
+                    "localname": "Phirni Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5d2964e3-68b7-4d52-8e69-9384b7a1a2ab",
+                    "boundaryNum": 1,
+                    "name": "Pati Baba Ram Singh Khamano Kalan Block 3 - B3",
+                    "localname": "Pati Baba Ram Singh Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1e6e06a8-cd58-4d2b-ba72-20ccf8f2366d",
+                    "boundaryNum": 1,
+                    "name": "16 Di Pati Khamano Kalan Block 3 - B3",
+                    "localname": "16 Di Pati Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cde941bf-de20-4769-ad45-9493a86a79da",
+                    "boundaryNum": 1,
+                    "name": "8 Di Pati Khamano Kalan Block 3 - B3",
+                    "localname": "8 Di Pati Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bec3dc59-bad8-4fee-8e4b-8c2ce35d2219",
+                    "boundaryNum": 1,
+                    "name": "Pati Baba Gajja Singh Khamano Kalan Block 3 - B3",
+                    "localname": "Pati Baba Gajja Singh Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f6a6d26f-3c1b-4d33-8339-833385c14b6f",
+                    "boundaryNum": 1,
+                    "name": "Purana Bazar Khamano Kalan Block 3 - B3",
+                    "localname": "Purana Bazar Khamano Kalan Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e7e3a64-bad3-49de-a0b6-08d186aad3af",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "1cb7e388-faa5-474f-bd3d-bd2f996614a0",
+                    "boundaryNum": 1,
+                    "name": "Badeshan Road Khamano Kalan Block 4 - B4",
+                    "localname": "Badeshan Road Khamano Kalan Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7f856d0-f418-4c66-be77-6ab9225b6270",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "25297830-1b21-4447-b742-492cb12a58a8",
+                    "boundaryNum": 1,
+                    "name": "Mandir Road Khamano Kalan Block 5 - B5",
+                    "localname": "Mandir Road Khamano Kalan Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "058aa568-42a4-4d92-ba54-f1ec30ad8170",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "14729f27-c814-449d-aebf-12c6352723e4",
+                    "boundaryNum": 1,
+                    "name": "Mansoodpur Road khamano Kamli Block 6 - B6",
+                    "localname": "Mansoodpur Road khamano Kamli Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_25",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f20060f-4186-4ed1-8ac1-e217b2eb6958",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "889c04c2-289b-4381-a2e1-c8b35a5a776a",
+                    "boundaryNum": 1,
+                    "name": "Dishmesh Nagar Khamano Kamli Block 7 - B7",
+                    "localname": "Dishmesh Nagar Khamano Kamli Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_22",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c97cca09-afe2-46db-a35c-6dba96aa3164",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "fa9da29b-ba44-496e-84cb-79f2e4b754ec",
+                    "boundaryNum": 1,
+                    "name": "Main Road Khamano Kamli Block 8 - B8",
+                    "localname": "Main Road Khamano Kamli Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_17",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "26b03ac4-655b-49af-bedd-125ec8da8621",
+                    "boundaryNum": 1,
+                    "name": "Mehma Singh Colony Khamano Kamli Block 8 - B8",
+                    "localname": "Mehma Singh Colony Khamano Kamli Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_19",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d9ef573-44d7-43a3-b1d5-c28738befc41",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "86cb456e-fdfa-45b8-ad45-df55d09081bb",
+                    "boundaryNum": 1,
+                    "name": "Railway Road Khamano Kamli Block 9 - B9",
+                    "localname": "Railway Road Khamano Kamli Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_26",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41bc937e-3861-4269-a556-1ac5b93afd79",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "0ea49b8d-dc0b-459f-bf49-2f8769509daa",
+                    "boundaryNum": 1,
+                    "name": "Rajindra Colony Khamano Kamli Block 10 - B10",
+                    "localname": "Rajindra Colony Khamano Kamli Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_24",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "df934285-ca56-4225-8e6a-889a43bccd37",
+                    "boundaryNum": 1,
+                    "name": "Mata Sheetla Mata Mandir Road Khamano Kamli Block 10 - B10",
+                    "localname": "Mata Sheetla Mata Mandir Road Khamano Kamli Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_27",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4495cf99-34e8-4862-b69f-d46c49121a60",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "ab9b72a5-2058-442d-80d6-a6095f582486",
+                    "boundaryNum": 1,
+                    "name": "Kang Market Khamano Kamli Block 11 - B11",
+                    "localname": "Kang Market Khamano Kamli Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_20",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "24ea772b-cbcf-4777-aaa9-98c3aac2e7e8",
+                    "boundaryNum": 1,
+                    "name": "Vijay Colony Khamano Kamli Block 11 - B11",
+                    "localname": "Vijay Colony Khamano Kamli Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_21",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "831920ac-8c2e-40e1-a588-288b4062469a",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "55bbe190-f7c1-4ed3-9aa4-4143d2895e7c",
+                    "boundaryNum": 1,
+                    "name": "Khanna Road Khamano Kamli Block 12 - B12",
+                    "localname": "Khanna Road Khamano Kamli Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_18",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8591adf5-33b9-4b45-b658-2d8e5de5137a",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "6c39ce1f-a99b-4fd7-8fa0-06bfb24981c7",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Complex Road Khamano Kalan Block 13 - B13",
+                    "localname": "Tehsil Complex Road Khamano Kalan Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8d7f8a9e-0ee1-4352-92a7-916742b44931",
+                    "boundaryNum": 1,
+                    "name": "Bilaspur Road khamano Kamli Block 13 - B13",
+                    "localname": "Bilaspur Road khamano Kamli Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_23",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d6e3b0b-dc70-4578-923c-26047fed7989",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "2778d2ab-1e5b-486f-85b8-595d568e865a",
+                    "boundaryNum": 1,
+                    "name": "Petrol Pump Road Khamano Kalan Block 14 - B14",
+                    "localname": "Petrol Pump Road Khamano Kalan Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
