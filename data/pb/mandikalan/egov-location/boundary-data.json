@@ -1,0 +1,288 @@
+{
+  "tenantId": "pb.mandikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mandikalan",
+        "localname": "Mandikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mandikalan",
+        "children": [
+          {
+            "id": "8db2b0c0-e9c4-4ed5-a2bf-3d84b4022edf",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8e9e0aea-fb30-46de-963c-cef76994ab66",
+                "boundaryNum": 1,
+                "name": "Block-01",
+                "localname": "Block-01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "36f90805-4818-4dd4-8d96-2e9f10f54c8f",
+                    "boundaryNum": 1,
+                    "name": "OFFICE NAGAR PANCHAYAT TO LOCAL GURDWARA VIA MEHTA CHOWNK - B1",
+                    "localname": "OFFICE NAGAR PANCHAYAT TO LOCAL GURDWARA VIA MEHTA CHOWNK - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6408f23d-1706-4015-888f-abc8d1922297",
+                    "boundaryNum": 1,
+                    "name": "MEHTA CHOWNK TO SUKHI DOCTOR HOUSE - B1",
+                    "localname": "MEHTA CHOWNK TO SUKHI DOCTOR HOUSE - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "230c218c-e800-4d46-9fa5-8c77b676f5bb",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA TO MOR SHOP TO DHILWAN GWAD TO GOVT.DAIRY SAMADHAN WALA CHOWNK TO PHIRNI - B1",
+                    "localname": "LOCAL GURDWARA TO MOR SHOP TO DHILWAN GWAD TO GOVT.DAIRY SAMADHAN WALA CHOWNK TO PHIRNI - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "15fd6254-7470-4b61-b54e-57eb168ba5cc",
+                    "boundaryNum": 1,
+                    "name": "CHOURASTE TO BABA KA THADA TO PHIRNI - B1",
+                    "localname": "CHOURASTE TO BABA KA THADA TO PHIRNI - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01e5be24-9a33-4021-990d-3a9ec8d74e87",
+                    "boundaryNum": 1,
+                    "name": "CHOURASTA TO GURDWARA BUNGA SAHIB MAIN GATE - B1",
+                    "localname": "CHOURASTA TO GURDWARA BUNGA SAHIB MAIN GATE - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2571f3d-ee22-49b2-ab21-c45e72e38346",
+                    "boundaryNum": 1,
+                    "name": "NAREGA BHAWAN TO PHIRNI - B1",
+                    "localname": "NAREGA BHAWAN TO PHIRNI - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9e028a31-54b7-4607-b703-15e8a0606b8a",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA TO PITHO WALI SADAK - B1",
+                    "localname": "LOCAL GURDWARA TO PITHO WALI SADAK - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e221eda3-72a0-4bf7-a3b7-0d09904c9407",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA TO EAST SIDE PHIRNI THEN NORTH SIDE - B1",
+                    "localname": "LOCAL GURDWARA TO EAST SIDE PHIRNI THEN NORTH SIDE - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d91c606-ec1f-4c54-bf35-eb1c04e22a55",
+                    "boundaryNum": 1,
+                    "name": "BABA KA THADA TO PHIRNI - B1",
+                    "localname": "BABA KA THADA TO PHIRNI - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77e7b555-986f-432d-93b0-af31a53ab387",
+                    "boundaryNum": 1,
+                    "name": "BALLUANA TIBBA TO PIRKHANA NP LIMIT - B1",
+                    "localname": "BALLUANA TIBBA TO PIRKHANA NP LIMIT - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "81c7b61c-9c55-425a-94f0-69f9f3c1b49a",
+                    "boundaryNum": 1,
+                    "name": "BUS STAND TO GIRLS SCHOOL PHIRNI TO DRAIN - B1",
+                    "localname": "BUS STAND TO GIRLS SCHOOL PHIRNI TO DRAIN - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d1da5b1-2b82-49ac-b418-5d5f25727f56",
+                    "boundaryNum": 1,
+                    "name": "GIRLS SCHOOL TO KHALSA VARIATY STORE TO OFFICE NAGAR PANCHAYAT MANDI KALAN - B1",
+                    "localname": "GIRLS SCHOOL TO KHALSA VARIATY STORE TO OFFICE NAGAR PANCHAYAT MANDI KALAN - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7bfe57cb-5cc7-4b99-a0dc-1f20a8462eed",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "8d93d901-b87f-4ddf-be9a-e8342e841aa4",
+                "boundaryNum": 1,
+                "name": "Block-02",
+                "localname": "Block-02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "80df17d9-c32f-4334-89e8-42842ffdc1c8",
+                    "boundaryNum": 1,
+                    "name": "MEHTA CHOWNK TO ANGREJ KAUR MC STREET TO GURNAND SINGH STREET TO POND TO PHIRNI - B2",
+                    "localname": "MEHTA CHOWNK TO ANGREJ KAUR MC STREET TO GURNAND SINGH STREET TO POND TO PHIRNI - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "61d4b4fd-52b4-4e90-a9c6-ba1d1f44110a",
+                    "boundaryNum": 1,
+                    "name": "KHOKAR STREET TO GURDEV SINGH MEMBER STREET TO RAMU KI PATTI OUTSIDE PHIRNI - B2",
+                    "localname": "KHOKAR STREET TO GURDEV SINGH MEMBER STREET TO RAMU KI PATTI OUTSIDE PHIRNI - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ef5f3cb2-23ea-4ff8-94ba-33095594a52f",
+                    "boundaryNum": 1,
+                    "name": "BACKSIDE OF DARSHAN SINGH COACH HOUSE TO PRIMARY SCHOOL - B2",
+                    "localname": "BACKSIDE OF DARSHAN SINGH COACH HOUSE TO PRIMARY SCHOOL - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "12599f5d-8d63-42db-a4d4-49c71e46fd90",
+                    "boundaryNum": 1,
+                    "name": "JAND TO RAJ DRIVER STREET TO PHIRNI - B2",
+                    "localname": "JAND TO RAJ DRIVER STREET TO PHIRNI - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b4968613-2c1b-40fd-8dfd-796abb01ebce",
+                    "boundaryNum": 1,
+                    "name": "BAZIGAR BASTI TO KHALSA VARIATY STORE - B2",
+                    "localname": "BAZIGAR BASTI TO KHALSA VARIATY STORE - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5ba0feef-1dc8-4df4-97a7-468b4cee6c7c",
+                    "boundaryNum": 1,
+                    "name": "WATER WORKS AREA OF  WARD NO 3 AND 4 AND BAZIGAR BASTI - B2",
+                    "localname": "WATER WORKS AREA OF  WARD NO 3 AND 4 AND BAZIGAR BASTI - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
