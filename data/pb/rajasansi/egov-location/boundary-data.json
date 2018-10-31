@@ -1,0 +1,1308 @@
+{
+  "tenantId": "pb.rajasansi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajasansi",
+        "localname": "Rajasansi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.rajasansi",
+        "children": [
+          {
+            "id": "73ee36c1-7d9f-4d8e-933e-9b280e8f6e98",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e852a863-9402-4772-8da9-445e5ad7fae8",
+                "boundaryNum": 1,
+                "name": "Block 2A",
+                "localname": "Block 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "55bcaf38-d52a-416b-8294-3458800867d6",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Block 2A - B2A",
+                    "localname": "Main Bazar Block 2A - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "420174dc-8a8b-4a15-a538-86ca21b1682e",
+                    "boundaryNum": 1,
+                    "name": "Gali Vazira Wali Block 2A - B2A",
+                    "localname": "Gali Vazira Wali Block 2A - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5c17a27-6caf-4385-8e80-36dd8d5b9f1a",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "87610316-629e-4e31-ae60-743bc9a8647c",
+                    "boundaryNum": 1,
+                    "name": "Gali Dr.Achar Singh Wali Block 3 - B3",
+                    "localname": "Gali Dr.Achar Singh Wali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "253a6df7-2a7d-401f-9c5d-9cf7540b1b5f",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumiara wali Block 3 - B3",
+                    "localname": "Gali Ghumiara wali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8fa668b2-b9d4-48da-b976-8aa1f0ad307b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Block 3 - B3",
+                    "localname": "Main Bazar Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d6bce384-23d5-4f3f-a076-404dd93dd4ad",
+                    "boundaryNum": 1,
+                    "name": "Gali malkiat Singh sabka sarpanch Block 3 - B3",
+                    "localname": "Gali malkiat Singh sabka sarpanch Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "78c88fd7-85ea-4089-9f3b-c4d8047b29db",
+                    "boundaryNum": 1,
+                    "name": "Adli wala road Left side Block 3 - B3",
+                    "localname": "Adli wala road Left side Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63d0e5ef-f59f-4d62-a208-ea61a50c19ea",
+                    "boundaryNum": 1,
+                    "name": "Gali Pahota Wali Block 3 - B3",
+                    "localname": "Gali Pahota Wali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6cc23de8-5320-4461-995e-be8b96bf6106",
+                    "boundaryNum": 1,
+                    "name": "Gali Vazira Wali Block 3 - B3",
+                    "localname": "Gali Vazira Wali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ead0101f-aa1a-4075-a197-1d33ca0b252a",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "225fae80-b19c-49d5-814f-574eb7a6c80e",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Airport Block 4 - B4",
+                    "localname": "Ajnala Road Airport Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "32663913-9c25-4951-b081-c6344284b020",
+                    "boundaryNum": 1,
+                    "name": "Gali Dhobhian Wali Block 4 - B4",
+                    "localname": "Gali Dhobhian Wali Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "91c20da6-629b-4f13-9081-246aa7637d68",
+                    "boundaryNum": 1,
+                    "name": "New colony samne Hawai Adda Block 4 - B4",
+                    "localname": "New colony samne Hawai Adda Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_21",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16538381-7e93-4b33-90b1-a168c8fc1fdf",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "9930b774-2ce4-4c52-8501-a415437a7c22",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Air port Colony Block 5 - B5",
+                    "localname": "Ajnala Road Air port Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "07037591-54e8-4cf2-adcf-7f2855cbb775",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Left Side Khoo Choor Singh Block 5 - B5",
+                    "localname": "Ajnala Road Left Side Khoo Choor Singh Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47c6c262-18f6-439e-9eb7-33d8f4ff2886",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Civil Colony Air Port Block 5 - B5",
+                    "localname": "Ajnala Road Civil Colony Air Port Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31239bc2-5d6c-4404-a0ed-036e7ab71358",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Left Side Khoo Choor Singh Block 5 - B5",
+                    "localname": "Ajnala Road Left Side Khoo Choor Singh Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9f44fd11-1a99-4f20-80b4-d740fd0232e1",
+                    "boundaryNum": 1,
+                    "name": "Colony Baba Jawand Singh Ajnala Road Block 5 - B5",
+                    "localname": "Colony Baba Jawand Singh Ajnala Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bc64f71-02f2-4ec2-8eea-f30a6259e377",
+                    "boundaryNum": 1,
+                    "name": "Colony Baba Jawand Singh Ajnala Road Block 5 - B5",
+                    "localname": "Colony Baba Jawand Singh Ajnala Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fd7ff886-a8bb-4776-a621-0372cec517f4",
+                    "boundaryNum": 1,
+                    "name": "nawa Adda Raja Sansi Block 5 - B5",
+                    "localname": "nawa Adda Raja Sansi Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a3b91383-6808-4c74-aaa8-f3187c506062",
+                    "boundaryNum": 1,
+                    "name": "Nawi Colony Samne Hawai adda Block 5 - B5",
+                    "localname": "Nawi Colony Samne Hawai adda Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "aea453d0-b775-4724-941d-a98be256a974",
+                    "boundaryNum": 1,
+                    "name": "Nawi Colony Samne Hawai adda Block 5 - B5",
+                    "localname": "Nawi Colony Samne Hawai adda Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a5549735-a386-4010-a5aa-41248d421ec9",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "68b61a98-d6fa-48ab-a33e-e729dcab07e3",
+                    "boundaryNum": 1,
+                    "name": "Khoo lalian Wala Nawi Colony Block 6 - B6",
+                    "localname": "Khoo lalian Wala Nawi Colony Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c26695f7-22c2-43b4-a131-7a4b69f2493d",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Air Port Colony Block 6 - B6",
+                    "localname": "Ajnala Road Air Port Colony Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8c135470-acdb-4d3c-8b8c-0e086c507d23",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Left Side Khoo Choor Singh Block 6 - B6",
+                    "localname": "Ajnala Road Left Side Khoo Choor Singh Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5eaeecc-3827-444b-94dc-fe0a45ab48eb",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Civil Colony Air Port Block 6 - B6",
+                    "localname": "Ajnala Road Civil Colony Air Port Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_34",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "567cf050-8899-45fc-9a8d-30462fa10ec3",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Left Side Khoo Choor Singh Block 6 - B6",
+                    "localname": "Ajnala Road Left Side Khoo Choor Singh Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5582c70-bc67-4a57-9c9a-44c5b13ccf8d",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Near Ajit Palace Block 6 - B6",
+                    "localname": "Ajnala Road Near Ajit Palace Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d2acffbe-e2e7-43f1-ab20-b62409e95330",
+                    "boundaryNum": 1,
+                    "name": "Colony Baba Jawand Singh Ajnala Road Block 6 - B6",
+                    "localname": "Colony Baba Jawand Singh Ajnala Road Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_37",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a86d9b05-3c9b-42bc-bc6b-4e64352474ea",
+                    "boundaryNum": 1,
+                    "name": "Mohala Machine Wala Mandir Devi Dwara Block 6 - B6",
+                    "localname": "Mohala Machine Wala Mandir Devi Dwara Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_38",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8492d35-638d-41a7-a909-b77b322bc85a",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "2faaf8b6-7057-47c4-a1e9-e735adfcca20",
+                    "boundaryNum": 1,
+                    "name": "Mohala Pritam Singh gali Bazaja Walai Block 7 - B7",
+                    "localname": "Mohala Pritam Singh gali Bazaja Walai Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_40",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f78caaa1-f94a-4dda-9d86-6690863c90c5",
+                    "boundaryNum": 1,
+                    "name": "Gali Lohe Wali Block 7 - B7",
+                    "localname": "Gali Lohe Wali Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_41",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd7a8011-14e0-4710-adfd-e73985801b72",
+                    "boundaryNum": 1,
+                    "name": "Gali Sehjada Block 7 - B7",
+                    "localname": "Gali Sehjada Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_42",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6124227b-fd83-4cf4-a8db-aa7f8c0851df",
+                    "boundaryNum": 1,
+                    "name": "Main Bz.samne Gurdwara Singh Sabha Block 7 - B7",
+                    "localname": "Main Bz.samne Gurdwara Singh Sabha Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_43",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6a02489a-e615-4bac-93d4-cbb337dfd693",
+                    "boundaryNum": 1,
+                    "name": "Mohala Pritam Singh Gali Lohe Wali Block 7 - B7",
+                    "localname": "Mohala Pritam Singh Gali Lohe Wali Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_44",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fdf9c540-5394-496f-be82-c1534ff7c7df",
+                    "boundaryNum": 1,
+                    "name": "Mohala Pritam Singh Gali Lohe Wali Block 7 - B7",
+                    "localname": "Mohala Pritam Singh Gali Lohe Wali Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_45",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a10cbca-11e8-4313-a694-7b000b5d3225",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "46578d88-9332-4c68-8bd3-691b2b5a28bf",
+                    "boundaryNum": 1,
+                    "name": "Gali Achar Singh Wali Block 8 - B8",
+                    "localname": "Gali Achar Singh Wali Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_46",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1d0fe43e-387d-4412-a2dd-102ac0d767f8",
+                    "boundaryNum": 1,
+                    "name": "Gali Samb Wali Block 8 - B8",
+                    "localname": "Gali Samb Wali Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_47",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f3cbb24-1abf-42c7-aeb1-1a09a0adec76",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumiara Wali Block 8 - B8",
+                    "localname": "Gali Ghumiara Wali Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_48",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d716aaba-28d9-4558-9428-d6db3a200637",
+                    "boundaryNum": 1,
+                    "name": "Gali Jaildara Wali Block 8 - B8",
+                    "localname": "Gali Jaildara Wali Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7a63eea2-a9f3-40a4-8493-9fff98f1a16d",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Block 8 - B8",
+                    "localname": "Main Bazar Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_50",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8799d23d-6533-42a2-b87a-3d71fce9aed1",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Gurdwara Kalighar Block 8 - B8",
+                    "localname": "Main Bazar Gurdwara Kalighar Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_51",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "afd2295f-76f9-4b0d-8249-da46270029a7",
+                    "boundaryNum": 1,
+                    "name": "Gali Gurdwara Kaligidhar Block 8 - B8",
+                    "localname": "Gali Gurdwara Kaligidhar Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_52",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5074f5c8-91ba-4cbc-9554-c2e11e34a9b5",
+                    "boundaryNum": 1,
+                    "name": "Gali malkiat Singh sabka sarpanch Block 8 - B8",
+                    "localname": "Gali malkiat Singh sabka sarpanch Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_53",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "328e0d48-242c-4483-856d-5073ea9e793e",
+                    "boundaryNum": 1,
+                    "name": "gali Ghaa Mandi Block 8 - B8",
+                    "localname": "gali Ghaa Mandi Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_54",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fcfc7b64-a3f6-48a4-b35a-d8ed0492e265",
+                    "boundaryNum": 1,
+                    "name": "Gali jaildara wali Block 8 - B8",
+                    "localname": "Gali jaildara wali Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_55",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eb288820-7de7-4e10-9c89-c6b4c71dbd9e",
+                    "boundaryNum": 1,
+                    "name": "Gali Wazira Wal;i Block 8 - B8",
+                    "localname": "Gali Wazira Wal;i Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_56",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0395d87a-9aeb-4205-8950-334b616975bc",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "ae7040a9-07d6-4688-a1b9-58fe1a59a6e1",
+                    "boundaryNum": 1,
+                    "name": "Ghaa Mandi Road Block 9 - B9",
+                    "localname": "Ghaa Mandi Road Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_57",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3df9c9e-96a0-4fc9-b1a9-aa93f76e0957",
+                    "boundaryNum": 1,
+                    "name": "Gali Mistri Mehar Singh wali Block 9 - B9",
+                    "localname": "Gali Mistri Mehar Singh wali Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_58",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3b93a01e-c41f-486a-807b-126211406f17",
+                    "boundaryNum": 1,
+                    "name": "Gali Mistri Mehar Singh wali Block 9 - B9",
+                    "localname": "Gali Mistri Mehar Singh wali Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_59",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "119a2570-58ed-4858-8ff9-7929d94ba036",
+                    "boundaryNum": 1,
+                    "name": "Mandi Rajasansi Block 9 - B9",
+                    "localname": "Mandi Rajasansi Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_60",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4cd22036-d8e6-437a-a8dd-ef4471541f5e",
+                    "boundaryNum": 1,
+                    "name": "Main Bz.Gali Lohara Wali Block 9 - B9",
+                    "localname": "Main Bz.Gali Lohara Wali Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_61",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d1215df2-2cb6-41bf-b43d-6dda39019677",
+                    "boundaryNum": 1,
+                    "name": "Samne Bagichi Block 9 - B9",
+                    "localname": "Samne Bagichi Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_62",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d7190ca2-590a-41de-af69-c7917fbf471d",
+                    "boundaryNum": 1,
+                    "name": "Samne Bagichi Block 9 - B9",
+                    "localname": "Samne Bagichi Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_63",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fbd6b58-8730-4295-b9d0-020da947f86e",
+                "boundaryNum": 1,
+                "name": "Block 12A",
+                "localname": "Block 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12A",
+                "children": [
+                  {
+                    "id": "67d5effb-dc6b-4664-a97e-f00ef513ea48",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumiara wali Block 12A - B12A",
+                    "localname": "Gali Ghumiara wali Block 12A - B12A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_81",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "762c40fe-4930-4efa-9692-32d93ee57c2b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Block 12A - B12A",
+                    "localname": "Main Bazar Block 12A - B12A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_82",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f50c49b5-5b4a-450c-8fa5-f49e783356f1",
+                    "boundaryNum": 1,
+                    "name": "Main Bz.Gurdwara kalgidhar Block 12A - B12A",
+                    "localname": "Main Bz.Gurdwara kalgidhar Block 12A - B12A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_83",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0e28c64b-3beb-46e1-bc26-4dea3883068b",
+                    "boundaryNum": 1,
+                    "name": "Gali Vazira Wali Block 12A - B12A",
+                    "localname": "Gali Vazira Wali Block 12A - B12A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_86",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "4de54403-083b-43f5-b2d6-c7855f95f3c5",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "90d3739d-f287-4bc4-bdc4-c4d5f73a5a9e",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "f1904a63-d332-4220-bd3f-5015e6be5d42",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 1 - B1",
+                    "localname": "Mohala Gandhi Nagar Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "650b9386-462c-4aff-af54-ca4f79628c57",
+                    "boundaryNum": 1,
+                    "name": "Main Bz.Gurdwara kalgidhar Block 1 - B1",
+                    "localname": "Main Bz.Gurdwara kalgidhar Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9e18281d-1ff3-426d-ac35-da8fce571ed4",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumiara wali Block 1 - B1",
+                    "localname": "Gali Ghumiara wali Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_3",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5364312-fa87-4c6e-b938-42063efdebe3",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "d0b3126c-1c8b-4ce7-aed5-5dda7805af0b",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 2 - B2",
+                    "localname": "Mohala Gandhi Nagar Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "53995a37-e276-4919-b479-fdd4fac1cfd1",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumiara wali Block 2 - B2",
+                    "localname": "Gali Ghumiara wali Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "aea04525-319f-49b4-ac79-89615a57fed5",
+                    "boundaryNum": 1,
+                    "name": "Gali jaildara wali Block 2 - B2",
+                    "localname": "Gali jaildara wali Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "008409c0-0479-4e91-83ae-25a2a310bd40",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Kalgidhar Block 2 - B2",
+                    "localname": "Gurdwara Kalgidhar Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2bc26ea0-e1a7-47ee-9fbb-75aa90a7a517",
+                    "boundaryNum": 1,
+                    "name": "Gali malkiat Singh sabka sarpanch Block 2 - B2",
+                    "localname": "Gali malkiat Singh sabka sarpanch Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fcfb0aa2-5e23-45d9-a8c4-44920d573355",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 2 - B2",
+                    "localname": "Mohala Gandhi Nagar Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec034ccb-b673-4036-bc6b-ce1085c63c9d",
+                "boundaryNum": 1,
+                "name": "Block 6A",
+                "localname": "Block 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6A",
+                "children": [
+                  {
+                    "id": "0f04063d-8cc7-4a63-bc75-328880ebd293",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 6A - B6A",
+                    "localname": "Mohala Gandhi Nagar Block 6A - B6A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_39",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76cd5823-29a1-464d-8d3c-9c2ccf41983e",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "4e36ac60-e173-4dcd-97a8-3b03766c0c80",
+                    "boundaryNum": 1,
+                    "name": "Pritam Singh Gali Bazaja wali Main Bz Block 10 - B10",
+                    "localname": "Pritam Singh Gali Bazaja wali Main Bz Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_64",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "06f66ee4-73f7-4511-bcef-5f2b88f1f2d8",
+                    "boundaryNum": 1,
+                    "name": "Mohala Thakur Singh gali Ghumiara Wali Block 10 - B10",
+                    "localname": "Mohala Thakur Singh gali Ghumiara Wali Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_65",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4497a4d1-9f8a-4e9d-a3c6-9f9b2a867caa",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 10 - B10",
+                    "localname": "Mohala Gandhi Nagar Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_66",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "453dee0b-9702-4b00-9af6-1b5ab70376e4",
+                    "boundaryNum": 1,
+                    "name": "Gali Lohe wali Block 10 - B10",
+                    "localname": "Gali Lohe wali Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_67",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1d989424-2a55-455e-afc0-10904dc5f934",
+                    "boundaryNum": 1,
+                    "name": "Mohala Pritam Singh Gali Lohe Wali Block 10 - B10",
+                    "localname": "Mohala Pritam Singh Gali Lohe Wali Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_68",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "78132c2f-b41a-440e-987a-cd98f9f817b1",
+                    "boundaryNum": 1,
+                    "name": "Mohala Thakur Singh  Block 10 - B10",
+                    "localname": "Mohala Thakur Singh  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_69",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "726a92a9-ca37-4be9-8159-872054cafd2e",
+                    "boundaryNum": 1,
+                    "name": "Mohala Thakur Singh  Block 10 - B10",
+                    "localname": "Mohala Thakur Singh  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_70",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f0bb503c-2a1d-4924-bafb-c0acef9a5841",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "ad0731d9-694b-48b1-ab1b-ec77a1162f93",
+                    "boundaryNum": 1,
+                    "name": "Pritam Singh Gali Bazaja wali Main Bz Block 11 - B11",
+                    "localname": "Pritam Singh Gali Bazaja wali Main Bz Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_71",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "02357632-139e-4bb4-a098-ab089950b6b8",
+                    "boundaryNum": 1,
+                    "name": "Mohala Thakur Singh gali Ghumiara Wali Block 11 - B11",
+                    "localname": "Mohala Thakur Singh gali Ghumiara Wali Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_72",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d76cf12a-ffbb-424f-b82e-0ef1359b0a94",
+                    "boundaryNum": 1,
+                    "name": "Gali jaildara wali Block 11 - B11",
+                    "localname": "Gali jaildara wali Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_73",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "686aac33-ee05-4b0d-86be-7c095bc64a25",
+                    "boundaryNum": 1,
+                    "name": "Gali Lohara Wali Block 11 - B11",
+                    "localname": "Gali Lohara Wali Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_74",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ca9650ab-f176-4915-88a6-7179ee66ef5d",
+                    "boundaryNum": 1,
+                    "name": "Main Bz.samne Mohla Thakur Singh wala Block 11 - B11",
+                    "localname": "Main Bz.samne Mohla Thakur Singh wala Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_75",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "79aa1928-9bec-40af-82d8-54527a326be7",
+                    "boundaryNum": 1,
+                    "name": "Mohala Masit Wala Block 11 - B11",
+                    "localname": "Mohala Masit Wala Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_76",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3cb8db0e-03ce-4527-81b9-42c023743622",
+                    "boundaryNum": 1,
+                    "name": "Gali Sehjada Block 11 - B11",
+                    "localname": "Gali Sehjada Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_77",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ef316b3e-f78f-4154-b3ba-829861347185",
+                    "boundaryNum": 1,
+                    "name": "Gali Dhobhian Wali Block 11 - B11",
+                    "localname": "Gali Dhobhian Wali Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_78",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f93ca2e0-0090-43cc-95dc-9b4458449f35",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 11 - B11",
+                    "localname": "Mohala Gandhi Nagar Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_79",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6f2457a-0444-4b44-b8f5-cdf31d96639e",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "4e666fdb-73a6-4241-872f-3d3d13ee9601",
+                    "boundaryNum": 1,
+                    "name": "Gali Samb Wali Block 12 - B12",
+                    "localname": "Gali Samb Wali Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_80",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cf3d4c3c-c3db-4087-9aee-52b95b25ec48",
+                    "boundaryNum": 1,
+                    "name": "gali Ghaa Mandi Block 12 - B12",
+                    "localname": "gali Ghaa Mandi Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_84",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cf64ffef-391b-4f21-a99e-8edfc5c787d8",
+                    "boundaryNum": 1,
+                    "name": "Gali jaildara wali Block 12 - B12",
+                    "localname": "Gali jaildara wali Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_85",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c085c6d4-9496-4133-b9d5-006896e55f22",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "8e51b515-594b-4af9-af0e-f056c2069e0f",
+                    "boundaryNum": 1,
+                    "name": "Mohala Gandhi Nagar Block 13 - B13",
+                    "localname": "Mohala Gandhi Nagar Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_87",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ed2352e6-3350-42a6-8410-2ab23393a5cd",
+                    "boundaryNum": 1,
+                    "name": "Gali lohara wali Block 13 - B13",
+                    "localname": "Gali lohara wali Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_88",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5a9ff98c-9658-498a-9751-48be88301425",
+                    "boundaryNum": 1,
+                    "name": "Mohala Thakur Singh Block 13 - B13",
+                    "localname": "Mohala Thakur Singh Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RS_89",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
