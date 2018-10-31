@@ -1,0 +1,1368 @@
+{
+  "tenantId": "pb.ropar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ropar",
+        "localname": "Ropar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.ropar",
+        "children": [
+          {
+            "id": "64fe82c7-2609-4104-8888-9c795d35c5c1",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "26b6db7d-02d5-4e43-bbde-cb7e0a174142",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "83a32cb0-436b-4b1f-8113-80014d71d39e",
+                    "boundaryNum": 1,
+                    "name": "GIANI ZAIL SINGH NAGAR Block 1 - B1",
+                    "localname": "GIANI ZAIL SINGH NAGAR Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a519da1-9695-4776-a677-b4cb64374b3e",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "ee6736af-ba21-4131-8365-d74688e4392f",
+                    "boundaryNum": 1,
+                    "name": "MEERA BAI CHOWNK Block 2 - B2",
+                    "localname": "MEERA BAI CHOWNK Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eac53755-8933-4747-a2ff-9e26e8b349d0",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "6bfd0d99-f49d-495e-81f5-f3a77b92a2c7",
+                    "boundaryNum": 1,
+                    "name": "SHEIKHAAN MOHALLA Block 3 - B3",
+                    "localname": "SHEIKHAAN MOHALLA Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f3e9c74-7b1c-4d78-a9bd-19ea708b97ad",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "4af17b50-f60d-4317-a337-7123a2143f01",
+                    "boundaryNum": 1,
+                    "name": "CHANDERGARDH MOHALLA Block 4 - B4",
+                    "localname": "CHANDERGARDH MOHALLA Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3e7fd85-bf33-4a1f-9edd-6d6fb4736bee",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "8018104d-0a5f-4361-bbba-2f451ee09c4e",
+                    "boundaryNum": 1,
+                    "name": "JAIN MOHALLA Block 5 - B5",
+                    "localname": "JAIN MOHALLA Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d02a1c33-511e-4f13-a80d-10eadc4b8d99",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "0b647547-d9c1-437d-aa21-25fbb7ef0c65",
+                    "boundaryNum": 1,
+                    "name": "UCHA KHERA/CHHOTA KHERA Block 6 - B6",
+                    "localname": "UCHA KHERA/CHHOTA KHERA Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d48aaf5-59ef-4695-bb1a-43f9a72635f7",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "f666eb43-1190-4921-82fa-b83aa7643697",
+                    "boundaryNum": 1,
+                    "name": "MATA RANI MANDIR Block 7 - B7",
+                    "localname": "MATA RANI MANDIR Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "037b4405-86a5-4ba0-a789-ca60a4d499da",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "41a7b47c-2f08-4758-928c-784d31326ae5",
+                    "boundaryNum": 1,
+                    "name": "PHOOL CHAKKAR/ALI MOHALLA Block 8 - B8",
+                    "localname": "PHOOL CHAKKAR/ALI MOHALLA Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16718b49-51bd-4918-a8ba-614b787db24f",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "9c871e29-91fc-4db6-9e85-1d1cc29bc039",
+                    "boundaryNum": 1,
+                    "name": "MIL MIL NAGAR Block 9 - B9",
+                    "localname": "MIL MIL NAGAR Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bfabc5e-2716-4cc6-8d0e-52be904c382f",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "a51d910e-30ca-46db-8d5f-21394f019bad",
+                    "boundaryNum": 1,
+                    "name": "PUCCA BAGH Block 10 - B10",
+                    "localname": "PUCCA BAGH Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd5b9699-7492-40d8-8c1c-75607cc3a2ec",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "c328f176-a976-42ad-a378-9a3a472a970a",
+                    "boundaryNum": 1,
+                    "name": "PARTAP BAZAR Block 11 - B11",
+                    "localname": "PARTAP BAZAR Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fee60215-3d82-45f3-93f2-7a3baa49d79b",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "474c8d08-93f4-48a9-acbd-db6a1068486f",
+                    "boundaryNum": 1,
+                    "name": "PREET COLONY  Block 12 - B12",
+                    "localname": "PREET COLONY  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d78c076-4d02-4a2e-9c1d-995205471fc4",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "985e66fa-23c2-4567-8f60-ee977fdb0ef6",
+                    "boundaryNum": 1,
+                    "name": "CHOA MOHALLA/GANDHI NAGAR Block 13 - B13",
+                    "localname": "CHOA MOHALLA/GANDHI NAGAR Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e4000c0e-5279-4f79-9715-4f52e28b798e",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "ec7219e8-69f1-4d8a-aaa4-797843f1dc5c",
+                    "boundaryNum": 1,
+                    "name": "COOPERATIVE BANK AND KHALSA SCHOOL Block 14 - B14",
+                    "localname": "COOPERATIVE BANK AND KHALSA SCHOOL Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e8ee1ef-dfd3-4625-a2bb-93c9d5cfcd7d",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "b1965bf6-84da-47a4-b07b-7bb19774b205",
+                    "boundaryNum": 1,
+                    "name": "DASHMESH NAGAR BELA PART Block 15 - B15",
+                    "localname": "DASHMESH NAGAR BELA PART Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1507df94-3739-4728-9f94-c806ac8fb452",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "55e94841-31de-4c20-9791-addcb0fd34c7",
+                    "boundaryNum": 1,
+                    "name": "GRANTHI BAGH  Block 16 - B16",
+                    "localname": "GRANTHI BAGH  Block 16 - B16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3262ee75-5c65-486b-b94d-040b20358d59",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "45a9edfd-f861-439c-89c7-b2f379fe4565",
+                    "boundaryNum": 1,
+                    "name": "SUNCIY Block 17 - B17",
+                    "localname": "SUNCIY Block 17 - B17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c24c8c63-4ba4-4870-9944-ca2abbeeac27",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "7fe431da-dc1c-4000-bf04-7850b0d7c9c8",
+                    "boundaryNum": 1,
+                    "name": "Rupnagar 1 Block 18 - B18",
+                    "localname": "Rupnagar 1 Block 18 - B18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c472021-975c-4f43-bcc1-b01b56792701",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "7d493c25-bb4d-4ccd-bc3b-7080d3519538",
+                    "boundaryNum": 1,
+                    "name": "ADARSH NAGAR Block 19 - B19",
+                    "localname": "ADARSH NAGAR Block 19 - B19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8888068-23ac-41d8-953d-da490bbbe787",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "4658e711-d93e-4deb-94c3-6ca99069a3b3",
+                    "boundaryNum": 1,
+                    "name": "SHIVALIK ENCLAVE Block 20 - B20",
+                    "localname": "SHIVALIK ENCLAVE Block 20 - B20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a53a80cf-1392-4f24-9eec-4909da1b3d40",
+                "boundaryNum": 1,
+                "name": "Block 21",
+                "localname": "Block 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21",
+                "children": [
+                  {
+                    "id": "78ed7a96-917b-4d92-844a-7978113f905d",
+                    "boundaryNum": 1,
+                    "name": "JUJHAR SINGH NAGAR Block 21 - B21",
+                    "localname": "JUJHAR SINGH NAGAR Block 21 - B21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_21",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e785ce59-0a49-42d6-a6a6-adba87f5a8fa",
+                "boundaryNum": 1,
+                "name": "Block 22",
+                "localname": "Block 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B22",
+                "children": [
+                  {
+                    "id": "8d1bdc76-019b-4d03-ba08-d1ff266dd566",
+                    "boundaryNum": 1,
+                    "name": "SHAHEED BHAGAT SINGH NAGAR Block 22 - B22",
+                    "localname": "SHAHEED BHAGAT SINGH NAGAR Block 22 - B22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_22",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39c4e03a-380f-4c82-b4ad-add2b47a0580",
+                "boundaryNum": 1,
+                "name": "Block 23",
+                "localname": "Block 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B23",
+                "children": [
+                  {
+                    "id": "ddf607ff-7149-40b4-b202-c3cc5be01930",
+                    "boundaryNum": 1,
+                    "name": "CHHOTI HAVELI Block 23 - B23",
+                    "localname": "CHHOTI HAVELI Block 23 - B23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_23",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba0c8cb5-23a9-43b8-af93-0b985d7008e7",
+                "boundaryNum": 1,
+                "name": "Block 24",
+                "localname": "Block 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B24",
+                "children": [
+                  {
+                    "id": "2f502e81-266d-4792-87ca-e2af6c341ca0",
+                    "boundaryNum": 1,
+                    "name": "SHAHEEDE AZAM BHAGAT SINGH NAGAR Block 24 - B24",
+                    "localname": "SHAHEEDE AZAM BHAGAT SINGH NAGAR Block 24 - B24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_24",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dc8c0ec8-2557-49be-8458-45713759d798",
+                "boundaryNum": 1,
+                "name": "Block 25",
+                "localname": "Block 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B25",
+                "children": [
+                  {
+                    "id": "2c015fd6-0728-4595-af81-d358e8dab3d3",
+                    "boundaryNum": 1,
+                    "name": "SUKHRAM COLONY  Block 25 - B25",
+                    "localname": "SUKHRAM COLONY  Block 25 - B25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_25",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab510ec0-60df-44d5-8821-1edff02cf8a6",
+                "boundaryNum": 1,
+                "name": "Block 26",
+                "localname": "Block 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B26",
+                "children": [
+                  {
+                    "id": "3beddbb1-98c7-4830-9efd-2db6407c6aa6",
+                    "boundaryNum": 1,
+                    "name": "KIRTI VIHAR Block 26 - B26",
+                    "localname": "KIRTI VIHAR Block 26 - B26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf5ae25b-58ba-422f-9f9a-744450c9f487",
+                "boundaryNum": 1,
+                "name": "Block 27",
+                "localname": "Block 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B27",
+                "children": [
+                  {
+                    "id": "aac8d789-cdeb-42b6-bb3d-d4f23af89450",
+                    "boundaryNum": 1,
+                    "name": "GURU TEG BAHADAR NAGAR Block 27 - B27",
+                    "localname": "GURU TEG BAHADAR NAGAR Block 27 - B27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a310a4f-6484-4f26-ad99-33539d2b782b",
+                "boundaryNum": 1,
+                "name": "Block 28",
+                "localname": "Block 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B28",
+                "children": [
+                  {
+                    "id": "948c56c7-1df2-44b1-a21c-eda0a873e0e8",
+                    "boundaryNum": 1,
+                    "name": "NEHRU NAGAR Block 28 - B28",
+                    "localname": "NEHRU NAGAR Block 28 - B28",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_28",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8163c532-cd8e-46ba-899d-370bba6947ee",
+                "boundaryNum": 1,
+                "name": "Block 29",
+                "localname": "Block 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B29",
+                "children": [
+                  {
+                    "id": "9ab26f5f-03f6-4792-86d3-a303348902b0",
+                    "boundaryNum": 1,
+                    "name": "PIARA SINGH COLONY/GURBAKSH COLONY Block 29 - B29",
+                    "localname": "PIARA SINGH COLONY/GURBAKSH COLONY Block 29 - B29",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bb74b13-18fb-4d6a-85be-1b9ce935cac2",
+                "boundaryNum": 1,
+                "name": "Block 30",
+                "localname": "Block 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B30",
+                "children": [
+                  {
+                    "id": "2f46dd78-c82d-497a-91be-75f9fa409157",
+                    "boundaryNum": 1,
+                    "name": "DASHMESH COLONY  Block 30 - B30",
+                    "localname": "DASHMESH COLONY  Block 30 - B30",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56865992-eef6-4320-ba46-0e909405045c",
+                "boundaryNum": 1,
+                "name": "Block 31",
+                "localname": "Block 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B31",
+                "children": [
+                  {
+                    "id": "c47b1256-6c29-4b0f-ae2b-8021632e97fc",
+                    "boundaryNum": 1,
+                    "name": "GARDEN COLONY Block 31 - B31",
+                    "localname": "GARDEN COLONY Block 31 - B31",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2566894b-7ffe-48ee-9b73-b9c09c9b6f05",
+                "boundaryNum": 1,
+                "name": "Block 32",
+                "localname": "Block 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B32",
+                "children": [
+                  {
+                    "id": "552ca6f5-24d6-4630-b98f-77968a832095",
+                    "boundaryNum": 1,
+                    "name": "DASHMESH NAGAR Block 32 - B32",
+                    "localname": "DASHMESH NAGAR Block 32 - B32",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_32",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7bcd270d-3d41-417e-a8f9-67257a4bed23",
+                "boundaryNum": 1,
+                "name": "Block 33",
+                "localname": "Block 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B33",
+                "children": [
+                  {
+                    "id": "ae43a9aa-7320-4e5d-9627-d3525c1375d9",
+                    "boundaryNum": 1,
+                    "name": "LAKHWINDERA ENCLAVE Block 33 - B33",
+                    "localname": "LAKHWINDERA ENCLAVE Block 33 - B33",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43dd1745-93f2-4c6f-8529-4f9588bae850",
+                "boundaryNum": 1,
+                "name": "Block 34",
+                "localname": "Block 34",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B34",
+                "children": [
+                  {
+                    "id": "354d4430-5606-467b-9b8f-288eedf94b72",
+                    "boundaryNum": 1,
+                    "name": "HARGOBIND NAGAR Block 34 - B34",
+                    "localname": "HARGOBIND NAGAR Block 34 - B34",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_34",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07a711e0-cbb0-47be-9dfb-68e89d16d329",
+                "boundaryNum": 1,
+                "name": "Block 35",
+                "localname": "Block 35",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B35",
+                "children": [
+                  {
+                    "id": "e288144d-7864-4d55-ab71-1e5aca24b3ad",
+                    "boundaryNum": 1,
+                    "name": "RANJIT AVENUE Block 35 - B35",
+                    "localname": "RANJIT AVENUE Block 35 - B35",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_35",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0829ccbe-f5f5-4492-b84e-de6352418c00",
+                "boundaryNum": 1,
+                "name": "Block 36",
+                "localname": "Block 36",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B36",
+                "children": [
+                  {
+                    "id": "67dd7fb3-34c7-43a1-ab90-bffd2d3a21fd",
+                    "boundaryNum": 1,
+                    "name": "BHAI LALO MARKET Block 36 - B36",
+                    "localname": "BHAI LALO MARKET Block 36 - B36",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_36",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fd798df0-131d-43e2-a778-c0dd5597aa1e",
+                "boundaryNum": 1,
+                "name": "Block 37",
+                "localname": "Block 37",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B37",
+                "children": [
+                  {
+                    "id": "a0940252-08f3-4af8-b7e1-f5a32baf0f52",
+                    "boundaryNum": 1,
+                    "name": "Rupnagar 2 Block 37 - B37",
+                    "localname": "Rupnagar 2 Block 37 - B37",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_37",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ff2d2735-02ba-4557-a229-bc18e912711b",
+                "boundaryNum": 1,
+                "name": "Block 38",
+                "localname": "Block 38",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B38",
+                "children": [
+                  {
+                    "id": "7e45bbc2-c823-4353-8e9e-867fb330ffe2",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZAR, PUL BAZAR TO KALYAN CINEMA Block 38 - B38",
+                    "localname": "MAIN BAZAR, PUL BAZAR TO KALYAN CINEMA Block 38 - B38",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_38",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f72c845-ffcc-44b5-8b5b-94829d50daa5",
+                "boundaryNum": 1,
+                "name": "Block 39",
+                "localname": "Block 39",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B39",
+                "children": [
+                  {
+                    "id": "1de9bc7e-d93a-47b1-bb46-fe19554f337e",
+                    "boundaryNum": 1,
+                    "name": "PUL BAZAR TO KALYAN CINEMA Block 39 - B39",
+                    "localname": "PUL BAZAR TO KALYAN CINEMA Block 39 - B39",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_39",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aacf9320-4d0c-4666-ab7e-8d0d80fd08eb",
+                "boundaryNum": 1,
+                "name": "Block 40",
+                "localname": "Block 40",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B40",
+                "children": [
+                  {
+                    "id": "bd6f4616-9a09-4e1e-b62f-069d492520d5",
+                    "boundaryNum": 1,
+                    "name": "ANIMAL HOSPITAL TO JAGGI MEDICAL STORE Block 40 - B40",
+                    "localname": "ANIMAL HOSPITAL TO JAGGI MEDICAL STORE Block 40 - B40",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_40",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a4564b10-43a8-44e4-b5e4-fb765d6e49d3",
+                "boundaryNum": 1,
+                "name": "Block 41",
+                "localname": "Block 41",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B41",
+                "children": [
+                  {
+                    "id": "ca9e8e20-3875-432e-864f-b961fb1aec35",
+                    "boundaryNum": 1,
+                    "name": "JAGGI MEDICAL STORE TO SINDH BANK Block 41 - B41",
+                    "localname": "JAGGI MEDICAL STORE TO SINDH BANK Block 41 - B41",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_41",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eee6124c-566f-4bd5-83f2-27ffcf2a1e95",
+                "boundaryNum": 1,
+                "name": "Block 42",
+                "localname": "Block 42",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B42",
+                "children": [
+                  {
+                    "id": "5a2d5abd-29ce-4bba-9c1d-d127085b61e1",
+                    "boundaryNum": 1,
+                    "name": "BEANT SINGH AMAN NAGAR Block 42 - B42",
+                    "localname": "BEANT SINGH AMAN NAGAR Block 42 - B42",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_42",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4052fb03-ce41-467a-a00f-3d1ec3e5fac2",
+                "boundaryNum": 1,
+                "name": "Block 43",
+                "localname": "Block 43",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B43",
+                "children": [
+                  {
+                    "id": "7edc55b6-41f4-4be1-b238-1b1711472fb2",
+                    "boundaryNum": 1,
+                    "name": "RAILWAY STATION TO NANGAL CHOWK Block 43 - B43",
+                    "localname": "RAILWAY STATION TO NANGAL CHOWK Block 43 - B43",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_43",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2af72511-24b2-4a8a-bde2-2e4c730bc306",
+                "boundaryNum": 1,
+                "name": "Block 44",
+                "localname": "Block 44",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B44",
+                "children": [
+                  {
+                    "id": "525c4315-6ac3-433e-918a-f76d524a370a",
+                    "boundaryNum": 1,
+                    "name": "NANGAL CHOWK TO J.R.THEATER Block 44 - B44",
+                    "localname": "NANGAL CHOWK TO J.R.THEATER Block 44 - B44",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_44",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "230fcb3e-0b6c-4baf-aa43-cf40b2c0e244",
+                "boundaryNum": 1,
+                "name": "Block 45",
+                "localname": "Block 45",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B45",
+                "children": [
+                  {
+                    "id": "77d93c33-ed7a-40a4-88a6-101e724373fa",
+                    "boundaryNum": 1,
+                    "name": "J.R.CINEMA TO R.T.P COLONY Block 45 - B45",
+                    "localname": "J.R.CINEMA TO R.T.P COLONY Block 45 - B45",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_45",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97c01243-62a3-48d7-a101-d728ab61b0fd",
+                "boundaryNum": 1,
+                "name": "Block 46",
+                "localname": "Block 46",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B46",
+                "children": [
+                  {
+                    "id": "357ac421-1a57-4796-b17f-f4ec5fc64436",
+                    "boundaryNum": 1,
+                    "name": "BASANT NAGAR TO SHASTRI NAGAR Block 46 - B46",
+                    "localname": "BASANT NAGAR TO SHASTRI NAGAR Block 46 - B46",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_46",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8425ab11-c512-42bf-bce5-36a8f1837f1e",
+                "boundaryNum": 1,
+                "name": "Block 47",
+                "localname": "Block 47",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B47",
+                "children": [
+                  {
+                    "id": "5e76e447-c4bf-4e87-961f-c6a500f01f19",
+                    "boundaryNum": 1,
+                    "name": "GURU NAGAR Block 47 - B47",
+                    "localname": "GURU NAGAR Block 47 - B47",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_47",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1fa2cd4d-be3a-477b-b324-706926b2a99e",
+                "boundaryNum": 1,
+                "name": "Block 48",
+                "localname": "Block 48",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B48",
+                "children": [
+                  {
+                    "id": "09cf5ac1-46f1-4cc3-bdcb-9c28d1b622f9",
+                    "boundaryNum": 1,
+                    "name": "NEW ANAJ MANDI Block 48 - B48",
+                    "localname": "NEW ANAJ MANDI Block 48 - B48",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_48",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e817bfb8-b761-4c12-86e3-e0c8d2f2e0e9",
+                "boundaryNum": 1,
+                "name": "Block 49",
+                "localname": "Block 49",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B49",
+                "children": [
+                  {
+                    "id": "a8ae3df7-3df9-4955-a49c-3e25b5c2a8f6",
+                    "boundaryNum": 1,
+                    "name": "JAGJIT NAGAR Block 49 - B49",
+                    "localname": "JAGJIT NAGAR Block 49 - B49",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_49",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "04965fe0-6c30-4adc-8fb4-25caa9cfc8b9",
+                "boundaryNum": 1,
+                "name": "Block 50",
+                "localname": "Block 50",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B50",
+                "children": [
+                  {
+                    "id": "c82f8ddf-59a2-472f-b593-30a05a428a94",
+                    "boundaryNum": 1,
+                    "name": "TRANSPORT NAGAR Block 50 - B50",
+                    "localname": "TRANSPORT NAGAR Block 50 - B50",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_50",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "62a9dd7c-9643-435c-8035-adaea62519a7",
+                "boundaryNum": 1,
+                "name": "Block 51",
+                "localname": "Block 51",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B51",
+                "children": [
+                  {
+                    "id": "8fd2be87-2257-4e94-8e28-70b3cda9420a",
+                    "boundaryNum": 1,
+                    "name": "GILLCO VALLEY Block 51 - B51",
+                    "localname": "GILLCO VALLEY Block 51 - B51",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_51",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "799fbdc9-3f04-4b10-abee-ad4a6c76ff4f",
+                "boundaryNum": 1,
+                "name": "Block 52",
+                "localname": "Block 52",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B52",
+                "children": [
+                  {
+                    "id": "a96624f3-3803-4da7-ba01-89f18da0a790",
+                    "boundaryNum": 1,
+                    "name": "KALYAN CINEMA TO BACHAT CHOWK Block 52 - B52",
+                    "localname": "KALYAN CINEMA TO BACHAT CHOWK Block 52 - B52",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_52",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8de520c6-a72f-4610-abf7-50fd1b4b6a76",
+                "boundaryNum": 1,
+                "name": "Block 53",
+                "localname": "Block 53",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B53",
+                "children": [
+                  {
+                    "id": "2c2cc69c-7923-4d5e-b113-1f350d1a8e77",
+                    "boundaryNum": 1,
+                    "name": "WADI HAVELI Block 53 - B53",
+                    "localname": "WADI HAVELI Block 53 - B53",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_53",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "350b52e1-733c-41dc-8a42-01f46835e33e",
+                "boundaryNum": 1,
+                "name": "Block 54",
+                "localname": "Block 54",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B54",
+                "children": [
+                  {
+                    "id": "de3d874f-f728-4dcb-aa3b-f96b13d2901e",
+                    "boundaryNum": 1,
+                    "name": "SATLUJ COLONY Block 54 - B54",
+                    "localname": "SATLUJ COLONY Block 54 - B54",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_54",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9d10162f-08b0-4809-bd4a-e09a40aae5b4",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "3e693cb0-734a-4ba4-b9b9-5e86f865b1ec",
+                "boundaryNum": 1,
+                "name": "Block 55",
+                "localname": "Block 55",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B55",
+                "children": [
+                  {
+                    "id": "88777c80-1fe9-45e9-bc99-c6a692432a2c",
+                    "boundaryNum": 1,
+                    "name": "SHAAMPURA TAPPRIYAN, BABA DEEP SINGH NAGAR,RAILWAY STATION TO I.T.I BY SADABART Block 55 - B55",
+                    "localname": "SHAAMPURA TAPPRIYAN, BABA DEEP SINGH NAGAR,RAILWAY STATION TO I.T.I BY SADABART Block 55 - B55",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RPR_55",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
