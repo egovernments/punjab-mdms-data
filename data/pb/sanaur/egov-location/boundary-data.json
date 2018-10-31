@@ -1,0 +1,672 @@
+{
+  "tenantId": "pb.sanaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sanaur",
+        "localname": "Sanaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sanaur",
+        "children": [
+          {
+            "id": "77df97a1-640f-4585-9bc2-9fb39e68dc5b",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ee3d0c18-a372-4fe4-a333-4d0a60cc8a46",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "9bc48e17-5329-44e1-b3b5-56204ac30b6c",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar (Left Side) Block 1 - B1",
+                    "localname": "Sadar Bazar (Left Side) Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e82d18a2-a187-4637-a5d3-87d8b41962d9",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khatiran Wala Block 1 - B1",
+                    "localname": "Moh. Khatiran Wala Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f54b5a0-7acb-4683-93d9-e806210a3abc",
+                    "boundaryNum": 1,
+                    "name": "Moh Khokaran Wala Block 1 - B1",
+                    "localname": "Moh Khokaran Wala Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5f34f591-eedf-458d-b0f6-5008460d40c7",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kazian Wala Block 1 - B1",
+                    "localname": "Moh. Kazian Wala Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ac4d2da1-93b4-4ad7-b58e-d536eb49d5f4",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kasabian Wala Block 1 - B1",
+                    "localname": "Moh. Kasabian Wala Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01a25e33-13e8-4e2b-bdfc-1828bd511a2f",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road and Opp.Bus Stand Block 1 - B1",
+                    "localname": "Chaura Road and Opp.Bus Stand Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "324a9fc0-2586-4069-b00d-1b7646dfae01",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "82bc2105-62af-4f05-a1b7-2a42a1a9f6c1",
+                    "boundaryNum": 1,
+                    "name": "Bolar Chowk Block 2 - B2",
+                    "localname": "Bolar Chowk Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d52fb8d-b16b-4caf-a024-a740902ee045",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar Right Side Block 2 - B2",
+                    "localname": "Sadar Bazar Right Side Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "638ce6ed-8270-4fbc-a219-43a66d079992",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kansian Block 2 - B2",
+                    "localname": "Moh. Kansian Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "78fd76f5-acd4-4732-b4b8-72fd7a7e59d4",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khera Wala Block 2 - B2",
+                    "localname": "Moh. Khera Wala Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a73b0178-ec23-45e4-ab70-584572915b7e",
+                    "boundaryNum": 1,
+                    "name": "Moh. Panidta Wala Block 2 - B2",
+                    "localname": "Moh. Panidta Wala Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "034e3577-5bbc-4ce9-b477-07381405cfe4",
+                    "boundaryNum": 1,
+                    "name": "Gadhi Street Block 2 - B2",
+                    "localname": "Gadhi Street Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dc3e9660-59f7-4eba-99f0-4bca1db3ddfc",
+                    "boundaryNum": 1,
+                    "name": "Moh. Tian Wala Block 2 - B2",
+                    "localname": "Moh. Tian Wala Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e2e1d96a-d997-42ee-a714-e6f61011f732",
+                    "boundaryNum": 1,
+                    "name": "Opp. Police Station Block 2 - B2",
+                    "localname": "Opp. Police Station Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dc66b2db-8cf0-446f-abb2-8fabea22c873",
+                    "boundaryNum": 1,
+                    "name": "Moh. Ahluwalia Block 2 - B2",
+                    "localname": "Moh. Ahluwalia Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fd5ec4d9-7816-43c5-858c-903b0981ebcf",
+                    "boundaryNum": 1,
+                    "name": "Moh. Sarafa Wala Block 2 - B2",
+                    "localname": "Moh. Sarafa Wala Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ea5ea592-5ff8-408c-9de5-9405d94bd9d9",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "f997426a-ccaa-4530-a66a-1187f571fd4e",
+                    "boundaryNum": 1,
+                    "name": "Near Bus Stand Block 3 - B3",
+                    "localname": "Near Bus Stand Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "080cfc3b-28fb-4c57-91cf-eb21d640dff7",
+                    "boundaryNum": 1,
+                    "name": "Moh. Pathana Wala Block 3 - B3",
+                    "localname": "Moh. Pathana Wala Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fd710907-5e64-4189-9283-582570a264dd",
+                    "boundaryNum": 1,
+                    "name": "Near Mahavir Mandir Block 3 - B3",
+                    "localname": "Near Mahavir Mandir Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ffc16ec8-61d2-4dd1-b7e7-6cf086edcd6d",
+                    "boundaryNum": 1,
+                    "name": "Radha Krishan Mandir Block 3 - B3",
+                    "localname": "Radha Krishan Mandir Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "debee047-2ddb-4c82-b5ca-d80bf2fb25bf",
+                    "boundaryNum": 1,
+                    "name": "Balocha Wala Block 3 - B3",
+                    "localname": "Balocha Wala Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b751559c-4a44-4d9e-a590-11f0f790a180",
+                    "boundaryNum": 1,
+                    "name": "Kansian Wala Block 3 - B3",
+                    "localname": "Kansian Wala Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8cf52a45-5eac-4d09-bfd9-cb279322ced3",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumara Wali Block 3 - B3",
+                    "localname": "Gali Ghumara Wali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89ec7fae-d98b-46eb-b1f9-5e3bda23c912",
+                    "boundaryNum": 1,
+                    "name": "Khajuran Wala Block 3 - B3",
+                    "localname": "Khajuran Wala Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e0e9d8cb-a4a2-4eaf-9c9f-66ad7dc1e9dd",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Steet Block 3 - B3",
+                    "localname": "Gandhi Steet Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "33fcfde3-310a-4d89-9fde-0898883ca230",
+                    "boundaryNum": 1,
+                    "name": "Opp. Akalgarh Gurudwara Sahib Block 3 - B3",
+                    "localname": "Opp. Akalgarh Gurudwara Sahib Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "225d82a8-f2be-427d-a866-bb61ad3d6f60",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "8e864ca1-8c26-48f3-a9d6-0ede9aaa2e15",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road  Block 4 - B4",
+                    "localname": "Chaura Road  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a0405487-20ce-43ce-8f53-813da62aa1e3",
+                    "boundaryNum": 1,
+                    "name": "Sandhu Colony Block 4 - B4",
+                    "localname": "Sandhu Colony Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8805e087-7429-4c7f-a4c0-4afd9ff5a9a2",
+                    "boundaryNum": 1,
+                    "name": "Vishavkarma Colony Block 4 - B4",
+                    "localname": "Vishavkarma Colony Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-29",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fdb88c53-5b21-485d-ac5c-ff2c705f6a2c",
+                    "boundaryNum": 1,
+                    "name": "Patiala Road Block 4 - B4",
+                    "localname": "Patiala Road Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-30",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "da57619c-8504-4411-a63a-06fd1f8abd55",
+                    "boundaryNum": 1,
+                    "name": "Marri Mandir Colony Block 4 - B4",
+                    "localname": "Marri Mandir Colony Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-31",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "378c2758-32ce-4ab2-a8e7-23572a7025a2",
+                    "boundaryNum": 1,
+                    "name": "Khalsa Colony Block 4 - B4",
+                    "localname": "Khalsa Colony Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-32",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d7e83e42-28ea-4632-978d-361394d594dd",
+                    "boundaryNum": 1,
+                    "name": "Amar Enclave Block 4 - B4",
+                    "localname": "Amar Enclave Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-33",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "7bf8ed72-7100-4553-95f8-f097f877dd60",
+                    "boundaryNum": 1,
+                    "name": "School Road Block 4 - B4",
+                    "localname": "School Road Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-34",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d7e5d36b-fcb0-41f2-acc2-17bafb80a8b7",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "08fb1424-3b99-4986-96cd-bb25ee4c2b7d",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road Chowk Block 5 - B5",
+                    "localname": "Chaura Road Chowk Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-35",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "047ee255-d5d3-414d-b27a-35de421df8ed",
+                    "boundaryNum": 1,
+                    "name": "Grid Colony Block 5 - B5",
+                    "localname": "Grid Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-36",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d15467e8-5340-4995-893c-254c8684cf31",
+                    "boundaryNum": 1,
+                    "name": "Asarpur Road Block 5 - B5",
+                    "localname": "Asarpur Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e47f5ffa-4358-478b-b0bc-6c2c1cdeb93d",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road Block 5 - B5",
+                    "localname": "Gaushala Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-38",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f4fa68ea-6c77-4431-9699-720c86f8bc34",
+                    "boundaryNum": 1,
+                    "name": "Shiv Nagar Colony Block 5 - B5",
+                    "localname": "Shiv Nagar Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-39",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "33c16b9b-e0ea-4518-91cd-48b0fd87cb25",
+                    "boundaryNum": 1,
+                    "name": "Bosar Road Block 5 - B5",
+                    "localname": "Bosar Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-40",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cbb663aa-ff05-4105-8936-26f84de2741e",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar Block 5 - B5",
+                    "localname": "Guru Nanak Nagar Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-41",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4f39236d-4b30-4e54-9135-6d488f8fb385",
+                    "boundaryNum": 1,
+                    "name": "Bolor Road Block 5 - B5",
+                    "localname": "Bolor Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-42",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "02d791fb-0d5c-4c16-a50f-0d1575764572",
+                    "boundaryNum": 1,
+                    "name": "Noor Kheri Road Block 5 - B5",
+                    "localname": "Noor Kheri Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-43",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "598dfc0a-0d4b-4a23-bb5f-d36ed00b74c0",
+                    "boundaryNum": 1,
+                    "name": "Cinema Colony Block 5 - B5",
+                    "localname": "Cinema Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-44",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "131ddb9b-5461-44b5-8eff-6be7ace20510",
+                    "boundaryNum": 1,
+                    "name": "Dankot Colony Colony Block 5 - B5",
+                    "localname": "Dankot Colony Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-45",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ca8b5291-d17d-4822-b53f-8ec69bd630af",
+                    "boundaryNum": 1,
+                    "name": "Bhankher Road Block 5 - B5",
+                    "localname": "Bhankher Road Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-46",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1a0ac1df-fd84-4497-9024-73e3eafc1cc7",
+                    "boundaryNum": 1,
+                    "name": "Sant Isar Singh Block 5 - B5",
+                    "localname": "Sant Isar Singh Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-47",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "58e8947e-975d-4708-92b4-8c8862663a2c",
+                    "boundaryNum": 1,
+                    "name": "Tara Chand Colony Block 5 - B5",
+                    "localname": "Tara Chand Colony Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-48",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
