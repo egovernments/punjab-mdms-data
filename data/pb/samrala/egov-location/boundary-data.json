@@ -931,6 +931,876 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Samrala",
+        "localname": "Samrala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.samrala",
+        "children": [
+          {
+            "id": "35c053ff-a63c-4f54-a865-bcec7fa5bdaa",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0e5ad6a6-33e5-401a-a684-a69ad7de3a92",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "bc04f7f5-01d2-41db-88bd-537d30ca3343",
+                    "boundaryNum": 1,
+                    "name": "Nami Abadi    Block 1 - B1",
+                    "localname": "Nami Abadi    Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e5222a0f-f16d-4895-8307-689c103f4059",
+                    "boundaryNum": 1,
+                    "name": "Bhagat singh nagar  Block 1 - B1",
+                    "localname": "Bhagat singh nagar  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8c01a0d8-e6ad-4858-aa99-7c06e00b28b7",
+                    "boundaryNum": 1,
+                    "name": "Behlolpur road  Block 1 - B1",
+                    "localname": "Behlolpur road  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ea3b161f-f793-4fd8-986a-07b7a023bf8d",
+                    "boundaryNum": 1,
+                    "name": "Himmat nagar  Block 1 - B1",
+                    "localname": "Himmat nagar  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "37897bca-71b1-4f13-bcc5-d47aae642a23",
+                    "boundaryNum": 1,
+                    "name": "Durga mandir road  Block 1 - B1",
+                    "localname": "Durga mandir road  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1c5266ca-3d00-47f6-b5b5-b40e12f0f475",
+                    "boundaryNum": 1,
+                    "name": "Balmik mahalla A  Block 1 - B1",
+                    "localname": "Balmik mahalla A  Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9c4aeba6-c389-4912-b255-9832697e8a1f",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "fa64eefb-b34f-4044-aaab-41eb9c8de94e",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla B  Block 2 - B2",
+                    "localname": "Balmik Mohalla B  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d84f4e1a-3858-41d6-9c37-0bbf61ee298c",
+                    "boundaryNum": 1,
+                    "name": "Kang mahalla  Block 2 - B2",
+                    "localname": "Kang mahalla  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6fa58a09-6391-4445-9ee7-1ca0ad0a80e8",
+                    "boundaryNum": 1,
+                    "name": "Marian Road  Block 2 - B2",
+                    "localname": "Marian Road  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d687159a-2b32-4345-8947-0938b9131b3a",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "6c77a99d-d6dc-4bcc-abcb-34dad36df0b5",
+                    "boundaryNum": 1,
+                    "name": "Masand mahalla  Block 3 - B3",
+                    "localname": "Masand mahalla  Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e037125f-ca91-4b8c-9e2c-74fa0ba8a675",
+                    "boundaryNum": 1,
+                    "name": "Dhillon mahalla  Block 3 - B3",
+                    "localname": "Dhillon mahalla  Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd7c48fa-7f29-4ca5-83f7-1309f1ab4cd1",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "7dcb71ac-2fa7-4e06-9ebc-86ea2d5833e0",
+                    "boundaryNum": 1,
+                    "name": "Iqbal market  Block 4 - B4",
+                    "localname": "Iqbal market  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f649357-e3a2-4095-9976-7c048b5ff219",
+                    "boundaryNum": 1,
+                    "name": "Chandirah road  Block 4 - B4",
+                    "localname": "Chandirah road  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62d4cc98-114b-41a6-a785-7160cf7cc4b6",
+                    "boundaryNum": 1,
+                    "name": "dhillon mahalla  Block 4 - B4",
+                    "localname": "dhillon mahalla  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6d7a022-8b34-4804-a280-ac0ce7aa37c4",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "3b2939d7-c950-4866-8b05-7c0e4874a7b4",
+                    "boundaryNum": 1,
+                    "name": "Behlolpur road  Block 5 - B5",
+                    "localname": "Behlolpur road  Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5f5102d7-480b-4fd2-9f67-02665ba18bf9",
+                    "boundaryNum": 1,
+                    "name": "Chandigarh road  Block 5 - B5",
+                    "localname": "Chandigarh road  Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cd9992a1-b832-47e3-833b-0692e9cb08f4",
+                    "boundaryNum": 1,
+                    "name": "Ram nagar   Block 5 - B5",
+                    "localname": "Ram nagar   Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_17",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca98fa6c-5388-4858-b3b7-5aa4f2b7d407",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "83692c2b-155a-4070-b24f-bb2e4865116f",
+                    "boundaryNum": 1,
+                    "name": "Manu nagar  Block 6 - B6",
+                    "localname": "Manu nagar  Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "33e9093e-d8c2-4826-a932-fda525eae03d",
+                    "boundaryNum": 1,
+                    "name": "chandigarh road  Block 6 - B6",
+                    "localname": "chandigarh road  Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bfded8fe-a297-4af1-a90a-01407c7ef9ca",
+                    "boundaryNum": 1,
+                    "name": "Kapla colony  Block 6 - B6",
+                    "localname": "Kapla colony  Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8efd51cd-870c-4788-a0cb-73669d9d7f10",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "3a4d5741-b663-4ece-b923-35fb7560858c",
+                    "boundaryNum": 1,
+                    "name": "Kamal colony  Block 7 - B7",
+                    "localname": "Kamal colony  Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1277ec49-57db-4f15-93e9-9319f9c45858",
+                    "boundaryNum": 1,
+                    "name": "Harnam nagar  Block 7 - B7",
+                    "localname": "Harnam nagar  Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "655d4f4d-54d7-46d0-9455-0e259f998024",
+                    "boundaryNum": 1,
+                    "name": "Bondal road  Block 7 - B7",
+                    "localname": "Bondal road  Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d1989dfd-7c04-44c4-b24c-2d02a477986d",
+                    "boundaryNum": 1,
+                    "name": "Durlabh nagar-B  Block 7 - B7",
+                    "localname": "Durlabh nagar-B  Block 7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_24",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "401a677e-95a5-4bd6-915a-c5962d6042f4",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "15dd840b-ea94-461e-bfb4-f09d9a44d835",
+                    "boundaryNum": 1,
+                    "name": "Kamal colony  Block 8 - B8",
+                    "localname": "Kamal colony  Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3538b7b2-33b5-4a06-84e2-1e964c1e6745",
+                    "boundaryNum": 1,
+                    "name": "Guru nanak road  Block 8 - B8",
+                    "localname": "Guru nanak road  Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "87a5b082-ff39-4977-ac1d-ca296bb70ca3",
+                    "boundaryNum": 1,
+                    "name": "Durlabh nagar-A  Block 8 - B8",
+                    "localname": "Durlabh nagar-A  Block 8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "206f21a8-b588-4cb1-9110-4f12a7e9008f",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "741fe045-0427-46b0-a9b9-557ac32168c2",
+                    "boundaryNum": 1,
+                    "name": "Kamal Colony  Block 9 - B9",
+                    "localname": "Kamal Colony  Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a8fd1f0d-d2c3-46ff-9977-03d0de913a54",
+                    "boundaryNum": 1,
+                    "name": "Bhagat colony  Block 9 - B9",
+                    "localname": "Bhagat colony  Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_29",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4f5eaf87-6fd1-4b8d-b7a9-e43a35bbfa13",
+                    "boundaryNum": 1,
+                    "name": "Chawa road  Block 9 - B9",
+                    "localname": "Chawa road  Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "62ae76de-7aef-4ab6-a824-36ebde22b702",
+                    "boundaryNum": 1,
+                    "name": "paprodi road  Block 9 - B9",
+                    "localname": "paprodi road  Block 9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aec5e10c-cf84-4073-ad18-9a56f71dc4c4",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "bd2bda13-a5d0-4c73-85cd-94f67922cf94",
+                    "boundaryNum": 1,
+                    "name": "Kanu peer mahalla  Block 10 - B10",
+                    "localname": "Kanu peer mahalla  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a8bfb216-cba0-4363-ac40-63c3d00b9c3c",
+                    "boundaryNum": 1,
+                    "name": "Water tank road  Block 10 - B10",
+                    "localname": "Water tank road  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_33",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01bf481e-e3c5-430f-ae3a-456e49e1e109",
+                    "boundaryNum": 1,
+                    "name": "Dhillon mahalla  Block 10 - B10",
+                    "localname": "Dhillon mahalla  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dcf8500c-a88d-44f0-afc9-203eea1d5a00",
+                    "boundaryNum": 1,
+                    "name": "Gobind nagar  Block 10 - B10",
+                    "localname": "Gobind nagar  Block 10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_35",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d916ad3-d6fe-4f40-8a48-39c471399428",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "8508e140-329c-4754-a61c-c5fa40c45ae3",
+                    "boundaryNum": 1,
+                    "name": "Bhagwanpura road  Block 11 - B11",
+                    "localname": "Bhagwanpura road  Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_36",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "01f74396-f05f-438b-b326-8b9e2d711b17",
+                    "boundaryNum": 1,
+                    "name": "Paprodi road  Block 11 - B11",
+                    "localname": "Paprodi road  Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_37",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c82a5e20-4e0a-42a2-ace3-2c13b15d8ef8",
+                    "boundaryNum": 1,
+                    "name": "Khanna road  Block 11 - B11",
+                    "localname": "Khanna road  Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_38",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1b6a6b6-3290-406c-a937-091e0b185a23",
+                    "boundaryNum": 1,
+                    "name": "Rama Mand  Block 11 - B11",
+                    "localname": "Rama Mand  Block 11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_39",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "465137ef-50c4-4508-893c-11b1f858dea4",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "2fee92a0-8be3-4bf1-8cb0-1bf2237e837e",
+                    "boundaryNum": 1,
+                    "name": "Jorawar Nagar  Block 12 - B12",
+                    "localname": "Jorawar Nagar  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_40",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ed7b7059-0fcd-4e0d-841e-736a13d37389",
+                    "boundaryNum": 1,
+                    "name": "Mata Ganga nagar  Block 12 - B12",
+                    "localname": "Mata Ganga nagar  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_41",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9f501efa-7129-4ba8-9a0d-276d4c5b08a6",
+                    "boundaryNum": 1,
+                    "name": "Adersh Nagar  Block 12 - B12",
+                    "localname": "Adersh Nagar  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_42",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "83bead3f-8006-4b3c-9c21-deb115fd44b8",
+                    "boundaryNum": 1,
+                    "name": "princ colony  Block 12 - B12",
+                    "localname": "princ colony  Block 12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_43",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78d9ed68-941d-4bd3-95c1-4cce690b162b",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "8ca23095-fb28-4b89-9d5c-eaa059590fcf",
+                    "boundaryNum": 1,
+                    "name": "Dr. Amedker colony  Block 13 - B13",
+                    "localname": "Dr. Amedker colony  Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_44",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "de9fc070-278a-4d76-ba99-9da25f483dca",
+                    "boundaryNum": 1,
+                    "name": "Jujhar nagar  Block 13 - B13",
+                    "localname": "Jujhar nagar  Block 13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_45",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c5809dc-c96c-4dcd-a678-5a929ae3ea30",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "35d95cce-877e-4bc0-b85d-cbbfbd708c34",
+                    "boundaryNum": 1,
+                    "name": "ITI side Colony  Block 14 - B14",
+                    "localname": "ITI side Colony  Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_46",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a0b164e3-29ac-4303-8a61-8c2c388ae332",
+                    "boundaryNum": 1,
+                    "name": "Civil line  Block 14 - B14",
+                    "localname": "Civil line  Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_47",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db00903c-a517-49af-9ede-824f6052169f",
+                    "boundaryNum": 1,
+                    "name": "ludhiana road  Block 14 - B14",
+                    "localname": "ludhiana road  Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_48",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f1cd3e18-f3d3-4324-88da-bac9493c8802",
+                    "boundaryNum": 1,
+                    "name": "Machhiwara road  Block 14 - B14",
+                    "localname": "Machhiwara road  Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5c5b442-e075-43f7-b2c3-b2420e615654",
+                    "boundaryNum": 1,
+                    "name": "Bhagat singh nagar  Block 14 - B14",
+                    "localname": "Bhagat singh nagar  Block 14 - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_50",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa3ae21f-44ce-409a-81b7-c52df50767ea",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "bb3fb5de-eb89-4479-9cd4-4e9856c7479f",
+                    "boundaryNum": 1,
+                    "name": "Bhagat singh nagar  Block 15 - B15",
+                    "localname": "Bhagat singh nagar  Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_51",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6fb5fba5-eac4-4492-a3d0-bbab32068af1",
+                    "boundaryNum": 1,
+                    "name": "water tank road  Block 15 - B15",
+                    "localname": "water tank road  Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_52",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "74aa3b61-7cc6-4cab-828b-672d01ab7b30",
+                    "boundaryNum": 1,
+                    "name": "machhiwara road  Block 15 - B15",
+                    "localname": "machhiwara road  Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_53",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20de53ed-f4a1-4ae9-b5c9-cea3eaf2079f",
+                    "boundaryNum": 1,
+                    "name": "New nagar  Block 15 - B15",
+                    "localname": "New nagar  Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_54",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf4a9b9b-6988-40d2-b634-b034fe726756",
+                    "boundaryNum": 1,
+                    "name": "durga mandir road  Block 15 - B15",
+                    "localname": "durga mandir road  Block 15 - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SML_55",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
