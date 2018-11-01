@@ -1,0 +1,491 @@
+{
+  "tenantId": "pb.lehragaga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lehragaga",
+        "localname": "Lehragaga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lehragaga",
+        "children": [
+          {
+            "id": "41c6f5e7-699c-4fc9-9b85-0bd5498807d3",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "019adaf8-9d4b-4547-9469-7ff53016db47",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "6abfa4cd-2964-49d8-bbec-246a802d7c34",
+                    "boundaryNum": 1,
+                    "name": "Arkwass Road, Taxi union to Main Bajar,  upto Sarab Hitkari School - B1",
+                    "localname": "Arkwass Road, Taxi union to Main Bajar,  upto Sarab Hitkari School - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0950fd6a-b772-4225-9383-a1e647a7d19a",
+                    "boundaryNum": 1,
+                    "name": "Malik Street, Post Office Street, MC Office Back Side, Old Grain Market, New Grain Market Area - B1",
+                    "localname": "Malik Street, Post Office Street, MC Office Back Side, Old Grain Market, New Grain Market Area - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK1a",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e758d9aa-f1c8-4990-b1d2-5654887f843c",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "c5e12736-5bde-465e-8594-abca69e3fcdb",
+                    "boundaryNum": 1,
+                    "name": "Lal Singh Lali Marg Road, Main Road Khai Basti Right Side Area - B2",
+                    "localname": "Lal Singh Lali Marg Road, Main Road Khai Basti Right Side Area - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e324e965-96fa-44a0-8793-28cda6cea05a",
+                    "boundaryNum": 1,
+                    "name": "Main Road Khai Basti Left Side upto Octroi Post No 04 - B2",
+                    "localname": "Main Road Khai Basti Left Side upto Octroi Post No 04 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "954611df-c1d8-47e2-99c6-3cb0782f60f2",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "1dd5c49c-bcf9-428b-ab4e-a9f37bec0ef8",
+                    "boundaryNum": 1,
+                    "name": "Water Works Area, Old PSPCL Office 33KV to Khai Road - B3",
+                    "localname": "Water Works Area, Old PSPCL Office 33KV to Khai Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e525308f-43ae-4c5d-8e9f-c70241ef8827",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": []
+              },
+              {
+                "id": "eb2022b5-4a91-49cd-919d-1bd8e88e4682",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "4524b339-7e2b-4cdc-845f-566dc323804f",
+                    "boundaryNum": 1,
+                    "name": "Genda Ram Bagh colony, Punjabi Bagh Colony, Sup Road - B5",
+                    "localname": "Genda Ram Bagh colony, Punjabi Bagh Colony, Sup Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK4a",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1edbac4a-e9cd-4189-b282-ca9d3050c7df",
+                    "boundaryNum": 1,
+                    "name": "Master Colony, Bhutaliya Mohala, Cycle Market, Grain Market, OBC Bank Street, Rest House Road - B5",
+                    "localname": "Master Colony, Bhutaliya Mohala, Cycle Market, Grain Market, OBC Bank Street, Rest House Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f344dbe7-f5e3-418b-8fdb-bdd3e8a5f469",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "d3bc3d69-8b33-4eec-9125-126396d36238",
+                    "boundaryNum": 1,
+                    "name": "State Bank of India to Rame Wali Khui, Old Satsang Bhawan Streets Area - B6",
+                    "localname": "State Bank of India to Rame Wali Khui, Old Satsang Bhawan Streets Area - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c47ce18f-e863-453d-8a8b-dfe3d888027f",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "db9d9cae-ef33-4ac1-b580-9836fbf1579d",
+                    "boundaryNum": 1,
+                    "name": "Rame Wali Khui to Ghumara Wali Gali, Bhogi Mohalla, Pandita Wala Mohalla, Bhata Wala Mohalla, Biyass Mohalla Old Gaushalla to Rame Wali Khui. - B7",
+                    "localname": "Rame Wali Khui to Ghumara Wali Gali, Bhogi Mohalla, Pandita Wala Mohalla, Bhata Wala Mohalla, Biyass Mohalla Old Gaushalla to Rame Wali Khui. - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "981869c6-772f-4c2c-8c02-70b9ed6a78bc",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "6dfbf4a5-e8fd-4861-9eb8-dc6fa4016f4f",
+                    "boundaryNum": 1,
+                    "name": "Pashu Hospital Area upto 133KV Grid Area Dugal Road - B8",
+                    "localname": "Pashu Hospital Area upto 133KV Grid Area Dugal Road - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1537ee03-01bf-4a57-8956-f924f69e0710",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "4294c46e-e90a-4aa4-8721-18a1c9f6a746",
+                    "boundaryNum": 1,
+                    "name": "Furniture Market Ram Lal Kesho Ram Left hand Side to Nand Ram Collage Road - B9",
+                    "localname": "Furniture Market Ram Lal Kesho Ram Left hand Side to Nand Ram Collage Road - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "71e17b2b-ccb7-4e7f-88fc-b3563ba071d1",
+                    "boundaryNum": 1,
+                    "name": "Thana Mohalla, Janta Numberdar Opposite Police Station Area to Ram Lal Kesho Ram Pandit - B9",
+                    "localname": "Thana Mohalla, Janta Numberdar Opposite Police Station Area to Ram Lal Kesho Ram Pandit - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK9a",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "605e8eba-2c79-44bb-bde3-2f969e994a92",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "abc878ea-0f1f-4030-8b88-8f5d97c43099",
+                    "boundaryNum": 1,
+                    "name": "Guru Ravidass Dharmshalla Ward No 09, to Fufara Chownk Guru Nanak Pura Basti, Opposite Kali Mata Mandir to Opposite Naka No 05 to Rajwaha Road Opposite Police Station, Boota Wala Gurudawara to Guru Ravidass Dharmshalla Ward No 09 - B10",
+                    "localname": "Guru Ravidass Dharmshalla Ward No 09, to Fufara Chownk Guru Nanak Pura Basti, Opposite Kali Mata Mandir to Opposite Naka No 05 to Rajwaha Road Opposite Police Station, Boota Wala Gurudawara to Guru Ravidass Dharmshalla Ward No 09 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2437a48b-9701-4b43-9965-b430c38374d2",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "a94f29a9-83cd-4eed-9f01-c0ea537905b2",
+                    "boundaryNum": 1,
+                    "name": "Bye Pass Road, SBS Basti, Furniture Market Left Side, Rame Wali Khui Left hand Side to Gaushalla Road Left Hand Side to Bye Pass Road. - B11",
+                    "localname": "Bye Pass Road, SBS Basti, Furniture Market Left Side, Rame Wali Khui Left hand Side to Gaushalla Road Left Hand Side to Bye Pass Road. - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6560f7de-5a5f-478c-851b-6461382cabb6",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "47d05a8f-2088-4859-930b-831bb27ed0c3",
+                    "boundaryNum": 1,
+                    "name": "Railway Crossing Arkwass Road, Kisan Union, Bus Stand, Bye Pass Road Right Hand Side to Naka No 05 upto Ditch Drain Bus Stand Back Side and GPF Back Side - B12",
+                    "localname": "Railway Crossing Arkwass Road, Kisan Union, Bus Stand, Bye Pass Road Right Hand Side to Naka No 05 upto Ditch Drain Bus Stand Back Side and GPF Back Side - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "521a040d-05fa-47d3-a869-809c5c9feb84",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "bbc70f54-defd-4b02-8545-2d6848b78e5d",
+                    "boundaryNum": 1,
+                    "name": "SBI Opposite To Gau Shalla Right Hand Side Area, Civil Hospital, Harcharan Nagar, Railway Road, Bus Stand Road - B13",
+                    "localname": "SBI Opposite To Gau Shalla Right Hand Side Area, Civil Hospital, Harcharan Nagar, Railway Road, Bus Stand Road - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d6134e7-9ffc-40f6-89dc-90689d77c72d",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "d2aebccf-1010-4802-bfd3-3a4a231062d2",
+                    "boundaryNum": 1,
+                    "name": "Opposite BDPO Office, Vatika Hotel, Baba Hira Sigh, Collage, Seeba School, BDPO Office, Petrol Pump Opposite PNB Bank (MC Limit Sunam Road, Gaga Road, Jakhal Road, Dugal Road to Jawahar Road Right Hand Side upto Police Thana Road. - B14",
+                    "localname": "Opposite BDPO Office, Vatika Hotel, Baba Hira Sigh, Collage, Seeba School, BDPO Office, Petrol Pump Opposite PNB Bank (MC Limit Sunam Road, Gaga Road, Jakhal Road, Dugal Road to Jawahar Road Right Hand Side upto Police Thana Road. - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a413d138-085b-4f50-b614-93e6af8b1ae9",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "824554e2-2492-40a3-afe0-a2916357d51b",
+                "boundaryNum": 1,
+                "name": "Block 2a",
+                "localname": "Block 2a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2a",
+                "children": [
+                  {
+                    "id": "34ea2afc-a63b-4612-990f-ce0c2862e323",
+                    "boundaryNum": 1,
+                    "name": "Dhanak Basti, Khai Basti - B2a",
+                    "localname": "Dhanak Basti, Khai Basti - B2a",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK2a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "001c35bf-1b72-4d4f-ac68-1b0dc842bc28",
+                "boundaryNum": 1,
+                "name": "Block 8a",
+                "localname": "Block 8a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8a",
+                "children": [
+                  {
+                    "id": "e5165109-c4a2-4e0b-bdc3-6b6723d72279",
+                    "boundaryNum": 1,
+                    "name": "Chainpura Basti, Railway Crossing to Old Santsang Bhawan Right Hand side, Shamshan Ghat Road, - B8a",
+                    "localname": "Chainpura Basti, Railway Crossing to Old Santsang Bhawan Right Hand side, Shamshan Ghat Road, - B8a",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK8a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fdc7573c-3b59-484a-82a7-29b0a33d56a5",
+                "boundaryNum": 1,
+                "name": "Block 12a",
+                "localname": "Block 12a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12a",
+                "children": [
+                  {
+                    "id": "4bf38324-0120-4518-acba-a9d539a0472e",
+                    "boundaryNum": 1,
+                    "name": "Canal Area, Kathpull Basti, Jogi Taha Basti, Church Area, Bajgar Basti - B12a",
+                    "localname": "Canal Area, Kathpull Basti, Jogi Taha Basti, Church Area, Bajgar Basti - B12a",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK12a",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
