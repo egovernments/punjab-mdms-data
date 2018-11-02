@@ -1,10 +1,12 @@
 {
   "tenantId": "pb",
   "moduleName": "tenant",
-  "citymodule": [{
+  "citymodule": [
+    {
       "module": "PGR",
       "code": "PGR",
-      "tenants": [{
+      "tenants": [
+        {
           "code": "pb.adampur"
         },
         {
@@ -354,13 +356,17 @@
         },
         {
           "code": "pb.rampura"
+        },
+        {
+          "code": "pb.dinanagar"
         }
       ]
     },
     {
       "module": "PT",
       "code": "PT",
-      "tenants": [{
+      "tenants": [
+        {
           "code": "pb.shahkot"
         },
         {
@@ -581,16 +587,20 @@
     {
       "module": "Finance",
       "code": "Finance",
-      "tenants": [{
-        "code": "pb.mohali"
-      }]
+      "tenants": [
+        {
+          "code": "pb.mohali"
+        }
+      ]
     },
     {
       "module": "TL",
       "code": "TL",
-      "tenants": [{
-        "code": "pb.testing"
-      }]
+      "tenants": [
+        {
+          "code": "pb.testing"
+        }
+      ]
     }
   ]
 }
