@@ -4174,6 +4174,30 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
       "path": "Collections.Cash Remittance"
+    },
+    {
+      "id": 1701,
+      "name": "EmployeeStatusSearch",
+      "url": "/hr-masters-v2/hrstatuses/_search",
+      "displayName": "DesignationSearch",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hr-masters",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1702,
+      "name": "EmployeeTypeSearch",
+      "url": "/hr-masters-v2/employeetypes/_search",
+      "displayName": "DesignationSearch",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hr-masters",
+      "code": "null",
+      "path": ""
     }
   ]
 }
