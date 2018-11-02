@@ -1769,6 +1769,156 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mohali",
+        "localname": "Mohali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mohali",
+        "children": [
+          {
+            "id": "c8a9787c-4ab8-45a1-bc39-46145bbc5e08",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a38180d4-4af5-41ca-bac7-e1371e7dafeb",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "32a50469-f682-428d-b340-4f7f6357c798",
+                    "boundaryNum": 1,
+                    "name": "Indusrial Area Phase 6 - Block 1",
+                    "localname": "Indusrial Area Phase 6 - Block 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MCML1",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f913deb8-de06-414f-a0fb-6007d56f8257",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "4cea8319-4e2f-48d4-b927-867897f921ad",
+                    "boundaryNum": 1,
+                    "name": "Indusrial Area Phase 7 - Block 2",
+                    "localname": "Indusrial Area Phase 7 - Block 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MCML2",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37886fc0-bbba-49f6-813d-49dae3d5d627",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "6aa1ad2c-ad68-4989-a944-1582d034cd06",
+                    "boundaryNum": 1,
+                    "name": "Indusrial Area Phase 8 - Block 3",
+                    "localname": "Indusrial Area Phase 8 - Block 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MCML3",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "09a1d6b6-d24a-44f9-a299-3244027b5347",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "14e7f1ce-b3c2-4671-91e5-a1451989994c",
+                    "boundaryNum": 1,
+                    "name": "Indusrial Area Phase 9 - Block 4",
+                    "localname": "Indusrial Area Phase 9 - Block 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MCML4",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60cb7adc-a902-442b-9f75-0c53d3dcdfcf",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "230da3cd-a7b0-452c-bae2-c51816dbbb4a",
+                    "boundaryNum": 1,
+                    "name": "Village Mohali - Block 5",
+                    "localname": "Village Mohali - Block 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MCML5",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
