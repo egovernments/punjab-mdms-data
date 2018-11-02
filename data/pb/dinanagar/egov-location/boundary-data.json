@@ -1,0 +1,396 @@
+{
+  "tenantId": "pb.dinanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dinanagar",
+        "localname": "Dinanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dinanagar",
+        "children": [
+          {
+            "id": "a92aa2e8-75a6-4120-abc6-e9bf0f37ba25",
+            "boundaryNum": 1,
+            "name": "Dinanagar",
+            "localname": "Dinanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Zone1",
+            "children": [
+              {
+                "id": "07407d6b-b233-4cf5-a97c-e3a89aac7388",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "6844617a-de93-4f36-aced-ef51170e9b9d",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Gali - WARD1",
+                    "localname": "Guru Nanak Gali - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9e0ff6f0-62c1-4fc0-92c4-debe4a4ebdeb",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "a520e587-9644-4792-9bfd-cc7f2377d0c1",
+                    "boundaryNum": 1,
+                    "name": "Gali Gurdwara - WARD2",
+                    "localname": "Gali Gurdwara - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fbafc98c-b66b-442f-a884-3a64a10808dd",
+                "boundaryNum": 1,
+                "name": "WARD3",
+                "localname": "WARD3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "1740d236-2c87-40b3-a227-ce92db664908",
+                    "boundaryNum": 1,
+                    "name": "Ashok Gali - WARD3",
+                    "localname": "Ashok Gali - WARD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd9cba4c-3e69-43f0-bd1b-18961a646055",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "52c89650-d2a1-4e4c-8452-e6f3095a4b67",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagari - WARD4",
+                    "localname": "Guru Nanak Nagari - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8b9cdd02-d70d-4f57-8e94-a94dd73df83b",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "8bd29aca-4b55-4b6f-bccb-3875ef9303ec",
+                    "boundaryNum": 1,
+                    "name": "Amar Colony - WARD5",
+                    "localname": "Amar Colony - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39f56ded-397d-41ec-bc08-720261ba1c75",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "7c72c654-243e-4be9-91db-0bd0659b4945",
+                    "boundaryNum": 1,
+                    "name": "Aji Nagar - WARD6",
+                    "localname": "Aji Nagar - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bb5af70f-b0f8-4b04-9d15-760570552c90",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "5f3e90c9-f9aa-402c-bf0d-b10d2580bc23",
+                    "boundaryNum": 1,
+                    "name": "Berrian Mohalla - WARD7",
+                    "localname": "Berrian Mohalla - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4165144c-6944-4b2f-879e-1e9c43550f24",
+                "boundaryNum": 1,
+                "name": "WARD8",
+                "localname": "WARD8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "a942d5c4-b61c-4c12-92a3-b15913051b4f",
+                    "boundaryNum": 1,
+                    "name": "Arya Nagar - WARD8",
+                    "localname": "Arya Nagar - WARD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26810012-aa3a-4eea-b220-4fb3e7a992d1",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "8007f413-9e9a-48fb-9619-e7c1d3d6da85",
+                    "boundaryNum": 1,
+                    "name": "Harijan Colony - WARD9",
+                    "localname": "Harijan Colony - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a03d00ab-9abf-4b50-90cd-34963c62320b",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "00c20e66-35f2-4110-89f6-b8adf84520a1",
+                    "boundaryNum": 1,
+                    "name": "Behrampur Road - WARD10",
+                    "localname": "Behrampur Road - WARD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8bf6786-aa79-4400-8183-32e2c68c38e5",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "aea215a0-72b6-4219-a3a5-774bafa661f4",
+                    "boundaryNum": 1,
+                    "name": "Krishna Nagar - WARD11",
+                    "localname": "Krishna Nagar - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d09165a7-ff86-477b-942a-3f4c1cdc8eb7",
+                "boundaryNum": 1,
+                "name": "WARD12",
+                "localname": "WARD12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "4f9fb248-1e46-4749-b5a1-90382e6a56af",
+                    "boundaryNum": 1,
+                    "name": "Shiv Nagar - WARD12",
+                    "localname": "Shiv Nagar - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64854b6f-762a-45b6-a6ad-9b609e1d2515",
+                "boundaryNum": 1,
+                "name": "WARD13",
+                "localname": "WARD13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "bbf5b529-cae0-4b62-8da2-fccdddaa18d1",
+                    "boundaryNum": 1,
+                    "name": "Krishna Gali - WARD13",
+                    "localname": "Krishna Gali - WARD13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f013a06e-6b9a-49de-aef3-f3a87880bdf3",
+                "boundaryNum": 1,
+                "name": "WARD14",
+                "localname": "WARD14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "039b471f-2cdd-4d77-86d7-e9d69daa2ba4",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Gali - WARD14",
+                    "localname": "Gurudwara Gali - WARD14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3abf5afc-ab6d-4dd5-b99b-932ac9b52d12",
+                "boundaryNum": 1,
+                "name": "WARD15",
+                "localname": "WARD15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "83ad6d5a-b609-4449-bdcc-bf301dacbb0e",
+                    "boundaryNum": 1,
+                    "name": "Vishnu Gali - WARD15",
+                    "localname": "Vishnu Gali - WARD15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LD15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
