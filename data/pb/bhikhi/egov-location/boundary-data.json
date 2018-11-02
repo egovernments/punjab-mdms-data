@@ -1,0 +1,348 @@
+{
+  "tenantId": "pb.bhikhi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhikhi",
+        "localname": "Bhikhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhikhi",
+        "children": [
+          {
+            "id": "8cd6d7c6-62c2-4f95-8970-ad77791e2fe4",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b54b17e7-bab3-49b9-829a-efc053e985c9",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "42fc48d0-25d6-4420-a16e-14b74727ede1",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand Bhikhi,Shani Mandir,PNB Bank,Vishvkarma,BDO Office, - WARD 1",
+                    "localname": "Bus Stand Bhikhi,Shani Mandir,PNB Bank,Vishvkarma,BDO Office, - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "267a25fe-8a50-4f07-9047-46b113f56ab2",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "a00b9aaa-1354-4bfc-a79f-8907cdec9ec6",
+                    "boundaryNum": 1,
+                    "name": "Gurduwara Road,Guru Teg Bahadur Galli - WARD 2",
+                    "localname": "Gurduwara Road,Guru Teg Bahadur Galli - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "471d68cc-755f-47d8-9604-9c9ef086b245",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "59541a25-ce4c-435d-ac0d-0a09799728cd",
+                    "boundaryNum": 1,
+                    "name": "Post Office,Thana Road,Chawala School Walli Galli - WARD 3",
+                    "localname": "Post Office,Thana Road,Chawala School Walli Galli - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b86a6044-236b-49d1-8d78-686b2dc9e4f4",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "712d0568-7c5b-452b-93a4-28fee70f0a6d",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Mandir,Puda Colony,Nattha Wala Dera,Madhewala School - WARD 4",
+                    "localname": "Ravidas Mandir,Puda Colony,Nattha Wala Dera,Madhewala School - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4741ba65-ac3a-4674-b514-89fc690930f6",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "e9cdf000-63a2-47bd-8739-0323a6ee2fb9",
+                    "boundaryNum": 1,
+                    "name": "Thana Road,Baldev Mistri Wali Galli,PTU Center - WARD 5",
+                    "localname": "Thana Road,Baldev Mistri Wali Galli,PTU Center - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc50e19a-cd67-4f03-830f-7fab34d4aeef",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "80a83d4e-caf7-4dd8-a63d-64629cdbb547",
+                    "boundaryNum": 1,
+                    "name": "Jain Mandir,Old Post Office Walli Galli,Purana Bazar, - WARD 6",
+                    "localname": "Jain Mandir,Old Post Office Walli Galli,Purana Bazar, - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c9b42068-89a0-407f-b5f7-6c54f76abeca",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "30c3df73-8b38-4383-9fc6-c0b6a9f4291e",
+                    "boundaryNum": 1,
+                    "name": "Near Thana,Civil Hospital,Dera Baba Guddar  Shah - WARD 7",
+                    "localname": "Near Thana,Civil Hospital,Dera Baba Guddar  Shah - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3711b70-5aae-4de7-96ac-93c5d3c25358",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "d3fe63f0-91c0-4360-a399-b95de8c90968",
+                    "boundaryNum": 1,
+                    "name": "Near Thana,Civil Hospital,Dera Baba Guddar  Shah,Near River - WARD 8",
+                    "localname": "Near Thana,Civil Hospital,Dera Baba Guddar  Shah,Near River - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9c370278-df3f-43fd-b799-065e39ec3a9b",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "8f22b291-bd3f-4ceb-b127-7e04cadfecc3",
+                    "boundaryNum": 1,
+                    "name": "Mehta Chowk,Raj Baba Wali Dharmshala,Prem Bandookan Wali Galli,Dkautan Walli Galli - WARD 9",
+                    "localname": "Mehta Chowk,Raj Baba Wali Dharmshala,Prem Bandookan Wali Galli,Dkautan Walli Galli - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a896f37-b689-43de-b944-b799fa133b0a",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "b93cca84-309f-4c5e-92e2-79d1aae70270",
+                    "boundaryNum": 1,
+                    "name": "Billu MC Wala Chowk,Jagdish MC Wali Galli,Dhillon Patti, - WARD 10",
+                    "localname": "Billu MC Wala Chowk,Jagdish MC Wali Galli,Dhillon Patti, - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60aa6920-4421-4436-a925-ce32ec69df99",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "34f6e59c-8710-427d-a298-259a66fcee14",
+                    "boundaryNum": 1,
+                    "name": "Ghullu Patti Chowk,Seva Singh Member Wali Galli,Darshan Mahant Wali Galli, - WARD 11",
+                    "localname": "Ghullu Patti Chowk,Seva Singh Member Wali Galli,Darshan Mahant Wali Galli, - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0367eeab-86a1-43b5-ba54-d2d16da92ca8",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 12",
+                "children": [
+                  {
+                    "id": "bcb7e9cf-8f79-457f-b92a-5a421c7fccf0",
+                    "boundaryNum": 1,
+                    "name": "Dr.Atma Ram Hospital,Girls School,Gurduwara Bunga Sahib,Vetarinary Hospital - WARD 12",
+                    "localname": "Dr.Atma Ram Hospital,Girls School,Gurduwara Bunga Sahib,Vetarinary Hospital - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d834e94-61a6-4c14-a841-c822b37f2d36",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 13",
+                "children": [
+                  {
+                    "id": "8a3f050e-29a8-4b96-a26a-30b19593aeae",
+                    "boundaryNum": 1,
+                    "name": "Bijlli Grid,Daheyaan Wali Galli,Sarswati School,Gurduwara Chowk Wali Dharamshala - WARD 13",
+                    "localname": "Bijlli Grid,Daheyaan Wali Galli,Sarswati School,Gurduwara Chowk Wali Dharamshala - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHK13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
