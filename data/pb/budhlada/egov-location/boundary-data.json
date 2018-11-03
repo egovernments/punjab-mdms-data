@@ -1,0 +1,492 @@
+{
+  "tenantId": "pb.budhlada",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Budhlada",
+        "localname": "Budhlada",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.budhlada",
+        "children": [
+          {
+            "id": "fdc07fae-2989-4578-961d-73b27db2116f",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ad5dfd0d-250a-448b-a7cd-0e16a7a51ecc",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "f3acd454-3b77-4d09-a05b-2871d142a3d0",
+                    "boundaryNum": 1,
+                    "name": "Plat Basti - WARD 1",
+                    "localname": "Plat Basti - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a0164f7-d256-4795-b3a6-2efcae5c639a",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "60ac7684-9d81-43f6-8041-8167c01af196",
+                    "boundaryNum": 1,
+                    "name": "Sehan Patti - WARD 2",
+                    "localname": "Sehan Patti - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "741cb39e-73f1-47ab-9eb6-80f42e4e74e7",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "e4934a75-d7ff-4a88-925d-bea7fa63ca8a",
+                    "boundaryNum": 1,
+                    "name": "Multaniyian Wala Gurudwara - WARD 3",
+                    "localname": "Multaniyian Wala Gurudwara - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b953ae6a-9a58-4f5f-b150-3b2338a2fb23",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "8e5ef0bb-369a-4bba-9d30-5b5a7a7b6dec",
+                    "boundaryNum": 1,
+                    "name": "harigarh Basti - WARD 4",
+                    "localname": "harigarh Basti - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c11975fb-0a5d-456b-b206-81fff072cc47",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "806fa268-925c-4993-880f-adf0822dad33",
+                    "boundaryNum": 1,
+                    "name": "Kulana Road - WARD 5",
+                    "localname": "Kulana Road - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70371942-2ebc-4a4a-ab76-09c37939338b",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "cf66b42b-4b33-4647-ae40-2a9b465d9165",
+                    "boundaryNum": 1,
+                    "name": "Manu Vatika School Road - WARD 6",
+                    "localname": "Manu Vatika School Road - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fda2b05a-ca7b-4b01-9cc5-cd7a72c22460",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "4ff4f62d-4d29-42a1-b6c4-731d83f1fd6a",
+                    "boundaryNum": 1,
+                    "name": "Shivpuri Road - WARD 7",
+                    "localname": "Shivpuri Road - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8eea6ae7-7ace-4e65-a90d-0c08aa429c91",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "355f285a-e01b-4a99-9149-3a7b284a2a57",
+                    "boundaryNum": 1,
+                    "name": "Water Works Road - WARD 8",
+                    "localname": "Water Works Road - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "da7f9ff2-c3c0-4a25-9908-71cbe8984535",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "9727c07f-d3b2-4091-8ea2-ec1f794c8e45",
+                    "boundaryNum": 1,
+                    "name": "Choori Gali - WARD 9",
+                    "localname": "Choori Gali - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25820aaa-909e-4287-ba23-1eb2579860e0",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "672b9de0-8a39-475a-9d92-633937ae8a13",
+                    "boundaryNum": 1,
+                    "name": "Docter Kashmir Wali Road - WARD 10",
+                    "localname": "Docter Kashmir Wali Road - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76f19857-8de6-4e05-9800-83a249d2defd",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "e8697517-273b-4dda-8e46-ef518b38e817",
+                    "boundaryNum": 1,
+                    "name": "Ghumair Basti - WARD 11",
+                    "localname": "Ghumair Basti - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4de6a2f3-74bf-4dc4-8d62-9b6c7e268ebd",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "5e058d88-c702-47fa-8f42-aaa47cb745e4",
+                    "boundaryNum": 1,
+                    "name": "Bara Nohre - WARD 12",
+                    "localname": "Bara Nohre - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3bead948-ad3f-4678-a5de-19f99392ebfd",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "68e4620f-c49f-49b4-87fb-010aaac7947d",
+                    "boundaryNum": 1,
+                    "name": "Slyie Center Road - WARD 13",
+                    "localname": "Slyie Center Road - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77a0c3e8-617d-4b4a-a0b9-23d33c12fa7d",
+                "boundaryNum": 1,
+                "name": "WARD 14",
+                "localname": "WARD 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 14",
+                "children": [
+                  {
+                    "id": "1e53b97f-6b68-47e8-8b52-7b2005ffe420",
+                    "boundaryNum": 1,
+                    "name": "Ram Lila Ground - WARD 14",
+                    "localname": "Ram Lila Ground - WARD 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4accea3e-4fda-4a59-b97a-d1d38bf37973",
+                "boundaryNum": 1,
+                "name": "WARD 15",
+                "localname": "WARD 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 15",
+                "children": [
+                  {
+                    "id": "3032058d-c9de-4047-93d0-03fee28da5e3",
+                    "boundaryNum": 1,
+                    "name": "Dhobyian Wali Gali - WARD 15",
+                    "localname": "Dhobyian Wali Gali - WARD 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96b800fe-d400-4e25-b788-23ee7d51a038",
+                "boundaryNum": 1,
+                "name": "WARD 16",
+                "localname": "WARD 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 16",
+                "children": [
+                  {
+                    "id": "668d3a3b-9bbe-4279-ac60-0304653d5405",
+                    "boundaryNum": 1,
+                    "name": "Purani Telephone Exchange - WARD 16",
+                    "localname": "Purani Telephone Exchange - WARD 16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45de5e08-78d8-4ca1-9d42-31d8f8f44c89",
+                "boundaryNum": 1,
+                "name": "WARD 17",
+                "localname": "WARD 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 17",
+                "children": [
+                  {
+                    "id": "81a267e1-bcee-48c5-93dd-9a489746125d",
+                    "boundaryNum": 1,
+                    "name": "Barehe Road - WARD 17",
+                    "localname": "Barehe Road - WARD 17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "735ed892-e8f2-478b-9694-3850b0055284",
+                "boundaryNum": 1,
+                "name": "WARD 18",
+                "localname": "WARD 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 18",
+                "children": [
+                  {
+                    "id": "ac554de8-8f7d-410a-8240-72bbf1b1cd4b",
+                    "boundaryNum": 1,
+                    "name": "Bhikhi Road - WARD 18",
+                    "localname": "Bhikhi Road - WARD 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "335c2474-2555-4b9d-8de8-38883af1ae1f",
+                "boundaryNum": 1,
+                "name": "WARD 19",
+                "localname": "WARD 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 19",
+                "children": [
+                  {
+                    "id": "25ccbbe0-ddd6-4527-8ef2-0222ba5034bd",
+                    "boundaryNum": 1,
+                    "name": "Bazagir Basti - WARD 19",
+                    "localname": "Bazagir Basti - WARD 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
