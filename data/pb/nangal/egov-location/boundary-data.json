@@ -1,0 +1,1140 @@
+{
+  "tenantId": "pb.nangal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nangal",
+        "localname": "Nangal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nangal",
+        "children": [
+          {
+            "id": "d7adf9bc-82d6-44be-944a-26be3899539d",
+            "boundaryNum": 1,
+            "name": "NANGAL",
+            "localname": "NANGAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bea7a70a-54d6-46db-a26f-c8dfe35af291",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "5ef2ddda-67e5-4b41-9611-28d1febb04c7",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Barmala - WARD_1",
+                    "localname": "Mohalla Barmala - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3e955122-f1ac-4683-b78f-9351088b069a",
+                    "boundaryNum": 1,
+                    "name": "Sharma Store - WARD_1",
+                    "localname": "Sharma Store - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC63",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4ed80acb-815a-4239-b080-c00fbe320e17",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "203c3dba-e2a9-4007-a8da-3c331d60d1e6",
+                    "boundaryNum": 1,
+                    "name": "HH Block, Nangal T/Ship - WARD_2",
+                    "localname": "HH Block, Nangal T/Ship - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f0864a3f-a4b5-4e76-baea-47f2990dd05c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ram Nagar - WARD_2",
+                    "localname": "Mohalla Ram Nagar - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a5002f72-2c5f-469b-be0a-e686dee26612",
+                    "boundaryNum": 1,
+                    "name": "Purana Gurdwara - WARD_2",
+                    "localname": "Purana Gurdwara - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC49",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "618e6b69-24b6-4bdb-9896-50a8ffe82631",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "680a2cc8-9f62-432c-be90-a4c975f777e9",
+                    "boundaryNum": 1,
+                    "name": "Hathi Mattha Gali - WARD_3",
+                    "localname": "Hathi Mattha Gali - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "50fce18b-e844-48e1-9be6-64a78305cd76",
+                    "boundaryNum": 1,
+                    "name": "New Preet Nagar - WARD_3",
+                    "localname": "New Preet Nagar - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7e8722e5-6e68-45ff-8a86-c12d1aa2c888",
+                    "boundaryNum": 1,
+                    "name": "Om Gali - WARD_3",
+                    "localname": "Om Gali - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "da4d5b8d-3e21-49fb-b16a-9f762d6e01ab",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar - WARD_3",
+                    "localname": "Preet Nagar - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC48",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d06bac7e-5d8b-49a9-b4d1-7ea3710967c3",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "5a3ad3ee-a2e0-4a34-87e6-72c2e011542b",
+                    "boundaryNum": 1,
+                    "name": "FF Block, Nangal T/Ship - WARD_4",
+                    "localname": "FF Block, Nangal T/Ship - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "68a88fee-c078-432e-b065-c2e5e607f974",
+                    "boundaryNum": 1,
+                    "name": "Kilan Area - WARD_4",
+                    "localname": "Kilan Area - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "59491902-5501-4d90-ba4c-af2e665863b2",
+                    "boundaryNum": 1,
+                    "name": "Pahari Market - WARD_4",
+                    "localname": "Pahari Market - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "403c45cf-798a-4e92-87a1-4b5116d6cdb5",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "f426cd42-3869-46e7-add5-af642dbb985d",
+                    "boundaryNum": 1,
+                    "name": "DD Block, Nangal T/Ship - WARD_5",
+                    "localname": "DD Block, Nangal T/Ship - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ddbe056-6e09-484b-bc32-9aa95e819f38",
+                    "boundaryNum": 1,
+                    "name": "DS/EE Block, Nangal T/Ship - WARD_5",
+                    "localname": "DS/EE Block, Nangal T/Ship - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cfa88629-67f1-4dfc-bb16-96489147f1cc",
+                    "boundaryNum": 1,
+                    "name": "Mahavir Market - WARD_5",
+                    "localname": "Mahavir Market - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "abcc7d71-f7a8-4a31-9860-1bd555acebb3",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "2e81ec47-dae7-4b75-8562-f3280383774f",
+                    "boundaryNum": 1,
+                    "name": "Indra Nagar - WARD_6",
+                    "localname": "Indra Nagar - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7895c162-c511-45bd-bcd4-969d32a224f5",
+                    "boundaryNum": 1,
+                    "name": "Madhav Nagar - WARD_6",
+                    "localname": "Madhav Nagar - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2de0d94c-6c4f-4fc4-91fe-e5a0e9acd3a4",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "c699698c-b7b8-4c27-9551-474107ef9dab",
+                    "boundaryNum": 1,
+                    "name": "Adda Market - WARD_7",
+                    "localname": "Adda Market - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "916d29f9-4098-4c27-9e2b-1f473483d019",
+                    "boundaryNum": 1,
+                    "name": "Raj Nagar - WARD_7",
+                    "localname": "Raj Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "23c8ace3-251b-4d86-ad5b-f92822f4c7e4",
+                    "boundaryNum": 1,
+                    "name": "Shaheed Bhagat Singh Nagar - WARD_7",
+                    "localname": "Shaheed Bhagat Singh Nagar - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC61",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78b8831a-1826-4965-93a5-3a4f6878a1cf",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "ea370ea4-136d-4df9-90b3-13712d30d1f6",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand, Nangal - WARD_8",
+                    "localname": "Bus Stand, Nangal - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "885a2ade-8b15-44cb-ac3f-065a3c64a939",
+                    "boundaryNum": 1,
+                    "name": "Railway Road - WARD_8",
+                    "localname": "Railway Road - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC52",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8dc673f0-8509-4810-9e86-760246e913a0",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "81e5e82e-fd3c-4e69-99b4-d3ba7db44082",
+                    "boundaryNum": 1,
+                    "name": "Jawahar Market - WARD_9",
+                    "localname": "Jawahar Market - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e133b379-b35c-41cc-a87f-adbf7081ce20",
+                    "boundaryNum": 1,
+                    "name": "Maida Majra - WARD_9",
+                    "localname": "Maida Majra - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC33",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00faf372-2cd1-4d62-b156-da61dfcd2e4f",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "9288a223-0866-4399-ad2f-0b00d20d1378",
+                    "boundaryNum": 1,
+                    "name": "Rampur Sahni - WARD_10",
+                    "localname": "Rampur Sahni - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC54",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6c7047dc-9528-4ff2-8443-7a646aa7899c",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "ff7061a5-6b4c-4a37-91c6-9c179928f1f3",
+                    "boundaryNum": 1,
+                    "name": "Barari - WARD_11",
+                    "localname": "Barari - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3aaaa3f5-4741-4bac-9609-f5d0fdcaf3c9",
+                    "boundaryNum": 1,
+                    "name": "Kanchera - WARD_11",
+                    "localname": "Kanchera - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "682a5d2e-7671-4748-b94b-f5945d1ba2d8",
+                    "boundaryNum": 1,
+                    "name": "Kathera - WARD_11",
+                    "localname": "Kathera - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63c266da-11ea-497d-bc7a-eafdb169c8ca",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "8668ec39-5e67-4a6f-9afb-511a071995b8",
+                    "boundaryNum": 1,
+                    "name": "Focal Point Area - WARD_12",
+                    "localname": "Focal Point Area - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "842a911c-1a94-4085-ba11-988104a3ecc9",
+                    "boundaryNum": 1,
+                    "name": "Maida Majra Colony - WARD_12",
+                    "localname": "Maida Majra Colony - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c97ac0b6-849d-48bb-b07e-2cd5a57e772e",
+                    "boundaryNum": 1,
+                    "name": "Mojowal - WARD_12",
+                    "localname": "Mojowal - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6129f94e-966b-41a0-87e4-cbd5eee6528d",
+                    "boundaryNum": 1,
+                    "name": "NFL Factory - WARD_12",
+                    "localname": "NFL Factory - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36dcde07-ee93-41ad-a507-abec73fc1c6f",
+                    "boundaryNum": 1,
+                    "name": "PACL Colony - WARD_12",
+                    "localname": "PACL Colony - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "785f6cd0-5a6d-4c82-8caa-18013f22650f",
+                    "boundaryNum": 1,
+                    "name": "PNFC Colony - WARD_12",
+                    "localname": "PNFC Colony - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC47",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5631253-9446-4911-acfe-51ef44da68fe",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "3b8b76b5-0c8e-4564-be48-0df1550dc2bd",
+                    "boundaryNum": 1,
+                    "name": "Sector 2, Naya Nangal - WARD_13",
+                    "localname": "Sector 2, Naya Nangal - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC58",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "223d892c-74c6-4097-b622-9ad925063202",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward14",
+                "children": [
+                  {
+                    "id": "0ca9d039-bba7-48fc-b20c-67adb9d77476",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Avenue, Phase-1A - WARD_14",
+                    "localname": "Shivalik Avenue, Phase-1A - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC65",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "507cb178-5951-48f9-a863-9f637d518e1d",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward15",
+                "children": [
+                  {
+                    "id": "1b880009-70ab-4340-bf17-14a0627138a9",
+                    "boundaryNum": 1,
+                    "name": "Sector 5, Naya Nangal - WARD_15",
+                    "localname": "Sector 5, Naya Nangal - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC60",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fe7063b0-e2be-41fd-871b-ae9ecbdd84da",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Avenue, Phase 1B & Phase- 2 - WARD_15",
+                    "localname": "Shivalik Avenue, Phase 1B & Phase- 2 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC64",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "24638788-ae70-475a-b3f7-46da87004b5b",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward16",
+                "children": [
+                  {
+                    "id": "503f09b5-35b1-419a-802c-2000652ce3e6",
+                    "boundaryNum": 1,
+                    "name": "Sector 1, Naya Nangal - WARD_16",
+                    "localname": "Sector 1, Naya Nangal - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC57",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2f4989ad-45ad-484b-9135-5fe1499b710a",
+                    "boundaryNum": 1,
+                    "name": "Sector 4, Naya Nangal - WARD_16",
+                    "localname": "Sector 4, Naya Nangal - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a14ff32e-3a46-4a00-9fe8-84940a56b624",
+                    "boundaryNum": 1,
+                    "name": "Sector 7, Naya Nangal - WARD_16",
+                    "localname": "Sector 7, Naya Nangal - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC61",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "435c6a6b-3708-48fe-a11d-966af1c7a925",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward17",
+                "children": [
+                  {
+                    "id": "fd087714-9916-4d2e-b6be-65863fe75c68",
+                    "boundaryNum": 1,
+                    "name": "A Block, Nangal T/Ship - WARD_17",
+                    "localname": "A Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3735d51d-0671-430f-8f06-2889ee09d1f9",
+                    "boundaryNum": 1,
+                    "name": "B Block, Nangal T/Ship - WARD_17",
+                    "localname": "B Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c09757e0-b8f5-4c95-aa06-105283f4c148",
+                    "boundaryNum": 1,
+                    "name": "C Block, Nangal T/Ship - WARD_17",
+                    "localname": "C Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "64b80c95-ea0a-47e4-8c51-b7e456d3366c",
+                    "boundaryNum": 1,
+                    "name": "D Block, Nangal T/Ship - WARD_17",
+                    "localname": "D Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0113975d-d9dd-4985-b254-15a372afe04a",
+                    "boundaryNum": 1,
+                    "name": "E Block, Nangal T/Ship - WARD_17",
+                    "localname": "E Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "405103c1-57b8-419a-b52d-fa5dd4c42dd4",
+                    "boundaryNum": 1,
+                    "name": "F Block, Nangal T/Ship - WARD_17",
+                    "localname": "F Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09113ae6-c8b8-4022-acdd-5caf018d1ab3",
+                    "boundaryNum": 1,
+                    "name": "Gol Market - WARD_17",
+                    "localname": "Gol Market - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0527db23-6704-4119-8305-f37a27dbf5ed",
+                    "boundaryNum": 1,
+                    "name": "K Block, Nangal T/Ship - WARD_17",
+                    "localname": "K Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1209eb14-5f18-4b01-b8a0-27f7a9aa5c6d",
+                    "boundaryNum": 1,
+                    "name": "L Block, Nangal T/Ship - WARD_17",
+                    "localname": "L Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "98fd68c5-00b1-47ac-8780-f677a22222ad",
+                    "boundaryNum": 1,
+                    "name": "M Block, Nangal T/Ship - WARD_17",
+                    "localname": "M Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "478c5d1c-a36d-4c46-a178-d8fbc5770c80",
+                    "boundaryNum": 1,
+                    "name": "N Block, Nangal T/Ship - WARD_17",
+                    "localname": "N Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d9d03b90-f94a-425c-b376-8b4f2db93685",
+                    "boundaryNum": 1,
+                    "name": "O Block, Nangal T/Ship - WARD_17",
+                    "localname": "O Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "69a5bc7e-bde4-49b3-84bb-f3aa0bf4913d",
+                    "boundaryNum": 1,
+                    "name": "P Block, Nangal T/Ship - WARD_17",
+                    "localname": "P Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "638e0e86-ed26-426b-a8a8-1eb620ca81ae",
+                    "boundaryNum": 1,
+                    "name": "Q Block, Nangal T/Ship - WARD_17",
+                    "localname": "Q Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "dff1b9e1-ad08-49a5-a9cd-c4f83f034fc7",
+                    "boundaryNum": 1,
+                    "name": "R Block, Nangal T/Ship - WARD_17",
+                    "localname": "R Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35c8b9a2-3cee-4ddc-9b7e-57929ca98a2a",
+                    "boundaryNum": 1,
+                    "name": "RVR Bunglow - WARD_17",
+                    "localname": "RVR Bunglow - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3c8b9417-113b-4a59-bf3b-30aa6678cc84",
+                    "boundaryNum": 1,
+                    "name": "S Block, Nangal T/Ship - WARD_17",
+                    "localname": "S Block, Nangal T/Ship - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC56",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ee831bf-34c6-4997-b567-fdb57540ac2b",
+                "boundaryNum": 1,
+                "name": "WARD_18",
+                "localname": "WARD_18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward18",
+                "children": [
+                  {
+                    "id": "7805a3c6-d5cf-4e89-8ed2-5a98775f37ab",
+                    "boundaryNum": 1,
+                    "name": "DS/EE Block, Nangal T/Ship - WARD_18",
+                    "localname": "DS/EE Block, Nangal T/Ship - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77fe86e7-4cb4-4632-b95a-624f794e4cf9",
+                    "boundaryNum": 1,
+                    "name": "G Block, Nangal T/Ship - WARD_18",
+                    "localname": "G Block, Nangal T/Ship - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "61ddf529-24bb-484e-9341-68ffae1ef9e2",
+                    "boundaryNum": 1,
+                    "name": "H Block, Nangal T/Ship - WARD_18",
+                    "localname": "H Block, Nangal T/Ship - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7afa10e4-b04a-4bc1-aa1d-96f67d557053",
+                    "boundaryNum": 1,
+                    "name": "I Block, Nangal T/Ship - WARD_18",
+                    "localname": "I Block, Nangal T/Ship - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f7c98518-a4a5-4e23-b9e2-b97247161fde",
+                    "boundaryNum": 1,
+                    "name": "J Block Nangal T/Ship - WARD_18",
+                    "localname": "J Block Nangal T/Ship - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26edc0a4-2030-43d5-b9a1-817392e93c2a",
+                "boundaryNum": 1,
+                "name": "WARD_19",
+                "localname": "WARD_19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward19",
+                "children": [
+                  {
+                    "id": "e827cc00-e991-4220-a945-6590624e6fab",
+                    "boundaryNum": 1,
+                    "name": "BBMB Office - WARD_19",
+                    "localname": "BBMB Office - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "adca56fe-4994-4633-b866-12dab7b10c68",
+                    "boundaryNum": 1,
+                    "name": "Main Market - WARD_19",
+                    "localname": "Main Market - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "04042042-02e3-461f-84c4-550d85eb57b6",
+                    "boundaryNum": 1,
+                    "name": "T Block, Nangal T/Ship - WARD_19",
+                    "localname": "T Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC66",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a106c4b4-4eb9-423a-9af7-41fbb713ab58",
+                    "boundaryNum": 1,
+                    "name": "U Block, Nangal T/Ship - WARD_19",
+                    "localname": "U Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC67",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e367312-7ed5-4c92-b265-f0e475bfae22",
+                    "boundaryNum": 1,
+                    "name": "V Block, Nangal T/Ship - WARD_19",
+                    "localname": "V Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC68",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ba71f09c-07c0-484e-89f9-2ae4f623cb02",
+                    "boundaryNum": 1,
+                    "name": "W Block, Nangal T/Ship - WARD_19",
+                    "localname": "W Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC69",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36769069-f936-454d-9a9d-9986197285d3",
+                    "boundaryNum": 1,
+                    "name": "X  Block, Nangal T/Ship - WARD_19",
+                    "localname": "X  Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC70",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "391f5fee-f01d-4f41-a2f1-a5b94df1f1da",
+                    "boundaryNum": 1,
+                    "name": "XEN Block - WARD_19",
+                    "localname": "XEN Block - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC71",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9e95f371-8d36-4432-a383-65317e6e4014",
+                    "boundaryNum": 1,
+                    "name": "Y  Block, Nangal T/Ship - WARD_19",
+                    "localname": "Y  Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC72",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ead41586-63d0-462d-a1ba-9e9b2988bae0",
+                    "boundaryNum": 1,
+                    "name": "Z  Block, Nangal T/Ship - WARD_19",
+                    "localname": "Z  Block, Nangal T/Ship - WARD_19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NLC73",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
