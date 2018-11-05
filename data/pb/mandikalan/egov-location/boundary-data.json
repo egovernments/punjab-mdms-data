@@ -283,6 +283,324 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mandikalan",
+        "localname": "Mandikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mandikalan",
+        "children": [
+          {
+            "id": "21006275-8021-41b1-a9f6-dafe85fbd10e",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "35a50af0-3412-4b32-9439-3adcc209ac2b",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3be5736e-59b9-4b11-8a41-0a4375e81354",
+                    "boundaryNum": 1,
+                    "name": "Ramu ki Patti - WARD1",
+                    "localname": "Ramu ki Patti - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38a1d80b-19cd-428d-b1f9-7cf3ea775df2",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "b69a86a9-6641-47e9-a5d2-21d78b2bc6e3",
+                    "boundaryNum": 1,
+                    "name": "Nimm wali Patti - WARD2",
+                    "localname": "Nimm wali Patti - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f772ece8-5579-4db3-9dc0-bba2884a7e26",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "a5c9e08f-e587-43b5-80f8-ad2f206f9a3b",
+                    "boundaryNum": 1,
+                    "name": "Bhaiki patti - WARD7",
+                    "localname": "Bhaiki patti - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "640ef14c-f7b5-40ee-abc0-414383564951",
+                "boundaryNum": 1,
+                "name": "WARD8",
+                "localname": "WARD8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "0429de21-d7cc-4b32-812b-ca01b15fb5a6",
+                    "boundaryNum": 1,
+                    "name": "Aulakh patti - WARD8",
+                    "localname": "Aulakh patti - WARD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ef3a392-9bb5-4f23-bb59-6d1104b09df5",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "763039a0-defc-48c0-9967-1242fdc2e4ed",
+                    "boundaryNum": 1,
+                    "name": "Bhullar Patti - WARD11",
+                    "localname": "Bhullar Patti - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f55efdf6-7b52-4399-b787-278740713d55",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "c7a8334a-073c-4038-b965-282648216d85",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "8a521de2-b92b-44bb-adb5-555f35fc938b",
+                    "boundaryNum": 1,
+                    "name": "Kailash ki Patti - WARD5",
+                    "localname": "Kailash ki Patti - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35f90210-246f-4cb7-9a57-921019ee4ed0",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "05f4e4b3-5f95-4e8f-aa37-ecc5c7918301",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti - WARD9",
+                    "localname": "Dhillon Patti - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b45a489a-2760-459e-a94c-5f1e98a84507",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "81c9244f-672b-4480-8b8d-6816eebf8066",
+                    "boundaryNum": 1,
+                    "name": "Water works basti - WARD10",
+                    "localname": "Water works basti - WARD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2585d689-6aee-4c75-921a-c8bc2f4b7bdb",
+            "boundaryNum": 1,
+            "name": "Zone3",
+            "localname": "Zone3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z3",
+            "children": [
+              {
+                "id": "cd51b85d-ee95-47c1-8134-218c3b5f0901",
+                "boundaryNum": 1,
+                "name": "WARD3",
+                "localname": "WARD3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "b3b78eb1-bebf-493e-9d75-4fa0a2b27d7d",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti - WARD3",
+                    "localname": "Bazigar Basti - WARD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc8b1c05-a144-4456-b1f1-b9a573b2a150",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f714925e-2c00-48a9-aa2b-dbb64e531520",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti 4 - WARD4",
+                    "localname": "Dhillon Patti 4 - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e4c7b1b-a5f6-4295-8e4c-e49b4c0c66ff",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "5bd2718c-f218-4435-8765-16705965fcf0",
+                    "boundaryNum": 1,
+                    "name": "Sajjan Basti - WARD6",
+                    "localname": "Sajjan Basti - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
