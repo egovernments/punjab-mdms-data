@@ -439,6 +439,504 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kurali",
+        "localname": "Kurali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kurali",
+        "children": [
+          {
+            "id": "50793917-e32d-4e6e-976b-a157fb1c7ef1",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "932ade5a-e247-4fc7-925f-aea886675172",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "0c18b79f-3daf-4d90-a52c-454e9b752bf2",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD1 - B1",
+                    "localname": "LOC_WARD1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "08c6ec20-8d58-4739-ae99-b2445fc53159",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD1A - B1",
+                    "localname": "LOC_WARD1A - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63b9c50d-858c-47e9-b612-e282d0ea4772",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "e87701d4-0961-496a-baf4-61a1648f432a",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD2 - B2",
+                    "localname": "LOC_WARD2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bdaad3d5-9ed9-474c-8010-c9683a72fd4b",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD2A - B2",
+                    "localname": "LOC_WARD2A - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5c759b4-8b43-48eb-87ba-82537069638b",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "07bdcb21-7263-45a9-b322-5d49d720eee1",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD3 - B3",
+                    "localname": "LOC_WARD3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1593814c-8405-4795-98b2-14f3a81afdce",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD3A - B3",
+                    "localname": "LOC_WARD3A - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90acc988-7119-40c7-9972-aebd5e84fe1e",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "02a12a3e-fd3a-417a-85e2-7a23348b5663",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD4 - B4",
+                    "localname": "LOC_WARD4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7f78edd-aa7a-4300-a683-6ba54142f1e2",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD4A - B4",
+                    "localname": "LOC_WARD4A - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL17",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ca02954-dcfa-4cc1-b387-b4c758c2f967",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "3d600c02-7d7a-4a02-b7eb-b5c453faf473",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD5 - B5",
+                    "localname": "LOC_WARD5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8e8feb6e-d6b3-4650-9f08-48d0489b2244",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD5A - B5",
+                    "localname": "LOC_WARD5A - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5d21b63-a6f1-4f6e-b59a-852744255d73",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "5410e99f-8ca5-4e85-8e11-2fa7bcf22754",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD6 - B6",
+                    "localname": "LOC_WARD6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36d6fd85-50d4-403b-9136-3a3fcd24f4cf",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD6A - B6",
+                    "localname": "LOC_WARD6A - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dee110f-5f7b-49d2-a4fe-8f3027588039",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "036c7a66-a2b1-404e-b723-d76bc8a737fe",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD7 - B7",
+                    "localname": "LOC_WARD7 - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f96ebb5-65b0-4332-a01d-d29c349f1b8e",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD7A - B7",
+                    "localname": "LOC_WARD7A - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58d0a5d6-ddf1-4beb-93e3-67f9598d21fb",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "fffd5654-7186-439f-a031-2e12d156f9e1",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD8 - B8",
+                    "localname": "LOC_WARD8 - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "181a8232-6aad-4a66-a0b6-c1347d712ebc",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD8A - B8",
+                    "localname": "LOC_WARD8A - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f72e0241-22df-48f6-aff8-d67abbe8bf98",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "0703aa31-f817-4c40-9010-bb302216dfa4",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD9 - B9",
+                    "localname": "LOC_WARD9 - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89007361-4a26-48d9-b870-7abe957dcb02",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD9A - B9",
+                    "localname": "LOC_WARD9A - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL22",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8da8494-95af-4abf-80d5-e6a7a0bde4e0",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "d67903cf-c27d-47c3-ba62-bc651b365a1c",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD10 - B10",
+                    "localname": "LOC_WARD10 - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f8a8d52-6212-486e-b986-4bb2c7f61be3",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD10A - B10",
+                    "localname": "LOC_WARD10A - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL23",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27f8f804-49be-4040-a37c-97ea0a75d10d",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "f84335d3-01eb-4a6a-9073-15a93688584d",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD11 - B11",
+                    "localname": "LOC_WARD11 - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ea32f4e-6bb1-4bb9-bc10-20010d959459",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD11A - B11",
+                    "localname": "LOC_WARD11A - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61c5393b-f445-47d2-8ead-fdbc23f7fb6b",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "687fa2c2-42bd-4fa2-b14b-225ac247e7f8",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD12 - B12",
+                    "localname": "LOC_WARD12 - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eed7c9b7-ff4d-400c-80c1-6337060372f3",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD12A - B12",
+                    "localname": "LOC_WARD12A - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1eb88e83-cd03-477c-86af-5099d1c36bad",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "dcc63dcf-6184-48aa-aceb-d9cf79cde503",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD13 - B13",
+                    "localname": "LOC_WARD13 - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db14bcb0-9e10-463a-93d2-75032e5f0f23",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD13A - B13",
+                    "localname": "LOC_WARD13A - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
