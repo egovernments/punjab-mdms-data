@@ -1,0 +1,372 @@
+{
+  "tenantId": "pb.tarntaran",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tarntaran",
+        "localname": "Tarntaran",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.tarntaran",
+        "children": [
+          {
+            "id": "c6ad02ba-6c48-4bf3-a1ea-b65f84c2237f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1c70154d-9caf-40de-9c8d-f45b17f30256",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "e3ca38ff-d7a5-4f89-8d82-d31eaa309db5",
+                    "boundaryNum": 1,
+                    "name": "Amritsar Road, Guru Teg Bahadar Nagar,Guru Ramdas Avenue - B1",
+                    "localname": "Amritsar Road, Guru Teg Bahadar Nagar,Guru Ramdas Avenue - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "47148a3e-4083-4610-b31b-70dee076d199",
+                    "boundaryNum": 1,
+                    "name": "Fateh Chak Road, Gurudwara Lakir Sahib, Deep Avenue Colony - B1",
+                    "localname": "Fateh Chak Road, Gurudwara Lakir Sahib, Deep Avenue Colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f297bd87-f08b-4385-bf20-8557f61d8f29",
+                    "boundaryNum": 1,
+                    "name": "Deep Avenue Main Road, Mohalla Nanaksar, Rohi Kanda, Dashmesh Colony - B1",
+                    "localname": "Deep Avenue Main Road, Mohalla Nanaksar, Rohi Kanda, Dashmesh Colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d8b57a1-2881-4d8c-9b2b-37de7a6f55aa",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "119491ec-547e-46be-b524-bf4721466f70",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Lalli Shah, Nehru Gate, Gali Garment Wali - B2",
+                    "localname": "Mohalla Lalli Shah, Nehru Gate, Gali Garment Wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f615fa07-1349-4d90-8874-e509cbe66e83",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Nanksar Jandiala Road, Rohi Kanda, Gali Surta Singh Wali - B2",
+                    "localname": "Mohalla Nanksar Jandiala Road, Rohi Kanda, Gali Surta Singh Wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ba5ad8db-b847-442d-84f3-b476e608fce1",
+                    "boundaryNum": 1,
+                    "name": "Preet Nagar, Ganga Singh Nagar Main Jandial Road, Officer Colony - B2",
+                    "localname": "Preet Nagar, Ganga Singh Nagar Main Jandial Road, Officer Colony - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3142d0ca-7f0d-4f68-9b27-468ee366cdca",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "cd1ea56c-8bb7-4d8e-9173-5147259234b5",
+                    "boundaryNum": 1,
+                    "name": "Jandiala Byepass, Bath Road,Mohalla Gokalpura Railway Fatak - B3",
+                    "localname": "Jandiala Byepass, Bath Road,Mohalla Gokalpura Railway Fatak - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_7",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "a6b531a8-5b5f-4d3d-9d46-f1ef019d83c4",
+                    "boundaryNum": 1,
+                    "name": "Main Jandial Road, Gali Tehsildar Gurmej Singh Wali, Prem Nagar, - B3",
+                    "localname": "Main Jandial Road, Gali Tehsildar Gurmej Singh Wali, Prem Nagar, - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_8",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "20f1815f-09b3-4f6f-a29f-603521cc5fec",
+                    "boundaryNum": 1,
+                    "name": "Gali Harnam Singh Wali, Gali Station Wali, Railway Road, Mohalla Rodupura - B3",
+                    "localname": "Gali Harnam Singh Wali, Gali Station Wali, Railway Road, Mohalla Rodupura - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_9",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "a3c7beee-caf0-4d96-8067-7dab12fb614d",
+                    "boundaryNum": 1,
+                    "name": "Charkhamba Chowk , Goindwal Byepass, Muradpura, Master Colony - B3",
+                    "localname": "Charkhamba Chowk , Goindwal Byepass, Muradpura, Master Colony - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_10",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "416d0e5c-6ff4-477d-806b-ab8432d21836",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "efd383bf-e7bd-4f06-be88-d10adce99f56",
+                    "boundaryNum": 1,
+                    "name": "Guru Amardas Avenue, Goindwal Road,Guru Arjan Dev Colony,Sarhali Road - B4",
+                    "localname": "Guru Amardas Avenue, Goindwal Road,Guru Arjan Dev Colony,Sarhali Road - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_11",
+                    "area": "AREA4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9ebae4c0-b255-46ae-838d-4173bb91f84e",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "0b920d95-b42b-4b30-a2aa-320479a5fdcd",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "99aa4921-3d59-4ed1-88c9-fdefcd8fdf22",
+                    "boundaryNum": 1,
+                    "name": "Jodhpur Road,Mohalla Jasse Wala, Sachkhand Road, Dhora Chowk, Mohalla Guru Ka Khoh, - B5",
+                    "localname": "Jodhpur Road,Mohalla Jasse Wala, Sachkhand Road, Dhora Chowk, Mohalla Guru Ka Khoh, - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_12",
+                    "area": "AREA5",
+                    "children": []
+                  },
+                  {
+                    "id": "4b578ac6-d48a-4082-83b4-8f4644c0914d",
+                    "boundaryNum": 1,
+                    "name": "Guru Ka kHoh Chowk, Gali Wassan Singh wali Gurudwara Bhagat Namdev Dev ji, Mohalla Tang Chatri - B5",
+                    "localname": "Guru Ka kHoh Chowk, Gali Wassan Singh wali Gurudwara Bhagat Namdev Dev ji, Mohalla Tang Chatri - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_13",
+                    "area": "AREA5",
+                    "children": []
+                  },
+                  {
+                    "id": "0caf26a4-2341-4482-81ce-4b39492a51e5",
+                    "boundaryNum": 1,
+                    "name": "Gali Totian Wali, Khalsa School,Palasaur Road Oposite Hari Ram Kharkhana - B5",
+                    "localname": "Gali Totian Wali, Khalsa School,Palasaur Road Oposite Hari Ram Kharkhana - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_14",
+                    "area": "AREA5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c053cc0-6dee-48c7-9c17-d0948787b47e",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "a1f2a29f-a9f5-44ed-8533-82b0309b46b9",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Bhag Shah Road, Tehsil Bazar, Garad Bazar, New Bazar,Adda Bazar, - B6",
+                    "localname": "Mohalla Bhag Shah Road, Tehsil Bazar, Garad Bazar, New Bazar,Adda Bazar, - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_15",
+                    "area": "AREA6",
+                    "children": []
+                  },
+                  {
+                    "id": "b7de5748-1944-4a9b-83c0-fc8b7fa1e269",
+                    "boundaryNum": 1,
+                    "name": "Bohri Chowk, Gali Saran Wali,  Noordi Bazar, Gali Maseet Wali, Bazar Totian Wala - B6",
+                    "localname": "Bohri Chowk, Gali Saran Wali,  Noordi Bazar, Gali Maseet Wali, Bazar Totian Wala - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_16",
+                    "area": "AREA6",
+                    "children": []
+                  },
+                  {
+                    "id": "a08954ce-bcee-434b-b328-b8f011af7745",
+                    "boundaryNum": 1,
+                    "name": "Shri Chander Colony, Sardar Enclave, Mohalla Jaswant singh, Khalsa College, Khusht Ashram - B6",
+                    "localname": "Shri Chander Colony, Sardar Enclave, Mohalla Jaswant singh, Khalsa College, Khusht Ashram - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_17",
+                    "area": "AREA6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e6b6f09-2fbf-44d8-8985-13b5e43c405c",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "8ac86343-7026-4875-8017-734ca6b18e7f",
+                    "boundaryNum": 1,
+                    "name": "Rohi Kanda Kazikot Road, Gali Darshan Singh Wali,  Chota Kazikot Road, Chabal Byepass gali - B7",
+                    "localname": "Rohi Kanda Kazikot Road, Gali Darshan Singh Wali,  Chota Kazikot Road, Chabal Byepass gali - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_18",
+                    "area": "AREA7",
+                    "children": []
+                  },
+                  {
+                    "id": "b45585f2-605c-4459-9616-972086f0d0df",
+                    "boundaryNum": 1,
+                    "name": "Byepass Vapsi, Near Baba Farid School, Gali Tubewell Wali,Gali Aainkan Wali - B7",
+                    "localname": "Byepass Vapsi, Near Baba Farid School, Gali Tubewell Wali,Gali Aainkan Wali - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_19",
+                    "area": "AREA7",
+                    "children": []
+                  },
+                  {
+                    "id": "55f1cdda-720b-4c64-a321-326bbde914c5",
+                    "boundaryNum": 1,
+                    "name": "Power House, Major Jeewan Singh Nagar, Golden Avenue, Iqbal Avenue Chabal Byepass Road - B7",
+                    "localname": "Power House, Major Jeewan Singh Nagar, Golden Avenue, Iqbal Avenue Chabal Byepass Road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TT_20",
+                    "area": "AREA7",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
