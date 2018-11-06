@@ -1,0 +1,408 @@
+{
+  "tenantId": "pb.bhadson",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhadson",
+        "localname": "Bhadson",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhadson",
+        "children": [
+          {
+            "id": "4f6c1040-6e5f-437d-abb0-a610da014bf7",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e09af709-761a-45f7-a609-ace6a1e19730",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "3dd72662-8fc1-40c4-969a-fbe6c33ff344",
+                    "boundaryNum": 1,
+                    "name": "Nabha Road - B1",
+                    "localname": "Nabha Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e79af7e-b52d-44de-8e2a-9225b1ea84c8",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "c3a8d3b9-3e93-4250-a1d2-f5f018014e66",
+                    "boundaryNum": 1,
+                    "name": "Amloh Road - B2",
+                    "localname": "Amloh Road - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47cb81cf-e8d5-41d8-9fd1-35df2ea9d9a0",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "7ae158eb-1727-400a-ae12-9f444fafce35",
+                    "boundaryNum": 1,
+                    "name": "Patiala Road - B3",
+                    "localname": "Patiala Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12a5d771-88b3-4212-969e-df701e54315f",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "2996f3e9-6311-41ab-a993-58415e2e3fa6",
+                    "boundaryNum": 1,
+                    "name": "Anaj Mandi Road - B4",
+                    "localname": "Anaj Mandi Road - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17e7603a-e30b-4f85-a5b5-234418111389",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "05ba9280-2934-410c-bbd0-ad3f32f69d03",
+                    "boundaryNum": 1,
+                    "name": "Thana Rod - B5",
+                    "localname": "Thana Rod - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47687e0a-89c6-4849-b001-1e49df1ebb6b",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "f7142ace-6763-4a7f-8bad-376434050b91",
+                    "boundaryNum": 1,
+                    "name": "Hospital Road - B6",
+                    "localname": "Hospital Road - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26ea43a5-ce9a-4c88-8a4b-68aaa26d9f3d",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "45d053fe-2992-494d-9228-da864a025dbe",
+                    "boundaryNum": 1,
+                    "name": "Sandhu Colony Market - B7",
+                    "localname": "Sandhu Colony Market - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a1286392-1584-4426-8fb5-f28b1572f523",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "4ad8f3f0-029b-4963-9807-d8ec780ae103",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "7ccdbd27-7c76-4095-9419-d394f6c7bac9",
+                    "boundaryNum": 1,
+                    "name": "Hari har Mandit De Back Side - B8",
+                    "localname": "Hari har Mandit De Back Side - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dcb68b16-ff27-4afa-b9c2-ab716009bdd7",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "331fff39-85da-4eb7-aaa3-d00ca8548417",
+                    "boundaryNum": 1,
+                    "name": "Sudewal Paha - B9",
+                    "localname": "Sudewal Paha - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f8bcf15f-47de-4f91-bf7a-9a336430dcc4",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "0792b6aa-b13f-498b-ab29-43eabe5f92d9",
+                    "boundaryNum": 1,
+                    "name": "Sood Colony - B10",
+                    "localname": "Sood Colony - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca5b786f-291a-46cd-86a1-9a0295f42004",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "c8cfc33b-264c-42b1-9f79-36441e689a1b",
+                    "boundaryNum": 1,
+                    "name": "Surya Enclave - B11",
+                    "localname": "Surya Enclave - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f495f8d7-6039-4cc3-a81c-43b6fbb530d8",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "e0452af2-ef71-41f0-8ab5-70f940c32866",
+                    "boundaryNum": 1,
+                    "name": "Dhea Basti - B12",
+                    "localname": "Dhea Basti - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4484150d-70ae-444f-8108-d7628d6c5f6d",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "ff9e4f77-258a-4695-a8e8-f5fb1649a905",
+                    "boundaryNum": 1,
+                    "name": "Harijan Basti - B13",
+                    "localname": "Harijan Basti - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e618ebde-3483-48e2-9cda-6bd61b2189e6",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "f6a9b441-9ee2-40a4-982e-ea421e3b1651",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mohulla - B14",
+                    "localname": "Shiv Mohulla - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1201666-64f0-40e5-8a06-d2517b3f4594",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "b13828c1-6d95-45f0-8f86-fbbc3bf85314",
+                    "boundaryNum": 1,
+                    "name": "Mata Rani Mohulla - B15",
+                    "localname": "Mata Rani Mohulla - B15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "bhd_15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
