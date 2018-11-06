@@ -1,0 +1,708 @@
+{
+  "tenantId": "pb.malout",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Malout",
+        "localname": "Malout",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.malout",
+        "children": [
+          {
+            "id": "2dc6c5cb-fff2-480f-a5d3-f2088b0b2385",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e0a6d75f-3104-4edc-bf3b-be637e78abf7",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "2e100707-6168-4f4f-a3f2-af60908c0b34",
+                    "boundaryNum": 1,
+                    "name": "SARABHA NAGAR,MIMIT AERA,BACK SIDE PAL DA DHABBA, DASMESH COLONY, DANA MANDI, PUDA COLONY, DCM AERA, PINK CITY COLONY - WARD 1",
+                    "localname": "SARABHA NAGAR,MIMIT AERA,BACK SIDE PAL DA DHABBA, DASMESH COLONY, DANA MANDI, PUDA COLONY, DCM AERA, PINK CITY COLONY - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "02ef6e5c-80a8-4a90-867e-de917666a6f7",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "55f91f3b-4246-4bfd-a630-365523d86f32",
+                    "boundaryNum": 1,
+                    "name": "ADARSH NAGAR, SARABHA NAGAR,  SETIA MOHHLA, - WARD 2",
+                    "localname": "ADARSH NAGAR, SARABHA NAGAR,  SETIA MOHHLA, - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dde30924-d37d-4e7e-a165-1177f8af547e",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "0ce8f6ec-6687-4ac3-9e21-d3189564798c",
+                    "boundaryNum": 1,
+                    "name": "NAGPAL NAGAR, MINNI NAGPAL NAGARI, BALMIK MOHHLA, GOBIND NAGAR,TAKHAT WALA MOHHLA - WARD 3",
+                    "localname": "NAGPAL NAGAR, MINNI NAGPAL NAGARI, BALMIK MOHHLA, GOBIND NAGAR,TAKHAT WALA MOHHLA - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b64c41bf-a31c-4f49-af38-c8b80c7ad51d",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "ce460481-3009-401a-baa7-9b564a888a46",
+                    "boundaryNum": 1,
+                    "name": "GOBIND NAGAR, KRISHNA COLONY,DASMESH COLONY, WATER WORKS AERA - WARD 4",
+                    "localname": "GOBIND NAGAR, KRISHNA COLONY,DASMESH COLONY, WATER WORKS AERA - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87c6559f-8421-4f88-a19a-8dc89efdc45d",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "78035cf0-8bff-4028-99da-75617de8a739",
+                    "boundaryNum": 1,
+                    "name": "BIRLA COLONY, MAIN BAZAR - WARD 5",
+                    "localname": "BIRLA COLONY, MAIN BAZAR - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a4ef0bd-3557-439a-8dce-ad39d35ffa4f",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "da3f8512-2899-4e7a-9ade-c63934285c57",
+                    "boundaryNum": 1,
+                    "name": "CAMP AERA, SUPAR BAZAR, FIRE BRIGDE - WARD 6",
+                    "localname": "CAMP AERA, SUPAR BAZAR, FIRE BRIGDE - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb1138d7-2cea-4249-92b7-5ec169904f34",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "315db54f-2018-446c-856b-8b7a365003d6",
+                    "boundaryNum": 1,
+                    "name": "CAMP AERA, DHANAK MOHHLA ,D.A.V COLLAGE AREA, - WARD 7",
+                    "localname": "CAMP AERA, DHANAK MOHHLA ,D.A.V COLLAGE AREA, - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4941b60-0465-45a5-bbce-d6a5569d598a",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "5683e4f3-b247-40e9-812f-35018af51bae",
+                    "boundaryNum": 1,
+                    "name": "BABA DEEP SINGH NAGAR - WARD 8",
+                    "localname": "BABA DEEP SINGH NAGAR - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1eab46d2-54d8-4bd2-b56d-08e47f2f2e9c",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "1846da0a-bb98-49e8-95fe-4228214150b4",
+                    "boundaryNum": 1,
+                    "name": "D.DHANAK MOHHLA, MAHAVIR NAGARI, HANUMAN ROAD - WARD 9",
+                    "localname": "D.DHANAK MOHHLA, MAHAVIR NAGARI, HANUMAN ROAD - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d72b467-f71e-4c59-91db-ab86c4e077b2",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "27453c17-a195-4097-9c5f-034edcd03518",
+                    "boundaryNum": 1,
+                    "name": "DHANAK MOHHLA, DHAKKA BASTI - WARD 10",
+                    "localname": "DHANAK MOHHLA, DHAKKA BASTI - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa81b65c-b51f-4317-8105-2ad9a5cc57db",
+                "boundaryNum": 1,
+                "name": "WARD 21",
+                "localname": "WARD 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 21",
+                "children": [
+                  {
+                    "id": "1b2dc669-e898-422f-8b6c-d6d3a12794eb",
+                    "boundaryNum": 1,
+                    "name": "CIVIL HOSPITAL AERA, MAKKER COLONY, MOHHLA KARNAIL SINGH, MAIN BAZAR, SUPAR BAZAR - WARD 21",
+                    "localname": "CIVIL HOSPITAL AERA, MAKKER COLONY, MOHHLA KARNAIL SINGH, MAIN BAZAR, SUPAR BAZAR - WARD 21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "684dbdab-f164-4b5b-ab4c-01ad0967cbb0",
+            "boundaryNum": 1,
+            "name": "ZONE2",
+            "localname": "ZONE2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "d6396ed2-4082-4be5-8c71-7fc72cb5731a",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "ce04cacf-f066-40d3-b5a9-5d2ae07f9a77",
+                    "boundaryNum": 1,
+                    "name": "JOGIAN MOHHLA, KALGIDHAR MOHHLA, AJIT NAGAR - WARD 11",
+                    "localname": "JOGIAN MOHHLA, KALGIDHAR MOHHLA, AJIT NAGAR - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4b105915-6897-4f98-94c5-41a4bfd10aac",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 12",
+                "children": [
+                  {
+                    "id": "417d59aa-0020-4b89-a080-c721a0f29b4a",
+                    "boundaryNum": 1,
+                    "name": "SATNAM NAGAR, AJIT NAGARI, BRARN WALA MOHHLA, BHAI JAGTA JI GURUDWARA MOHHLA - WARD 12",
+                    "localname": "SATNAM NAGAR, AJIT NAGARI, BRARN WALA MOHHLA, BHAI JAGTA JI GURUDWARA MOHHLA - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c6a585d-c1d1-4ee6-a021-a2a634442698",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 13",
+                "children": [
+                  {
+                    "id": "f1f57483-0314-4297-83af-df0970f26925",
+                    "boundaryNum": 1,
+                    "name": "SAS NAGAR, NEW GOBIND NAGAR, SACHA SODHA ROAD, SATNAM NAGAR - WARD 13",
+                    "localname": "SAS NAGAR, NEW GOBIND NAGAR, SACHA SODHA ROAD, SATNAM NAGAR - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9683ba26-60d4-4a59-81d8-7d51b90eaedc",
+                "boundaryNum": 1,
+                "name": "WARD 14",
+                "localname": "WARD 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 14",
+                "children": [
+                  {
+                    "id": "390fbaa7-7ced-400b-aaa5-7e587a86eb44",
+                    "boundaryNum": 1,
+                    "name": "KALGIDHAR MOHHLA, PREET NAGAR, SAS NAGAR, CONVANT SCHOOL AREA, STML MILL AREA - WARD 14",
+                    "localname": "KALGIDHAR MOHHLA, PREET NAGAR, SAS NAGAR, CONVANT SCHOOL AREA, STML MILL AREA - WARD 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af35872f-86fb-4c07-a524-be766f9bdd24",
+                "boundaryNum": 1,
+                "name": "WARD 15",
+                "localname": "WARD 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 15",
+                "children": [
+                  {
+                    "id": "0eec9ec6-0100-4fc2-8a48-877f26576674",
+                    "boundaryNum": 1,
+                    "name": "EKTA NAGAR, CHANDIGARH MOHHLA, SACHA SODHA AREA,CHANDIGARH MOHHLA - WARD 15",
+                    "localname": "EKTA NAGAR, CHANDIGARH MOHHLA, SACHA SODHA AREA,CHANDIGARH MOHHLA - WARD 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1951d190-7d23-44aa-8afd-6526796347ec",
+                "boundaryNum": 1,
+                "name": "WARD 16",
+                "localname": "WARD 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 16",
+                "children": [
+                  {
+                    "id": "2b6aa1dd-b146-4738-b1e2-4755db3a9255",
+                    "boundaryNum": 1,
+                    "name": "OLD RADHA SWAMI ROAD, SHRI CHAND MOHHLA, KUSHT ASHRAM, CHANDIGARH MOHHLA - WARD 16",
+                    "localname": "OLD RADHA SWAMI ROAD, SHRI CHAND MOHHLA, KUSHT ASHRAM, CHANDIGARH MOHHLA - WARD 16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f4921218-afc0-4e94-910d-68de32a0d6c7",
+            "boundaryNum": 1,
+            "name": "ZONE3",
+            "localname": "ZONE3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z3",
+            "children": [
+              {
+                "id": "51b20275-79b0-45e8-a8bd-7ad3e1bf8797",
+                "boundaryNum": 1,
+                "name": "WARD 17",
+                "localname": "WARD 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 17",
+                "children": [
+                  {
+                    "id": "80f04331-59e7-4546-8c18-94812a5b6f87",
+                    "boundaryNum": 1,
+                    "name": "GURU RAVI DASS NAGAR, BALMIK MOHHLA - WARD 17",
+                    "localname": "GURU RAVI DASS NAGAR, BALMIK MOHHLA - WARD 17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f94b1a3-3561-47a9-ba92-960ef339773a",
+                "boundaryNum": 1,
+                "name": "WARD 18",
+                "localname": "WARD 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 18",
+                "children": [
+                  {
+                    "id": "7eb26b6e-27a3-4506-bc24-ba209df37580",
+                    "boundaryNum": 1,
+                    "name": "GURU RAVI DASS NAGAR, - WARD 18",
+                    "localname": "GURU RAVI DASS NAGAR, - WARD 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "459c77a5-960c-44ac-a992-1fb2ddfd8a68",
+                "boundaryNum": 1,
+                "name": "WARD 19",
+                "localname": "WARD 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 19",
+                "children": [
+                  {
+                    "id": "e4dbee92-c628-4a6f-9d7c-b2d0f5b2c069",
+                    "boundaryNum": 1,
+                    "name": "PATEL NAGAR, GURU RAVI DASS NAGAR - WARD 19",
+                    "localname": "PATEL NAGAR, GURU RAVI DASS NAGAR - WARD 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "40385472-28c6-4b83-b483-f10de6bd99f7",
+                "boundaryNum": 1,
+                "name": "WARD 20",
+                "localname": "WARD 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 20",
+                "children": [
+                  {
+                    "id": "64dd495a-ebae-4b1b-9c4d-1262cfab1e41",
+                    "boundaryNum": 1,
+                    "name": "GURU RAVI DASS NAGAR, KHATEEK MOHHLA - WARD 20",
+                    "localname": "GURU RAVI DASS NAGAR, KHATEEK MOHHLA - WARD 20",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c41fbdd-3831-4020-9170-dc2d30e77914",
+                "boundaryNum": 1,
+                "name": "WARD 22",
+                "localname": "WARD 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 22",
+                "children": [
+                  {
+                    "id": "ac38dafb-0bb1-4675-8634-4c4f624e598e",
+                    "boundaryNum": 1,
+                    "name": "KACHI MANDI, - WARD 22",
+                    "localname": "KACHI MANDI, - WARD 22",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8367af43-060d-43c9-898f-79316cd6e916",
+                "boundaryNum": 1,
+                "name": "WARD 23",
+                "localname": "WARD 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 23",
+                "children": [
+                  {
+                    "id": "7f5273b9-e38e-4c66-a7f3-279301d0e233",
+                    "boundaryNum": 1,
+                    "name": "HET RAM COLONY, GURU NANAK NAGARI - WARD 23",
+                    "localname": "HET RAM COLONY, GURU NANAK NAGARI - WARD 23",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41eff0aa-745e-451e-83d0-f1be85c29e4a",
+                "boundaryNum": 1,
+                "name": "WARD 24",
+                "localname": "WARD 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 24",
+                "children": [
+                  {
+                    "id": "a243ebfb-3589-45f9-8ffb-f050f5e33b1f",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK NAGARI, PATEL NAGAR,DERA PREM DASS AREA - WARD 24",
+                    "localname": "GURU NANAK NAGARI, PATEL NAGAR,DERA PREM DASS AREA - WARD 24",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87275d03-9a22-491b-b734-7514145b03e0",
+                "boundaryNum": 1,
+                "name": "WARD 25",
+                "localname": "WARD 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 25",
+                "children": [
+                  {
+                    "id": "c126b5b6-559c-494e-bba6-e198c6761de3",
+                    "boundaryNum": 1,
+                    "name": "PATEL NAGAR, HARJINDER NAGAR,CH. ATMA RAM MOHHLA - WARD 25",
+                    "localname": "PATEL NAGAR, HARJINDER NAGAR,CH. ATMA RAM MOHHLA - WARD 25",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e28ea379-7142-4eab-b705-11b969a23e9c",
+                "boundaryNum": 1,
+                "name": "WARD 26",
+                "localname": "WARD 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 26",
+                "children": [
+                  {
+                    "id": "bd4005b0-a10c-482e-b769-3c8981f18ac6",
+                    "boundaryNum": 1,
+                    "name": "HARJINDER NAGAR, PATEL NAGAR, ROOP NAGAR - WARD 26",
+                    "localname": "HARJINDER NAGAR, PATEL NAGAR, ROOP NAGAR - WARD 26",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2ad8fcb-1aef-49a3-9098-880614c66015",
+                "boundaryNum": 1,
+                "name": "WARD 27",
+                "localname": "WARD 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 27",
+                "children": [
+                  {
+                    "id": "69a0b0c7-27ee-471e-b7ba-4606e2e21770",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK NAGARI, ROOP NAGAR, AMAN NAGAR, HARGOBIND NAGAR, ANAND VIHAR - WARD 27",
+                    "localname": "GURU NANAK NAGARI, ROOP NAGAR, AMAN NAGAR, HARGOBIND NAGAR, ANAND VIHAR - WARD 27",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MAL27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
