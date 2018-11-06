@@ -391,6 +391,680 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Patran",
+        "localname": "Patran",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.patran",
+        "children": [
+          {
+            "id": "6d6d43cb-db54-422e-8d83-41528e30d5b9",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f4da0e42-cf76-46ae-87de-68c06955bb75",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "8f8ae410-3ad2-4ae0-951c-d14a6bf39994",
+                    "boundaryNum": 1,
+                    "name": "Patiala Raod - B1",
+                    "localname": "Patiala Raod - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6c78bf53-bcff-4eec-814e-8aab085e50d4",
+                    "boundaryNum": 1,
+                    "name": "Chanda Colony - B1",
+                    "localname": "Chanda Colony - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e9047ba7-6dcb-4388-b846-43144d20e7d4",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "eaacfc08-4d1e-4670-aa2e-bf702f3ebd3e",
+                    "boundaryNum": 1,
+                    "name": "Water works Colony - B2",
+                    "localname": "Water works Colony - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "539fbbe3-2f22-4b6b-9e55-4a27c2d689e2",
+                    "boundaryNum": 1,
+                    "name": "Ghumiar Basti - B2",
+                    "localname": "Ghumiar Basti - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b03c97c-ff45-4d57-9530-0b8726fd9cfe",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "a2af5cbc-4883-493c-9a53-1138b7c4e407",
+                    "boundaryNum": 1,
+                    "name": "Mai Dera - B3",
+                    "localname": "Mai Dera - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c24f8241-07a7-42fa-bd15-9d74f60a996a",
+                    "boundaryNum": 1,
+                    "name": "Khangar Road - B3",
+                    "localname": "Khangar Road - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef0dc5f7-383f-44db-97e2-7c5e104c71de",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "8db63cec-9c07-45c0-81c3-c12d030863aa",
+                    "boundaryNum": 1,
+                    "name": "Sant Nagar - B4",
+                    "localname": "Sant Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "019b6f8b-4391-437f-9302-0d9243b97656",
+                    "boundaryNum": 1,
+                    "name": "DMC Colony - B4",
+                    "localname": "DMC Colony - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e4a67b3-5dd1-4712-8bde-10a8d13f64e1",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "9d8fceb4-e895-416e-82c7-771aad3029c8",
+                    "boundaryNum": 1,
+                    "name": "Narwana Road - B5",
+                    "localname": "Narwana Road - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e8359de7-6b0d-4145-822b-4a059e2ed803",
+                    "boundaryNum": 1,
+                    "name": "Suniar Basti - B5",
+                    "localname": "Suniar Basti - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56035a6b-d8ed-4a0b-a927-a04c931ee9e9",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "b22c072c-d405-426a-a57c-099ddef3df3a",
+                    "boundaryNum": 1,
+                    "name": "Tulsi Nagar - B6",
+                    "localname": "Tulsi Nagar - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dbc8985f-6762-46c3-8126-9aeccd4499e7",
+                    "boundaryNum": 1,
+                    "name": "Lakhwali Basti - B6",
+                    "localname": "Lakhwali Basti - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d486ffa5-f201-42c3-bdf2-647f5acb8722",
+                    "boundaryNum": 1,
+                    "name": "Pudda Colony - B6",
+                    "localname": "Pudda Colony - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2fef15b8-3b0b-48f8-90f2-8f3086e6417f",
+                    "boundaryNum": 1,
+                    "name": "Keshav nagar - B6",
+                    "localname": "Keshav nagar - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7e981c48-830d-4a2b-bc8d-b4b1688df139",
+                    "boundaryNum": 1,
+                    "name": "Modal Town - B6",
+                    "localname": "Modal Town - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "77251afa-f35a-43e0-b360-3d96a5e68d80",
+                    "boundaryNum": 1,
+                    "name": "New Colony - B6",
+                    "localname": "New Colony - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eb1c1f4e-76c7-4bd4-9572-804aa023fe50",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "91af8625-86de-4de2-aaf6-8eccf3ed0a1e",
+                    "boundaryNum": 1,
+                    "name": "Peer Colony - B7",
+                    "localname": "Peer Colony - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "898546ab-850e-4c17-8960-5f013e51cd0e",
+                    "boundaryNum": 1,
+                    "name": "Amrik Colony - B7",
+                    "localname": "Amrik Colony - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e574e076-ef48-4e73-9529-818f018b1348",
+                    "boundaryNum": 1,
+                    "name": "Nabha Colony - B7",
+                    "localname": "Nabha Colony - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dc61e7ad-27df-4b07-a789-ef048e93a53a",
+                    "boundaryNum": 1,
+                    "name": "Dhanak Basti - B7",
+                    "localname": "Dhanak Basti - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8ac87ec1-92bb-4827-937b-a82e6b9ff8b1",
+                    "boundaryNum": 1,
+                    "name": "Krishna Basti - B7",
+                    "localname": "Krishna Basti - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "db1012e3-f905-425c-893b-179320c5bdea",
+                    "boundaryNum": 1,
+                    "name": "Saraba Nagar - B7",
+                    "localname": "Saraba Nagar - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "56f5c5a8-369f-4d64-aa86-da4f42bedcb0",
+                    "boundaryNum": 1,
+                    "name": "Kanda Basti - B7",
+                    "localname": "Kanda Basti - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8110f594-8adc-42ce-99ae-3b37d05d8c73",
+                    "boundaryNum": 1,
+                    "name": "Agarwal Colony - B7",
+                    "localname": "Agarwal Colony - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aca35449-f9bc-4945-a5a1-9e1a6b6f6086",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "2532709a-a118-408a-a142-fc1a5c4c0ade",
+                    "boundaryNum": 1,
+                    "name": "Jakhal Road - B8",
+                    "localname": "Jakhal Road - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "33f71f8b-361e-4bd0-be14-9588b11babe8",
+                    "boundaryNum": 1,
+                    "name": "Jora Basti - B8",
+                    "localname": "Jora Basti - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ae15c2f-463b-4073-930a-9e8da574f75d",
+                    "boundaryNum": 1,
+                    "name": "Tibba basti - B8",
+                    "localname": "Tibba basti - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_27",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a1004d1c-9137-48cd-86cb-bc1f02a14fb4",
+                    "boundaryNum": 1,
+                    "name": "Mangal Basti - B8",
+                    "localname": "Mangal Basti - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_28",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99109691-a8fc-4b56-b2c2-6dc2bf9ff71c",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "9a76c13e-138b-4c86-83a0-9edeafe3e67a",
+                    "boundaryNum": 1,
+                    "name": "Anaj mandi, Tobha Market - B9",
+                    "localname": "Anaj mandi, Tobha Market - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99e66901-a076-4e41-a0fb-5b8ba7fc4cbe",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "742ea88b-9a8b-47e3-9bcf-79565434311f",
+                    "boundaryNum": 1,
+                    "name": "Chunagra Road - B10",
+                    "localname": "Chunagra Road - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7648fe88-faae-48fb-9c22-536b1633a0c3",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "500f2ddb-1ebe-4dfe-8d21-f4f1887e9210",
+                    "boundaryNum": 1,
+                    "name": "Sagar basti - B11",
+                    "localname": "Sagar basti - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_31",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84add8af-c4ee-483a-96ad-ad181fe6c730",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "2c7e0c8d-6a64-44e3-8eef-5887da64d47c",
+                    "boundaryNum": 1,
+                    "name": "Sangrur Road - B12",
+                    "localname": "Sangrur Road - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_32",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c169a903-cff4-4fd8-9c41-49e018f984e5",
+                    "boundaryNum": 1,
+                    "name": "Sunder Basti - B12",
+                    "localname": "Sunder Basti - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_33",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "65841b4d-b21e-4881-a2e3-2388cbdd254b",
+                    "boundaryNum": 1,
+                    "name": "Shiv Mandir - B12",
+                    "localname": "Shiv Mandir - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "46315ce6-1642-4c6f-a965-bd7169b551b6",
+                    "boundaryNum": 1,
+                    "name": "Grid Colony - B12",
+                    "localname": "Grid Colony - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_35",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "691ec843-2842-4481-9cf9-c58049dc893d",
+                    "boundaryNum": 1,
+                    "name": "Nirankari Basti - B12",
+                    "localname": "Nirankari Basti - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_36",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fbbd7d11-e8e5-48b6-9aff-ae6a2ba358ad",
+                    "boundaryNum": 1,
+                    "name": "Ajab Colony - B12",
+                    "localname": "Ajab Colony - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ae17b4ec-1108-4c21-bc0e-4c565aa6f19b",
+                    "boundaryNum": 1,
+                    "name": "Truck Union - B12",
+                    "localname": "Truck Union - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PTRN_38",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3feb3c88-b9e7-4f8f-a436-5c4e0ab74d5b",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": []
+              },
+              {
+                "id": "86942570-60fa-46c9-a2bd-5beb16b067c9",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": []
+              },
+              {
+                "id": "bfe5a7f7-6dab-4c4f-a6b8-f68b13ed648b",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": []
+              },
+              {
+                "id": "da744603-fbdf-43bd-b87c-837ba68d9178",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
