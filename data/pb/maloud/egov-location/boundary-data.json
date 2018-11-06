@@ -391,6 +391,252 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Maloud",
+        "localname": "Maloud",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.maloud",
+        "children": [
+          {
+            "id": "00c1da44-111c-446a-936e-b68ebba083ec",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6002afb7-4749-4f99-ae23-2b1222ab5618",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "d6ccffd6-39b7-4192-a12e-261b439656ce",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 2 Commerical - B1",
+                    "localname": "Ward No. 2 Commerical - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c3b0319d-3a1f-4915-879f-3fa0acfcbb03",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 2 Residential - B1",
+                    "localname": "Ward No. 2 Residential - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "34c8ae89-c0b1-48de-981a-6d45eabca17c",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 3 Sensi Mohalla - B1",
+                    "localname": "Ward No. 3 Sensi Mohalla - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9685f7e4-92c0-4c06-9387-07247bf67518",
+                    "boundaryNum": 1,
+                    "name": "Ward No 3 Dana Mandi - B1",
+                    "localname": "Ward No 3 Dana Mandi - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ef600dd6-27bf-481f-9168-3584b61827e5",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 4 - B1",
+                    "localname": "Ward No. 4 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "40875afd-431c-45f3-9ce6-bb5289970ed4",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 5 - B1",
+                    "localname": "Ward No. 5 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9fb24e17-914b-479b-b5bd-e97bf95ee709",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "9cf843c8-717d-4bb1-b2d3-16b229e07c14",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 1 - B2",
+                    "localname": "Ward No. 1 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "815195e2-11f2-4961-b83e-b942ea5d57ff",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 9 Somal Kheri Side - B2",
+                    "localname": "Ward No. 9 Somal Kheri Side - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0c7d8b96-805a-4127-a082-3e96f59755d9",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 10 - B2",
+                    "localname": "Ward No. 10 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f019678e-7d17-4446-8007-7fe87ba589bd",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 11 - B2",
+                    "localname": "Ward No. 11 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f5e4fb0-b6a5-4d77-b51b-6afa5e0d08dc",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "a7dfa620-8195-4a8a-b1e5-7776694d335c",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 6 Pollutry Form Area - B3",
+                    "localname": "Ward No. 6 Pollutry Form Area - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a6a1ac9f-1009-4240-8345-f2d2d21ab1bb",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 6 Residential - B3",
+                    "localname": "Ward No. 6 Residential - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f9749529-6d0d-4ade-9173-8421d7f88f93",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 7 - B3",
+                    "localname": "Ward No. 7 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1489d065-a0aa-48a7-9e60-8ac90d05375a",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 8 - B3",
+                    "localname": "Ward No. 8 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5cd33f19-beba-4ea4-a9f8-025e6f38ec5a",
+                    "boundaryNum": 1,
+                    "name": "Ward No. 9 Rorian Side - B3",
+                    "localname": "Ward No. 9 Rorian Side - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MLD_12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
