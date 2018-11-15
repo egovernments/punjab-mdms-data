@@ -4,227 +4,259 @@
   "ServiceDefs": [
     {
       "serviceCode": "NoStreetlight",
+      "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "Streetlights",
+      "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights"
     },
     {
       "serviceCode": "StreetLightNotWorking",
+      "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "Streetlights",
+      "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights"
     },
     {
       "serviceCode": "GarbageNeedsTobeCleared",
+      "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "Health & Sanitation",
-      "slaHours": 336,
-      "menuPath": "Garbage"
-    },
-    {
-      "serviceCode": "ReplaceOrProvideGarbageBin",
-      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
     {
       "serviceCode": "BurningOfGarbage",
+      "active": true,
       "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
+      "active": true,
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "Drains"
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
+      "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "BlockOrOverflowingSewage",
+      "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "ShortageOfWater",
+      "active": true,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "Operation & Maintenance",
-      "slaHours": 336,
-      "menuPath": "WaterandSewage"
-    },
-    {
-      "serviceCode": "NotWaterSupply",
-      "keywords": "water, supply, connection, drink, tap",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "DirtyWaterSupply",
+      "active": true,
       "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "BrokenWaterPipeOrLeakage",
+      "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "WaterPressureisVeryLess",
+      "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "Operation & Maintenance",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
     {
       "serviceCode": "DamagedRoad",
+      "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "Building & Roads",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
     {
       "serviceCode": "WaterLoggedRoad",
+      "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "Building & Roads",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
+      "active": true,
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "Building & Roads",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
+      "active": true,
       "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "Building & Roads",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
     {
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
+      "active": true,
       "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "Building & Roads",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
+      "active": true,
       "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
     {
       "serviceCode": "StrayAnimals",
+      "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
     {
       "serviceCode": "DeadAnimals",
+      "active": true,
       "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
+      "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
+      "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
+      "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
+      "active": true,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "Building Branch",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
     {
       "serviceCode": "IllegalConstructions",
+      "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "Building Branch",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
     {
       "serviceCode": "IllegalParking",
+      "active": true,
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "Building Branch",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
+      "active": true,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
-      "department": "Horticulture",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees"
     },
     {
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
+      "active": true,
       "keywords": "tree, remove, trim, fallen, cut, plant, branch",
-      "department": "Horticulture",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees"
     },
     {
       "serviceCode": "OpenDefecation",
+      "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "Health & Sanitation",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation"
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
+      "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "Horticulture",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks"
     },
     {
       "serviceCode": "Others",
+      "active": true,
       "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
-      "department": "Others",
+      "department": "DEPT_8",
       "slaHours": 336,
       "menuPath": ""
+    },
+    {
+      "serviceCode": "DamagedGarbageBin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Garbage"
+    },
+    {
+      "serviceCode": "NoWaterSupply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "WaterandSewage"
     }
   ]
 }
