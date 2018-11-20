@@ -1,1043 +1,1796 @@
 {
   "tenantId": "pb",
   "moduleName": "TradeLicense",
-  "TradeType": [{
-    "code": "GOODS.SALESTORAGE.TST-1",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-2",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-3",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-4",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-5",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-6",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-7",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-8",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-9",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-10",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-11",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-12",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-13",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-14",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-15",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-16",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-17",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-18",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-19",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-20",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-21",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-22",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-23",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-24",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-25",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-26",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-27",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-28",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-29",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-30",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-31",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-32",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-33",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-34",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-35",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-36",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-37",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-38",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-39",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-40",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-41",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-42",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-43",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-44",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-45",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-46",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-47",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-48",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-49",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-50",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-51",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-52",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-53",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-54",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-55",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-56",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-57",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-58",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-59",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-60",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-61",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-62",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.MANUFACTURE.TST-63",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-64",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-65",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-66",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-67",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-68",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-69",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-70",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-71",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-72",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-73",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-74",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-75",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-76",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-77",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-78",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-79",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-80",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-81",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-82",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-83",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-84",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-85",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-86",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-87",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-88",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-89",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-90",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-91",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-92",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-93",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-94",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-95",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-96",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-97",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-98",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-99",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-100",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-101",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-102",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-103",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-104",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-105",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-106",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-107",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-108",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-109",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-110",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-111",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-112",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-113",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-114",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-115",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-116",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-117",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-118",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-119",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-120",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-121",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-122",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-123",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-124",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-125",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-126",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-127",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-128",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-129",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-130",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-131",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-132",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-133",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.WHOLESALE.TST-134",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.WHOLESALE.TST-135",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-136",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-137",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-138",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-139",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-140",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-141",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-142",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-143",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-144",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-145",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.GBS.TST-146",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-147",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-148",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-149",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-150",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-151",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-152",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-153",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-154",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-155",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-156",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-157",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-158",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-159",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-160",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-161",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-162",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-163",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-164",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-165",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-166",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-167",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-168",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "SERVICE.NGBS.TST-169",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-170",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-171",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-172",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }, {
-    "code": "GOODS.SALESTORAGE.TST-173",
-    "uom": null,
-    "applicationDocument": ["OWNERIDPROOF", "OWNERSHIPPROOF"],
-    "verificationDocument": [],
-    "active": true
-  }]
+  "TradeType": [
+    {
+      "code": "GOODS.SALESTORAGE.TST-1",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-2",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-3",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-4",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-5",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-6",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-7",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-8",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-9",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-10",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-11",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-12",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-13",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-14",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-15",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-16",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-17",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-18",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-19",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-20",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-21",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-22",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-23",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-24",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-25",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-26",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-27",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-28",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-29",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-30",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-31",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-32",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-33",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-34",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-35",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-36",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-37",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-38",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-39",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-40",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-41",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-42",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-43",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-44",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-45",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-46",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-47",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-48",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-49",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-50",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-51",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-52",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-53",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-54",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-55",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-56",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-57",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-58",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-59",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-60",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-61",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-62",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-63",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-64",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-65",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-66",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-67",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-68",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-69",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-70",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-71",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-72",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-73",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-74",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-75",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-76",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-77",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-78",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-79",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-80",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-81",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-82",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-83",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-84",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-85",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-86",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-87",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-88",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-89",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-90",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-91",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-92",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-93",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-94",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-95",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-96",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-97",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-98",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-99",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-100",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-101",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-102",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-103",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-104",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-105",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-106",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-107",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-108",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-109",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-110",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-111",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-112",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-113",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-114",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-115",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-116",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-117",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-118",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-119",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-120",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-121",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-122",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-123",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-124",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-125",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-126",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-127",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-128",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-129",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-130",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-131",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-132",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-133",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-134",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-135",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-136",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-137",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-138",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-139",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.WHOLESALE.TST-140",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.WHOLESALE.TST-141",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-142",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-143",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-144",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-145",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-146",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-147",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-148",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-149",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-150",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-151",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.GBS.TST-152",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-153",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-154",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-155",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-156",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-157",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-158",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-159",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-160",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-161",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-162",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-163",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-164",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-165",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-166",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-167",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-168",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-169",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-170",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-171",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-172",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-173",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-174",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "SERVICES.NGBS.TST-175",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-176",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-177",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-178",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    },
+    {
+      "code": "GOODS.SALESTORAGE.TST-179",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true
+    }
+  ]
 }
