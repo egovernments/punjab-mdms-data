@@ -4224,6 +4224,66 @@
       "navigationURL": "report/rainmaker-tl/ReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1705,
+      "name": "StateSourceReport",
+      "url": "url",
+      "displayName": "State Source",
+      "orderNumber": 7,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.StateSourceReport",
+      "navigationURL": "report/rainmaker-pgr/StateSourceReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1706,
+      "name": "StateULBReport",
+      "url": "url",
+      "displayName": "State ULB",
+      "orderNumber": 8,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.StateULBReport",
+      "navigationURL": "report/rainmaker-pgr/StateULBReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1707,
+      "name": "ComplaintTypesReport",
+      "url": "url",
+      "displayName": "Complaint Types",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.ComplaintTypesReport",
+      "navigationURL": "report/rainmaker-pgr/ComplaintTypesReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1708,
+      "name": "DepartmentReport",
+      "url": "url",
+      "displayName": "Department",
+      "orderNumber": 10,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.DepartmentReport",
+      "navigationURL": "report/rainmaker-pgr/DepartmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }  
   ]
 }
