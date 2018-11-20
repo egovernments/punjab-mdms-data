@@ -4284,6 +4284,21 @@
       "navigationURL": "report/rainmaker-pgr/DepartmentReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1709,
+      "name": "StateWidePtCollection",
+      "url": "url",
+      "displayName": "PT Collection",
+      "orderNumber": 11,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "State Reports.PT.StateWidePtCollection",
+      "navigationURL": "report/rainmaker-pt/StateWidePtCollection",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }  
   ]
 }
