@@ -391,6 +391,408 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dinanagar",
+        "localname": "Dinanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dinanagar",
+        "children": [
+          {
+            "id": "4d562df6-92cc-4cb3-9f4b-eb5c08350378",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "48f8e460-bbe6-4e5f-91bf-b348a9b390c0",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD1",
+                "children": [
+                  {
+                    "id": "f1e17bdf-d131-4542-b736-7a8b2e02b2d6",
+                    "boundaryNum": 1,
+                    "name": "Back side Dyanand Math and front of math WARD 1 - WD1",
+                    "localname": "Back side Dyanand Math and front of math WARD 1 - WD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d1d2e0ef-e7c7-478f-a8f5-7dee39ca7df4",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD4",
+                "children": [
+                  {
+                    "id": "cb4a70f2-917e-4efa-b33b-8aebe77d225f",
+                    "boundaryNum": 1,
+                    "name": "Golden Avenue, Gurunanak nagri, nand vihar colony WARD 4 - WD4",
+                    "localname": "Golden Avenue, Gurunanak nagri, nand vihar colony WARD 4 - WD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b0451fe-48d6-4a84-aa4b-65437f467938",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD5",
+                "children": [
+                  {
+                    "id": "4cd09a72-66b6-45dd-ab52-9970775481cb",
+                    "boundaryNum": 1,
+                    "name": "Master Colony, Kothe Jattan, Model Town WARD 5 - WD5",
+                    "localname": "Master Colony, Kothe Jattan, Model Town WARD 5 - WD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73a26201-7608-4566-a7c4-91b9474f59cd",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD6",
+                "children": [
+                  {
+                    "id": "22d63a49-81e0-4a4a-9918-087d2c835a36",
+                    "boundaryNum": 1,
+                    "name": "Ajit Nagar, Model Town, Basant Vihar Colony WARD 6 - WD6",
+                    "localname": "Ajit Nagar, Model Town, Basant Vihar Colony WARD 6 - WD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35199f81-7f8c-469f-9735-2d5edb382134",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD7",
+                "children": [
+                  {
+                    "id": "a3a48ffe-7945-40cb-9432-d95bcc48defa",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Berrian WARD 7 - WD7",
+                    "localname": "Mohalla Berrian WARD 7 - WD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e2a7742e-3507-4128-812c-33884f7dcea0",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD8",
+                "children": [
+                  {
+                    "id": "e2584358-e9c1-4dbc-9e5d-3f85797bc4c0",
+                    "boundaryNum": 1,
+                    "name": "Arya Nagar,  WARD 8 - WD8",
+                    "localname": "Arya Nagar,  WARD 8 - WD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "baff56b2-150b-4bbb-aefe-8b92a1ceb554",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD9",
+                "children": [
+                  {
+                    "id": "1142ec6c-2da2-4922-9a9d-fb95bbfb7e37",
+                    "boundaryNum": 1,
+                    "name": "Kothe Dhian Singh, Harijan Colony,Berian Mohalla WARD 9 - WD9",
+                    "localname": "Kothe Dhian Singh, Harijan Colony,Berian Mohalla WARD 9 - WD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f0b2f36-6888-40c6-a58a-02dd18934103",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD10",
+                "children": [
+                  {
+                    "id": "13829281-d786-444c-9518-cc45c321e7c9",
+                    "boundaryNum": 1,
+                    "name": "Krishna Nagar Camp , Kothe Punjab Singh WARD 10 - WD10",
+                    "localname": "Krishna Nagar Camp , Kothe Punjab Singh WARD 10 - WD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "afaec833-8937-45cf-9937-5193358f2deb",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "c6b48446-62e8-42a0-a70f-9714ce60ec30",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD2",
+                "children": [
+                  {
+                    "id": "146efaae-2c22-4a39-bdc1-05f1cd0f5133",
+                    "boundaryNum": 1,
+                    "name": "Gali Gurdwara and guru nanak galiu WARD 2 - WD2",
+                    "localname": "Gali Gurdwara and guru nanak galiu WARD 2 - WD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b4c9f972-cdf2-4a17-98e5-e85fa786d914",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD3",
+                "children": [
+                  {
+                    "id": "1967b4bf-a681-4afd-ba14-186d42156bdd",
+                    "boundaryNum": 1,
+                    "name": "Krishna Gali, Bania Gali, Mugrali bazar, Chatti Gali WARD 3 - WD3",
+                    "localname": "Krishna Gali, Bania Gali, Mugrali bazar, Chatti Gali WARD 3 - WD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC3",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c1957242-a711-4496-9eca-3d9a3c516d5f",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD11",
+                "children": [
+                  {
+                    "id": "326c66c8-5a1f-4c88-9f9c-f0b7619463c2",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony, Krishna Nagar CaMP, Behrampur Road WARD 11 - WD11",
+                    "localname": "Indra Colony, Krishna Nagar CaMP, Behrampur Road WARD 11 - WD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc605f16-1fd1-4b73-96ca-fc34f77d5cc9",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD12",
+                "children": [
+                  {
+                    "id": "9a229612-7946-46df-91ac-71f0463145be",
+                    "boundaryNum": 1,
+                    "name": "Berian Mohalla, Shiv Nagar,Berian Mohalla WARD 12 - WD12",
+                    "localname": "Berian Mohalla, Shiv Nagar,Berian Mohalla WARD 12 - WD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3a4cf92-d76f-4286-a7f2-cb38e8d4b196",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD13",
+                "children": [
+                  {
+                    "id": "ce8c8593-356b-4056-9f42-ac55a0f86326",
+                    "boundaryNum": 1,
+                    "name": "Gali Gujjran, Gali Banian, Main Bazar,Gali Pandtan WARD 13 - WD13",
+                    "localname": "Gali Gujjran, Gali Banian, Main Bazar,Gali Pandtan WARD 13 - WD13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1ba05bc8-8c2e-4641-ae95-0eda77ee562a",
+                "boundaryNum": 1,
+                "name": "WARD 14",
+                "localname": "WARD 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD14",
+                "children": [
+                  {
+                    "id": "97bed802-1704-43f5-83f5-fef4e0e7b0b9",
+                    "boundaryNum": 1,
+                    "name": "Gali Cometa, Jalakari Mohalla, Back side DAV School WARD 14 - WD14",
+                    "localname": "Gali Cometa, Jalakari Mohalla, Back side DAV School WARD 14 - WD14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8deb2a0b-6288-49b6-bf90-60463ca840c8",
+                "boundaryNum": 1,
+                "name": "WARD 15",
+                "localname": "WARD 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD15",
+                "children": [
+                  {
+                    "id": "86ad43ab-35b6-494f-8828-9d7722818151",
+                    "boundaryNum": 1,
+                    "name": "Jawaher Gali, Ghumiara Gali, Sarafa Gali WARD 15 - WD15",
+                    "localname": "Jawaher Gali, Ghumiara Gali, Sarafa Gali WARD 15 - WD15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
