@@ -295,6 +295,216 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhilwan",
+        "localname": "Dhilwan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dhilwan",
+        "children": [
+          {
+            "id": "0dd6f113-bebe-4886-b970-687906df9237",
+            "boundaryNum": 1,
+            "name": "DHILWAN",
+            "localname": "DHILWAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "DHL1",
+            "children": [
+              {
+                "id": "133d7aa7-a79a-4f3b-88e3-c68b4f57733f",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "e50cdeba-41d8-4d0e-be54-6bd41b9893a1",
+                    "boundaryNum": 1,
+                    "name": "Patti Ladhu Ki   Block 1 - B1",
+                    "localname": "Patti Ladhu Ki   Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "56aef507-b48b-40db-97e2-d97f2287d74b",
+                    "boundaryNum": 1,
+                    "name": "Patti Ladhu Ki   Block 1 - B1",
+                    "localname": "Patti Ladhu Ki   Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ef4ef43-3cb7-4449-b98a-fb7c308a1c6b",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "ca83e0e6-2dbc-4c01-baa4-5e32c4d5d613",
+                    "boundaryNum": 1,
+                    "name": "Patti Ramu ki  Block 2 - B2",
+                    "localname": "Patti Ramu ki  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a02ae316-e358-4335-9f93-19a69a7a683a",
+                    "boundaryNum": 1,
+                    "name": "Patti Ramu ki  Block 2 - B2",
+                    "localname": "Patti Ramu ki  Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67b59d08-8382-4819-b1b5-ea415101cb1a",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "12160eb6-bf63-4c6d-bcfb-7032eb8661d5",
+                    "boundaryNum": 1,
+                    "name": "Patti Jallu Ki  Block 3 - B3",
+                    "localname": "Patti Jallu Ki  Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3fb1fcc1-b4ed-46cc-a97d-01ae5a459970",
+                    "boundaryNum": 1,
+                    "name": "Patti Jallu Ki  Block 3 - B3",
+                    "localname": "Patti Jallu Ki  Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "149b6048-ac67-4485-9863-3304090df3a4",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "56dc47a5-22b2-4e19-bb70-d081dcaa8888",
+                    "boundaryNum": 1,
+                    "name": "Patti Mahmad ki   Block 4 - B4",
+                    "localname": "Patti Mahmad ki   Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "876cf316-812b-4105-914d-5ef2ae8748a4",
+                    "boundaryNum": 1,
+                    "name": "Patti Mahmad ki   Block 4 - B4",
+                    "localname": "Patti Mahmad ki   Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6cb888a7-0860-4e4e-b09d-277883ff0b47",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "e9aaf309-b8db-47f1-9c9c-6c08ce15406c",
+                    "boundaryNum": 1,
+                    "name": "Miani Bakarpur Dhilwan  Block 5 - B5",
+                    "localname": "Miani Bakarpur Dhilwan  Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "60416439-8312-471a-b487-0e80d5d9ec54",
+                    "boundaryNum": 1,
+                    "name": "Miani Bakarpur Dhilwan  Block 5 - B5",
+                    "localname": "Miani Bakarpur Dhilwan  Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC_10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
