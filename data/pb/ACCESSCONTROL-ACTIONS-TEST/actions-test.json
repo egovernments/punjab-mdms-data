@@ -4314,6 +4314,36 @@
       "navigationURL": "integration/dashboard/water-financial-indicators",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }  
+    },
+    {
+      "id": 1711,
+      "name": "PGRDashboard",
+      "url": "url",
+      "displayName": "PGR Dashboard",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.PGRDashboard",
+      "navigationURL": "integration/dashboard/pgr",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1712,
+      "name": "PTDashboard",
+      "url": "url",
+      "displayName": "PT Dashboard",
+      "orderNumber": 1,
+      "parentModule": "rainmaker",
+      "enabled": true,
+      "serviceCode": "rainmaker",
+      "code": "null",
+      "path": "Dashboard.PTDashboard",
+      "navigationURL": "integration/dashboard/property",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
   ]
 }
