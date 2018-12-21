@@ -4359,6 +4359,51 @@
       "navigationURL": "integration/dashboard/collections",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1714,
+      "name": "WSMunicipalAdoption",
+      "url": "url",
+      "displayName": "Municipal Adoption",
+      "orderNumber": 1,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSMunicipalAdoption",
+      "navigationURL": "integration/dashboard/ws-municipal-adoption",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    { 
+      "id": 1715,
+      "name": "WSCurrentDayCollections",
+      "url": "url",
+      "displayName": "Current Day Collections",
+      "orderNumber": 1,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSCurrentDayCollections",
+      "navigationURL": "integration/dashboard/ws-currentday-collections",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    { 
+      "id": 1716,
+      "name": "WSFieldCollections",
+      "url": "url",
+      "displayName": "Field Collections",
+      "orderNumber": 1,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSFieldCollections",
+      "navigationURL": "integration/dashboard/ws-field-collections",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
