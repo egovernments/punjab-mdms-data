@@ -1,0 +1,420 @@
+{
+  "tenantId": "pb.fatehgarhchurian",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Fatehgarhchurian",
+        "localname": "Fatehgarhchurian",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.fatehgarhchurian",
+        "children": [
+          {
+            "id": "4a46fcb2-9c4f-49ba-be7b-39b0e10376af",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a36ff2d7-cd23-416f-9127-dee4ff0ac7a4",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 2",
+                "children": [
+                  {
+                    "id": "3c5f079d-5b12-4686-add9-35aef80a35ad",
+                    "boundaryNum": 1,
+                    "name": "Haveli Puran Shah  Ward 2 - W 2",
+                    "localname": "Haveli Puran Shah  Ward 2 - W 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5358346a-0f23-4780-bfe4-dcbd3fe3cce7",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 5",
+                "children": [
+                  {
+                    "id": "90d151ae-e134-4fad-88c5-30e3426366f5",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar Ward 5 - W 5",
+                    "localname": "Dashmesh Nagar Ward 5 - W 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f53dbe23-e15b-43b5-917c-9918e791e1e7",
+                    "boundaryNum": 1,
+                    "name": "Railway Road  Ward 5 - W 5",
+                    "localname": "Railway Road  Ward 5 - W 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43d70011-fbb6-430c-943b-407ca7a67c9e",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 6",
+                "children": [
+                  {
+                    "id": "b7c5f53a-c538-47ed-a5bb-8d4e5fdce240",
+                    "boundaryNum": 1,
+                    "name": "Ajnala Road Ward 6 - W 6",
+                    "localname": "Ajnala Road Ward 6 - W 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5f28b2ae-32a9-467c-8199-1a5c51fb75fd",
+                    "boundaryNum": 1,
+                    "name": "Police station Raod  Ward 6 - W 6",
+                    "localname": "Police station Raod  Ward 6 - W 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2af45d4-8097-4bce-8a52-dede73473ee8",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 7",
+                "children": [
+                  {
+                    "id": "8437216c-1528-4c00-8509-e0e421aa14c0",
+                    "boundaryNum": 1,
+                    "name": "Sanan Mohalla  Ward 7 - W 7",
+                    "localname": "Sanan Mohalla  Ward 7 - W 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45dff5cb-a660-4e5f-b3af-6fc6b739f82e",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 8",
+                "children": [
+                  {
+                    "id": "7b9fa9b9-bdf8-4e86-a9af-793e0cdf9923",
+                    "boundaryNum": 1,
+                    "name": "Sanan Mohalla  Ward 8 - W 8",
+                    "localname": "Sanan Mohalla  Ward 8 - W 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bda6441f-b7db-49e1-b0b0-eab9eda1bf94",
+                    "boundaryNum": 1,
+                    "name": "Nim Wali Masit Ward 8 - W 8",
+                    "localname": "Nim Wali Masit Ward 8 - W 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5f8d6129-e62b-467a-8236-00147eed0731",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 9",
+                "children": [
+                  {
+                    "id": "3cdbc452-2f68-485b-bbd7-d401d935ef8a",
+                    "boundaryNum": 1,
+                    "name": "Garden Colony  Ward 9 - W 9",
+                    "localname": "Garden Colony  Ward 9 - W 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c48c1056-033c-4090-a64c-f5063ddee9a2",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 13",
+                "children": [
+                  {
+                    "id": "779e4b67-5494-47e0-a9e4-4af7acd60944",
+                    "boundaryNum": 1,
+                    "name": "Police station Raod  Ward 13 - W 13",
+                    "localname": "Police station Raod  Ward 13 - W 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "e07f461b-ab91-41f9-85d1-c98e2b2f3da1",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "de7ff063-7462-4e4f-8074-a98722cd2c47",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 1",
+                "children": [
+                  {
+                    "id": "7ed5c049-c197-44a4-874d-cd02738a5e15",
+                    "boundaryNum": 1,
+                    "name": "Dera Road  Ward 1 - W 1",
+                    "localname": "Dera Road  Ward 1 - W 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc7b36a2-939c-40cf-91cf-f082062565a9",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 3",
+                "children": [
+                  {
+                    "id": "2c9ac58e-9ee9-4287-ae8c-51a5558ac39e",
+                    "boundaryNum": 1,
+                    "name": "GURU Ravidas Chownk Ward 3 - W 3",
+                    "localname": "GURU Ravidas Chownk Ward 3 - W 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cb5ab058-e97e-46c6-a500-1a1b2ae7e107",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar  Ward 3 - W 3",
+                    "localname": "Main Bazar  Ward 3 - W 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "371d25b9-e45e-403c-a027-25a4df6e1752",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 4",
+                "children": [
+                  {
+                    "id": "041a524c-5657-49dd-92d7-4b9750900864",
+                    "boundaryNum": 1,
+                    "name": "Majitha Road  Ward 4 - W 4",
+                    "localname": "Majitha Road  Ward 4 - W 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC3",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90ee18a1-5153-417e-9e49-8c1e91b41d06",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 10",
+                "children": [
+                  {
+                    "id": "7bf98d48-add0-4e86-a362-c7f3f3d9bf34",
+                    "boundaryNum": 1,
+                    "name": "Haveli Puran Shah  Ward 10 - W 10",
+                    "localname": "Haveli Puran Shah  Ward 10 - W 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0baad6e6-4f6d-4ffa-85b0-e65f7f7d4546",
+                    "boundaryNum": 1,
+                    "name": "Buti Dass Mandir  Ward 10 - W 10",
+                    "localname": "Buti Dass Mandir  Ward 10 - W 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec45a1d6-d18f-4903-a745-7d9a0553bc43",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 11",
+                "children": [
+                  {
+                    "id": "358d0583-4a5b-4a34-a894-240af51b1176",
+                    "boundaryNum": 1,
+                    "name": "SDA Church  Ward 11 - W 11",
+                    "localname": "SDA Church  Ward 11 - W 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eec16330-84f5-4b1f-a103-4f5ababd0d7c",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 12",
+                "children": [
+                  {
+                    "id": "eaa179d4-ac55-43ba-8293-28bc18e8c332",
+                    "boundaryNum": 1,
+                    "name": "Nim Wali Masit Ward 12 - W 12",
+                    "localname": "Nim Wali Masit Ward 12 - W 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "FGC17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

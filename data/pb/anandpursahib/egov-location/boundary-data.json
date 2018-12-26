@@ -1,0 +1,372 @@
+{
+  "tenantId": "pb.anandpursahib",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Anandpursahib",
+        "localname": "Anandpursahib",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.anandpursahib",
+        "children": [
+          {
+            "id": "dc724a7a-9996-47dd-a2e8-75deeb399ef6",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e8283064-915d-4cd3-99dc-1affd0e92bb6",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "faebf5d3-5de9-45fa-9fd6-9a3fd41864a5",
+                    "boundaryNum": 1,
+                    "name": "Majara - B1",
+                    "localname": "Majara - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "045a3400-058e-4c24-b6e3-844e88710d4c",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "12504b1a-71ba-4560-ab0f-c27774075405",
+                    "boundaryNum": 1,
+                    "name": "Choi Bazar - B2",
+                    "localname": "Choi Bazar - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ebb0b204-22e1-429d-8b17-ed3195ccb557",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "e0dfabab-be91-47d0-b838-1fa53bf31ec4",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Sisganj Sahib - B3",
+                    "localname": "Mohalla Sisganj Sahib - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22048e31-b7dc-4078-81f2-4b24b4becd8b",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "55f4553f-916e-4235-a6dc-29cc881631c7",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Civil Hospital - B4",
+                    "localname": "Mohalla Civil Hospital - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f83c057c-44fb-428e-8e30-cf5250c020da",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "69e6b6c0-8cda-4058-9342-acd0ab145702",
+                    "boundaryNum": 1,
+                    "name": "Near Tehsil Complex - B5",
+                    "localname": "Near Tehsil Complex - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d4931981-2dac-45e2-b91d-5c82b0fca37b",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "93977810-db53-4707-a693-e0ad4ca2d00b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B6",
+                    "localname": "Main Bazar - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ad878b1-e7b8-4fd8-8767-cf77a3537d24",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "7c69f825-c56d-4422-8dcd-98d36d004f98",
+                    "boundaryNum": 1,
+                    "name": "V,I,P Road - B7",
+                    "localname": "V,I,P Road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "df8025c8-1a9f-46e0-a45e-b92e74badd50",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "d12c3dd3-2111-45fa-917c-8d06b4b2bb18",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kurliwala - B8",
+                    "localname": "Mohalla Kurliwala - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41c57654-de73-49e9-b423-4070935fe356",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "71f2e5d6-f9c9-440f-8019-cc9b0b1917a1",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Matour - B9",
+                    "localname": "Mohalla Matour - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e92cf75-2c23-4a28-941c-a9e5ced64c3b",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "492226dd-2148-4728-8966-7d5b909c33b0",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Navi Abadi - B10",
+                    "localname": "Mohalla Navi Abadi - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ef601061-dc0d-49c1-b2f5-74211624b3e8",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "deb5c2dc-73d5-4bb0-a3dc-dcc8a3fb6a6f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kesgarh Sahib - B11",
+                    "localname": "Mohalla Kesgarh Sahib - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bf34e97-1720-4e41-b0f5-ea4ba1aa3127",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "69ac752c-024b-4127-9bae-822c34609c2d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Lodipur - B12",
+                    "localname": "Mohalla Lodipur - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc8df4f2-c0fe-453a-be2d-69eb2ce1d4a2",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "da058915-ab53-4316-9369-ecd8268ee2a6",
+                    "boundaryNum": 1,
+                    "name": "Bhai Nand Lal - B13",
+                    "localname": "Bhai Nand Lal - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ad3e7d10-befa-448d-924b-91627c6c40ca",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "0cefcae1-e9c2-4e3a-ba54-dcbca150966f",
+                    "boundaryNum": 1,
+                    "name": "Near Charangagna Pul \nto Main Road - B14",
+                    "localname": "Near Charangagna Pul \nto Main Road - B14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NSR_14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

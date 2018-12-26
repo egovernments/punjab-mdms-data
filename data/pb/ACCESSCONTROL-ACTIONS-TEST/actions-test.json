@@ -4346,21 +4346,6 @@
       "rightIcon": ""
     },
     {
-      "id": 1713,
-      "name": "CollectionsDashboard",
-      "url": "url",
-      "displayName": "Collections Dashboard",
-      "orderNumber": 1,
-      "parentModule": "rainmaker",
-      "enabled": true,
-      "serviceCode": "rainmaker",
-      "code": "null",
-      "path": "Dashboard.CollectionsDashboard",
-      "navigationURL": "integration/dashboard/collections",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 1714,
       "name": "WSMunicipalAdoption",
       "url": "url",
@@ -4379,7 +4364,7 @@
       "id": 1715,
       "name": "WSCurrentDayCollections",
       "url": "url",
-      "displayName": "Current Day Collections",
+      "displayName": "Today Collections",
       "orderNumber": 1,
       "parentModule": "W&S",
       "enabled": true,
@@ -4405,5 +4390,6 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
+
   ]
 }

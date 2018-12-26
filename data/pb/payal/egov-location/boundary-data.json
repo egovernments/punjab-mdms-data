@@ -1,0 +1,276 @@
+{
+  "tenantId": "pb.payal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Payal",
+        "localname": "Payal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.payal",
+        "children": [
+          {
+            "id": "f8ebcd26-bf6d-4ea6-a7c5-7fc95afa99d1",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6e824874-ec9f-4819-825d-ef651c6701ac",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "28754abd-95d0-4dd6-9c3f-8d60df4dcc99",
+                    "boundaryNum": 1,
+                    "name": "Nwa Pind Road Block 1 - B1",
+                    "localname": "Nwa Pind Road Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_01",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7afbf7b-2dd3-457b-b911-224e1b1047f6",
+                    "boundaryNum": 1,
+                    "name": "Aujla Block 1 - B1",
+                    "localname": "Aujla Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_02",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e7a35bab-ef70-4c19-a655-29d651001f0b",
+                    "boundaryNum": 1,
+                    "name": "Tondon Block 1 - B1",
+                    "localname": "Tondon Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_03",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5480601-18dd-4713-b725-387ff71fe72a",
+                    "boundaryNum": 1,
+                    "name": "Raimajra Bazigar Basti Block 1 - B1",
+                    "localname": "Raimajra Bazigar Basti Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_04",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ba919224-21cc-49e3-8bb1-cd07e072abba",
+                    "boundaryNum": 1,
+                    "name": "Sony Muhalla Block 1 - B1",
+                    "localname": "Sony Muhalla Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_05",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e3cc876e-f3a1-4637-9ad7-b9ecc6a6ab9f",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "b9846767-2bd6-4e1f-9b3c-3c9a2d84acf8",
+                    "boundaryNum": 1,
+                    "name": "Nachahal Block 2 - B2",
+                    "localname": "Nachahal Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_06",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d96e72c2-9114-4d76-bc3c-d3b68431cc7d",
+                    "boundaryNum": 1,
+                    "name": "Dhalla Block 2 - B2",
+                    "localname": "Dhalla Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_07",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2a22eddc-d6d2-4b93-b0a1-a18dcd75a088",
+                    "boundaryNum": 1,
+                    "name": "Cheema Road Block 2 - B2",
+                    "localname": "Cheema Road Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_08",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27d92b08-353c-4ef8-a5dc-1dd264b4f46f",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "4aa15a59-e160-45a4-ad1d-c2238171fdef",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Block 3 - B3",
+                    "localname": "Bhatta Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_09",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e2f1a8c-f22b-43c9-a986-4d6b1476fde6",
+                    "boundaryNum": 1,
+                    "name": "Jallah Road Block 3 - B3",
+                    "localname": "Jallah Road Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2d8f32d9-ec95-4315-aa81-7322f1015d6f",
+                    "boundaryNum": 1,
+                    "name": "Ramgarhiya Muhalla Block 3 - B3",
+                    "localname": "Ramgarhiya Muhalla Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7909e1a1-d5fa-4d33-a283-33858df0e521",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "b51ab9ac-2a63-43d5-ac0d-7363a6f960cb",
+                    "boundaryNum": 1,
+                    "name": "Ravidasiya Muhalla Block 4 - B4",
+                    "localname": "Ravidasiya Muhalla Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a2f52cb0-261d-400f-abfb-2083a770e439",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi Block 4 - B4",
+                    "localname": "Dana Mandi Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "0c93b6fe-f08f-47dd-be5d-3307485aee8d",
+                    "boundaryNum": 1,
+                    "name": "Maksudra Road Block 4 - B4",
+                    "localname": "Maksudra Road Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5bb7f634-1f58-4068-9d76-3f967557ba07",
+                    "boundaryNum": 1,
+                    "name": "Ahemadgarh Road Block 4 - B4",
+                    "localname": "Ahemadgarh Road Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9d60a52c-25e8-4833-9e51-0b4004120da3",
+                    "boundaryNum": 1,
+                    "name": "M.K Road Block 4 - B4",
+                    "localname": "M.K Road Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PYL_16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

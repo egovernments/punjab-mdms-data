@@ -283,6 +283,276 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kiratpur",
+        "localname": "Kiratpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kiratpur",
+        "children": [
+          {
+            "id": "ebc1edd8-4bc6-4c7b-9915-242f8faa16a7",
+            "boundaryNum": 1,
+            "name": "Kiratpur Sahib",
+            "localname": "Kiratpur Sahib",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KSZN1",
+            "children": [
+              {
+                "id": "fbb07da8-9bd1-41db-96dc-9c40d84e2b16",
+                "boundaryNum": 1,
+                "name": "Kiratpur Sahib",
+                "localname": "Kiratpur Sahib",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "KW1",
+                "children": [
+                  {
+                    "id": "8a44424e-6484-4f82-984f-06af4a6391b1",
+                    "boundaryNum": 1,
+                    "name": "Main Market - Kiratpur Sahib",
+                    "localname": "Main Market - Kiratpur Sahib",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8ed83f9f-179a-4890-ac05-1d9f4d9c0938",
+                    "boundaryNum": 1,
+                    "name": "Bangala Basti 1 - Kiratpur Sahib",
+                    "localname": "Bangala Basti 1 - Kiratpur Sahib",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "af4977be-9f08-4779-a152-e29cecf2a067",
+                    "boundaryNum": 1,
+                    "name": "Ropar Nagal road - Kiratpur Sahib",
+                    "localname": "Ropar Nagal road - Kiratpur Sahib",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8230eb37-ac16-405d-954d-f8f3a0f7b399",
+                    "boundaryNum": 1,
+                    "name": "Railway Station Road - Kiratpur Sahib",
+                    "localname": "Railway Station Road - Kiratpur Sahib",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0dd6edc6-f752-48e6-906a-29b6ea1f1ecb",
+                "boundaryNum": 1,
+                "name": "Kalyanpur",
+                "localname": "Kalyanpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "KW2",
+                "children": [
+                  {
+                    "id": "cef77e1a-9c5c-4c42-8fc6-e1db6cf5688f",
+                    "boundaryNum": 1,
+                    "name": "Ptalpuri Road - Kalyanpur",
+                    "localname": "Ptalpuri Road - Kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC5",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2b3b2b4f-11f0-4ad6-9074-c9e817e07df8",
+                    "boundaryNum": 1,
+                    "name": "Bangala Basti 2 - Kalyanpur",
+                    "localname": "Bangala Basti 2 - Kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC6",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dc463ea7-fca7-45f4-938c-4058bedbc1b2",
+                    "boundaryNum": 1,
+                    "name": "Dhakka Colony - Kalyanpur",
+                    "localname": "Dhakka Colony - Kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "21db2c7d-1876-4428-a06b-76b704ae6062",
+                    "boundaryNum": 1,
+                    "name": "Near Lohand Khad - Kalyanpur",
+                    "localname": "Near Lohand Khad - Kalyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b7288b1-2505-4b5f-bfa6-9bddc3f51ec6",
+                "boundaryNum": 1,
+                "name": "Jeowal",
+                "localname": "Jeowal",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "KW3",
+                "children": [
+                  {
+                    "id": "09f94992-896d-43e5-8abb-f224923ba311",
+                    "boundaryNum": 1,
+                    "name": "Ram Mandir Chonk - Jeowal",
+                    "localname": "Ram Mandir Chonk - Jeowal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "44915145-65ff-4321-95f6-4266e7c7eb3d",
+                    "boundaryNum": 1,
+                    "name": "Mehra Da Mohala - Jeowal",
+                    "localname": "Mehra Da Mohala - Jeowal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a0ca864e-1f09-4630-88af-51a52bf72057",
+                    "boundaryNum": 1,
+                    "name": "Nera Shish Mehal Gurudwara - Jeowal",
+                    "localname": "Nera Shish Mehal Gurudwara - Jeowal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fb91941-b952-4ee7-82ce-9612e95ecb62",
+                "boundaryNum": 1,
+                "name": "Bhagwala",
+                "localname": "Bhagwala",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "KW4",
+                "children": [
+                  {
+                    "id": "d4d0fadb-1ad4-4eb9-a569-8c37e501c1e5",
+                    "boundaryNum": 1,
+                    "name": "Sheetala Mandir Mohala - Bhagwala",
+                    "localname": "Sheetala Mandir Mohala - Bhagwala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76a9e6b0-7f03-4ec8-8e0c-bda0e6d1de16",
+                "boundaryNum": 1,
+                "name": "Bhatoli",
+                "localname": "Bhatoli",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "KW5",
+                "children": [
+                  {
+                    "id": "8771e3e3-a6b9-4f45-8019-08c865265b3a",
+                    "boundaryNum": 1,
+                    "name": "Near Gurmeet Sangeet Acadmey - Bhatoli",
+                    "localname": "Near Gurmeet Sangeet Acadmey - Bhatoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "34ed3c7f-7a5c-44d8-b7c0-a6c73e998712",
+                    "boundaryNum": 1,
+                    "name": "Ghumara Da Mohala - Bhatoli",
+                    "localname": "Ghumara Da Mohala - Bhatoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4f9769bd-e6bd-4d90-96fa-df3651711ee7",
+                    "boundaryNum": 1,
+                    "name": "Tinna Sarpanch Mohala - Bhatoli",
+                    "localname": "Tinna Sarpanch Mohala - Bhatoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

@@ -343,6 +343,684 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhikhi",
+        "localname": "Bhikhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhikhi",
+        "children": [
+          {
+            "id": "4fbb4acf-4890-4e40-a291-cc908761b751",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2939a0ff-d566-4e65-b329-6bde8b848f37",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "56077114-2872-47ba-a071-e3332360d39b",
+                    "boundaryNum": 1,
+                    "name": "New Bus Stand Block 1 - B1",
+                    "localname": "New Bus Stand Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bd602203-f7e7-4962-9fc9-0c50c1d33b9a",
+                    "boundaryNum": 1,
+                    "name": "Barnala Raod Block 1 - B1",
+                    "localname": "Barnala Raod Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ceeddc71-a306-4b6c-befd-7c50fcb18be1",
+                    "boundaryNum": 1,
+                    "name": "Suvidha Center Block 1 - B1",
+                    "localname": "Suvidha Center Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d1cb006e-0643-44f6-951f-c520d0b81661",
+                    "boundaryNum": 1,
+                    "name": "Sunam Road Block 1 - B1",
+                    "localname": "Sunam Road Block 1 - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "529e897e-bcbd-4f06-a602-a2dfcd62c881",
+                "boundaryNum": 1,
+                "name": "Block 1A",
+                "localname": "Block 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "1d68a54b-8128-4593-a93a-815be880838e",
+                    "boundaryNum": 1,
+                    "name": "Mansa Raod Block 1A - B1A",
+                    "localname": "Mansa Raod Block 1A - B1A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "390596ba-b093-4d13-a6a6-a99e43b617e9",
+                    "boundaryNum": 1,
+                    "name": "Rambagg Raod Block 1A - B1A",
+                    "localname": "Rambagg Raod Block 1A - B1A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "981d4f98-b2f5-44f6-9722-547c1d8bcfd1",
+                    "boundaryNum": 1,
+                    "name": "Guru duwara Naumi Patshahi Block 1A - B1A",
+                    "localname": "Guru duwara Naumi Patshahi Block 1A - B1A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c17c3e34-cf85-4539-ae6d-0cded782ba88",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "f5acc3e1-3d8b-467f-a77d-2b0eb76e1c93",
+                    "boundaryNum": 1,
+                    "name": "Sainshiya Mohalla Block 2 - B2",
+                    "localname": "Sainshiya Mohalla Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK8",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "00ba6340-dd87-4215-9cd8-0670bbe2f9a0",
+                    "boundaryNum": 1,
+                    "name": "Thana Road Block 2 - B2",
+                    "localname": "Thana Road Block 2 - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7b09299e-7e54-4536-a85a-f1b5157a906d",
+                "boundaryNum": 1,
+                "name": "Block 2A",
+                "localname": "Block 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "68b104ba-2cb5-4620-b8bc-e313d5187845",
+                    "boundaryNum": 1,
+                    "name": "Thana Road Block 2A - B2A",
+                    "localname": "Thana Road Block 2A - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de6a5fe3-761c-4b66-972d-5dd3309bafed",
+                    "boundaryNum": 1,
+                    "name": "Near Ravidass Mandir Block 2A - B2A",
+                    "localname": "Near Ravidass Mandir Block 2A - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4760d129-b8a4-4188-bf4d-42e8438b5274",
+                    "boundaryNum": 1,
+                    "name": "Mehtta Canlony Block 2A - B2A",
+                    "localname": "Mehtta Canlony Block 2A - B2A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d7dd23b-7a8c-4a99-b754-a4651aff47dd",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "292cf08d-ef69-4ab7-9214-49e318f0097c",
+                    "boundaryNum": 1,
+                    "name": "N.P Road Block 3 - B3",
+                    "localname": "N.P Road Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f13a8cc-9f8d-4146-bafd-064906682419",
+                    "boundaryNum": 1,
+                    "name": "Parjapatt Wali Gali Block 3 - B3",
+                    "localname": "Parjapatt Wali Gali Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9b38ded8-732b-4ad2-bb9c-1bf8e9710481",
+                    "boundaryNum": 1,
+                    "name": "Ravidass mandir Block 3 - B3",
+                    "localname": "Ravidass mandir Block 3 - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1488597b-646f-4956-a29e-b1b792e34f37",
+                "boundaryNum": 1,
+                "name": "Block 3A",
+                "localname": "Block 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3A",
+                "children": [
+                  {
+                    "id": "a816bebc-9fa1-42de-9b1e-a1b73d942826",
+                    "boundaryNum": 1,
+                    "name": "Aala Patti Block 3A - B3A",
+                    "localname": "Aala Patti Block 3A - B3A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c0fd196a-e84b-45dc-9ec3-76ad42846c07",
+                    "boundaryNum": 1,
+                    "name": "Jain Mandir Block 3A - B3A",
+                    "localname": "Jain Mandir Block 3A - B3A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "02f47743-9fe4-4643-87bd-74502687c34c",
+                    "boundaryNum": 1,
+                    "name": "Thakar Duwwara Mandir Block 3A - B3A",
+                    "localname": "Thakar Duwwara Mandir Block 3A - B3A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "812cc20d-339d-49d8-b865-0d17e57bf3a6",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "2e5a3906-7472-4bce-80b5-8e2c1db24ac1",
+                    "boundaryNum": 1,
+                    "name": "Boys School Block 4 - B4",
+                    "localname": "Boys School Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "7b34d93c-f1df-45d5-94b6-fbf3ab6b8d43",
+                    "boundaryNum": 1,
+                    "name": "Dera Baba Gudadr Shah Block 4 - B4",
+                    "localname": "Dera Baba Gudadr Shah Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cfb3ed84-ab21-42d7-b5f6-8c8d4ca15219",
+                    "boundaryNum": 1,
+                    "name": "Videya Bharti School Shishu Vatika Block 4 - B4",
+                    "localname": "Videya Bharti School Shishu Vatika Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4e5fc245-408c-4f8c-bab6-31728087a121",
+                    "boundaryNum": 1,
+                    "name": "Main Budhlda  Road  Block 4 - B4",
+                    "localname": "Main Budhlda  Road  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK40",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7bf4a100-7e69-459c-b094-bc98b4bb6ff3",
+                    "boundaryNum": 1,
+                    "name": "Pars Ram colony  Block 4 - B4",
+                    "localname": "Pars Ram colony  Block 4 - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK41",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6802926-e044-48f4-9811-aece5dc861bc",
+                "boundaryNum": 1,
+                "name": "Block 4A",
+                "localname": "Block 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4A",
+                "children": [
+                  {
+                    "id": "3e392fae-ee29-48e0-a6de-379237dc6f17",
+                    "boundaryNum": 1,
+                    "name": "Ramgadr Basti Block 4A - B4A",
+                    "localname": "Ramgadr Basti Block 4A - B4A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "04c14a58-f528-4e6a-9e09-a4979cc97e5c",
+                    "boundaryNum": 1,
+                    "name": "Dhalema Road Block 4A - B4A",
+                    "localname": "Dhalema Road Block 4A - B4A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cfc8b28a-45b4-4064-a600-ddae650bb03c",
+                    "boundaryNum": 1,
+                    "name": "Killa Mohalla Block 4A - B4A",
+                    "localname": "Killa Mohalla Block 4A - B4A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34b63e67-770e-4174-ab6d-79737edfdcc8",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "be5cb2dc-f081-469d-8898-d54cf6a1fe92",
+                    "boundaryNum": 1,
+                    "name": "Near MPS Block 5 - B5",
+                    "localname": "Near MPS Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ed64de44-0e0a-471e-b649-433832abbad6",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti Block 5 - B5",
+                    "localname": "Dhillon Patti Block 5 - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "acdc73e3-403e-4bba-91cd-991b5fd10186",
+                "boundaryNum": 1,
+                "name": "Block 5A",
+                "localname": "Block 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5A",
+                "children": [
+                  {
+                    "id": "1c5bbd72-35cb-4360-b7b7-f4482d3fd80d",
+                    "boundaryNum": 1,
+                    "name": "Paroj Patti Block 5A - B5A",
+                    "localname": "Paroj Patti Block 5A - B5A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "0158d376-1fbd-4757-a826-4c0cdef20a4a",
+                    "boundaryNum": 1,
+                    "name": "Girls School Block 5A - B5A",
+                    "localname": "Girls School Block 5A - B5A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "740ac6ac-59e6-4c0c-a0a1-840a018609a7",
+                    "boundaryNum": 1,
+                    "name": "Purana Bazar Block 5A - B5A",
+                    "localname": "Purana Bazar Block 5A - B5A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK29",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cfb760e0-6bc6-4fd5-8a44-5cd9e4ef36b5",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "04075a84-1080-4203-993d-f5f761db16fe",
+                    "boundaryNum": 1,
+                    "name": "Ghullu Patti Block 6 - B6",
+                    "localname": "Ghullu Patti Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK30",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4b6b6ad7-70ff-4597-811c-a873dd55f74b",
+                    "boundaryNum": 1,
+                    "name": "Khana Patti Block 6 - B6",
+                    "localname": "Khana Patti Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK31",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c06a1bab-46e0-4f6e-b8e7-abc49fe68b05",
+                    "boundaryNum": 1,
+                    "name": "Girls School Block 6 - B6",
+                    "localname": "Girls School Block 6 - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK32",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55583e55-8afc-43ef-bcb9-dfd51ebb76df",
+                "boundaryNum": 1,
+                "name": "Block 6A",
+                "localname": "Block 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6A",
+                "children": [
+                  {
+                    "id": "f2950b15-eaf4-40e1-b1e8-98ccb165a709",
+                    "boundaryNum": 1,
+                    "name": "Girls School Block 6A - B6A",
+                    "localname": "Girls School Block 6A - B6A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK33",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8035cc27-590a-404e-bcb8-3c26ddfcf14c",
+                    "boundaryNum": 1,
+                    "name": "Atmaram Da Hospital Block 6A - B6A",
+                    "localname": "Atmaram Da Hospital Block 6A - B6A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2f2f7323-dfec-47bf-8074-3b9334faf574",
+                    "boundaryNum": 1,
+                    "name": "Kabra Wala Rasta Block 6A - B6A",
+                    "localname": "Kabra Wala Rasta Block 6A - B6A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK35",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bbc676f-3ab0-4951-994e-d677fe4e46c7",
+                "boundaryNum": 1,
+                "name": "Block 6B",
+                "localname": "Block 6B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6B",
+                "children": [
+                  {
+                    "id": "37f1635e-ab78-4b27-95e2-5dd1edb7b678",
+                    "boundaryNum": 1,
+                    "name": "Sarshavati School Block 6B - B6B",
+                    "localname": "Sarshavati School Block 6B - B6B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK36",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d59170b7-1477-44bd-a2f5-04590d10ab32",
+                    "boundaryNum": 1,
+                    "name": "PSPCL Gride Block 6B - B6B",
+                    "localname": "PSPCL Gride Block 6B - B6B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e659a96b-cebb-4f34-9b9b-e51e16270723",
+                    "boundaryNum": 1,
+                    "name": "Rambag Road Block 6B - B6B",
+                    "localname": "Rambag Road Block 6B - B6B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK38",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f5f68cfd-a8c5-470c-a4a4-1cfac5953ba4",
+                    "boundaryNum": 1,
+                    "name": "Mula Singh Wala Road Block 6B - B6B",
+                    "localname": "Mula Singh Wala Road Block 6B - B6B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BK39",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

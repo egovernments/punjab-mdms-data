@@ -667,6 +667,672 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mamdot",
+        "localname": "Mamdot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mamdot",
+        "children": [
+          {
+            "id": "0f365793-aef2-44a5-83c1-eb340aacaf22",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c640a5b6-d26b-46af-894e-4ff4fb5f6cd5",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "2ee96b2d-72b1-4adf-ab24-f3c7bb52a715",
+                    "boundaryNum": 1,
+                    "name": "Bhatian Wali - B1",
+                    "localname": "Bhatian Wali - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "70912845-8793-46db-8493-c685d8d538b9",
+                    "boundaryNum": 1,
+                    "name": "Pojo Ke Road - B1",
+                    "localname": "Pojo Ke Road - B1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "706e0eb0-5d82-4821-bb58-d9dff74726bd",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "7f5b4205-8eac-44df-83f2-9823b88a8511",
+                    "boundaryNum": 1,
+                    "name": "Ferozepur Road (Right) - B2",
+                    "localname": "Ferozepur Road (Right) - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "50adaaaf-1d31-4c9c-823a-e0cfed7dbb37",
+                    "boundaryNum": 1,
+                    "name": "Basti Pathana Wali - B2",
+                    "localname": "Basti Pathana Wali - B2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "302c8b37-e2ad-4145-b777-b5841573c792",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "784ef9ec-01b2-4ab0-9fa1-6eb4de2e41af",
+                    "boundaryNum": 1,
+                    "name": "Ferozepur Road (Left) - B3",
+                    "localname": "Ferozepur Road (Left) - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3db70c7f-5f19-4f08-af05-ee9f629ce55a",
+                    "boundaryNum": 1,
+                    "name": "Chapati Road (Left) - B3",
+                    "localname": "Chapati Road (Left) - B3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37d583f1-cc20-4704-b864-cce85c44b245",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "a41235aa-6d27-4230-9439-eae00052183e",
+                    "boundaryNum": 1,
+                    "name": "Dashemsh Nagar - B4",
+                    "localname": "Dashemsh Nagar - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "37257c33-dcd7-4996-b45c-859cd84916b0",
+                    "boundaryNum": 1,
+                    "name": "OBC Colony - B4",
+                    "localname": "OBC Colony - B4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e947830f-ae8c-4df2-a058-5c319544a84b",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "b937cbfc-e92f-4be7-8876-c1fd169bf9b8",
+                    "boundaryNum": 1,
+                    "name": "Wadhwa Hospital Street - B5",
+                    "localname": "Wadhwa Hospital Street - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f0b48190-4b06-4cc2-b7e3-9276bf84653f",
+                    "boundaryNum": 1,
+                    "name": "Circular Road (Left) - B5",
+                    "localname": "Circular Road (Left) - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "4da7127d-02ef-4a45-8811-56e3a789c09a",
+                    "boundaryNum": 1,
+                    "name": "Nanak Niwas Mohalla (Opp) - B5",
+                    "localname": "Nanak Niwas Mohalla (Opp) - B5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "116c6fc1-7e32-4213-82be-69866281b4e2",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "5d82a6fb-0243-43da-8c10-cb0c5ec05c22",
+                    "boundaryNum": 1,
+                    "name": "Narang Mohalla - B6",
+                    "localname": "Narang Mohalla - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8af8d194-2a71-4d74-9a0c-ade6772ab14f",
+                    "boundaryNum": 1,
+                    "name": "Gabba Street - B6",
+                    "localname": "Gabba Street - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "693fd23c-5b15-4a8f-b7d0-bda5972c14e2",
+                    "boundaryNum": 1,
+                    "name": "Post Office Street - B6",
+                    "localname": "Post Office Street - B6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36fcfd40-d4e6-4ea7-8ef7-bbba7e298b58",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "df42caf0-2781-4b51-9236-e5d8b4959dca",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B7",
+                    "localname": "Main Bazar - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2783b805-de1e-4b66-9c23-d76fdaf9aaaf",
+                    "boundaryNum": 1,
+                    "name": "Jhugian Hazara Road - B7",
+                    "localname": "Jhugian Hazara Road - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "903b9d9d-80fc-4171-bf26-1cf1b8e5a89a",
+                    "boundaryNum": 1,
+                    "name": "Chapati Road (Right) - B7",
+                    "localname": "Chapati Road (Right) - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "68c56573-fbbe-4aae-b533-16b7bbfd021d",
+                    "boundaryNum": 1,
+                    "name": "Sawai Ke Road (Left) - B7",
+                    "localname": "Sawai Ke Road (Left) - B7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6a5ebe3-71cb-452f-88ec-97524e42e64f",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "a3683012-b5fb-4706-823c-29e195def0ad",
+                    "boundaryNum": 1,
+                    "name": "Tibba - B8",
+                    "localname": "Tibba - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "10be0d95-188d-4897-b260-0f5e307da681",
+                    "boundaryNum": 1,
+                    "name": "Muralian Wali Gali - B8",
+                    "localname": "Muralian Wali Gali - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c1a09d40-a772-49ec-a34b-66d799a42903",
+                    "boundaryNum": 1,
+                    "name": "Hazara Road (Right) - B8",
+                    "localname": "Hazara Road (Right) - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "005db597-94c9-457f-86c9-f850b07f0446",
+                    "boundaryNum": 1,
+                    "name": "Opp. BDPO Office - B8",
+                    "localname": "Opp. BDPO Office - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "ff1ff66b-6068-4056-9cc1-bd531445eaed",
+                    "boundaryNum": 1,
+                    "name": "Guruwara Singh Sabha - B8",
+                    "localname": "Guruwara Singh Sabha - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "dfe1efd9-f2bc-4976-bc15-350f8c4b1286",
+                    "boundaryNum": 1,
+                    "name": "Ghumiaran Wala Chowk - B8",
+                    "localname": "Ghumiaran Wala Chowk - B8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6b02b88e-5895-4b1c-b2dc-802cad4ff818",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "3e9ea1cc-f4fe-4c73-bdd7-b919428796c3",
+                    "boundaryNum": 1,
+                    "name": "Sawai Ke Road (Right) - B9",
+                    "localname": "Sawai Ke Road (Right) - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "65766469-1d7b-4035-9ba3-47b381a75216",
+                    "boundaryNum": 1,
+                    "name": "Vehril - B9",
+                    "localname": "Vehril - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC26",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "72afe6b3-53b8-4907-8097-666645c747a0",
+                    "boundaryNum": 1,
+                    "name": "Tehsil Office - B9",
+                    "localname": "Tehsil Office - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3ad69b14-4b36-41bd-ba14-f64f0b99f73a",
+                    "boundaryNum": 1,
+                    "name": "B/S Tehsil - B9",
+                    "localname": "B/S Tehsil - B9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9af6fdb-e4a9-417e-948f-f0224211265b",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "4d81f715-ab35-46df-8973-1cb79f1deafb",
+                    "boundaryNum": 1,
+                    "name": "Basti Kashmir singh - B10",
+                    "localname": "Basti Kashmir singh - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC29",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "81e87543-0eed-4497-83bd-8accc7cb3d12",
+                    "boundaryNum": 1,
+                    "name": "Jallo Ke Road (Left) - B10",
+                    "localname": "Jallo Ke Road (Left) - B10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC30",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc8399a0-0b68-47fa-baec-4f1d988c9872",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "380bf880-e19c-4925-86d0-8ac034414fa2",
+                    "boundaryNum": 1,
+                    "name": "Basti Sethan - B11",
+                    "localname": "Basti Sethan - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC31",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "295cf4d6-eab0-4503-b8bd-11a4ca4a93de",
+                    "boundaryNum": 1,
+                    "name": "Basti Bhalerian - B11",
+                    "localname": "Basti Bhalerian - B11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC32",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88365b38-4a90-4fc9-90d9-5692ca69e3cb",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "b4d92780-0a9c-4eb4-8fd0-2461322858ef",
+                    "boundaryNum": 1,
+                    "name": "Jallo Ke (Right) - B12",
+                    "localname": "Jallo Ke (Right) - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC33",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "44c76eb1-d78f-4f99-be5d-5f1693b8aba2",
+                    "boundaryNum": 1,
+                    "name": "Janglat (Right) - B12",
+                    "localname": "Janglat (Right) - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC34",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "fb3a1471-5e76-48ac-836b-f12b977b08f9",
+                    "boundaryNum": 1,
+                    "name": "Killa - B12",
+                    "localname": "Killa - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC35",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "816192b4-9442-48a7-bdc1-ef75fd2861bb",
+                    "boundaryNum": 1,
+                    "name": "Ghore Chak Road (Left) - B12",
+                    "localname": "Ghore Chak Road (Left) - B12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC36",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ccbf794c-945f-4c76-a2fd-176c98988004",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "5b058571-2650-403f-87dd-5f7fe70e124c",
+                    "boundaryNum": 1,
+                    "name": "Ghore Chak Road (Right) - B13",
+                    "localname": "Ghore Chak Road (Right) - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC37",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "f91c57c4-87ed-4e96-8bf3-fc3ecc504aa6",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Nanak Niwas - B13",
+                    "localname": "Gurudwara Nanak Niwas - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC38",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "cc0a1325-a419-4611-abaa-d3da133bf6b5",
+                    "boundaryNum": 1,
+                    "name": "Sem Nalla - B13",
+                    "localname": "Sem Nalla - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC39",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "e048a021-6bf2-48a8-b4fa-8c842d0cd6a4",
+                    "boundaryNum": 1,
+                    "name": "Devi Dawara Road Opp. - B13",
+                    "localname": "Devi Dawara Road Opp. - B13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC40",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
