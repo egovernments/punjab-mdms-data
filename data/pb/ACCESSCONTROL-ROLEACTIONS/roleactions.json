@@ -1,7 +1,8 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
-  "roleactions": [{
+  "roleactions": [
+    {
       "rolecode": "SUPERUSER",
       "actionid": 628,
       "actioncode": "",
@@ -5203,7 +5204,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "SYS_INTEGRATOR_FINANCE",
       "actionid": 1601,
@@ -5264,7 +5264,6 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-
     {
       "rolecode": "COLL_RECEIPT_CREATOR",
       "actionid": 1693,
@@ -5976,6 +5975,24 @@
     {
       "rolecode": "STADMIN",
       "actionid": 1716,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1718,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1719,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1720,
       "actioncode": "",
       "tenantId": "pb"
     }
