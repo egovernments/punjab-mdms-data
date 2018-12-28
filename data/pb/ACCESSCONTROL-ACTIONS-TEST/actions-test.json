@@ -4378,6 +4378,21 @@
       "serviceCode": "TLREPORTS",
       "code": "null",
       "path": "TL Report"
+    },
+    {
+      "id": 1722,
+      "name": "BNDIntegration",
+      "url": "url",
+      "displayName": "Birth & Death",
+      "orderNumber": 1,
+      "parentModule": "BND",
+      "enabled": true,
+      "serviceCode": "BND",
+      "code": "null",
+      "path": "BNDIntegration",
+      "navigationURL": "integration/external/bnd",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }

@@ -10,6 +10,12 @@
         }
       }
     },
+    "external": {
+      "bnd": {
+        "routePath": "/customization/open/bndlogin",
+        "isOrigin": true
+      }
+    },
     "dashboard": {
       "iframe-routes": {
         "water-financial-indicators": {
@@ -44,7 +50,6 @@
           "isOrigin": false,
           "domain": "https://pb-kibana.egovernments.org"
         }
-
       }
     }
   }]
