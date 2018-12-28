@@ -11,9 +11,11 @@
       }
     },
     "external": {
-      "bnd": {
-        "routePath": "/customization/open/bndlogin",
-        "isOrigin": true
+      "iframe-routes": {
+        "bnd": {
+          "routePath": "/customization/open/bndlogin",
+          "isOrigin": true
+        }
       }
     },
     "dashboard": {
