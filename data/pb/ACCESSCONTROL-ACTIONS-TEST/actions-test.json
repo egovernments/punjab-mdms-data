@@ -2814,14 +2814,25 @@
     },
     {
       "id": 9997,
-      "name": "BND Credentials Update",
-      "url": "/customization/protected/bndlogin/update",
-      "displayName": "BND Credentials Update",
+      "name": "BND Link Account",
+      "url": "/customization/protected/bndlogin/linkAccount",
+      "displayName": "BND Link Acount",
       "orderNumber": 0,
       "enabled": true,
-      "serviceCode": "PGRCUSTOMSERVICE",
+      "serviceCode": "BND",
       "code": "null",
-      "path": "BND Credentials Update"
+      "path": "BND Link Acount"
+    },
+    {
+      "id": 9996,
+      "name": "BND UnLink Account",
+      "url": "/customization/protected/bndlogin/unlinkAccount",
+      "displayName": "BND UnLink Acount",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BND",
+      "code": "null",
+      "path": "BND Link Acount"
     },
     {
       "id": 9999,
