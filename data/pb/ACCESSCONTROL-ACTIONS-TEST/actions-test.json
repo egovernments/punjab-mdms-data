@@ -2984,7 +2984,7 @@
       "url": "/services/EGF/HTML/FinancialYearEnq.htm",
       "parentModule": "",
       "displayName": "Financial Year",
-      "orderNumber": 1,
+      "orderNumber": 9,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3027,7 +3027,7 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Chartofaccounts",
+      "path": "Finance.Masters.Chartofaccounts.Tree View",
       "navigationURL": "services/EGF/eGov_COA.jsp"
     },
     {
@@ -3040,7 +3040,7 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Detailed Codes.Create Detailed Code",
+      "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Create Detailed Code",
       "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
     },
     {
@@ -3088,7 +3088,7 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Create Scheme",
-      "orderNumber": 1,
+      "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3296,7 +3296,7 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Create Fund",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3374,7 +3374,7 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Create Function",
-      "orderNumber": 1,
+      "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
@@ -3677,7 +3677,7 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Detailed Codes.View Detailed Code",
+      "path": "Finance.Masters.Chartofaccounts.Detailed Codes.View Detailed Code",
       "navigationURL": "services/EGF/masters/chartOfAccounts-viewDetailedCode.action"
     },
     {
@@ -3690,7 +3690,7 @@
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Detailed Codes.Modify Detailed Code",
+      "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Modify Detailed Code",
       "navigationURL": "services/EGF/masters/chartOfAccounts-editDetailedCode.action"
     },
     {
@@ -3790,7 +3790,7 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Opening Balance Entry",
-      "orderNumber": 0,
+      "orderNumber": 10,
       "enabled": true,
       "serviceCode": "FinanceAdmin",
       "code": "null",
@@ -4591,6 +4591,32 @@
       "code": "null",
       "navigationURL": "report/finance/BankRemittance",
       "path": "Collections.Reports.Bank Remittance"
+    },
+    {
+      "id": 1738,
+      "name": "Financial Contractor bill create",
+      "navigationURL": "services/EGF/contractorbill/newform",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Contractor Bill",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "path": "Finance.Transactions.Bills Accounting.Contractor Bill"
+    },
+    {
+      "id": 1739,
+      "name": "Financial Supplier bill create",
+      "navigationURL": "services/EGF/supplierbill/newform",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Supplier Bill",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
     }
   ]
 }
