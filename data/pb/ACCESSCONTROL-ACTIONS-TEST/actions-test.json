@@ -4617,6 +4617,60 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
+    },
+    {
+      "id": 1740,
+      "name": "UploaderHome",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Uploader",
+      "code": "null",
+      "navigationURL": "integration/uplaoder/home",
+      "path": "Uploader.Home",
+      "leftIcon": "places:business-center"
+    },
+    {
+      "id": 1741,
+      "name": "uploader jobs create",
+      "url": "/data-uploader/v1/jobs/_create",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Uploader",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 1742,
+      "name": "uploader jobs search",
+      "url": "/data-uploader/v1/jobs/_search",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Uploader",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 1743,
+      "name": "uploader defination search",
+      "url": "/data-uploader/v1/upload-definitions/_search",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Uploader",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
+
   ]
 }
