@@ -53,6 +53,14 @@
           "domain": "https://pb-kibana.egovernments.org"
         }
       }
+    },
+    "uploader": {
+      "iframe-routes": {
+        "home": {
+          "routePath": "/app/v2/uploader/file-uploader",
+          "isOrigin": true
+        }
+      }
     }
   }]
 }
