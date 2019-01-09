@@ -4670,7 +4670,45 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 1744,
+      "name": "Service Bankaccount",
+      "url": "url",
+      "displayName": "Create Bankaccount Mapping",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
+      "path": "Collections.Administration.Create Bankaccount Mapping"
+    },
+    {
+      "id": 1745,
+      "name": "Service Bankaccount",
+      "url": "url",
+      "displayName": "View Bankaccount Mapping",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Collections",
+      "code": "null",
+      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
+      "path": "Collections.Administration.View Bankaccount Mapping"
+    },
+    {
+      "id": 1746,
+      "name": "Financial Bank to Bank Transfer",
+      "navigationURL": "services/EGF/contra/contraBTB-newform.action",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Bank to Bank Transfer",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "path": "Finance.Transactions.Contra Entries.Bank to Bank Transfer"
     }
-
   ]
 }
