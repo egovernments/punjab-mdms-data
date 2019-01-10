@@ -4404,6 +4404,18 @@
       "navigationURL": "integration/external/bnd",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 9000,
+      "name": "LocalizationMessagesUpsert",
+      "url": "/localization/messages/v1/_upsert",
+      "displayName": "Localization Messages Upsert",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "core",
+      "code": "null",
+      "path": ""
     }
   ]
 }
