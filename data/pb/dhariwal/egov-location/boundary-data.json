@@ -750,6 +750,755 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhariwal",
+        "localname": "Dhariwal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.dhariwal",
+        "children": [
+          {
+            "id": "b396aaee-c0d1-46eb-b503-650c99b8de8b",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6387b702-4bd1-416c-8b3a-8d5d4138db06",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "a116009f-80a1-4f50-b2e3-a0eb1cb3ee43",
+                    "boundaryNum": 1,
+                    "name": "Krishana mandir road To Aariya Samaj Mandir - WARD1",
+                    "localname": "Krishana mandir road To Aariya Samaj Mandir - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fcac605e-c638-4103-bc05-e5a19d89950a",
+                    "boundaryNum": 1,
+                    "name": "Back Side Riar Hospital To Octroi Post - WARD1",
+                    "localname": "Back Side Riar Hospital To Octroi Post - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "550682d3-32ed-457b-980a-6a06682d1ca3",
+                    "boundaryNum": 1,
+                    "name": "Kohli Hospital To Golden Avenew - WARD1",
+                    "localname": "Kohli Hospital To Golden Avenew - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b2fd0524-cf86-440c-93ea-e817eaa7f6a0",
+                    "boundaryNum": 1,
+                    "name": "National Haway To Krishana Mandir - WARD1",
+                    "localname": "National Haway To Krishana Mandir - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd644ab0-1059-46bd-bc08-d28562edaff8",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "f31b973b-d1d6-4cef-b06f-62bf79e8c66f",
+                    "boundaryNum": 1,
+                    "name": "Basant Vihar Colony To Pathankot Raod - WARD2",
+                    "localname": "Basant Vihar Colony To Pathankot Raod - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6dc67113-684c-4851-a997-03edfe44beae",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Jaswant rai To National Haway - WARD2",
+                    "localname": "Mohalla Jaswant rai To National Haway - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07b50e56-b09d-4fdd-85d9-6dda73131a9a",
+                "boundaryNum": 1,
+                "name": "WARD3 (ZONE1)",
+                "localname": "WARD3 (ZONE1)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "e25a5531-6cf9-4d8f-90f7-3440443d7b0d",
+                    "boundaryNum": 1,
+                    "name": "Gali Ramghariya TO GSP Road Octroi Post - WARD3 (ZONE2)",
+                    "localname": "Gali Ramghariya TO GSP Road Octroi Post - WARD3 (ZONE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6d3f6938-8ccb-4d87-b045-b776394e2915",
+                    "boundaryNum": 1,
+                    "name": "GSP Road Octroi Post To Lal Bagh - WARD3 (ZONE2)",
+                    "localname": "GSP Road Octroi Post To Lal Bagh - WARD3 (ZONE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d85b6f39-a15d-42e9-b76a-45c26d017817",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "af7c9237-39d9-4f2c-a4df-70680cfa236b",
+                    "boundaryNum": 1,
+                    "name": "National Haway To Santoshi Mata Mandir Road - WARD4",
+                    "localname": "National Haway To Santoshi Mata Mandir Road - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a843c117-1f18-4caa-b9cf-667385ebd7b1",
+                    "boundaryNum": 1,
+                    "name": "Santoshi Mata Mandir To Gopal Nagar - WARD4",
+                    "localname": "Santoshi Mata Mandir To Gopal Nagar - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b3a63fec-3347-436c-aa0c-9fc95aec5825",
+                    "boundaryNum": 1,
+                    "name": "Gali Ganda Singh Area To Krishana Bazar - WARD4",
+                    "localname": "Gali Ganda Singh Area To Krishana Bazar - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "16fcb41c-5f1e-4d1c-b47f-87a04b6a0bca",
+                    "boundaryNum": 1,
+                    "name": "Stander Sweet Shop To Gali Ramghariya GSP Road Octroi Post - WARD4",
+                    "localname": "Stander Sweet Shop To Gali Ramghariya GSP Road Octroi Post - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "110e7f36-9dfe-460a-aa34-83001be18a4a",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "2ffb0302-d56c-4b90-b23f-d94373e2570b",
+                    "boundaryNum": 1,
+                    "name": "National Haway To UBDC Canal - WARD5",
+                    "localname": "National Haway To UBDC Canal - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "11f8ddf7-22de-47fe-af5e-568e72049bb0",
+                    "boundaryNum": 1,
+                    "name": "Ram sarandass colony & New Egerton Mill - WARD5",
+                    "localname": "Ram sarandass colony & New Egerton Mill - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09d91abf-861e-4862-8006-6e0410e1664c",
+                    "boundaryNum": 1,
+                    "name": "New Egerton Mill - WARD5",
+                    "localname": "New Egerton Mill - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "83f928f8-e6b0-4e42-8879-dbef07166434",
+                    "boundaryNum": 1,
+                    "name": "Dr. Colony To National Haway (Right Side) - WARD5",
+                    "localname": "Dr. Colony To National Haway (Right Side) - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9352ddc5-da9d-4171-8f8f-e394d21da9f1",
+                    "boundaryNum": 1,
+                    "name": "UBDC Cenal To  Mill Quarter New Tehsil Office - WARD5",
+                    "localname": "UBDC Cenal To  Mill Quarter New Tehsil Office - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1e2389e9-c91f-42b1-9423-1dd231e54593",
+                "boundaryNum": 1,
+                "name": "WARD8 (ZONE1)",
+                "localname": "WARD8 (ZONE1)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "e36b8f5c-103f-4004-a6a1-f09ff82ed669",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi, Bedi Colony, Master Colony - WARD8 (Z0NE2)",
+                    "localname": "Dana Mandi, Bedi Colony, Master Colony - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b23c2f09-d1f0-464d-b436-8fab5e6335da",
+                    "boundaryNum": 1,
+                    "name": "FCI Godown To Mission Hospital - WARD8 (Z0NE2)",
+                    "localname": "FCI Godown To Mission Hospital - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "55ddee7c-874f-4a53-8f58-a7417043c364",
+                    "boundaryNum": 1,
+                    "name": "Misssion Hospital To National Haway (Right  Side) - WARD8 (Z0NE2)",
+                    "localname": "Misssion Hospital To National Haway (Right  Side) - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f3750d6d-36ad-4958-afc1-2064f832b4f1",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi To Fajjupur Chowk - WARD8 (Z0NE2)",
+                    "localname": "Dana Mandi To Fajjupur Chowk - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "980887a5-b4da-4915-b00b-2a41ba16ebb3",
+                    "boundaryNum": 1,
+                    "name": "Fajjupur Chowk To Radha Swami Block - WARD8 (Z0NE2)",
+                    "localname": "Fajjupur Chowk To Radha Swami Block - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1dc89d47-a95a-4eae-bb2d-6dc9e65f6040",
+                    "boundaryNum": 1,
+                    "name": "Back Side Radha Swami Block To Mucipal Limit - WARD8 (Z0NE2)",
+                    "localname": "Back Side Radha Swami Block To Mucipal Limit - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e3accbdb-b8ad-4330-a501-5034cece1df6",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "91e0029d-8d55-48f7-a382-225231da538c",
+                    "boundaryNum": 1,
+                    "name": "Sharma Filing Satation To New Abadi - WARD9",
+                    "localname": "Sharma Filing Satation To New Abadi - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4f3008a9-cde7-441a-abef-f5c69f59ee61",
+                    "boundaryNum": 1,
+                    "name": "Opp. Sharma Filing Sation to Fateh Nagal Road - WARD9",
+                    "localname": "Opp. Sharma Filing Sation to Fateh Nagal Road - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "70c28fc4-d289-4442-a43e-3435d753d572",
+                    "boundaryNum": 1,
+                    "name": "Guru Arjun Dev colony To Dana Mandi - WARD9",
+                    "localname": "Guru Arjun Dev colony To Dana Mandi - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "765af9f8-d06c-4514-985d-65ba1b37b40c",
+                    "boundaryNum": 1,
+                    "name": "Misssion Hospital To Mission School National Haway (Leftt Side) - WARD9",
+                    "localname": "Misssion Hospital To Mission School National Haway (Leftt Side) - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dae8373c-35a7-4d36-b926-7019bc866a40",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": []
+              },
+              {
+                "id": "58530760-d759-485c-9d52-78b14ac52389",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "1f7ed9bb-ba7f-48e5-afda-5c5a485a8435",
+                    "boundaryNum": 1,
+                    "name": "Power House To Krishana Gali - WARD11",
+                    "localname": "Power House To Krishana Gali - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e0d10f2a-eefa-4fe0-a2e2-a45217c19201",
+                    "boundaryNum": 1,
+                    "name": "Dr. Colony To National Haway (Leftt Side) - WARD11",
+                    "localname": "Dr. Colony To National Haway (Leftt Side) - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f74deb2b-d2e4-40a2-ba7b-0e4fd665d320",
+                "boundaryNum": 1,
+                "name": "WARD12",
+                "localname": "WARD12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "e2b76db6-e8a8-4540-aab5-520db37f3c9d",
+                    "boundaryNum": 1,
+                    "name": "Sabji Mandi To National Haway - WARD12",
+                    "localname": "Sabji Mandi To National Haway - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bd1a410e-6185-4a7c-9b01-19e07a7cb4fd",
+                    "boundaryNum": 1,
+                    "name": "Mill Quarter To New Tehsil Office - WARD12",
+                    "localname": "Mill Quarter To New Tehsil Office - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "075756f7-119a-44b8-aaef-b90df23cb1d0",
+                    "boundaryNum": 1,
+                    "name": "New Tehsil Office To Ludhana Mohalla - WARD12",
+                    "localname": "New Tehsil Office To Ludhana Mohalla - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f156a6bb-1885-4e5e-bf80-01e61ebbd506",
+                    "boundaryNum": 1,
+                    "name": "Ludhana Mohalla - WARD12",
+                    "localname": "Ludhana Mohalla - WARD12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "808c79b0-3b59-40e5-a6a9-886ae373c80d",
+            "boundaryNum": 1,
+            "name": "ZONE2",
+            "localname": "ZONE2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "62ac8758-1f6b-447b-97d7-65885cafde6b",
+                "boundaryNum": 1,
+                "name": "WARD3 (ZONE2)",
+                "localname": "WARD3 (ZONE2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "e25a5531-6cf9-4d8f-90f7-3440443d7b0d",
+                    "boundaryNum": 1,
+                    "name": "Gali Ramghariya TO GSP Road Octroi Post - WARD3 (ZONE2)",
+                    "localname": "Gali Ramghariya TO GSP Road Octroi Post - WARD3 (ZONE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6d3f6938-8ccb-4d87-b045-b776394e2915",
+                    "boundaryNum": 1,
+                    "name": "GSP Road Octroi Post To Lal Bagh - WARD3 (ZONE2)",
+                    "localname": "GSP Road Octroi Post To Lal Bagh - WARD3 (ZONE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "06e90ce3-6f3d-4890-bf7d-b14c25c18f31",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "ec1613d8-3d5e-4442-bc66-b6d8667bd265",
+                    "boundaryNum": 1,
+                    "name": "Model Town - WARD6",
+                    "localname": "Model Town - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec5a3f27-c272-4e33-8556-bc777fc08f8c",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "8032b30d-b539-4dcf-9eac-4fd0706d8d0f",
+                    "boundaryNum": 1,
+                    "name": "Old Dhariwal - WARD7",
+                    "localname": "Old Dhariwal - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC36",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7c9ca852-12a3-4d52-b671-f9fa08649271",
+                "boundaryNum": 1,
+                "name": "WARD8 (Z0NE2)",
+                "localname": "WARD8 (Z0NE2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "e36b8f5c-103f-4004-a6a1-f09ff82ed669",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi, Bedi Colony, Master Colony - WARD8 (Z0NE2)",
+                    "localname": "Dana Mandi, Bedi Colony, Master Colony - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b23c2f09-d1f0-464d-b436-8fab5e6335da",
+                    "boundaryNum": 1,
+                    "name": "FCI Godown To Mission Hospital - WARD8 (Z0NE2)",
+                    "localname": "FCI Godown To Mission Hospital - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "55ddee7c-874f-4a53-8f58-a7417043c364",
+                    "boundaryNum": 1,
+                    "name": "Misssion Hospital To National Haway (Right  Side) - WARD8 (Z0NE2)",
+                    "localname": "Misssion Hospital To National Haway (Right  Side) - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f3750d6d-36ad-4958-afc1-2064f832b4f1",
+                    "boundaryNum": 1,
+                    "name": "Dana Mandi To Fajjupur Chowk - WARD8 (Z0NE2)",
+                    "localname": "Dana Mandi To Fajjupur Chowk - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "980887a5-b4da-4915-b00b-2a41ba16ebb3",
+                    "boundaryNum": 1,
+                    "name": "Fajjupur Chowk To Radha Swami Block - WARD8 (Z0NE2)",
+                    "localname": "Fajjupur Chowk To Radha Swami Block - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1dc89d47-a95a-4eae-bb2d-6dc9e65f6040",
+                    "boundaryNum": 1,
+                    "name": "Back Side Radha Swami Block To Mucipal Limit - WARD8 (Z0NE2)",
+                    "localname": "Back Side Radha Swami Block To Mucipal Limit - WARD8 (Z0NE2)",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c5862ef7-ff93-4148-9703-80eef25ae590",
+                "boundaryNum": 1,
+                "name": "WARD13",
+                "localname": "WARD13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "a4536f65-8199-4158-8dfa-3140d8441c36",
+                    "boundaryNum": 1,
+                    "name": "Dhaban Mohalla - WARD13",
+                    "localname": "Dhaban Mohalla - WARD13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LOC31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
