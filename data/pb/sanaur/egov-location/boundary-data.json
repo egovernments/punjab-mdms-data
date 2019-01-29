@@ -691,6 +691,948 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sanaur",
+        "localname": "Sanaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sanaur",
+        "children": [
+          {
+            "id": "8bb4ed5c-49a5-4313-8f25-e4afddb0c5b8",
+            "boundaryNum": 1,
+            "name": "SANAUR",
+            "localname": "SANAUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "SNR1",
+            "children": [
+              {
+                "id": "7f39f549-7c75-4981-a7fe-360461c7f999",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "aa7fde13-1e5c-4c62-a659-63f1d9136a2d",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kasabian Wala - WARD_1",
+                    "localname": "Moh. Kasabian Wala - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "07f342f2-1e64-47aa-9efe-6786a2c6054d",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road  WARD1 - WARD_1",
+                    "localname": "Chaura Road  WARD1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-34",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c0344748-9861-4819-ae45-4b88adfa83d0",
+                    "boundaryNum": 1,
+                    "name": "Sandhu Colony WARD1 - WARD_1",
+                    "localname": "Sandhu Colony WARD1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cdbf8ed3-53fe-4f8a-8110-b121cd12f575",
+                    "boundaryNum": 1,
+                    "name": "Vishavkarma Colony WARD1 - WARD_1",
+                    "localname": "Vishavkarma Colony WARD1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0cd44a21-644c-45d4-a89c-581dcd0dacf9",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road Chowk - WARD_1",
+                    "localname": "Chaura Road Chowk - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c5132527-c723-4783-8622-259a41e9d202",
+                    "boundaryNum": 1,
+                    "name": "Grid Colony - WARD_1",
+                    "localname": "Grid Colony - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-48",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c946c00f-3b5b-4f1f-beff-32d3102df7cd",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "f634bd6b-abba-4031-8664-d70efa961e57",
+                    "boundaryNum": 1,
+                    "name": "Asarpur Road - WARD_2",
+                    "localname": "Asarpur Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ea88474d-cdb4-4f94-b874-d33f432fac72",
+                    "boundaryNum": 1,
+                    "name": "Gaushala Road - WARD_2",
+                    "localname": "Gaushala Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "519933b4-f668-4c83-a0db-a4adad4b3733",
+                    "boundaryNum": 1,
+                    "name": "Bosar Road - WARD_2",
+                    "localname": "Bosar Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e517c73b-a131-4761-a690-9023aa4c60b4",
+                    "boundaryNum": 1,
+                    "name": "Guru Nanak Nagar - WARD_2",
+                    "localname": "Guru Nanak Nagar - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "be6c04cf-d353-4569-9ceb-b2cbf97efad9",
+                    "boundaryNum": 1,
+                    "name": "Noor Kheri Road - WARD_2",
+                    "localname": "Noor Kheri Road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-55",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e5c5502a-06b3-4aab-98b2-35dfda9f0d3c",
+                    "boundaryNum": 1,
+                    "name": "Cinema Colony - WARD_2",
+                    "localname": "Cinema Colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-56",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "55356894-8742-4cb6-9fa0-83418fc4ed43",
+                    "boundaryNum": 1,
+                    "name": "Dankot Colony Colony - WARD_2",
+                    "localname": "Dankot Colony Colony - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-57",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dcb4f68c-cb61-418f-af25-e201a834c2d0",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "832aab4d-629e-4d36-8fa1-6e86a28d4b4f",
+                    "boundaryNum": 1,
+                    "name": "Bolar Chowk - WARD_3",
+                    "localname": "Bolar Chowk - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6a142fac-df50-42a4-83e2-e4639d7556a6",
+                    "boundaryNum": 1,
+                    "name": "Shiv Nagar Colony - WARD_3",
+                    "localname": "Shiv Nagar Colony - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-51",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7895dff1-d884-43b5-8e04-2c6976ba1648",
+                    "boundaryNum": 1,
+                    "name": "Bolor Road - WARD_3",
+                    "localname": "Bolor Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-54",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "918d5b61-3412-4679-8b2b-bc65b8c31f59",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "54e697c8-7cdf-4a60-a2e9-6949f93628ba",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khera Wala - WARD_4",
+                    "localname": "Moh. Khera Wala - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1f718e8b-f2f5-4071-a1d9-1ab000a97984",
+                    "boundaryNum": 1,
+                    "name": "Moh. Ahluwalia - WARD_4",
+                    "localname": "Moh. Ahluwalia - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3ddac225-3ce3-41a8-becf-1f90befb8a4d",
+                    "boundaryNum": 1,
+                    "name": "Moh. Sarafa Wala - WARD_4",
+                    "localname": "Moh. Sarafa Wala - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "81b61e4c-4cd7-477f-8d6a-ff5a60930370",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "11a2c273-c700-4258-ba6f-b31db563f4e9",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kansian WARD5 - WARD_5",
+                    "localname": "Moh. Kansian WARD5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a412f84d-ed46-4142-bf80-4ec8881d516d",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "3068b466-8f77-4a8d-8feb-652050a07d78",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kansian WARD6 - WARD_6",
+                    "localname": "Moh. Kansian WARD6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "969fd59b-57d4-46df-8e6e-47017f57f530",
+                    "boundaryNum": 1,
+                    "name": "Bhankher Road - WARD_6",
+                    "localname": "Bhankher Road - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48f45ec6-d996-4883-b0d4-97f15f89005b",
+                    "boundaryNum": 1,
+                    "name": "Sant Isar Singh WARD6 - WARD_6",
+                    "localname": "Sant Isar Singh WARD6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "09f51152-20a3-4682-88eb-bcdcd94ee702",
+                    "boundaryNum": 1,
+                    "name": "Tara Chand Colony - WARD_6",
+                    "localname": "Tara Chand Colony - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-61",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2631855c-cafe-43f2-a834-b256b0fdc82a",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "23f6eca1-0e47-42c0-9dcf-f3530b49dcd2",
+                    "boundaryNum": 1,
+                    "name": "Balocha Wala WARD7 - WARD_7",
+                    "localname": "Balocha Wala WARD7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3efaecdb-de9f-4c9b-a00c-4d776cbaa27d",
+                    "boundaryNum": 1,
+                    "name": "Khalsa Colony WARD7 - WARD_7",
+                    "localname": "Khalsa Colony WARD7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9fa43a36-8269-40bc-b98c-1f01885a5596",
+                    "boundaryNum": 1,
+                    "name": "Amar Enclave - WARD_7",
+                    "localname": "Amar Enclave - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8302c8e7-0a1e-4d8a-8fbd-0b822c956b0f",
+                    "boundaryNum": 1,
+                    "name": "Sant Isar Singh WARD7 - WARD_7",
+                    "localname": "Sant Isar Singh WARD7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-60",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34116e9c-ff45-4123-b75c-2090899762b9",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "fc231f7a-cec1-46f6-b2de-b5e9af6fe640",
+                    "boundaryNum": 1,
+                    "name": "Khalsa Colony WARD8 - WARD_8",
+                    "localname": "Khalsa Colony WARD8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-44",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "110d94a3-3e66-4608-9108-08847e3c8956",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2ab4badf-94a8-4877-b97a-c71f2ce8610d",
+                    "boundaryNum": 1,
+                    "name": "Moh. Pathana Wala WARD9 - WARD_9",
+                    "localname": "Moh. Pathana Wala WARD9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7aac52b1-0947-4082-827b-eb0af5a9e429",
+                    "boundaryNum": 1,
+                    "name": "Balocha Wala WARD9 - WARD_9",
+                    "localname": "Balocha Wala WARD9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5f2ecee7-3a89-425f-a05d-cbde12121322",
+                    "boundaryNum": 1,
+                    "name": "Opp. Akalgarh Gurudwara Sahib WARD9 - WARD_9",
+                    "localname": "Opp. Akalgarh Gurudwara Sahib WARD9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2cccdcd-cdef-48b9-b6da-55d32c6f9092",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "fe1a5142-4176-40b1-b8dd-fd1421aea5c7",
+                    "boundaryNum": 1,
+                    "name": "Near Mahavir Mandir - WARD_10",
+                    "localname": "Near Mahavir Mandir - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ceef58f4-2bad-4ace-9f37-165953468b96",
+                    "boundaryNum": 1,
+                    "name": "Kansian Wala - WARD_10",
+                    "localname": "Kansian Wala - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "25359168-d138-47e0-8eec-b4858512ddde",
+                    "boundaryNum": 1,
+                    "name": "Gali Ghumara Wali - WARD_10",
+                    "localname": "Gali Ghumara Wali - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f7afb68e-e45e-4bfa-887a-f604a5273cdb",
+                    "boundaryNum": 1,
+                    "name": "Khajuran Wala - WARD_10",
+                    "localname": "Khajuran Wala - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9183a866-8cab-4969-b290-7aa5325efc9a",
+                    "boundaryNum": 1,
+                    "name": "Gandhi Steet - WARD_10",
+                    "localname": "Gandhi Steet - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e9d85d0e-d09c-4a01-b0bf-ce407ecf7918",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "4d07d60b-14de-4d36-9bce-c5cff4dd793c",
+                    "boundaryNum": 1,
+                    "name": "Moh Khokaran Wala WARD11 - WARD_11",
+                    "localname": "Moh Khokaran Wala WARD11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "961db98b-6072-4e7d-8a66-9a5b51c6cc2b",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar Right Side WARD11 - WARD_11",
+                    "localname": "Sadar Bazar Right Side WARD11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d1b05308-f5f7-4ccb-b5ac-2dbadb3b1305",
+                    "boundaryNum": 1,
+                    "name": "Moh. Panidta Wala - WARD_11",
+                    "localname": "Moh. Panidta Wala - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "373146c4-7605-484b-b34b-bd2106a596d7",
+                    "boundaryNum": 1,
+                    "name": "Gadhi Street - WARD_11",
+                    "localname": "Gadhi Street - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c86b9111-0ccf-4fe8-a05f-bb541f399ea1",
+                    "boundaryNum": 1,
+                    "name": "Moh. Tian Wala - WARD_11",
+                    "localname": "Moh. Tian Wala - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "db411308-df63-4f32-b07b-1376d39a3827",
+                    "boundaryNum": 1,
+                    "name": "Opp. Police Station - WARD_11",
+                    "localname": "Opp. Police Station - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1727595f-1f65-4b40-bab5-d809dbfa4941",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "035cf296-7948-41ac-b2cd-35ca645dc404",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar (Left Side) - WARD_12",
+                    "localname": "Sadar Bazar (Left Side) - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8219443b-4aad-4ed1-8fa8-1e42ab1f60ba",
+                    "boundaryNum": 1,
+                    "name": "Moh Khokaran Wala WARD12 - WARD_12",
+                    "localname": "Moh Khokaran Wala WARD12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89cc986d-36ca-491d-8400-35c8e2509ddd",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "6e2cab02-6a70-4fea-943f-93ce69ae56a5",
+                    "boundaryNum": 1,
+                    "name": "Moh. Khatiran Wala - WARD_13",
+                    "localname": "Moh. Khatiran Wala - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9189a92f-0ef6-42e0-a398-4953c1e931fc",
+                    "boundaryNum": 1,
+                    "name": "Moh. Kazian Wala - WARD_13",
+                    "localname": "Moh. Kazian Wala - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c08dd6f5-352b-4757-99a0-8a05d5044951",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "d2b0676d-c21c-457c-883e-b6e7026ccf9d",
+                    "boundaryNum": 1,
+                    "name": "Sadar Bazar Right Side WARD14 - WARD_14",
+                    "localname": "Sadar Bazar Right Side WARD14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3757fd8a-f2c8-4749-bf0b-781896150c28",
+                    "boundaryNum": 1,
+                    "name": "Near Bus Stand WARD14 - WARD_14",
+                    "localname": "Near Bus Stand WARD14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "47b83e0e-53ff-403b-bbee-97d5ba83a182",
+                    "boundaryNum": 1,
+                    "name": "Moh. Pathana Wala WARD14 - WARD_14",
+                    "localname": "Moh. Pathana Wala WARD14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ab5826fc-6773-40a4-85a4-334997bc339f",
+                    "boundaryNum": 1,
+                    "name": "Radha Krishan Mandir - WARD_14",
+                    "localname": "Radha Krishan Mandir - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4055ad73-ef75-4b72-93e9-0530b6bf8568",
+                    "boundaryNum": 1,
+                    "name": "Opp. Akalgarh Gurudwara Sahib WARD14 - WARD_14",
+                    "localname": "Opp. Akalgarh Gurudwara Sahib WARD14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cd0290da-68bf-46d7-88d1-85bcc8ed9bd5",
+                    "boundaryNum": 1,
+                    "name": "Patiala Road WARD14 - WARD_14",
+                    "localname": "Patiala Road WARD14 - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-40",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ff0047f2-67ee-47ad-8462-6df276ac0225",
+                    "boundaryNum": 1,
+                    "name": "Marri Mandir Colony - WARD_14",
+                    "localname": "Marri Mandir Colony - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-42",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eea0c83e-75fd-495f-b440-1731304c8b45",
+                    "boundaryNum": 1,
+                    "name": "School Road - WARD_14",
+                    "localname": "School Road - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0983a788-db58-4421-a10d-ac3b56cbbf85",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "f1d6b941-5512-4831-84ed-23065f6b45f8",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road and Opp.Bus Stand - WARD_15",
+                    "localname": "Chaura Road and Opp.Bus Stand - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "25617cc4-b997-44f4-859b-a9740e6d519f",
+                    "boundaryNum": 1,
+                    "name": "Near Bus Stand WARD15 - WARD_15",
+                    "localname": "Near Bus Stand WARD15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c8d35617-8c95-4c33-9bde-5eb445db29f3",
+                    "boundaryNum": 1,
+                    "name": "Chaura Road  WARD15 - WARD_15",
+                    "localname": "Chaura Road  WARD15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38860120-b50b-4762-b5e4-f4552109262e",
+                    "boundaryNum": 1,
+                    "name": "Sandhu Colony WARD15 - WARD_15",
+                    "localname": "Sandhu Colony WARD15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-37",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6b57e7e-00ae-4892-ae28-1cebbb137d7e",
+                    "boundaryNum": 1,
+                    "name": "Vishavkarma Colony WARD15 - WARD_15",
+                    "localname": "Vishavkarma Colony WARD15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12e73d6e-3a4c-4f42-88cb-7f7939b4ea9c",
+                    "boundaryNum": 1,
+                    "name": "Patiala Road WARD15 - WARD_15",
+                    "localname": "Patiala Road WARD15 - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SNR-41",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
