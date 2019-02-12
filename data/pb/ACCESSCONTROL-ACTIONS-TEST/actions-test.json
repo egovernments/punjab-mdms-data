@@ -4748,6 +4748,21 @@
       "navigationURL": "integration/dashboard/pgr-ulb",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1750,
+      "name": "Employee Wise Report",
+      "url": "url",
+      "displayName": "Employee Wise Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "PGR.PGR Reports.Employee Wise Report",
+      "navigationURL": "report/rainmaker-pgr/ULBEmployeeWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
