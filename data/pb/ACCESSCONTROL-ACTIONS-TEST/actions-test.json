@@ -4763,6 +4763,32 @@
       "navigationURL": "report/rainmaker-pgr/ULBEmployeeWiseReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1751,
+      "name": "Income - Expenditures Statement",
+      "navigationURL": "services/EGF/report/incomeExpenditureReport-generateIncomeExpenditureReport.action",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Income - Expenditures Statement",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Reports.Financial Statements.Income - Expenditures Statement"
+    },
+    {
+      "id": 1752,
+      "name": "Balance Sheet",
+      "navigationURL": "services/EGF/report/balanceSheetReport-generateBalanceSheetReport.action",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Balance Sheet",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Reports.Financial Statements.Balance Sheet"
     }
   ]
 }
