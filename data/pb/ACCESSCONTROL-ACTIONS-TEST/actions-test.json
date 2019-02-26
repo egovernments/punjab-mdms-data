@@ -4836,7 +4836,7 @@
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
-    }, 
+    },
     {
       "id": 1757,
       "name": "Workflow search",
@@ -4863,6 +4863,20 @@
       "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1759,
+      "name": "TradeLicenseApplication",
+      "url": "url",
+      "displayName": "Application",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "TradeLicense",
+      "code": "null",
+      "navigationURL": "tradelicence/search",
+      "path": "TradeLicense.Application",
+      "leftIcon": "places:business-center"
     }
   ]
 }
