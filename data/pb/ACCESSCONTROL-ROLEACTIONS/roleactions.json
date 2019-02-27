@@ -1,8 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
-  "roleactions": [
-    {
+  "roleactions": [{
       "rolecode": "SUPERUSER",
       "actionid": 628,
       "actioncode": "",
@@ -6881,6 +6880,30 @@
     {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1534,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
     }
