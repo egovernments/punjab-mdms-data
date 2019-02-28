@@ -4891,6 +4891,51 @@
       "serviceCode": "punjab-customization",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1768,
+      "name": "WSEstimationChargesCollections",
+      "url": "url",
+      "displayName": "Estimation Charges Collections",
+      "orderNumber": 2,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSEstimationChargesCollections",
+      "navigationURL": "integration/dashboard/ws-estimationcharges-collections",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1769,
+      "name": "WSTodaysEstimationChargesCollections",
+      "url": "url",
+      "displayName": "Today's Estimation Charges Collections",
+      "orderNumber": 2,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSTodaysEstimationChargesCollections",
+      "navigationURL": "integration/dashboard/ws-todays-estimationcharges-collections",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1770,
+      "name": "WSApplicationsDashboard",
+      "url": "url",
+      "displayName": "Application Dashboard",
+      "orderNumber": 2,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSApplicationsDashboard",
+      "navigationURL": "integration/dashboard/ws-application-dashboard",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
