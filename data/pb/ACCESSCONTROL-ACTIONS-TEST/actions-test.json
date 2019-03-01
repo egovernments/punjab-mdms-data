@@ -4936,6 +4936,21 @@
       "navigationURL": "integration/dashboard/ws-application-dashboard",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1771,
+      "name": "ULBDepartmentReport",
+      "url": "url",
+      "displayName": "Department",
+      "orderNumber": 10,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.ULBDepartmentReport",
+      "navigationURL": "report/rainmaker-pgr/ULBDepartmentReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
