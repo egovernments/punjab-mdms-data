@@ -4791,6 +4791,21 @@
       "path": "Finance.Reports.Financial Statements.Balance Sheet"
     }, 
     {
+      "id": 1758,
+      "name": "Cancelled Receipt Register",
+      "url": "url",
+      "displayName": "Cancelled Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
       "id": 1767,
       "name": "Vasika search",
       "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/searchPropertyIDByVasikaNo/_get",
