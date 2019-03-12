@@ -5096,6 +5096,36 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1784,
+      "name": "Cancelled Receipt Register",
+      "url": "url",
+      "displayName": "Cancelled Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.PT.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-pt/StateCancelledReceiptRegister",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1785,
+      "name": "Cancelled Receipt Register",
+      "url": "url",
+      "displayName": "Cancelled Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "State Reports.TL.Cancelled Receipt Register",
+      "navigationURL": "report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
