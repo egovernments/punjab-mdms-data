@@ -75,6 +75,12 @@
           "isOrigin": false,
           "domain": "https://pb-kibana.egovernments.org",
 	  "title": "DASHBOARD_TITLE_WS_APPLICATION"
+        },
+        "ws-ageingreport-dashboard": {
+          "routePath": "/s/water-and-sewerage/app/kibana#/dashboard/6703a8f0-43dc-11e9-b55a-7db62db4bf5b?embed=true&_g=(refreshInterval:(pause:!f,value:300000),time:(from:now-2y,mode:quick,to:now))&_a=(description:'W+%26+S+New+Connection+Applications+Ageing+Report+Dashboard',filters:!(),fullScreenMode:!f,options:(darkTheme:!f,hidePanelTitles:!f,useMargins:!t),panels:!((embeddableConfig:(),gridData:(h:9,i:'2',w:16,x:32,y:14),id:'52183dd0-43db-11e9-b55a-7db62db4bf5b',panelIndex:'2',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:9,i:'3',w:17,x:15,y:14),id:'846dadb0-43db-11e9-b55a-7db62db4bf5b',panelIndex:'3',title:'Pending+from+3+to+7+days',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:9,i:'4',w:15,x:0,y:14),id:a6c66730-43db-11e9-b55a-7db62db4bf5b,panelIndex:'4',title:'Pending+from+7+to+15+days',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:9,i:'5',w:16,x:32,y:5),id:c6352020-43db-11e9-b55a-7db62db4bf5b,panelIndex:'5',title:'Pending+from+more+than+15+days',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:26,i:'7',w:48,x:0,y:23),id:ffc076a0-43d1-11e9-b55a-7db62db4bf5b,panelIndex:'7',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:9,i:'8',w:17,x:15,y:5),id:'290838c0-46f4-11e9-b55a-7db62db4bf5b',panelIndex:'8',title:'W+%26+S+New+Connection+Applications+-+Breakup',type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:5,i:'9',w:48,x:0,y:0),id:e2f56ed0-f332-11e8-8d09-b151e2b1cf8e,panelIndex:'9',title:Filters,type:visualization,version:'6.5.2'),(embeddableConfig:(),gridData:(h:9,i:'10',w:15,x:0,y:5),id:'81447600-3b2f-11e9-b55a-7db62db4bf5b',panelIndex:'10',title:'W+%26+S+Total+New+Connection+Applications',type:visualization,version:'6.5.2')),query:(language:kuery,query:''),timeRestore:!f,title:'W+%26+S+New+Connection+Applications+Ageing+Report+Dashboard',viewMode:view)",
+          "isOrigin": false,
+          "domain": "https://pb-kibana.egovernments.org",
+	  "title": "DASHBOARD_TITLE_WS_AGEINGREPORT"
         }
       }
     },
