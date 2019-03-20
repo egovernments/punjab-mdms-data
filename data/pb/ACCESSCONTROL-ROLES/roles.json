@@ -312,11 +312,6 @@
       "description": "All Employees who use Finance application"
     },
     {
-      "code": "TL_APPROVER",
-      "name": "Trade License Approver Employee",
-      "description": "Role for trade license Approver employee"
-    },
-    {
       "code": "EGF_ADMINISTRATOR",
       "name": "Finance Adminsitrator",
       "description": "All Employees who are Finance application administrator"
@@ -335,6 +330,32 @@
       "code": "PUNJAB_EODB",
       "name": "EODB search user",
       "description": "EODB search user"
+    },
+    {
+      "code": "PTULBADMIN",
+      "name": "PT ULB Adminsitrator",
+      "description": "Property tax ULB level administrator"
+    },
+    {
+      "code": "PTSTADMIN",
+      "name": "PT State Administrator",
+      "description": "Property tax State level administrator"
+    },
+    {
+      "code": "PTCEMP",
+      "name": "PT Counter Employee",
+      "description": "PT Counter Employee"
+    },
+    {
+      "code": "ULBADMIN",
+      "name": "ULB Administrator",
+      "description": "Admin role that as access over an ulb"
+    },
+    {
+      "code": "PTFEMP",
+      "name": "PT Field Employee",
+      "description": "PT Field Employee"
     }
+
   ]
 }
