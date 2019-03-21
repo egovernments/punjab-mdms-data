@@ -5051,6 +5051,21 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1786,
+      "name": "WSApplicationAgeingDashboard",
+      "url": "url",
+      "displayName": "Ageing Report Dashboard",
+      "orderNumber": 2,
+      "parentModule": "W&S",
+      "enabled": true,
+      "serviceCode": "W&S",
+      "code": "null",
+      "path": "Dashboard.Water & Sewerage.WSApplicationAgeingDashboard",
+      "navigationURL": "integration/dashboard/ws-ageingreport-dashboard",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
