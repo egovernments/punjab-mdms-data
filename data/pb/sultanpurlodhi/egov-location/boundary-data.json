@@ -10,15 +10,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "SultanpurLodhi",
-        "localname": "SultanpurLodhi",
+        "name": "Sultanpurlodhi",
+        "localname": "Sultanpurlodhi",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.sultanpurlodhi",
         "children": [
           {
-            "id": "a890532f-3e67-46e9-8bf5-51d6f88a4b7e",
+            "id": "2aa70551-1db7-446d-b488-f18bf063f0f3",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -28,7 +28,7 @@
             "code": "Z1",
             "children": [
               {
-                "id": "03235200-255c-45c4-9281-b44d3aadcdf2",
+                "id": "f6cee593-c14f-4067-8678-75340bd7640f",
                 "boundaryNum": 1,
                 "name": "Block 1A",
                 "localname": "Block 1A",
@@ -38,21 +38,57 @@
                 "code": "B1A",
                 "children": [
                   {
-                    "id": "a5e85007-c639-479a-b321-2d92c6714c80",
+                    "id": "e4f75315-566b-4b0b-8abe-4510db87bc92",
                     "boundaryNum": 1,
-                    "name": "Dhiran A - B1A - A1",
-                    "localname": "Dhiran A - B1A - A1",
+                    "name": "Dhiran A - Block 1A - A1",
+                    "localname": "Dhiran A - Block 1A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_1",
                     "area": "AREA1",
                     "children": []
+                  },
+                  {
+                    "id": "286b2091-c9ed-46e8-9734-e7e0b4cd3f99",
+                    "boundaryNum": 1,
+                    "name": "Pattua - Block 1A - A1",
+                    "localname": "Pattua - Block 1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_119",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b699c8a-67b2-4fd1-851e-a5061ac1d9cc",
+                    "boundaryNum": 1,
+                    "name": "Vei Inklave - Block 1A - A1",
+                    "localname": "Vei Inklave - Block 1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_120",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1872996-b05e-47a8-93d9-4ed323d717ab",
+                    "boundaryNum": 1,
+                    "name": "Dhandian - Block 1A - A1",
+                    "localname": "Dhandian - Block 1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SL_121",
+                    "area": "AREA1",
+                    "children": []
                   }
                 ]
               },
               {
-                "id": "d9494e1d-ba02-4b6a-b642-bfe97b2636df",
+                "id": "4caf68bb-8f11-4d38-9d3f-6054fa8ee30b",
                 "boundaryNum": 1,
                 "name": "Block 1B",
                 "localname": "Block 1B",
@@ -62,21 +98,21 @@
                 "code": "B1B",
                 "children": [
                   {
-                    "id": "2208a788-da2e-4fa5-bfc7-8bf43e33b718",
+                    "id": "1b0289aa-5d12-490c-bcc2-7f102aa15d47",
                     "boundaryNum": 1,
-                    "name": "Dhiran B - B1B - A2",
-                    "localname": "Dhiran B - B1B - A2",
+                    "name": "Dhiran B - Block 1B - A1",
+                    "localname": "Dhiran B - Block 1B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_2",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "d5f8f57c-e9d0-4f65-b81d-58df728580bb",
+                "id": "e6e416c1-424b-4c6c-819a-97eb9f6db6ea",
                 "boundaryNum": 1,
                 "name": "Block 2A",
                 "localname": "Block 2A",
@@ -86,10 +122,10 @@
                 "code": "B2A",
                 "children": [
                   {
-                    "id": "b7cf5e77-3519-4a7d-8550-692419eef7b5",
+                    "id": "14e5afef-902a-40af-b77c-7d1531de5c9c",
                     "boundaryNum": 1,
-                    "name": "Dhandana A - B2A - A1",
-                    "localname": "Dhandana A - B2A - A1",
+                    "name": "Dhandana A - Block 2A - A1",
+                    "localname": "Dhandana A - Block 2A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -100,7 +136,7 @@
                 ]
               },
               {
-                "id": "2b941181-10cd-41f9-a716-1aa129fa227d",
+                "id": "c90e5cb3-0d0f-41bd-b2bd-93ca67f23186",
                 "boundaryNum": 1,
                 "name": "Block 2B",
                 "localname": "Block 2B",
@@ -110,21 +146,21 @@
                 "code": "B2B",
                 "children": [
                   {
-                    "id": "246135f4-391a-4c8a-847a-52438efdf943",
+                    "id": "673112b4-aeb8-4ad8-959d-21aac9cdcd0d",
                     "boundaryNum": 1,
-                    "name": "Dhandana B - B2B - A2",
-                    "localname": "Dhandana B - B2B - A2",
+                    "name": "Dhandana B - Block 2B - A1",
+                    "localname": "Dhandana B - Block 2B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_4",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a4acf354-e193-4bdf-86e4-e90cbf4b486d",
+                "id": "3fe56814-c63b-493e-ac45-0bf6f01df49a",
                 "boundaryNum": 1,
                 "name": "Block 3A",
                 "localname": "Block 3A",
@@ -134,10 +170,10 @@
                 "code": "B3A",
                 "children": [
                   {
-                    "id": "08eb5488-3979-4f0c-b4a7-0dfc40afd4a8",
+                    "id": "c4460be2-244c-4e2b-a12e-253b77ba0fb9",
                     "boundaryNum": 1,
-                    "name": "Sehra Sahib A - B3A - A1",
-                    "localname": "Sehra Sahib A - B3A - A1",
+                    "name": "Sehra Sahib A - Block 3A - A1",
+                    "localname": "Sehra Sahib A - Block 3A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -148,7 +184,7 @@
                 ]
               },
               {
-                "id": "081cd6f0-5aec-4142-a60d-936672307964",
+                "id": "4236b754-6f5f-4ab0-9287-3e3591a44b7c",
                 "boundaryNum": 1,
                 "name": "Block 3B",
                 "localname": "Block 3B",
@@ -158,21 +194,21 @@
                 "code": "B3B",
                 "children": [
                   {
-                    "id": "0b7f01e1-44cf-40be-80e7-33a96c33a1d1",
+                    "id": "7c4efc11-c7e4-4853-9457-38896bc73d3c",
                     "boundaryNum": 1,
-                    "name": "Sehra Sahib B - B3B - A2",
-                    "localname": "Sehra Sahib B - B3B - A2",
+                    "name": "Sehra Sahib B - Block 3B - A1",
+                    "localname": "Sehra Sahib B - Block 3B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_6",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "67688c73-8fb8-4650-b546-00c38a57705f",
+                "id": "a2b2db46-e3d0-467a-aa02-80ad65108ddc",
                 "boundaryNum": 1,
                 "name": "Block 4A",
                 "localname": "Block 4A",
@@ -182,10 +218,10 @@
                 "code": "B4A",
                 "children": [
                   {
-                    "id": "5a077c20-c1ac-48a0-aaac-6c34d7bb4619",
+                    "id": "a81ebec5-250c-4242-9715-8bbf15f67f40",
                     "boundaryNum": 1,
-                    "name": "Chownk Arya Smaj A - B4A - A1",
-                    "localname": "Chownk Arya Smaj A - B4A - A1",
+                    "name": "Chownk Arya Smaj A - Block 4A - A1",
+                    "localname": "Chownk Arya Smaj A - Block 4A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -196,7 +232,7 @@
                 ]
               },
               {
-                "id": "c309e23b-92c5-486e-9e5f-2448db49fd94",
+                "id": "1652e803-b6c3-4ece-a7ba-d4a49414eda2",
                 "boundaryNum": 1,
                 "name": "Block 4B",
                 "localname": "Block 4B",
@@ -206,21 +242,21 @@
                 "code": "B4B",
                 "children": [
                   {
-                    "id": "266e4fc2-2a45-441d-be59-f10093d8eac5",
+                    "id": "9b5565cf-c280-4d64-a60f-8827a0438ba5",
                     "boundaryNum": 1,
-                    "name": "Chownk Arya Smaj B - B4B - A2",
-                    "localname": "Chownk Arya Smaj B - B4B - A2",
+                    "name": "Chownk Arya Smaj B - Block 4B - A1",
+                    "localname": "Chownk Arya Smaj B - Block 4B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_8",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "37aec3a1-375b-4dbf-8d1e-c9749d84fb5c",
+                "id": "e86587a2-1537-41e6-bb69-2f21cd447b7f",
                 "boundaryNum": 1,
                 "name": "Block 5A",
                 "localname": "Block 5A",
@@ -230,10 +266,10 @@
                 "code": "B5A",
                 "children": [
                   {
-                    "id": "8795c142-d1ca-4c96-80ee-9ba09349b542",
+                    "id": "f681c007-4b8c-4281-ab7f-1b213f652232",
                     "boundaryNum": 1,
-                    "name": "Udham Singh Chownk to Kapurthala Road A - B5A - A1",
-                    "localname": "Udham Singh Chownk to Kapurthala Road A - B5A - A1",
+                    "name": "Udham Singh Chownk to Kapurthala Road A - Block 5A - A1",
+                    "localname": "Udham Singh Chownk to Kapurthala Road A - Block 5A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -244,7 +280,7 @@
                 ]
               },
               {
-                "id": "7ceca263-0ae1-4855-826e-650e05458704",
+                "id": "84ae3bfe-727d-4f97-b1eb-82f9bfe3af19",
                 "boundaryNum": 1,
                 "name": "Block 5B",
                 "localname": "Block 5B",
@@ -254,21 +290,21 @@
                 "code": "B5B",
                 "children": [
                   {
-                    "id": "8bd019be-e812-4111-ad32-ef53d919fc73",
+                    "id": "31d27dee-d67b-4bde-80a4-0c9d497c87ee",
                     "boundaryNum": 1,
-                    "name": "Udham Singh Chownk to Kapurthala Road B - B5B - A2",
-                    "localname": "Udham Singh Chownk to Kapurthala Road B - B5B - A2",
+                    "name": "Udham Singh Chownk to Kapurthala Road B - Block 5B - A1",
+                    "localname": "Udham Singh Chownk to Kapurthala Road B - Block 5B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_10",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "26f618a3-7d9f-4c55-ac7a-faec91ba52ca",
+                "id": "53eba37a-8ba7-4d73-b5b3-9a92fd848061",
                 "boundaryNum": 1,
                 "name": "Block 6A",
                 "localname": "Block 6A",
@@ -278,10 +314,10 @@
                 "code": "B6A",
                 "children": [
                   {
-                    "id": "a7ecc8fc-ddcd-4be4-ab5e-1070e85b7b73",
+                    "id": "0484d245-a0fa-4541-993a-5d956e2fac42",
                     "boundaryNum": 1,
-                    "name": "Model Town A - B6A - A1",
-                    "localname": "Model Town A - B6A - A1",
+                    "name": "Model Town A - Block 6A - A1",
+                    "localname": "Model Town A - Block 6A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -292,7 +328,7 @@
                 ]
               },
               {
-                "id": "b4981b5a-c799-4147-a03f-a6e4c47a8064",
+                "id": "97bbfd43-b3dd-4c9b-b4ec-44762e5ca101",
                 "boundaryNum": 1,
                 "name": "Block 6B",
                 "localname": "Block 6B",
@@ -302,21 +338,21 @@
                 "code": "B6B",
                 "children": [
                   {
-                    "id": "69b2f213-c953-40da-9964-f8ef888aa643",
+                    "id": "877ce791-6c38-49b2-bab9-f0a5a304b23b",
                     "boundaryNum": 1,
-                    "name": "Model Town B - B6B - A2",
-                    "localname": "Model Town B - B6B - A2",
+                    "name": "Model Town B - Block 6B - A1",
+                    "localname": "Model Town B - Block 6B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_12",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9a6e087c-7a87-432d-81d7-b790d545919f",
+                "id": "9af02f66-76ce-4830-b9fa-925c6de250ac",
                 "boundaryNum": 1,
                 "name": "Block 7A",
                 "localname": "Block 7A",
@@ -326,10 +362,10 @@
                 "code": "B7A",
                 "children": [
                   {
-                    "id": "0f53d9e2-fea0-453f-b8d3-8905261bc3b9",
+                    "id": "16d826d6-9fcf-4a02-9ff2-64a9e3f57745",
                     "boundaryNum": 1,
-                    "name": "Hakima A - B7A - A1",
-                    "localname": "Hakima A - B7A - A1",
+                    "name": "Hakima A - Block 7A - A1",
+                    "localname": "Hakima A - Block 7A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -340,7 +376,7 @@
                 ]
               },
               {
-                "id": "4dc65a10-7f4e-4f86-bad5-d4f1ddd4a49f",
+                "id": "f903c723-37f2-4047-978c-f97c9a28dec1",
                 "boundaryNum": 1,
                 "name": "Block 7B",
                 "localname": "Block 7B",
@@ -350,21 +386,21 @@
                 "code": "B7B",
                 "children": [
                   {
-                    "id": "e5678496-a4fb-40ef-b276-7ef7ce67b302",
+                    "id": "6a4e3b5b-4c99-4c19-ad01-266671139c19",
                     "boundaryNum": 1,
-                    "name": "Hakima B - B7B - A2",
-                    "localname": "Hakima B - B7B - A2",
+                    "name": "Hakima B - Block 7B - A1",
+                    "localname": "Hakima B - Block 7B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_14",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a7fc96e7-20b6-4b81-bd24-110a4d9fc816",
+                "id": "b27ab623-fb41-46d6-b0fd-52ffcf33ac2f",
                 "boundaryNum": 1,
                 "name": "Block 8A",
                 "localname": "Block 8A",
@@ -374,10 +410,10 @@
                 "code": "B8A",
                 "children": [
                   {
-                    "id": "c50d2e18-70ee-4164-8beb-75b8a6c5d898",
+                    "id": "0bcca42e-1948-4dc2-a940-280304f2649a",
                     "boundaryNum": 1,
-                    "name": "Mori A - B8A - A1",
-                    "localname": "Mori A - B8A - A1",
+                    "name": "Mori A - Block 8A - A1",
+                    "localname": "Mori A - Block 8A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -388,7 +424,7 @@
                 ]
               },
               {
-                "id": "2c420d3b-a15f-4975-97ef-b4b115032e0d",
+                "id": "55a2ddd3-abec-44a7-b565-21690e90869a",
                 "boundaryNum": 1,
                 "name": "Block 8B",
                 "localname": "Block 8B",
@@ -398,21 +434,21 @@
                 "code": "B8B",
                 "children": [
                   {
-                    "id": "812fb1ae-7f15-41c9-b792-f58364e8b3ae",
+                    "id": "8455d8f5-0a7d-4ca4-9b45-505486f5945f",
                     "boundaryNum": 1,
-                    "name": "Mori B - B8B - A2",
-                    "localname": "Mori B - B8B - A2",
+                    "name": "Mori B - Block 8B - A1",
+                    "localname": "Mori B - Block 8B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_16",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "c2db2a89-69ed-4162-a819-b1034c78544f",
+                "id": "f985ed90-3ae7-4992-9fde-6a59e7a92fb4",
                 "boundaryNum": 1,
                 "name": "Block 9A",
                 "localname": "Block 9A",
@@ -422,10 +458,10 @@
                 "code": "B9A",
                 "children": [
                   {
-                    "id": "ebe77c57-78d1-4d36-9434-68c8adc504d5",
+                    "id": "f933d304-5195-4ec7-b50e-a5099a79aba8",
                     "boundaryNum": 1,
-                    "name": "Kurlan A - B9A - A1",
-                    "localname": "Kurlan A - B9A - A1",
+                    "name": "Kurlan A - Block 9A - A1",
+                    "localname": "Kurlan A - Block 9A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -436,7 +472,7 @@
                 ]
               },
               {
-                "id": "e21110c2-b334-4752-b937-e6b38482783b",
+                "id": "25aa2345-d709-456b-896b-a9bb1ddb75eb",
                 "boundaryNum": 1,
                 "name": "Block 9B",
                 "localname": "Block 9B",
@@ -446,21 +482,21 @@
                 "code": "B9B",
                 "children": [
                   {
-                    "id": "4f0aa28a-7c52-44ba-a21f-11e5bce28853",
+                    "id": "128e83d3-d4e3-434f-87ce-4a7f018e208a",
                     "boundaryNum": 1,
-                    "name": "Kurlan B - B9B - A2",
-                    "localname": "Kurlan B - B9B - A2",
+                    "name": "Kurlan B - Block 9B - A1",
+                    "localname": "Kurlan B - Block 9B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_18",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "92ba4b8f-47ea-4aad-9302-f2d5a2d7d0cb",
+                "id": "0ae10869-9968-4ea2-a3db-119ff029aaac",
                 "boundaryNum": 1,
                 "name": "Block 10A",
                 "localname": "Block 10A",
@@ -470,10 +506,10 @@
                 "code": "B10A",
                 "children": [
                   {
-                    "id": "39f1dcdc-ef04-47f0-8e38-3cd9a1005e60",
+                    "id": "3cd19357-a5e3-4eb5-b125-b7f5012b79e7",
                     "boundaryNum": 1,
-                    "name": "Railway Road A - B10A - A1",
-                    "localname": "Railway Road A - B10A - A1",
+                    "name": "Railway Road A - Block 10A - A1",
+                    "localname": "Railway Road A - Block 10A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -484,7 +520,7 @@
                 ]
               },
               {
-                "id": "05d202d3-bd28-41b5-990d-12b927847e57",
+                "id": "59d8d635-74b8-40a4-9a83-2c3ac51570d5",
                 "boundaryNum": 1,
                 "name": "Block 10B",
                 "localname": "Block 10B",
@@ -494,21 +530,21 @@
                 "code": "B10B",
                 "children": [
                   {
-                    "id": "0c532fa9-4dae-4cad-9695-692a56cfaec7",
+                    "id": "4eee649d-200d-4011-9b99-ab542639f39c",
                     "boundaryNum": 1,
-                    "name": "Railway Road B - B10B - A2",
-                    "localname": "Railway Road B - B10B - A2",
+                    "name": "Railway Road B - Block 10B - A1",
+                    "localname": "Railway Road B - Block 10B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_20",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "45aae90e-10d1-46bd-bb71-6c3fdc4695ff",
+                "id": "c77d6897-627f-471c-90c4-34f690c6e797",
                 "boundaryNum": 1,
                 "name": "Block 11A",
                 "localname": "Block 11A",
@@ -518,10 +554,10 @@
                 "code": "B11A",
                 "children": [
                   {
-                    "id": "977a87a9-e716-435c-af9c-5eaafef7a9d7",
+                    "id": "9fe51739-7274-414b-8858-45c851d32aac",
                     "boundaryNum": 1,
-                    "name": "Thakra A - B11A - A1",
-                    "localname": "Thakra A - B11A - A1",
+                    "name": "Thakra A - Block 11A - A1",
+                    "localname": "Thakra A - Block 11A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -532,7 +568,7 @@
                 ]
               },
               {
-                "id": "dbd646c2-2dac-47d7-a918-60e4d8f544c2",
+                "id": "6ad40452-a625-4b28-a372-54dd131fa4dd",
                 "boundaryNum": 1,
                 "name": "Block 11B",
                 "localname": "Block 11B",
@@ -542,21 +578,21 @@
                 "code": "B11B",
                 "children": [
                   {
-                    "id": "af837b66-76f7-46ed-b12d-551bce1877d3",
+                    "id": "11cea36c-172b-4ab9-be26-2549300ae2ce",
                     "boundaryNum": 1,
-                    "name": "Thakra B - B11B - A2",
-                    "localname": "Thakra B - B11B - A2",
+                    "name": "Thakra B - Block 11B - A1",
+                    "localname": "Thakra B - Block 11B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_22",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a2636e3b-f08c-4e01-83be-1b8b409975c9",
+                "id": "79a5bc62-32b9-46fb-ba07-96343b1c01aa",
                 "boundaryNum": 1,
                 "name": "Block 12A",
                 "localname": "Block 12A",
@@ -566,10 +602,10 @@
                 "code": "B12A",
                 "children": [
                   {
-                    "id": "02f2d01f-7347-4111-aa39-3b313520ceaf",
+                    "id": "f5776f89-ae0a-40af-96f5-da67d0c62f7b",
                     "boundaryNum": 1,
-                    "name": "Station A - B12A - A1",
-                    "localname": "Station A - B12A - A1",
+                    "name": "Station A - Block 12A - A1",
+                    "localname": "Station A - Block 12A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -580,7 +616,7 @@
                 ]
               },
               {
-                "id": "bc774e2b-2522-4290-8439-c009ffbc78df",
+                "id": "60b0819b-cc7c-4284-954b-15682e5b1df2",
                 "boundaryNum": 1,
                 "name": "Block 12B",
                 "localname": "Block 12B",
@@ -590,21 +626,21 @@
                 "code": "B12B",
                 "children": [
                   {
-                    "id": "174e9457-2088-4b44-a0bc-e5446ecbde3a",
+                    "id": "b7c53caf-71da-4d93-bdef-d3a07dc5b94e",
                     "boundaryNum": 1,
-                    "name": "Station B - B12B - A2",
-                    "localname": "Station B - B12B - A2",
+                    "name": "Station B - Block 12B - A1",
+                    "localname": "Station B - Block 12B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_24",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "42297155-7548-4cd9-b389-c0ecc99ac0cc",
+                "id": "2ad0c56b-e520-4a31-ad86-90a66a34d463",
                 "boundaryNum": 1,
                 "name": "Block 13A",
                 "localname": "Block 13A",
@@ -614,10 +650,10 @@
                 "code": "B13A",
                 "children": [
                   {
-                    "id": "b7a9507b-ec60-4b5d-b66e-96ef59fb68a6",
+                    "id": "b247f9eb-0e12-403d-b7db-fe7677febcb0",
                     "boundaryNum": 1,
-                    "name": "Prempura A - B13A - A1",
-                    "localname": "Prempura A - B13A - A1",
+                    "name": "Prempura A - Block 13A - A1",
+                    "localname": "Prempura A - Block 13A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -628,7 +664,7 @@
                 ]
               },
               {
-                "id": "d1dd4cce-12d5-495e-9628-c123d4d02705",
+                "id": "1bfda075-93bb-4b6c-99e7-c61d85be3967",
                 "boundaryNum": 1,
                 "name": "Block 13B",
                 "localname": "Block 13B",
@@ -638,21 +674,21 @@
                 "code": "B13B",
                 "children": [
                   {
-                    "id": "ea78dec8-2421-4840-97dc-58e38152b659",
+                    "id": "372e7752-39d1-4fd6-b965-d705290a9ecb",
                     "boundaryNum": 1,
-                    "name": "Prempura B - B13B - A2",
-                    "localname": "Prempura B - B13B - A2",
+                    "name": "Prempura B - Block 13B - A1",
+                    "localname": "Prempura B - Block 13B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_26",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "d7863c74-a6b1-4eaa-9d75-52dcd3e90707",
+                "id": "c8184788-d75f-4779-8a7f-02af89b824b9",
                 "boundaryNum": 1,
                 "name": "Block 14A",
                 "localname": "Block 14A",
@@ -662,10 +698,10 @@
                 "code": "B14A",
                 "children": [
                   {
-                    "id": "3d6b1f10-2670-4062-a901-ffd9eb73319a",
+                    "id": "4e7ab1de-cf56-4d9f-bc8c-86212539e57b",
                     "boundaryNum": 1,
-                    "name": "Uppla A - B14A - A1",
-                    "localname": "Uppla A - B14A - A1",
+                    "name": "Uppla A - Block 14A - A1",
+                    "localname": "Uppla A - Block 14A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -676,7 +712,7 @@
                 ]
               },
               {
-                "id": "10dd41d1-aa02-4cfe-bc06-02fa68418993",
+                "id": "2c943468-025e-4a75-bbec-44ab8f09331b",
                 "boundaryNum": 1,
                 "name": "Block 14B",
                 "localname": "Block 14B",
@@ -686,21 +722,21 @@
                 "code": "B14B",
                 "children": [
                   {
-                    "id": "7efccbc9-f8e7-496d-ae91-7ecc74e72996",
+                    "id": "da53a466-2893-48ef-8858-8f12044a8d9f",
                     "boundaryNum": 1,
-                    "name": "Uppla B - B14B - A2",
-                    "localname": "Uppla B - B14B - A2",
+                    "name": "Uppla B - Block 14B - A1",
+                    "localname": "Uppla B - Block 14B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_28",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "bd8d8b1b-20b8-4227-bddb-10faf99e2d2c",
+                "id": "974f27bb-64e9-4cf5-a476-d52700e960fa",
                 "boundaryNum": 1,
                 "name": "Block 15A",
                 "localname": "Block 15A",
@@ -710,10 +746,10 @@
                 "code": "B15A",
                 "children": [
                   {
-                    "id": "580b18ab-3dfd-4ee6-8f3c-b46bd50fd320",
+                    "id": "40f32947-4d9b-42e8-9239-d2f76450b0be",
                     "boundaryNum": 1,
-                    "name": "Mandi Road A - B15A - A1",
-                    "localname": "Mandi Road A - B15A - A1",
+                    "name": "Mandi Road A - Block 15A - A1",
+                    "localname": "Mandi Road A - Block 15A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -724,7 +760,7 @@
                 ]
               },
               {
-                "id": "c875ef01-907e-4931-8cc8-1a064f48d522",
+                "id": "3b8ad6b0-b501-45f2-9998-b018371d9867",
                 "boundaryNum": 1,
                 "name": "Block 15B",
                 "localname": "Block 15B",
@@ -734,21 +770,21 @@
                 "code": "B15B",
                 "children": [
                   {
-                    "id": "b685ace9-2a7f-4181-866a-65055a2c5db2",
+                    "id": "3f2f84db-e669-43a6-8981-05bdac4941c9",
                     "boundaryNum": 1,
-                    "name": "Mandi Road B - B15B - A2",
-                    "localname": "Mandi Road B - B15B - A2",
+                    "name": "Mandi Road B - Block 15B - A1",
+                    "localname": "Mandi Road B - Block 15B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_30",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "c1317ec3-3418-41f2-be99-d81ab3716524",
+                "id": "9b843dbf-53e6-42bf-8eec-d8408dde7234",
                 "boundaryNum": 1,
                 "name": "Block 16A",
                 "localname": "Block 16A",
@@ -758,10 +794,10 @@
                 "code": "B16A",
                 "children": [
                   {
-                    "id": "79fb7211-28c2-47cb-bcc7-ecb2d75f7164",
+                    "id": "e6e002e4-6337-4426-9cb2-33c46fbe8543",
                     "boundaryNum": 1,
-                    "name": "Mehrian A - B16A - A1",
-                    "localname": "Mehrian A - B16A - A1",
+                    "name": "Mehrian A - Block 16A - A1",
+                    "localname": "Mehrian A - Block 16A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -772,7 +808,7 @@
                 ]
               },
               {
-                "id": "9b3b0817-ef97-4503-86d1-f665d17660df",
+                "id": "d47f1b05-e6f5-4e3f-acb0-044bbb952562",
                 "boundaryNum": 1,
                 "name": "Block 16B",
                 "localname": "Block 16B",
@@ -782,21 +818,21 @@
                 "code": "B16B",
                 "children": [
                   {
-                    "id": "a9fbe081-84aa-4a2d-b3aa-675db52e3872",
+                    "id": "db06352b-b0a6-4db1-9e16-e15bf4328374",
                     "boundaryNum": 1,
-                    "name": "Mehrian B - B16B - A2",
-                    "localname": "Mehrian B - B16B - A2",
+                    "name": "Mehrian B - Block 16B - A1",
+                    "localname": "Mehrian B - Block 16B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_32",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "7e58c6e8-1782-472f-b59d-0e71689f3f59",
+                "id": "19f2a8ed-1c11-40b3-b5d4-ed8fe1870a6c",
                 "boundaryNum": 1,
                 "name": "Block 17A",
                 "localname": "Block 17A",
@@ -806,10 +842,10 @@
                 "code": "B17A",
                 "children": [
                   {
-                    "id": "0bdd0533-5055-44c0-bf05-7f810964226b",
+                    "id": "0a4a075d-6277-4373-8fbf-feee552e628f",
                     "boundaryNum": 1,
-                    "name": "Naiya A - B17A - A1",
-                    "localname": "Naiya A - B17A - A1",
+                    "name": "Naiya A - Block 17A - A1",
+                    "localname": "Naiya A - Block 17A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -820,7 +856,7 @@
                 ]
               },
               {
-                "id": "32ee075d-1914-4e1e-8e3d-db633d949009",
+                "id": "94f1cba8-f26f-49d1-90e7-1cc70f1baf2c",
                 "boundaryNum": 1,
                 "name": "Block 17B",
                 "localname": "Block 17B",
@@ -830,21 +866,21 @@
                 "code": "B17B",
                 "children": [
                   {
-                    "id": "c9622e96-df6b-4242-b6e4-a37fac52a092",
+                    "id": "9af77b05-561e-4017-b51e-40ecac6f8ee1",
                     "boundaryNum": 1,
-                    "name": "Naiya B - B17B - A2",
-                    "localname": "Naiya B - B17B - A2",
+                    "name": "Naiya B - Block 17B - A1",
+                    "localname": "Naiya B - Block 17B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_34",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "226ad12f-b397-4913-a839-3a33fed4459e",
+                "id": "d49a682c-ce14-422c-8b8e-12181770ace8",
                 "boundaryNum": 1,
                 "name": "Block 18A",
                 "localname": "Block 18A",
@@ -854,10 +890,10 @@
                 "code": "B18A",
                 "children": [
                   {
-                    "id": "5bd46942-d3cc-4f08-a87f-715a5c288e0d",
+                    "id": "1481fccc-08d3-4794-8a58-46d668887f7f",
                     "boundaryNum": 1,
-                    "name": "Darzia A - B18A - A1",
-                    "localname": "Darzia A - B18A - A1",
+                    "name": "Darzia A - Block 18A - A1",
+                    "localname": "Darzia A - Block 18A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -868,7 +904,7 @@
                 ]
               },
               {
-                "id": "2468d38f-5d3a-4e5b-9135-384e04fd32f9",
+                "id": "d22c1f33-3778-4a60-9801-5f7fa599f2ac",
                 "boundaryNum": 1,
                 "name": "Block 18B",
                 "localname": "Block 18B",
@@ -878,21 +914,21 @@
                 "code": "B18B",
                 "children": [
                   {
-                    "id": "a63d0e82-f6f3-49f3-bc1f-fb34d9e6fb57",
+                    "id": "a21bce84-3164-498d-aef2-feebc8de993f",
                     "boundaryNum": 1,
-                    "name": "Darzia B - B18B - A2",
-                    "localname": "Darzia B - B18B - A2",
+                    "name": "Darzia B - Block 18B - A1",
+                    "localname": "Darzia B - Block 18B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_36",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a6902ebb-dbdd-4b39-8c98-d2cde18fa4d6",
+                "id": "b7033caf-7eed-497d-84dd-b1b8c33cef96",
                 "boundaryNum": 1,
                 "name": "Block 19A",
                 "localname": "Block 19A",
@@ -902,10 +938,10 @@
                 "code": "B19A",
                 "children": [
                   {
-                    "id": "271b5146-a7b6-48f8-aeb7-27c38cfb296e",
+                    "id": "31311470-a6de-4db9-86e0-309f2d761e96",
                     "boundaryNum": 1,
-                    "name": "Purian A - B19A - A1",
-                    "localname": "Purian A - B19A - A1",
+                    "name": "Purian A - Block 19A - A1",
+                    "localname": "Purian A - Block 19A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -916,7 +952,7 @@
                 ]
               },
               {
-                "id": "1eed5e09-f16d-4b7e-ba30-3b74e5dca551",
+                "id": "bcaf9137-582b-448b-b519-f4ef13673061",
                 "boundaryNum": 1,
                 "name": "Block 19B",
                 "localname": "Block 19B",
@@ -926,21 +962,21 @@
                 "code": "B19B",
                 "children": [
                   {
-                    "id": "187c8db5-9f7c-4bcc-9e62-0bdbbcb5eb2a",
+                    "id": "0c07e781-723c-499a-9f9d-6de5b894225a",
                     "boundaryNum": 1,
-                    "name": "Purian B - B19B - A2",
-                    "localname": "Purian B - B19B - A2",
+                    "name": "Purian B - Block 19B - A1",
+                    "localname": "Purian B - Block 19B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_38",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "e55f74d5-2a70-449f-b2f6-3def0bc804ee",
+                "id": "9a6f8df4-6212-4145-b6ce-fa22ed11680b",
                 "boundaryNum": 1,
                 "name": "Block 20A",
                 "localname": "Block 20A",
@@ -950,10 +986,10 @@
                 "code": "B20A",
                 "children": [
                   {
-                    "id": "46edc1ca-c656-47d3-9b10-cc37575c5158",
+                    "id": "67003e68-92fd-42f4-99fb-29cfc8392666",
                     "boundaryNum": 1,
-                    "name": "Khinderian A - B20A - A1",
-                    "localname": "Khinderian A - B20A - A1",
+                    "name": "Khinderian A - Block 20A - A1",
+                    "localname": "Khinderian A - Block 20A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -964,7 +1000,7 @@
                 ]
               },
               {
-                "id": "96e2cbdc-57a0-43ac-9ece-849c317f3dae",
+                "id": "1f88072b-584f-4586-a492-9d99bb43ece8",
                 "boundaryNum": 1,
                 "name": "Block 20B",
                 "localname": "Block 20B",
@@ -974,21 +1010,21 @@
                 "code": "B20B",
                 "children": [
                   {
-                    "id": "7e47a7f7-893d-4330-8f32-5666b77a3049",
+                    "id": "4a06e06e-1254-4382-aa86-8bc19cbe5897",
                     "boundaryNum": 1,
-                    "name": "Khinderian B - B20B - A2",
-                    "localname": "Khinderian B - B20B - A2",
+                    "name": "Khinderian B - Block 20B - A1",
+                    "localname": "Khinderian B - Block 20B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_40",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "04131fd8-66de-4324-b3f0-3fd745c11451",
+                "id": "06cb93b8-d684-4bd0-92d8-d50388d86593",
                 "boundaryNum": 1,
                 "name": "Block 21A",
                 "localname": "Block 21A",
@@ -998,10 +1034,10 @@
                 "code": "B21A",
                 "children": [
                   {
-                    "id": "88b75af2-af41-4660-8b95-cfc9f32038db",
+                    "id": "6ab15608-f98f-4ed2-b638-cb6347de9e7c",
                     "boundaryNum": 1,
-                    "name": "Sudan A - B21A - A1",
-                    "localname": "Sudan A - B21A - A1",
+                    "name": "Sudan A - Block 21A - A1",
+                    "localname": "Sudan A - Block 21A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1012,7 +1048,7 @@
                 ]
               },
               {
-                "id": "7e07b5ec-3c28-4617-9847-e73a454ae0c0",
+                "id": "286edc60-b83e-438b-9dcf-85eb37c3c2af",
                 "boundaryNum": 1,
                 "name": "Block 21B",
                 "localname": "Block 21B",
@@ -1022,21 +1058,21 @@
                 "code": "B21B",
                 "children": [
                   {
-                    "id": "9222b717-988d-4969-beae-7ef1fd418d93",
+                    "id": "ec3f58c3-c96a-4fb2-b33a-63ac4b5006cf",
                     "boundaryNum": 1,
-                    "name": "Sudan B - B21B - A2",
-                    "localname": "Sudan B - B21B - A2",
+                    "name": "Sudan B - Block 21B - A1",
+                    "localname": "Sudan B - Block 21B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_42",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "82141b1b-82fc-4589-a6ba-3e5b1027f510",
+                "id": "7994f9e8-d6a2-41c0-9897-732d2b1a1142",
                 "boundaryNum": 1,
                 "name": "Block 22A",
                 "localname": "Block 22A",
@@ -1046,10 +1082,10 @@
                 "code": "B22A",
                 "children": [
                   {
-                    "id": "04cd74af-5b93-4c70-890c-3de0505fffac",
+                    "id": "825a5c7a-63bb-40c2-b38d-dac018279c61",
                     "boundaryNum": 1,
-                    "name": "Bhara Mall Road A - B22A - A1",
-                    "localname": "Bhara Mall Road A - B22A - A1",
+                    "name": "Bhara Mall Road A - Block 22A - A1",
+                    "localname": "Bhara Mall Road A - Block 22A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1060,7 +1096,7 @@
                 ]
               },
               {
-                "id": "7fd6d498-d76b-413b-adb1-7192b42748f8",
+                "id": "8511443d-0c60-4c19-90eb-add99e113554",
                 "boundaryNum": 1,
                 "name": "Block 22B",
                 "localname": "Block 22B",
@@ -1070,21 +1106,21 @@
                 "code": "B22B",
                 "children": [
                   {
-                    "id": "614b7d23-2a6f-49c7-8a5d-d4d9c3ada905",
+                    "id": "d6c366b8-6fb2-416a-bd3c-a76a89ce7125",
                     "boundaryNum": 1,
-                    "name": "Bhara Mall Road B - B22B - A2",
-                    "localname": "Bhara Mall Road B - B22B - A2",
+                    "name": "Bhara Mall Road B - Block 22B - A1",
+                    "localname": "Bhara Mall Road B - Block 22B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_44",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "b46f1b72-c286-47c1-a1fa-dc0418db6621",
+                "id": "fa9a338d-1b34-4c1d-adf5-c25489423a3d",
                 "boundaryNum": 1,
                 "name": "Block 23A",
                 "localname": "Block 23A",
@@ -1094,10 +1130,10 @@
                 "code": "B23A",
                 "children": [
                   {
-                    "id": "c171aff4-07e0-4198-aa3a-1cbc95f8c38e",
+                    "id": "db0889af-73ee-42e1-aad8-1b5b2b0ed749",
                     "boundaryNum": 1,
-                    "name": "Wadda Vehra A - B23A - A1",
-                    "localname": "Wadda Vehra A - B23A - A1",
+                    "name": "Wadda Vehra A - Block 23A - A1",
+                    "localname": "Wadda Vehra A - Block 23A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1108,7 +1144,7 @@
                 ]
               },
               {
-                "id": "a1ce842d-028a-4c9d-a95f-12c240269923",
+                "id": "fdf8c39e-e57f-454e-8c1e-b5040023c03e",
                 "boundaryNum": 1,
                 "name": "Block 23B",
                 "localname": "Block 23B",
@@ -1118,21 +1154,21 @@
                 "code": "B23B",
                 "children": [
                   {
-                    "id": "6d3efb98-814e-44e5-b4fe-78f4d42b9a4a",
+                    "id": "49959b7a-c181-466b-803e-c9b8fd6b4f90",
                     "boundaryNum": 1,
-                    "name": "Wadda Vehra B - B23B - A2",
-                    "localname": "Wadda Vehra B - B23B - A2",
+                    "name": "Wadda Vehra B - Block 23B - A1",
+                    "localname": "Wadda Vehra B - Block 23B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_46",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "d0950be2-ef87-4704-b0d5-0d0793fdae31",
+                "id": "262c8737-f77e-451f-88a6-02e89f7f6f40",
                 "boundaryNum": 1,
                 "name": "Block 24A",
                 "localname": "Block 24A",
@@ -1142,10 +1178,10 @@
                 "code": "B24A",
                 "children": [
                   {
-                    "id": "1c7fccf8-f468-47a0-bd69-c1e557b8e83c",
+                    "id": "bc02b806-56de-4317-ac92-a5a03b674fe2",
                     "boundaryNum": 1,
-                    "name": "Bhandariya A - B24A - A1",
-                    "localname": "Bhandariya A - B24A - A1",
+                    "name": "Bhandariya A - Block 24A - A1",
+                    "localname": "Bhandariya A - Block 24A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1156,7 +1192,7 @@
                 ]
               },
               {
-                "id": "5e80e4c1-a94f-4d65-a834-c0ec979bf108",
+                "id": "a16566e4-4a2f-46f4-9f85-0c46b26eb7a7",
                 "boundaryNum": 1,
                 "name": "Block 24B",
                 "localname": "Block 24B",
@@ -1166,21 +1202,21 @@
                 "code": "B24B",
                 "children": [
                   {
-                    "id": "718c4a68-31a1-4ad9-ae49-a54d6c4f8acc",
+                    "id": "bde3a35b-1345-47f9-901c-136dfd37e86d",
                     "boundaryNum": 1,
-                    "name": "Bhandariya B - B24B - A2",
-                    "localname": "Bhandariya B - B24B - A2",
+                    "name": "Bhandariya B - Block 24B - A1",
+                    "localname": "Bhandariya B - Block 24B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_48",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9c8c9d71-07d4-454b-9361-901feb798170",
+                "id": "8ed0c9d4-b375-45c9-8f61-6808da7272ce",
                 "boundaryNum": 1,
                 "name": "Block 25A",
                 "localname": "Block 25A",
@@ -1190,10 +1226,10 @@
                 "code": "B25A",
                 "children": [
                   {
-                    "id": "afe0ec61-4bf7-4b5e-9db1-2f2f5ba27538",
+                    "id": "b000a04e-db5e-459a-9515-0271a3bd5174",
                     "boundaryNum": 1,
-                    "name": "Sikhan A - B25A - A1",
-                    "localname": "Sikhan A - B25A - A1",
+                    "name": "Sikhan A - Block 25A - A1",
+                    "localname": "Sikhan A - Block 25A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1204,7 +1240,7 @@
                 ]
               },
               {
-                "id": "e71ab238-965e-41d9-95a9-eed7855e2161",
+                "id": "67bdcb31-0fc3-4540-8cbc-c981e7c8a7b5",
                 "boundaryNum": 1,
                 "name": "Block 25B",
                 "localname": "Block 25B",
@@ -1214,21 +1250,21 @@
                 "code": "B25B",
                 "children": [
                   {
-                    "id": "b7c66603-3167-4789-81fd-d8573ffd887a",
+                    "id": "2102fe7a-023a-43dc-8f6f-7341498ee89d",
                     "boundaryNum": 1,
-                    "name": "Sikhan B - B25B - A2",
-                    "localname": "Sikhan B - B25B - A2",
+                    "name": "Sikhan B - Block 25B - A1",
+                    "localname": "Sikhan B - Block 25B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_50",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "08eab9b3-891d-4a2e-926d-d2045149a7f0",
+                "id": "79c20d3e-de06-41b4-9fb4-2ac4c91363c6",
                 "boundaryNum": 1,
                 "name": "Block 26A",
                 "localname": "Block 26A",
@@ -1238,10 +1274,10 @@
                 "code": "B26A",
                 "children": [
                   {
-                    "id": "1499f705-79be-4c89-a415-4a0587e11f62",
+                    "id": "7bf2f708-ba9d-4cb2-8f24-e15a88d9aab3",
                     "boundaryNum": 1,
-                    "name": "Sath Rangra A - B26A - A1",
-                    "localname": "Sath Rangra A - B26A - A1",
+                    "name": "Sath Rangra A - Block 26A - A1",
+                    "localname": "Sath Rangra A - Block 26A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1252,7 +1288,7 @@
                 ]
               },
               {
-                "id": "3f24a3b8-d862-42db-8fa4-fdc392b15644",
+                "id": "a0d9dec8-dd25-4217-bf3d-17b0aab08b75",
                 "boundaryNum": 1,
                 "name": "Block 26B",
                 "localname": "Block 26B",
@@ -1262,21 +1298,21 @@
                 "code": "B26B",
                 "children": [
                   {
-                    "id": "7388066f-43fd-4cbf-8d67-0c8d7b0b2eb1",
+                    "id": "47245a61-8dab-4d90-a7d9-91ef1e4cba2d",
                     "boundaryNum": 1,
-                    "name": "Sath Rangra B - B26B - A2",
-                    "localname": "Sath Rangra B - B26B - A2",
+                    "name": "Sath Rangra B - Block 26B - A1",
+                    "localname": "Sath Rangra B - Block 26B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_52",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "0e9d1c51-8df2-40bc-98ec-d57ffc42c0ae",
+                "id": "0ef9195e-05a9-4c61-8d28-2ca7df379af4",
                 "boundaryNum": 1,
                 "name": "Block 27A",
                 "localname": "Block 27A",
@@ -1286,10 +1322,10 @@
                 "code": "B27A",
                 "children": [
                   {
-                    "id": "dd2bfda7-811a-43a4-aed3-01b4ae056c24",
+                    "id": "a23df768-fbc9-441d-82d1-d7a2d93ea28e",
                     "boundaryNum": 1,
-                    "name": "Lalarria A - B27A - A1",
-                    "localname": "Lalarria A - B27A - A1",
+                    "name": "Lalarria A - Block 27A - A1",
+                    "localname": "Lalarria A - Block 27A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1300,7 +1336,7 @@
                 ]
               },
               {
-                "id": "b7bb671b-ce20-4d51-9dc3-a400fade10b3",
+                "id": "abfd6124-fcab-4ad8-b4a7-cffb46e057d0",
                 "boundaryNum": 1,
                 "name": "Block 27B",
                 "localname": "Block 27B",
@@ -1310,21 +1346,21 @@
                 "code": "B27B",
                 "children": [
                   {
-                    "id": "25fdd51d-ce20-4c76-adb7-571f3b8d0d71",
+                    "id": "6327e309-2bf4-4938-899d-5274b90dab05",
                     "boundaryNum": 1,
-                    "name": "Lalarria B - B27B - A2",
-                    "localname": "Lalarria B - B27B - A2",
+                    "name": "Lalarria B - Block 27B - A1",
+                    "localname": "Lalarria B - Block 27B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_54",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "60ae517b-88b2-4c95-a052-07a21ddc27c0",
+                "id": "f8652e60-9e3e-40c0-a220-84c83a9de94b",
                 "boundaryNum": 1,
                 "name": "Block 28A",
                 "localname": "Block 28A",
@@ -1334,10 +1370,10 @@
                 "code": "B28A",
                 "children": [
                   {
-                    "id": "c32ff263-26e2-4923-8876-7535f9cd61ff",
+                    "id": "baf71644-cf2f-4f2f-a0d7-881107d6751a",
                     "boundaryNum": 1,
-                    "name": "Karad Garah A - B28A - A1",
-                    "localname": "Karad Garah A - B28A - A1",
+                    "name": "Karad Garah A - Block 28A - A1",
+                    "localname": "Karad Garah A - Block 28A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1348,7 +1384,7 @@
                 ]
               },
               {
-                "id": "3f61409d-c07c-414e-ae7d-a4455e1c6eaa",
+                "id": "5617d8a9-fc2d-4581-932b-7026d8f9e723",
                 "boundaryNum": 1,
                 "name": "Block 28B",
                 "localname": "Block 28B",
@@ -1358,21 +1394,21 @@
                 "code": "B28B",
                 "children": [
                   {
-                    "id": "2e379bd1-04e4-4356-b6ab-fb5eb7f58178",
+                    "id": "130d0da2-8e62-4d98-aa13-9c5c42dbc2cc",
                     "boundaryNum": 1,
-                    "name": "Karad Garah B - B28B - A2",
-                    "localname": "Karad Garah B - B28B - A2",
+                    "name": "Karad Garah B - Block 28B - A1",
+                    "localname": "Karad Garah B - Block 28B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_56",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "fc7db893-7b10-4028-8f0f-2b9e830126ba",
+                "id": "0efb0369-6860-4810-b08c-28ad3cdde3c4",
                 "boundaryNum": 1,
                 "name": "Block 29A",
                 "localname": "Block 29A",
@@ -1382,10 +1418,10 @@
                 "code": "B29A",
                 "children": [
                   {
-                    "id": "80f8436d-84ef-4d89-87ac-4122072294c2",
+                    "id": "e6170e36-8003-47ea-a500-0bbcd253b70e",
                     "boundaryNum": 1,
-                    "name": "Shah Sultan A - B29A - A1",
-                    "localname": "Shah Sultan A - B29A - A1",
+                    "name": "Shah Sultan A - Block 29A - A1",
+                    "localname": "Shah Sultan A - Block 29A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1396,7 +1432,7 @@
                 ]
               },
               {
-                "id": "32633829-d64c-44b7-8aba-6ed40baadf55",
+                "id": "b11a836d-418d-4582-8467-f62c4f9dfc76",
                 "boundaryNum": 1,
                 "name": "Block 29B",
                 "localname": "Block 29B",
@@ -1406,21 +1442,21 @@
                 "code": "B29B",
                 "children": [
                   {
-                    "id": "bf476fe9-6170-4cdf-b017-ce2b85584116",
+                    "id": "7d998edb-3a22-4f48-bcad-6f86b0379169",
                     "boundaryNum": 1,
-                    "name": "Shah Sultan B - B29B - A2",
-                    "localname": "Shah Sultan B - B29B - A2",
+                    "name": "Shah Sultan B - Block 29B - A1",
+                    "localname": "Shah Sultan B - Block 29B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_58",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "ee5eb760-87f1-4eaf-b049-f2fe4a63320b",
+                "id": "548cca49-cf90-4da2-9f02-1e141a9f5198",
                 "boundaryNum": 1,
                 "name": "Block 30A",
                 "localname": "Block 30A",
@@ -1430,10 +1466,10 @@
                 "code": "B30A",
                 "children": [
                   {
-                    "id": "07c2d002-4475-457e-a740-552af2e8b273",
+                    "id": "ce1697e1-612c-4ae4-a3a5-762ebbcf9276",
                     "boundaryNum": 1,
-                    "name": "Nasir Puria A - B30A - A1",
-                    "localname": "Nasir Puria A - B30A - A1",
+                    "name": "Nasir Puria A - Block 30A - A1",
+                    "localname": "Nasir Puria A - Block 30A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1444,7 +1480,7 @@
                 ]
               },
               {
-                "id": "a0003161-5ad9-42fb-a4dc-67bd54478623",
+                "id": "bb237a2f-678a-44f0-bd1c-8236f4bd94c3",
                 "boundaryNum": 1,
                 "name": "Block 30B",
                 "localname": "Block 30B",
@@ -1454,21 +1490,21 @@
                 "code": "B30B",
                 "children": [
                   {
-                    "id": "c0dae098-767d-4524-abc2-10e458befeff",
+                    "id": "b166e338-c70c-49ff-a648-690e3943bf5c",
                     "boundaryNum": 1,
-                    "name": "Nasir Puria B - B30B - A2",
-                    "localname": "Nasir Puria B - B30B - A2",
+                    "name": "Nasir Puria B - Block 30B - A1",
+                    "localname": "Nasir Puria B - Block 30B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_60",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "8824b7dc-d348-4840-9719-3c6255547334",
+                "id": "87a7ceae-beb0-489d-93d2-19a899fc166d",
                 "boundaryNum": 1,
                 "name": "Block 31A",
                 "localname": "Block 31A",
@@ -1478,10 +1514,10 @@
                 "code": "B31A",
                 "children": [
                   {
-                    "id": "4f931b58-b85a-466e-9941-00b96ef0c36b",
+                    "id": "31d676f7-78d7-4cda-b4a5-fe21031b0b76",
                     "boundaryNum": 1,
-                    "name": "Taxalia A - B31A - A1",
-                    "localname": "Taxalia A - B31A - A1",
+                    "name": "Taxalia A - Block 31A - A1",
+                    "localname": "Taxalia A - Block 31A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1492,7 +1528,7 @@
                 ]
               },
               {
-                "id": "004824a8-f928-42e2-b057-4888d8118fec",
+                "id": "40955db2-630f-4d05-851c-369fb2f678f1",
                 "boundaryNum": 1,
                 "name": "Block 31B",
                 "localname": "Block 31B",
@@ -1502,21 +1538,21 @@
                 "code": "B31B",
                 "children": [
                   {
-                    "id": "73f5e001-6b54-42cb-a0ad-546d95b0128a",
+                    "id": "92d5ff81-26b7-45a3-9627-c3a192177481",
                     "boundaryNum": 1,
-                    "name": "Taxalia B - B31B - A2",
-                    "localname": "Taxalia B - B31B - A2",
+                    "name": "Taxalia B - Block 31B - A1",
+                    "localname": "Taxalia B - Block 31B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_62",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "b6e35b61-c228-469d-bd27-3ab512803ba0",
+                "id": "bf4c2043-9049-4c85-a26e-74f582dbf8d8",
                 "boundaryNum": 1,
                 "name": "Block 32A",
                 "localname": "Block 32A",
@@ -1526,10 +1562,10 @@
                 "code": "B32A",
                 "children": [
                   {
-                    "id": "3df42e43-442a-4d46-aa00-6e0e5c2ca070",
+                    "id": "46c4c683-4684-4008-bd5d-10562bd351ac",
                     "boundaryNum": 1,
-                    "name": "Deewana A - B32A - A1",
-                    "localname": "Deewana A - B32A - A1",
+                    "name": "Deewana A - Block 32A - A1",
+                    "localname": "Deewana A - Block 32A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1540,7 +1576,7 @@
                 ]
               },
               {
-                "id": "ce41992b-1579-43e6-96d4-878f389780dc",
+                "id": "87d8bc4a-f9b5-492a-85d2-5fdc1b389c64",
                 "boundaryNum": 1,
                 "name": "Block 32B",
                 "localname": "Block 32B",
@@ -1550,21 +1586,21 @@
                 "code": "B32B",
                 "children": [
                   {
-                    "id": "808583dd-fbd7-467d-82d0-2e7351cd54d6",
+                    "id": "492c8fb9-59c0-4e0d-913d-e992fdd7bcf7",
                     "boundaryNum": 1,
-                    "name": "Deewana B - B32B - A2",
-                    "localname": "Deewana B - B32B - A2",
+                    "name": "Deewana B - Block 32B - A1",
+                    "localname": "Deewana B - Block 32B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_64",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "3c954bf9-3184-444d-80ae-32f3f53e1a22",
+                "id": "52808ad0-5084-44cd-bace-ef68355f648d",
                 "boundaryNum": 1,
                 "name": "Block 33A",
                 "localname": "Block 33A",
@@ -1574,10 +1610,10 @@
                 "code": "B33A",
                 "children": [
                   {
-                    "id": "388f4137-ae6b-4e15-830d-4342c766150e",
+                    "id": "f4a3364a-7ba2-4ec2-9047-87ee887a81af",
                     "boundaryNum": 1,
-                    "name": "Sadar Bazar A - B33A - A1",
-                    "localname": "Sadar Bazar A - B33A - A1",
+                    "name": "Sadar Bazar A - Block 33A - A1",
+                    "localname": "Sadar Bazar A - Block 33A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1588,7 +1624,7 @@
                 ]
               },
               {
-                "id": "553594c0-8ec1-4431-b714-24ebed32d88b",
+                "id": "32a7f1f7-4d46-4fbf-904f-67a0bd918325",
                 "boundaryNum": 1,
                 "name": "Block 33B",
                 "localname": "Block 33B",
@@ -1598,21 +1634,21 @@
                 "code": "B33B",
                 "children": [
                   {
-                    "id": "0f36f85f-694b-44fa-af3e-258851c1e384",
+                    "id": "98dce0b4-ac48-4989-bbd1-088ce820b5fc",
                     "boundaryNum": 1,
-                    "name": "Sadar Bazar B - B33B - A2",
-                    "localname": "Sadar Bazar B - B33B - A2",
+                    "name": "Sadar Bazar B - Block 33B - A1",
+                    "localname": "Sadar Bazar B - Block 33B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_66",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a9a4bebb-6219-4e43-a6c2-be8b477524a7",
+                "id": "f3c96bfe-68cc-4e24-8a4f-86d9ed4d2541",
                 "boundaryNum": 1,
                 "name": "Block 34A",
                 "localname": "Block 34A",
@@ -1622,10 +1658,10 @@
                 "code": "B34A",
                 "children": [
                   {
-                    "id": "5d95ae00-859a-4cba-9ede-173f498005e8",
+                    "id": "9bf690f7-b836-4f02-926b-97b3e0911928",
                     "boundaryNum": 1,
-                    "name": "Katra Bazar A - B34A - A1",
-                    "localname": "Katra Bazar A - B34A - A1",
+                    "name": "Katra Bazar A - Block 34A - A1",
+                    "localname": "Katra Bazar A - Block 34A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1636,7 +1672,7 @@
                 ]
               },
               {
-                "id": "9d7dcc15-5bd5-404c-9277-de6a39accb4c",
+                "id": "81b15033-e4bb-4765-9c81-f360ff81628c",
                 "boundaryNum": 1,
                 "name": "Block 34B",
                 "localname": "Block 34B",
@@ -1646,21 +1682,21 @@
                 "code": "B34B",
                 "children": [
                   {
-                    "id": "dd2a8379-8be5-41ba-88ec-17475f622821",
+                    "id": "88ce9ad3-744d-4f4f-b0d5-4b13089debad",
                     "boundaryNum": 1,
-                    "name": "Katra Bazar B - B34B - A2",
-                    "localname": "Katra Bazar B - B34B - A2",
+                    "name": "Katra Bazar B - Block 34B - A1",
+                    "localname": "Katra Bazar B - Block 34B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_68",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "e5d2069d-9238-4c8b-a37f-d8bd385cfb47",
+                "id": "d3a22cfe-dc3b-474b-9454-aa2b7f60f49f",
                 "boundaryNum": 1,
                 "name": "Block 35A",
                 "localname": "Block 35A",
@@ -1670,10 +1706,10 @@
                 "code": "B35A",
                 "children": [
                   {
-                    "id": "ff3b67ca-7de2-4f58-acdb-cf1bc1fb6aef",
+                    "id": "9f8b3fb3-4d0a-4bbc-81ff-daa4a5b3058a",
                     "boundaryNum": 1,
-                    "name": "Pakhiwala A - B35A - A1",
-                    "localname": "Pakhiwala A - B35A - A1",
+                    "name": "Pakhiwala A - Block 35A - A1",
+                    "localname": "Pakhiwala A - Block 35A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1684,7 +1720,7 @@
                 ]
               },
               {
-                "id": "31b6675e-a4eb-44b5-b82c-76b5fc7f3649",
+                "id": "ee41263b-8d81-451d-87aa-d55d39de9160",
                 "boundaryNum": 1,
                 "name": "Block 35B",
                 "localname": "Block 35B",
@@ -1694,21 +1730,21 @@
                 "code": "B35B",
                 "children": [
                   {
-                    "id": "a6d66cca-07ae-408b-891d-685a8f6f5233",
+                    "id": "ea1a0f5b-8e7d-48c7-b7b9-2f108be5d893",
                     "boundaryNum": 1,
-                    "name": "Pakhiwala B - B35B - A2",
-                    "localname": "Pakhiwala B - B35B - A2",
+                    "name": "Pakhiwala B - Block 35B - A1",
+                    "localname": "Pakhiwala B - Block 35B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_70",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "28bf6b4c-8c6a-4cac-9517-fefd3805590d",
+                "id": "29ed389d-eb15-43b4-af3e-96480e33483e",
                 "boundaryNum": 1,
                 "name": "Block 36A",
                 "localname": "Block 36A",
@@ -1718,10 +1754,10 @@
                 "code": "B36A",
                 "children": [
                   {
-                    "id": "11594721-136e-4363-bce0-c39e3512e97f",
+                    "id": "67a58754-0d3c-4e9e-b0d7-fd0b2729558e",
                     "boundaryNum": 1,
-                    "name": "Saidan A - B36A - A1",
-                    "localname": "Saidan A - B36A - A1",
+                    "name": "Saidan A - Block 36A - A1",
+                    "localname": "Saidan A - Block 36A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1732,7 +1768,7 @@
                 ]
               },
               {
-                "id": "ec55fb94-7ab1-4400-9c9e-89070d64d277",
+                "id": "d0c664d7-b2b3-4954-aa8f-e837291694ea",
                 "boundaryNum": 1,
                 "name": "Block 36B",
                 "localname": "Block 36B",
@@ -1742,21 +1778,21 @@
                 "code": "B36B",
                 "children": [
                   {
-                    "id": "376d836c-c026-4191-be16-064b4464d964",
+                    "id": "4793c17b-fd7b-4eb4-86ad-8644ada88f28",
                     "boundaryNum": 1,
-                    "name": "Saidan B - B36B - A2",
-                    "localname": "Saidan B - B36B - A2",
+                    "name": "Saidan B - Block 36B - A1",
+                    "localname": "Saidan B - Block 36B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_72",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9c2671da-a805-4b9c-b9a8-38276b8fe628",
+                "id": "490a03ab-9d6a-4c18-8829-0e113f20b747",
                 "boundaryNum": 1,
                 "name": "Block 37A",
                 "localname": "Block 37A",
@@ -1766,10 +1802,10 @@
                 "code": "B37A",
                 "children": [
                   {
-                    "id": "f37478b0-edc4-4df4-aa18-1342610b581b",
+                    "id": "f697f73e-4796-4502-9503-71df97f5effe",
                     "boundaryNum": 1,
-                    "name": "Kazibagh A - B37A - A1",
-                    "localname": "Kazibagh A - B37A - A1",
+                    "name": "Kazibagh A - Block 37A - A1",
+                    "localname": "Kazibagh A - Block 37A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1780,7 +1816,7 @@
                 ]
               },
               {
-                "id": "76fa6784-bdd4-4264-89e0-eb6e2b665cb1",
+                "id": "0549b526-f423-4d58-be25-254786204896",
                 "boundaryNum": 1,
                 "name": "Block 37B",
                 "localname": "Block 37B",
@@ -1790,21 +1826,21 @@
                 "code": "B37B",
                 "children": [
                   {
-                    "id": "901af65a-26ad-4e46-8f08-055c0eeb5e58",
+                    "id": "f9868cad-3580-42d0-9ec6-fe4a7d2f0f15",
                     "boundaryNum": 1,
-                    "name": "Kazibagh B - B37B - A2",
-                    "localname": "Kazibagh B - B37B - A2",
+                    "name": "Kazibagh B - Block 37B - A1",
+                    "localname": "Kazibagh B - Block 37B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_74",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "7cd33282-d0cd-41f0-9d7c-7c0fde561904",
+                "id": "a9717811-fe3a-4513-8cfe-d99f589b2380",
                 "boundaryNum": 1,
                 "name": "Block 38A",
                 "localname": "Block 38A",
@@ -1814,10 +1850,10 @@
                 "code": "B38A",
                 "children": [
                   {
-                    "id": "725651b1-27af-48ee-9bf1-05a40c7c3849",
+                    "id": "855458a8-c16e-416a-a789-c10da3c126ef",
                     "boundaryNum": 1,
-                    "name": "Arora Rasta A - B38A - A1",
-                    "localname": "Arora Rasta A - B38A - A1",
+                    "name": "Arora Rasta A - Block 38A - A1",
+                    "localname": "Arora Rasta A - Block 38A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1828,7 +1864,7 @@
                 ]
               },
               {
-                "id": "86d4cad2-c812-4683-954c-dff28913a4cc",
+                "id": "5f929649-bd01-4cc0-9766-e561f023f01b",
                 "boundaryNum": 1,
                 "name": "Block 38B",
                 "localname": "Block 38B",
@@ -1838,21 +1874,21 @@
                 "code": "B38B",
                 "children": [
                   {
-                    "id": "e8507ea6-02d4-460b-8c8a-6d3f52326271",
+                    "id": "ba4d9870-613b-4116-b606-567972ef1c3c",
                     "boundaryNum": 1,
-                    "name": "Arora Rasta B - B38B - A2",
-                    "localname": "Arora Rasta B - B38B - A2",
+                    "name": "Arora Rasta B - Block 38B - A1",
+                    "localname": "Arora Rasta B - Block 38B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_76",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "ec7a3686-430b-4545-b906-a5a50902e459",
+                "id": "ccd1e18b-3b2d-4e84-a1c9-51fedc3b8ed4",
                 "boundaryNum": 1,
                 "name": "Block 39A",
                 "localname": "Block 39A",
@@ -1862,10 +1898,10 @@
                 "code": "B39A",
                 "children": [
                   {
-                    "id": "6f63fd49-b05c-491d-9478-bbe612e61c2e",
+                    "id": "ac12101b-7c3b-48f0-af03-03720edeafb6",
                     "boundaryNum": 1,
-                    "name": "Pandori A - B39A - A1",
-                    "localname": "Pandori A - B39A - A1",
+                    "name": "Pandori A - Block 39A - A1",
+                    "localname": "Pandori A - Block 39A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1876,7 +1912,7 @@
                 ]
               },
               {
-                "id": "d6454830-a690-4a45-ac61-8ff3bca7e9ee",
+                "id": "d6903290-9562-48a3-a6a4-ee68ab77e6b5",
                 "boundaryNum": 1,
                 "name": "Block 39B",
                 "localname": "Block 39B",
@@ -1886,21 +1922,21 @@
                 "code": "B39B",
                 "children": [
                   {
-                    "id": "522f3a8f-703e-4bfd-a664-754ec5676567",
+                    "id": "43a72e70-1400-4863-8f58-af0c2dede035",
                     "boundaryNum": 1,
-                    "name": "Pandori B - B39B - A2",
-                    "localname": "Pandori B - B39B - A2",
+                    "name": "Pandori B - Block 39B - A1",
+                    "localname": "Pandori B - Block 39B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_78",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "efbae8e5-9e16-45d3-a40c-d4358b9991de",
+                "id": "dabc2ccd-2899-4916-be35-70c72e99834c",
                 "boundaryNum": 1,
                 "name": "Block 40A",
                 "localname": "Block 40A",
@@ -1910,10 +1946,10 @@
                 "code": "B40A",
                 "children": [
                   {
-                    "id": "58d60aba-1f63-4a36-b1b5-6bafe95289f7",
+                    "id": "40b7eae3-97d9-4a05-845c-10e9160d46f1",
                     "boundaryNum": 1,
-                    "name": "Prem Nagar A - B40A - A1",
-                    "localname": "Prem Nagar A - B40A - A1",
+                    "name": "Prem Nagar A - Block 40A - A1",
+                    "localname": "Prem Nagar A - Block 40A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1924,7 +1960,7 @@
                 ]
               },
               {
-                "id": "834c05c6-9063-4b59-bd33-dbb241d9f458",
+                "id": "1a406a93-d5e7-4785-9685-cc543d1bcde0",
                 "boundaryNum": 1,
                 "name": "Block 40B",
                 "localname": "Block 40B",
@@ -1934,21 +1970,21 @@
                 "code": "B40B",
                 "children": [
                   {
-                    "id": "6101dec1-5f76-4639-9fff-6dff2d61405d",
+                    "id": "ec214023-1e19-4ab0-90b7-7ee3e9dd7210",
                     "boundaryNum": 1,
-                    "name": "Prem Nagar B - B40B - A2",
-                    "localname": "Prem Nagar B - B40B - A2",
+                    "name": "Prem Nagar B - Block 40B - A1",
+                    "localname": "Prem Nagar B - Block 40B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_80",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "c0594df8-6aa6-4ef1-b046-3225fe9f114a",
+                "id": "58f157af-d81f-40dc-95b0-ace50e022530",
                 "boundaryNum": 1,
                 "name": "Block 41A",
                 "localname": "Block 41A",
@@ -1958,10 +1994,10 @@
                 "code": "B41A",
                 "children": [
                   {
-                    "id": "f4575e05-def3-47f5-8f29-b8b1a8903d9a",
+                    "id": "00a665ad-1dae-42a2-aac8-eab0ecc1aa69",
                     "boundaryNum": 1,
-                    "name": "Lohian Road Bebe Nanki Nagar A - B41A - A1",
-                    "localname": "Lohian Road Bebe Nanki Nagar A - B41A - A1",
+                    "name": "Lohian Road Bebe Nanki Nagar A - Block 41A - A1",
+                    "localname": "Lohian Road Bebe Nanki Nagar A - Block 41A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -1972,7 +2008,7 @@
                 ]
               },
               {
-                "id": "2b4e5f92-29f9-4e6d-bf39-1a8654d38a32",
+                "id": "dbf4323b-281e-4e69-8d0e-bdfd1f53d847",
                 "boundaryNum": 1,
                 "name": "Block 41B",
                 "localname": "Block 41B",
@@ -1982,21 +2018,21 @@
                 "code": "B41B",
                 "children": [
                   {
-                    "id": "7decef01-a9a7-478f-a503-44a7f1a6c1e7",
+                    "id": "3322f9ca-4c8a-414c-b8c1-617f44b1bc39",
                     "boundaryNum": 1,
-                    "name": "Lohian Road Bebe Nanki Nagar B - B41B - A2",
-                    "localname": "Lohian Road Bebe Nanki Nagar B - B41B - A2",
+                    "name": "Lohian Road Bebe Nanki Nagar B - Block 41B - A1",
+                    "localname": "Lohian Road Bebe Nanki Nagar B - Block 41B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_82",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "376bf7d6-0c54-410b-80fa-30607a9b59c7",
+                "id": "c845d21d-5a76-4648-b84e-87368b61ec3c",
                 "boundaryNum": 1,
                 "name": "Block 42A",
                 "localname": "Block 42A",
@@ -2006,10 +2042,10 @@
                 "code": "B42A",
                 "children": [
                   {
-                    "id": "c78bd2db-5447-4268-92c7-3d1cab6e141c",
+                    "id": "8c549bf5-30cf-46f1-9530-f4662305bcc7",
                     "boundaryNum": 1,
-                    "name": "Central Town A - B42A - A1",
-                    "localname": "Central Town A - B42A - A1",
+                    "name": "Central Town A - Block 42A - A1",
+                    "localname": "Central Town A - Block 42A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2020,7 +2056,7 @@
                 ]
               },
               {
-                "id": "c764ebe4-c684-4a55-855c-a5371b3af0ca",
+                "id": "30c5369e-a70c-4dd7-8944-bb194972ef18",
                 "boundaryNum": 1,
                 "name": "Block 42B",
                 "localname": "Block 42B",
@@ -2030,21 +2066,21 @@
                 "code": "B42B",
                 "children": [
                   {
-                    "id": "d90db9f7-7326-40cd-a023-a3bca75194c4",
+                    "id": "d02167df-e263-495b-b6ab-7e7e6bd91269",
                     "boundaryNum": 1,
-                    "name": "Central Town B - B42B - A2",
-                    "localname": "Central Town B - B42B - A2",
+                    "name": "Central Town B - Block 42B - A1",
+                    "localname": "Central Town B - Block 42B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_84",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "8fb35710-af85-425b-86d3-16daa52e862a",
+                "id": "d130659d-0484-4c53-942a-1d6185368cfa",
                 "boundaryNum": 1,
                 "name": "Block 43A",
                 "localname": "Block 43A",
@@ -2054,10 +2090,10 @@
                 "code": "B43A",
                 "children": [
                   {
-                    "id": "68bcc4b4-5d48-4507-b2f0-61b6485524e4",
+                    "id": "74d93643-cad9-4868-970b-d0f473e2613d",
                     "boundaryNum": 1,
-                    "name": "Baba Jawala Singh Nagar A - B43A - A1",
-                    "localname": "Baba Jawala Singh Nagar A - B43A - A1",
+                    "name": "Baba Jawala Singh Nagar A - Block 43A - A1",
+                    "localname": "Baba Jawala Singh Nagar A - Block 43A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2068,7 +2104,7 @@
                 ]
               },
               {
-                "id": "f83a2ba9-9783-4e7d-82af-f38964f6aea8",
+                "id": "597b398a-daa7-4c24-bcf3-23b3cd5d128c",
                 "boundaryNum": 1,
                 "name": "Block 43B",
                 "localname": "Block 43B",
@@ -2078,21 +2114,21 @@
                 "code": "B43B",
                 "children": [
                   {
-                    "id": "ea20e45e-d1fe-4d26-b42a-223014671612",
+                    "id": "7c8ac687-ca01-4b8b-be9e-013e3bbfa3f9",
                     "boundaryNum": 1,
-                    "name": "Baba Jawala Singh Nagar B - B43B - A2",
-                    "localname": "Baba Jawala Singh Nagar B - B43B - A2",
+                    "name": "Baba Jawala Singh Nagar B - Block 43B - A1",
+                    "localname": "Baba Jawala Singh Nagar B - Block 43B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_86",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "fd7d89f5-1d34-4168-80fb-23412f9a1bba",
+                "id": "9c67568f-e068-4c05-ad84-910e6e673645",
                 "boundaryNum": 1,
                 "name": "Block 44A",
                 "localname": "Block 44A",
@@ -2102,10 +2138,10 @@
                 "code": "B44A",
                 "children": [
                   {
-                    "id": "659b20a2-903e-4b10-86a9-b5e89fe30dff",
+                    "id": "951007dc-465a-44a8-9c31-7a051a301a31",
                     "boundaryNum": 1,
-                    "name": "Mal Gaudown Road A - B44A - A1",
-                    "localname": "Mal Gaudown Road A - B44A - A1",
+                    "name": "Mal Gaudown Road A - Block 44A - A1",
+                    "localname": "Mal Gaudown Road A - Block 44A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2116,7 +2152,7 @@
                 ]
               },
               {
-                "id": "514835c1-79b0-4f36-a5c5-15571d6dfe6b",
+                "id": "c20401b9-3bf5-499b-a400-0711dc3e2b35",
                 "boundaryNum": 1,
                 "name": "Block 44B",
                 "localname": "Block 44B",
@@ -2126,21 +2162,21 @@
                 "code": "B44B",
                 "children": [
                   {
-                    "id": "9fffbbbd-51a2-40d8-8ddc-ec6866c17086",
+                    "id": "ca4812ac-06b6-4191-83df-665153ece3a5",
                     "boundaryNum": 1,
-                    "name": "Mal Gaudown Road B - B44B - A2",
-                    "localname": "Mal Gaudown Road B - B44B - A2",
+                    "name": "Mal Gaudown Road B - Block 44B - A1",
+                    "localname": "Mal Gaudown Road B - Block 44B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_88",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "4a5d8169-6f4f-48f5-b8ab-ac1ae9dc4dbd",
+                "id": "5791d789-63e1-490e-8ecb-8304f90f49fe",
                 "boundaryNum": 1,
                 "name": "Block 45A",
                 "localname": "Block 45A",
@@ -2150,10 +2186,10 @@
                 "code": "B45A",
                 "children": [
                   {
-                    "id": "aef23c61-17d2-4cda-961c-853b9f2f0332",
+                    "id": "4429c571-1f1b-4a38-bd29-b3f057598077",
                     "boundaryNum": 1,
-                    "name": "Sabji Mandi Road A - B45A - A1",
-                    "localname": "Sabji Mandi Road A - B45A - A1",
+                    "name": "Sabji Mandi Road A - Block 45A - A1",
+                    "localname": "Sabji Mandi Road A - Block 45A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2164,7 +2200,7 @@
                 ]
               },
               {
-                "id": "9cc78f30-4f57-4882-8d53-9dbac604156a",
+                "id": "ba2ffcc3-1c01-4dcb-bb86-80646cf92847",
                 "boundaryNum": 1,
                 "name": "Block 45B",
                 "localname": "Block 45B",
@@ -2174,21 +2210,21 @@
                 "code": "B45B",
                 "children": [
                   {
-                    "id": "6e794579-1345-4ac3-ac9e-a4260df3e4ab",
+                    "id": "3bf6c095-9332-4861-b66c-7249b082d51e",
                     "boundaryNum": 1,
-                    "name": "Sabji Mandi Road B - B45B - A2",
-                    "localname": "Sabji Mandi Road B - B45B - A2",
+                    "name": "Sabji Mandi Road B - Block 45B - A1",
+                    "localname": "Sabji Mandi Road B - Block 45B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_90",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "1626a06b-045e-4661-a0a8-c8b2f0fd5a46",
+                "id": "d326cc1b-671f-40db-9bb9-b06a9cbea6b6",
                 "boundaryNum": 1,
                 "name": "Block 46A",
                 "localname": "Block 46A",
@@ -2198,10 +2234,10 @@
                 "code": "B46A",
                 "children": [
                   {
-                    "id": "f6b677a0-d069-4819-9132-7b311e89dc1c",
+                    "id": "80f5abad-9d4c-4e79-ae1b-8a2a9ac7e9e6",
                     "boundaryNum": 1,
-                    "name": "Teliya A - B46A - A1",
-                    "localname": "Teliya A - B46A - A1",
+                    "name": "Teliya A - Block 46A - A1",
+                    "localname": "Teliya A - Block 46A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2212,7 +2248,7 @@
                 ]
               },
               {
-                "id": "fa4098b3-38ee-4d89-8aa5-750d5969de18",
+                "id": "1c0561a8-e74b-41cc-8542-9cbe58f613dd",
                 "boundaryNum": 1,
                 "name": "Block 46B",
                 "localname": "Block 46B",
@@ -2222,21 +2258,21 @@
                 "code": "B46B",
                 "children": [
                   {
-                    "id": "2fb0fa4c-3aaa-457a-b3b5-adb315c0206f",
+                    "id": "49b3ed1f-ba28-44be-820a-b0e1567d578d",
                     "boundaryNum": 1,
-                    "name": "Teliya B - B46B - A2",
-                    "localname": "Teliya B - B46B - A2",
+                    "name": "Teliya B - Block 46B - A1",
+                    "localname": "Teliya B - Block 46B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_92",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "8b3289e1-2383-4b27-a182-6f3a431630e0",
+                "id": "fca3fcb8-619e-4e96-a6b4-09ca1f367362",
                 "boundaryNum": 1,
                 "name": "Block 47A",
                 "localname": "Block 47A",
@@ -2246,10 +2282,10 @@
                 "code": "B47A",
                 "children": [
                   {
-                    "id": "f461fdca-d77e-47fc-93a8-0bb1c74625c7",
+                    "id": "a715d765-38da-43fd-b8e0-026c7e0cf419",
                     "boundaryNum": 1,
-                    "name": "Cinema Road A - B47A - A1",
-                    "localname": "Cinema Road A - B47A - A1",
+                    "name": "Cinema Road A - Block 47A - A1",
+                    "localname": "Cinema Road A - Block 47A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2260,7 +2296,7 @@
                 ]
               },
               {
-                "id": "7722453e-fd1a-45ea-aec0-50b8e5275615",
+                "id": "f1f935c7-2f29-4199-b376-11cd8456f329",
                 "boundaryNum": 1,
                 "name": "Block 47B",
                 "localname": "Block 47B",
@@ -2270,21 +2306,21 @@
                 "code": "B47B",
                 "children": [
                   {
-                    "id": "13f1faab-da67-4acc-a238-098a440d5fa5",
+                    "id": "26048305-bb4b-48e2-8fcf-a75393f6dcd8",
                     "boundaryNum": 1,
-                    "name": "Cinema Road B - B47B - A2",
-                    "localname": "Cinema Road B - B47B - A2",
+                    "name": "Cinema Road B - Block 47B - A1",
+                    "localname": "Cinema Road B - Block 47B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_94",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "3a472573-05f3-4fd1-8f52-212851f0cbe3",
+                "id": "28970b43-7127-4867-b10b-64198e2c7699",
                 "boundaryNum": 1,
                 "name": "Block 48A",
                 "localname": "Block 48A",
@@ -2294,10 +2330,10 @@
                 "code": "B48A",
                 "children": [
                   {
-                    "id": "62c77898-fb61-46ab-a222-d8c755066ee3",
+                    "id": "3a73bb45-fb79-4add-91f7-4232e9fc9ef3",
                     "boundaryNum": 1,
-                    "name": "Jainiya A - B48A - A1",
-                    "localname": "Jainiya A - B48A - A1",
+                    "name": "Jainiya A - Block 48A - A1",
+                    "localname": "Jainiya A - Block 48A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2308,7 +2344,7 @@
                 ]
               },
               {
-                "id": "197e5ca6-d590-4359-87a3-6fb1ef6fe85f",
+                "id": "1801e06d-6c59-4f3c-90ae-f8e25fc4336b",
                 "boundaryNum": 1,
                 "name": "Block 48B",
                 "localname": "Block 48B",
@@ -2318,21 +2354,21 @@
                 "code": "B48B",
                 "children": [
                   {
-                    "id": "d1774c48-e8bf-45f2-89e5-4b85d9f01ddb",
+                    "id": "a8e9f886-1b4f-4d39-917d-9e1817fd3c97",
                     "boundaryNum": 1,
-                    "name": "Jainiya B - B48B - A2",
-                    "localname": "Jainiya B - B48B - A2",
+                    "name": "Jainiya B - Block 48B - A1",
+                    "localname": "Jainiya B - Block 48B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_96",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "73c69948-d461-4af4-b6c9-0ad189408f80",
+                "id": "406117e8-5347-4ce7-a714-5bb8b288f83a",
                 "boundaryNum": 1,
                 "name": "Block 49A",
                 "localname": "Block 49A",
@@ -2342,10 +2378,10 @@
                 "code": "B49A",
                 "children": [
                   {
-                    "id": "e5d25ab3-72d2-420e-a32e-aa093f7915ae",
+                    "id": "83258c21-c6f0-46c1-9381-903090548cac",
                     "boundaryNum": 1,
-                    "name": "Salponia A - B49A - A1",
-                    "localname": "Salponia A - B49A - A1",
+                    "name": "Salponia A - Block 49A - A1",
+                    "localname": "Salponia A - Block 49A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2356,7 +2392,7 @@
                 ]
               },
               {
-                "id": "42107219-6422-44b0-bd2f-f2c442fc4918",
+                "id": "18f69130-db4d-4be1-8b0d-d6ebb544de27",
                 "boundaryNum": 1,
                 "name": "Block 49B",
                 "localname": "Block 49B",
@@ -2366,21 +2402,21 @@
                 "code": "B49B",
                 "children": [
                   {
-                    "id": "322400d3-2515-4b79-aff7-9c1af9233038",
+                    "id": "f7ef868f-8758-4311-bf09-0c36067bad32",
                     "boundaryNum": 1,
-                    "name": "Salponia B - B49B - A2",
-                    "localname": "Salponia B - B49B - A2",
+                    "name": "Salponia B - Block 49B - A1",
+                    "localname": "Salponia B - Block 49B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_98",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "94d4b7e0-48b6-4f64-8131-1c1d4e58ef6a",
+                "id": "656bc110-f8ee-4343-a3f1-bf4a60de364d",
                 "boundaryNum": 1,
                 "name": "Block 50A",
                 "localname": "Block 50A",
@@ -2390,10 +2426,10 @@
                 "code": "B50A",
                 "children": [
                   {
-                    "id": "142d11b1-9d31-423b-8a17-ba630c3f197a",
+                    "id": "fd78d3e2-2011-418a-a55a-ee3a0d07c295",
                     "boundaryNum": 1,
-                    "name": "Rishi Nagar A - B50A - A1",
-                    "localname": "Rishi Nagar A - B50A - A1",
+                    "name": "Rishi Nagar A - Block 50A - A1",
+                    "localname": "Rishi Nagar A - Block 50A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2404,7 +2440,7 @@
                 ]
               },
               {
-                "id": "01ef9853-0b73-4283-9f07-9026420e0c1a",
+                "id": "c9c384b2-0f3a-41ed-afff-0238adbd43d9",
                 "boundaryNum": 1,
                 "name": "Block 50B",
                 "localname": "Block 50B",
@@ -2414,21 +2450,21 @@
                 "code": "B50B",
                 "children": [
                   {
-                    "id": "c4f25897-ff2d-4d52-9054-7e46610d4c9c",
+                    "id": "4b2eab1e-0059-4ea9-bdd3-5502d636e523",
                     "boundaryNum": 1,
-                    "name": "Rishi Nagar B - B50B - A2",
-                    "localname": "Rishi Nagar B - B50B - A2",
+                    "name": "Rishi Nagar B - Block 50B - A1",
+                    "localname": "Rishi Nagar B - Block 50B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_100",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "b7c00ed9-315b-4bfa-8386-63787413ae62",
+                "id": "5f240fac-2e75-4049-a54e-cdfda5137ed6",
                 "boundaryNum": 1,
                 "name": "Block 51A",
                 "localname": "Block 51A",
@@ -2438,10 +2474,10 @@
                 "code": "B51A",
                 "children": [
                   {
-                    "id": "2cefd913-2281-498d-b512-bb70d39958c9",
+                    "id": "245e4a3e-264e-423f-972c-ea13ff194a8b",
                     "boundaryNum": 1,
-                    "name": "Old Dana Mandi A - B51A - A1",
-                    "localname": "Old Dana Mandi A - B51A - A1",
+                    "name": "Old Dana Mandi A - Block 51A - A1",
+                    "localname": "Old Dana Mandi A - Block 51A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2452,7 +2488,7 @@
                 ]
               },
               {
-                "id": "eb248089-37df-4a18-9f0d-70cb5c7b1169",
+                "id": "22d52062-8577-42ba-a756-18d7a2dc534e",
                 "boundaryNum": 1,
                 "name": "Block 51B",
                 "localname": "Block 51B",
@@ -2462,21 +2498,21 @@
                 "code": "B51B",
                 "children": [
                   {
-                    "id": "19e0e411-44ac-428e-ac79-05379670bd2d",
+                    "id": "797f975e-28f8-4819-9038-895f46ce5491",
                     "boundaryNum": 1,
-                    "name": "Old Dana Mandi B - B51B - A2",
-                    "localname": "Old Dana Mandi B - B51B - A2",
+                    "name": "Old Dana Mandi B - Block 51B - A1",
+                    "localname": "Old Dana Mandi B - Block 51B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_102",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "b04ad986-79af-4688-9cf4-dc53d7cf98d8",
+                "id": "a1ff9991-0c91-4b10-9d1f-f72b1f283ae5",
                 "boundaryNum": 1,
                 "name": "Block 52A",
                 "localname": "Block 52A",
@@ -2486,10 +2522,10 @@
                 "code": "B52A",
                 "children": [
                   {
-                    "id": "2d6cde45-045d-42a5-bf44-cbce92787be1",
+                    "id": "e77983dd-b289-4105-8706-83a9a38fc5ce",
                     "boundaryNum": 1,
-                    "name": "New Modol Town A - B52A - A1",
-                    "localname": "New Modol Town A - B52A - A1",
+                    "name": "New Modol Town A - Block 52A - A1",
+                    "localname": "New Modol Town A - Block 52A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2500,7 +2536,7 @@
                 ]
               },
               {
-                "id": "fe5d00f8-fdc4-4e83-9003-578dd42de1bd",
+                "id": "eb82061b-6c86-4cd8-ae5d-d65476fee69a",
                 "boundaryNum": 1,
                 "name": "Block 52B",
                 "localname": "Block 52B",
@@ -2510,21 +2546,21 @@
                 "code": "B52B",
                 "children": [
                   {
-                    "id": "4c527944-b225-4a32-a5b0-ba7f084efeff",
+                    "id": "4ea2b691-8244-461d-9d10-c3892adcfee6",
                     "boundaryNum": 1,
-                    "name": "New Modol Town B - B52B - A2",
-                    "localname": "New Modol Town B - B52B - A2",
+                    "name": "New Modol Town B - Block 52B - A1",
+                    "localname": "New Modol Town B - Block 52B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_104",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "dabab3cc-5c7d-45ed-b893-ec286199de46",
+                "id": "bc529d77-0771-4f9a-9a7a-9872cfc62da9",
                 "boundaryNum": 1,
                 "name": "Block 53A",
                 "localname": "Block 53A",
@@ -2534,10 +2570,10 @@
                 "code": "B53A",
                 "children": [
                   {
-                    "id": "2b8ba6d7-ce6c-42a3-88ed-3a186a9913a0",
+                    "id": "3a9f6a00-d511-4baa-a92e-63cec2fbd142",
                     "boundaryNum": 1,
-                    "name": "New Dana Mandi A - B53A - A1",
-                    "localname": "New Dana Mandi A - B53A - A1",
+                    "name": "New Dana Mandi A - Block 53A - A1",
+                    "localname": "New Dana Mandi A - Block 53A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2548,7 +2584,7 @@
                 ]
               },
               {
-                "id": "e4373118-cd65-486a-91a1-4cc83965db47",
+                "id": "40db1019-7cca-43d4-8bd7-834d36e05b75",
                 "boundaryNum": 1,
                 "name": "Block 53B",
                 "localname": "Block 53B",
@@ -2558,21 +2594,21 @@
                 "code": "B53B",
                 "children": [
                   {
-                    "id": "038e7d26-30a3-44fb-b904-8dceaee4cf0e",
+                    "id": "21b8a978-7967-4015-bdc4-3cafb886aa1e",
                     "boundaryNum": 1,
-                    "name": "New Dana Mandi B - B53B - A2",
-                    "localname": "New Dana Mandi B - B53B - A2",
+                    "name": "New Dana Mandi B - Block 53B - A1",
+                    "localname": "New Dana Mandi B - Block 53B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_106",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "7f99a044-c4f4-45fc-b1d5-923811dfc3f4",
+                "id": "3b669490-290b-407b-a4b9-4b75d9fd059f",
                 "boundaryNum": 1,
                 "name": "Block 54A",
                 "localname": "Block 54A",
@@ -2582,10 +2618,10 @@
                 "code": "B54A",
                 "children": [
                   {
-                    "id": "71ee69d2-68c6-4c0e-a13d-f795027f81d0",
+                    "id": "db0b1776-4208-4029-8a1e-44aba0644224",
                     "boundaryNum": 1,
-                    "name": "Udham Singh Chownk to Gur Ber Sahib A - B54A - A1",
-                    "localname": "Udham Singh Chownk to Gur Ber Sahib A - B54A - A1",
+                    "name": "Udham Singh Chownk to Gur Ber Sahib A - Block 54A - A1",
+                    "localname": "Udham Singh Chownk to Gur Ber Sahib A - Block 54A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2596,7 +2632,7 @@
                 ]
               },
               {
-                "id": "fa62952b-4aa5-4df8-857f-612de4241944",
+                "id": "d174286a-d8a0-40c8-a2d9-1c613cde45cf",
                 "boundaryNum": 1,
                 "name": "Block 54B",
                 "localname": "Block 54B",
@@ -2606,21 +2642,21 @@
                 "code": "B54B",
                 "children": [
                   {
-                    "id": "123bc8dd-1294-471c-a727-753ca782f0ce",
+                    "id": "a9d7957c-67c2-4495-8c6f-4dab7d2e7023",
                     "boundaryNum": 1,
-                    "name": "Udham Singh Chownk to Gur Ber Sahib B - B54B - A2",
-                    "localname": "Udham Singh Chownk to Gur Ber Sahib B - B54B - A2",
+                    "name": "Udham Singh Chownk to Gur Ber Sahib B - Block 54B - A1",
+                    "localname": "Udham Singh Chownk to Gur Ber Sahib B - Block 54B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_108",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "8d184971-e7de-47b3-9765-76336258d3dc",
+                "id": "2e9db464-bef6-465e-8f91-51feb6a323a0",
                 "boundaryNum": 1,
                 "name": "Block 55A",
                 "localname": "Block 55A",
@@ -2630,10 +2666,10 @@
                 "code": "B55A",
                 "children": [
                   {
-                    "id": "5fba6418-adb1-4372-b726-cb4943c98ff4",
+                    "id": "86d9b74d-a4ae-49d0-b7d2-3621e53a0c62",
                     "boundaryNum": 1,
-                    "name": "Talwandi Pul to Vei Chungi A - B55A - A1",
-                    "localname": "Talwandi Pul to Vei Chungi A - B55A - A1",
+                    "name": "Talwandi Pul to Vei Chungi A - Block 55A - A1",
+                    "localname": "Talwandi Pul to Vei Chungi A - Block 55A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2644,7 +2680,7 @@
                 ]
               },
               {
-                "id": "0ae1e44c-994b-4ef2-bdef-e8063ae3df1f",
+                "id": "e1357fe4-7291-49e5-b4ea-ac8555b1fc17",
                 "boundaryNum": 1,
                 "name": "Block 55B",
                 "localname": "Block 55B",
@@ -2654,21 +2690,21 @@
                 "code": "B55B",
                 "children": [
                   {
-                    "id": "ce8dd8d4-bf78-4633-976c-80689d650f14",
+                    "id": "86ef59d8-7541-407d-bb55-67dc8ca64730",
                     "boundaryNum": 1,
-                    "name": "Talwandi Pul to Vei Chungi B - B55B - A2",
-                    "localname": "Talwandi Pul to Vei Chungi B - B55B - A2",
+                    "name": "Talwandi Pul to Vei Chungi B - Block 55B - A1",
+                    "localname": "Talwandi Pul to Vei Chungi B - Block 55B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_110",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "c23f070a-a4a1-4f89-b722-a1c122929c9c",
+                "id": "96ec8154-c0ab-4207-b4cf-31d0004cf690",
                 "boundaryNum": 1,
                 "name": "Block 56A",
                 "localname": "Block 56A",
@@ -2678,10 +2714,10 @@
                 "code": "B56A",
                 "children": [
                   {
-                    "id": "ad957266-2623-4209-a38c-76c6e52a541c",
+                    "id": "24c0217e-9a38-4b66-a8ed-2456126117bb",
                     "boundaryNum": 1,
-                    "name": "Guru Nanak Nagar A - B56A - A1",
-                    "localname": "Guru Nanak Nagar A - B56A - A1",
+                    "name": "Guru Nanak Nagar A - Block 56A - A1",
+                    "localname": "Guru Nanak Nagar A - Block 56A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2692,7 +2728,7 @@
                 ]
               },
               {
-                "id": "70708b2c-5c12-4ce6-bee4-b67a5d764bae",
+                "id": "ff72392b-ec25-4b48-a083-7ffe07c352a3",
                 "boundaryNum": 1,
                 "name": "Block 56B",
                 "localname": "Block 56B",
@@ -2702,21 +2738,21 @@
                 "code": "B56B",
                 "children": [
                   {
-                    "id": "8ac6cf16-4cf6-457e-9cbe-e798d4f8d26a",
+                    "id": "00526637-8878-4f43-8efc-b5c68b6451f2",
                     "boundaryNum": 1,
-                    "name": "Guru Nanak Nagar B - B56B - A2",
-                    "localname": "Guru Nanak Nagar B - B56B - A2",
+                    "name": "Guru Nanak Nagar B - Block 56B - A1",
+                    "localname": "Guru Nanak Nagar B - Block 56B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_112",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "c7accd5e-0046-4ae2-9d79-2931ff1a2201",
+                "id": "d36e2a31-fd84-4840-a069-db66a0ce8a23",
                 "boundaryNum": 1,
                 "name": "Block 57A",
                 "localname": "Block 57A",
@@ -2726,10 +2762,10 @@
                 "code": "B57A",
                 "children": [
                   {
-                    "id": "4076038a-45cc-49b4-aa37-4ea2a0574c4c",
+                    "id": "7d6fa643-e75d-49d6-8f71-6db404667936",
                     "boundaryNum": 1,
-                    "name": "Sukh Inqlav A - B57A - A1",
-                    "localname": "Sukh Inqlav A - B57A - A1",
+                    "name": "Sukh Inqlav A - Block 57A - A1",
+                    "localname": "Sukh Inqlav A - Block 57A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2740,7 +2776,7 @@
                 ]
               },
               {
-                "id": "1cf2a081-9e2b-4fa2-98c6-ffb79e614c6d",
+                "id": "8c81243c-2d79-4975-a8fa-e2aa476327e7",
                 "boundaryNum": 1,
                 "name": "Block 57B",
                 "localname": "Block 57B",
@@ -2750,21 +2786,21 @@
                 "code": "B57B",
                 "children": [
                   {
-                    "id": "080363da-6be7-4af4-929c-1af09344be38",
+                    "id": "bbe38c8d-0f42-493c-8977-64fa778f524f",
                     "boundaryNum": 1,
-                    "name": "Sukh Inqlav B - B57B - A2",
-                    "localname": "Sukh Inqlav B - B57B - A2",
+                    "name": "Sukh Inqlav B - Block 57B - A1",
+                    "localname": "Sukh Inqlav B - Block 57B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_114",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "a4c37332-bb29-4269-9962-d53f139abddf",
+                "id": "07efba48-6acf-460f-b3c1-d62d5334bdc2",
                 "boundaryNum": 1,
                 "name": "Block 58A",
                 "localname": "Block 58A",
@@ -2774,10 +2810,10 @@
                 "code": "B58A",
                 "children": [
                   {
-                    "id": "7e86ca33-1b5a-47b7-8e84-ae0e588e3090",
+                    "id": "f12c8080-1350-4cbc-9801-169b0232274d",
                     "boundaryNum": 1,
-                    "name": "Urban Astate Pudda Colony A - B58A - A1",
-                    "localname": "Urban Astate Pudda Colony A - B58A - A1",
+                    "name": "Urban Astate Pudda Colony A - Block 58A - A1",
+                    "localname": "Urban Astate Pudda Colony A - Block 58A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2788,7 +2824,7 @@
                 ]
               },
               {
-                "id": "74e5ce47-a2e9-4e7a-806f-2871d6c903d7",
+                "id": "cbe508eb-c6a5-4bbd-b73e-2a74ea21fe7b",
                 "boundaryNum": 1,
                 "name": "Block 58B",
                 "localname": "Block 58B",
@@ -2798,21 +2834,21 @@
                 "code": "B58B",
                 "children": [
                   {
-                    "id": "d79f68f3-c9b0-47d2-b170-1ed10f6fd6ac",
+                    "id": "5011a173-f979-4d6b-ac73-4c9d89ed8af7",
                     "boundaryNum": 1,
-                    "name": "Urban Astate Pudda Colony B - B58B - A2",
-                    "localname": "Urban Astate Pudda Colony B - B58B - A2",
+                    "name": "Urban Astate Pudda Colony B - Block 58B - A1",
+                    "localname": "Urban Astate Pudda Colony B - Block 58B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_116",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "f799d607-1dc1-464e-9295-d9470f6dac23",
+                "id": "924b14c5-545f-4aa9-a488-f7e2ee84a658",
                 "boundaryNum": 1,
                 "name": "Block 59A",
                 "localname": "Block 59A",
@@ -2822,10 +2858,10 @@
                 "code": "B59A",
                 "children": [
                   {
-                    "id": "1c22ee0b-1550-4cf6-b1ab-f3b75c0897a5",
+                    "id": "6c62b955-7152-4302-8232-df957ad679ba",
                     "boundaryNum": 1,
-                    "name": "Shamsan Ghat A - B59A - A1",
-                    "localname": "Shamsan Ghat A - B59A - A1",
+                    "name": "Shamsan Ghat A - Block 59A - A1",
+                    "localname": "Shamsan Ghat A - Block 59A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
@@ -2836,7 +2872,7 @@
                 ]
               },
               {
-                "id": "0aae0c9f-49b8-4f1b-84fd-59775660ab47",
+                "id": "541a2efd-39e9-4c54-b4ed-81aa9834d859",
                 "boundaryNum": 1,
                 "name": "Block 59B",
                 "localname": "Block 59B",
@@ -2846,15 +2882,15 @@
                 "code": "B59B",
                 "children": [
                   {
-                    "id": "ff787b6b-a99a-4ee2-9e58-bcd594bd7b09",
+                    "id": "a715161f-d466-41db-a261-0c2fbdeb2f21",
                     "boundaryNum": 1,
-                    "name": "Shamsan Ghat B - B59B - A2",
-                    "localname": "Shamsan Ghat B - B59B - A2",
+                    "name": "Shamsan Ghat B - Block 59B - A1",
+                    "localname": "Shamsan Ghat B - Block 59B - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
                     "code": "SL_118",
-                    "area": "AREA2",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
