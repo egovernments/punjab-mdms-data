@@ -5290,6 +5290,21 @@
       "path": "Finance.Reports.Budget Reports.Budget Upload Report",
       "navigationURL": "services/EGF/budgetuploadreport/search",
       "leftIcon": "editor:insert-chart"
+    },
+    {
+      "id": 1803,
+      "name": "TradeLicenseULBWiseApplicationStatusReport",
+      "url": "url",
+      "displayName": "ULB Wise Status",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.TradeLicenseULBWiseApplicationStatusReport",
+      "navigationURL": "report/rainmaker-tl/TradeLicenseULBWiseApplicationStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
