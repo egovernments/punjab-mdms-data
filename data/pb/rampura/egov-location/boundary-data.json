@@ -331,6 +331,312 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rampura",
+        "localname": "Rampura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.rampura",
+        "children": [
+          {
+            "id": "f1758c4f-3296-4284-bd41-5970f208d841",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f9768fcd-3247-4836-a486-e170e1a499c6",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 1",
+                "children": [
+                  {
+                    "id": "7f8de941-286e-42a2-807e-eb6148443aee",
+                    "boundaryNum": 1,
+                    "name": "Jassa Massa Patti Dharamshala - W 1 - A1",
+                    "localname": "Jassa Massa Patti Dharamshala - W 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a94d01a7-8457-4fc6-9e5c-e4cea68c6671",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 2",
+                "children": [
+                  {
+                    "id": "e948c3c7-c65b-481b-bc54-d42862b24076",
+                    "boundaryNum": 1,
+                    "name": "Pitho Road - W 2 - A1",
+                    "localname": "Pitho Road - W 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1966a483-dc2c-46f1-8396-3120f98f20b0",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 3",
+                "children": [
+                  {
+                    "id": "07ebe3b9-57a9-4edd-88b6-38114c95720b",
+                    "boundaryNum": 1,
+                    "name": "Jathedar Santa Singh Gurdwara Sahib - W 3 - A2",
+                    "localname": "Jathedar Santa Singh Gurdwara Sahib - W 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR3",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "870413bf-2fab-4d4b-9e64-a693c85dfd5c",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 4",
+                "children": [
+                  {
+                    "id": "74df30a7-9a43-4637-abb5-291bddcdeb2c",
+                    "boundaryNum": 1,
+                    "name": "Guru Ravidas Dharamshala - W 4 - A2",
+                    "localname": "Guru Ravidas Dharamshala - W 4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af861a17-aab8-413f-b556-408f11d78850",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 5",
+                "children": [
+                  {
+                    "id": "0416445f-6ecc-4fc9-97f3-debd16a4446c",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Sahib Sidhu Patti - W 5 - A1",
+                    "localname": "Gurdwara Sahib Sidhu Patti - W 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0dea6fec-6aa9-415c-ac81-db81b69811f4",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "6fc2afef-22c5-440f-a683-04557add1672",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 6",
+                "children": [
+                  {
+                    "id": "1bcb2109-f445-4dff-9cb7-4d4afa05adcd",
+                    "boundaryNum": 1,
+                    "name": "Copertive Socity - W 6 - A1",
+                    "localname": "Copertive Socity - W 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f2473b9c-139e-440a-a92d-e01560090a8a",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 7",
+                "children": [
+                  {
+                    "id": "4c686a2a-529f-4884-bae4-475a77e319fc",
+                    "boundaryNum": 1,
+                    "name": "Tarvani Giri Mandir - W 7 - A2",
+                    "localname": "Tarvani Giri Mandir - W 7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1c86fa95-680e-44e5-b4ca-b8f83cc9a1b6",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 8",
+                "children": [
+                  {
+                    "id": "3e62f0a2-143b-4ba2-8eeb-870fac38d860",
+                    "boundaryNum": 1,
+                    "name": "Maur Road - W 8 - A1",
+                    "localname": "Maur Road - W 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e5ab15f-5296-4390-a075-7869a6d00f52",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 9",
+                "children": [
+                  {
+                    "id": "1d43235c-4a60-4244-b663-dc020f9efe85",
+                    "boundaryNum": 1,
+                    "name": "B.D.P.Office - W 9 - A2",
+                    "localname": "B.D.P.Office - W 9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "667b109a-e9e7-48ca-afa7-42fb1184ea9c",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 10",
+                "children": [
+                  {
+                    "id": "9324ef1b-d43c-46fe-b81e-9faf77a5e646",
+                    "boundaryNum": 1,
+                    "name": "Maur Road - W 10 - A1",
+                    "localname": "Maur Road - W 10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "28bf9d6e-9e7b-4a92-a8c5-066e36e6b0cf",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W 11",
+                "children": [
+                  {
+                    "id": "3c3c7802-58dc-424a-880e-10df14c74ccb",
+                    "boundaryNum": 1,
+                    "name": "S.S.S.School - W 11 - A1",
+                    "localname": "S.S.S.School - W 11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPR11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
