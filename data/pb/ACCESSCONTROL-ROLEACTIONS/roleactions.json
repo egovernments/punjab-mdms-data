@@ -1,7 +1,9 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
-  "roleactions": [{
+  "roleactions": 
+  [
+    {
       "rolecode": "SUPERUSER",
       "actionid": 628,
       "actioncode": "",
@@ -7386,10 +7388,22 @@
         "actionid": 1805,
         "actioncode": "",
         "tenantId": "pb"
-      },,
+      },
       {
         "rolecode": "SUPERUSER",
         "actionid": 1806,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "PTFEMP",
+        "actionid": 1807,
+        "actioncode": "",
+        "tenantId": "pb"
+      },
+      {
+        "rolecode": "PTCEMP",
+        "actionid": 1807,
         "actioncode": "",
         "tenantId": "pb"
       }
