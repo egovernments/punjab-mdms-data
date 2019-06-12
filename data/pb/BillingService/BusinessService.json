@@ -44,8 +44,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "WaterCharges.NonMetered",
@@ -56,8 +55,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
+      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "FIRENOC",
@@ -68,8 +66,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
+      "isActive": true
     },
     {
       "businessService": "Taxes.No Dues Certificate",
