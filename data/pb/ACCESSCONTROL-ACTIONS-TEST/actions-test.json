@@ -5381,6 +5381,57 @@
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1805,
+      "name": "PropertyTax new payments search",
+      "url": "/egov-searcher/rainmaker-pt-gissearch/searchNewTaxPayments/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1806,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/searchLocalitiesUsedInRevenue/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1807,
+      "name": "Used Localities search",
+      "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/searchLocalitiesUsedInAdmin/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1808,
+      "name": "PT Data Dump",
+      "url": "url",
+      "displayName": "PT Data Dump",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.PT Data Dump",
+      "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
