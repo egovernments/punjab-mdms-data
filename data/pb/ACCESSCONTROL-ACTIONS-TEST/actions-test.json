@@ -5524,6 +5524,28 @@
       "navigationURL": "report/rainmaker-ptnew/ReceiptRegisternew3",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 1816,
+      "name": "PT Report",
+      "url": "/report/rainmaker-ptnew/_get",
+      "displayName": "PT Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROPERTYREPORTS",
+      "code": "null",
+      "path": "Property Report"
+    },
+    {
+      "id": 1817,
+      "name": "PT New Report",
+      "url": "/report/rainmaker-ptnew/metadata/_get",
+      "displayName": "PT New Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "PROPERTYREPORTS",
+      "code": "null",
+      "path": "Property Report"
+    }               
   ]
 }
