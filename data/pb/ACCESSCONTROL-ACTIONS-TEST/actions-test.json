@@ -5468,43 +5468,6 @@
         "path": ""
       },
       {
-        "id": 1815,
-        "name": " PT Receipt Register New",
-        "url": "url",
-        "displayName": "PT Receipt Register New",
-        "orderNumber": 2,
-        "queryParams": "",
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "",
-        "path": "Property Tax.PT Reports.Receipt Register New 3",
-        "navigationURL": "report/rainmaker-ptnew/ReceiptRegisternew3",
-        "leftIcon": "action:assignment",
-        "rightIcon": ""
-      },
-      {
-        "id": 1816,
-        "name": "PT Report",
-        "url": "/report/rainmaker-ptnew/_get",
-        "displayName": "PT Report",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "PROPERTYREPORTS",
-        "code": "null",
-        "path": "Property Report"
-      },
-      {
-        "id": 1817,
-        "name": "PT New Report",
-        "url": "/report/rainmaker-ptnew/metadata/_get",
-        "displayName": "PT New Report",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "PROPERTYREPORTS",
-        "code": "null",
-        "path": "Property Report"
-      },
-      {
         "id": 1818,
         "name": "PropertyTax new payments search by ra",
         "url": "/egov-searcher/rainmaker-pt-rasearch-punjab/searchPropertyIDBypayername/_get",
