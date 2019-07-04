@@ -1,8 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
-  "roleactions":
-  [
+  "roleactions": [
     {
       "rolecode": "SUPERUSER",
       "actionid": 628,
@@ -6975,7 +6974,7 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-     {
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1782,
       "actioncode": "",
@@ -7220,324 +7219,342 @@
       "actionid": 1753,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1754,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 1766,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_CEMP",
       "actionid": 699,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_DOC_VERIFIER",
       "actionid": 699,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_FIELD_INSPECTOR",
       "actionid": 699,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 699,
       "actioncode": "",
       "tenantId": "pb"
-      },
-      {
-        "rolecode": "STADMIN",
-        "actionid": 1803,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1773,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1779,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1780,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1781,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "HRMS_ADMIN",
-        "actionid": 1782,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "CITIZEN",
-        "actionid": 1782,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1804,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1805,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1806,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1813,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "PTFEMP",
-        "actionid": 1807,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "PTCEMP",
-        "actionid": 1807,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1804,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1537,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "GIS_USER",
-        "actionid": 1590,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1809,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1810,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "PTCEMP",
-        "actionid": 1811,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "CITIZEN",
-        "actionid": 1812,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_RECEIPT_CREATOR",
-        "actionid": 570,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_REMIT_TO_BANK",
-        "actionid": 570,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_RECEIPT_CREATOR",
-        "actionid": 571,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_REMIT_TO_BANK",
-        "actionid": 571,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_RECEIPT_CREATOR",
-        "actionid": 572,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "COLL_REMIT_TO_BANK",
-        "actionid": 572,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SYS_INTEGRATOR_FINANCE",
-        "actionid": 571,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SYS_INTEGRATOR_FINANCE",
-        "actionid": 572,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SUPERUSER",
-        "actionid": 1814,
-        "actioncode": "",
-        "tenantId": "pb"
-      },
-      {
-        "rolecode": "SYS_INTEGRATOR_FINANCE",
-        "actionid": 1814,
-        "actioncode": "",
-        "tenantId": "pb"
-      }
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1803,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1773,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1779,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1780,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1781,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1782,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1805,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1806,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1813,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTFEMP",
+      "actionid": 1807,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1807,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1804,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1537,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "GIS_USER",
+      "actionid": 1590,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1809,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1810,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1811,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1812,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 570,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_REMIT_TO_BANK",
+      "actionid": 570,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_REMIT_TO_BANK",
+      "actionid": 571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "COLL_REMIT_TO_BANK",
+      "actionid": 572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 571,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 572,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1814,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 1814,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1819,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1820,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 1821,
+      "actioncode": "",
+      "tenantId": "pb"
+    }
   ]
 }
