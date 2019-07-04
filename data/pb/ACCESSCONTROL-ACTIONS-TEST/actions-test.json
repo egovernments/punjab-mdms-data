@@ -1,7 +1,8 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
-  "actions-test": [{
+  "actions-test": [
+    {
       "id": 14,
       "name": "Get File by FileStoreId",
       "url": "/filestore/v1/files/id",
@@ -5558,6 +5559,40 @@
       "serviceCode": "punjab-customization",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1819,
+      "name": "UC Report",
+      "url": "/report/rainmaker-uc/_get",
+      "displayName": "Universal Collection Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "UC Report"
+    },
+    {
+      "id": 1820,
+      "name": "UCReportMetadata",
+      "url": "/report/rainmaker-uc/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "UC Collection Metadata "
+    },
+    {
+      "id": 1821,
+      "name": "CollectionRegister",
+      "url": "url",
+      "displayName": "Collection Register",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "COLLECTIONS",
+      "code": "null",
+      "navigationURL": "report/rainmaker-uc/CollectionRegister",
+      "path": "Reports.Collection Register"
     }
   ]
 }
