@@ -1,0 +1,840 @@
+{
+  "tenantId": "pb.bilga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bilga",
+        "localname": "bilga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bilga",
+        "children": [
+          {
+            "id": "1964b3a4-8d04-44fe-a5d5-bdbc36dc14eb",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "83752afc-bfd7-4c49-b87d-1c9215016150",
+                "boundaryNum": 1,
+                "name": "BLOCK 1",
+                "localname": "BLOCK 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "4e37c703-ac85-4992-a0ac-1e0174595440",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHOJA - BLOCK 1 - A1",
+                    "localname": "PATTI BHOJA - BLOCK 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee3c74b1-b6b6-4ba5-824a-c788a8d1b823",
+                "boundaryNum": 1,
+                "name": "BLOCK 2",
+                "localname": "BLOCK 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "f7b38d12-c44f-480a-934f-acf10ce16c70",
+                    "boundaryNum": 1,
+                    "name": "PATTI MEHNA - BLOCK 2 - A1",
+                    "localname": "PATTI MEHNA - BLOCK 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12b8b1b6-dc24-498c-9602-ad9ec77c0016",
+                "boundaryNum": 1,
+                "name": "BLOCK 3",
+                "localname": "BLOCK 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "25179d11-746d-48aa-aecb-676137bf745c",
+                    "boundaryNum": 1,
+                    "name": "PATTI BAGGA - BLOCK 3 - A1",
+                    "localname": "PATTI BAGGA - BLOCK 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20fbbb7c-3312-4b5a-8906-12ae33db164a",
+                "boundaryNum": 1,
+                "name": "BLOCK 4",
+                "localname": "BLOCK 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "24ef1230-3b0b-49cc-aca8-469faceb9212",
+                    "boundaryNum": 1,
+                    "name": "PATTI NILOWAL - BLOCK 4 - A1",
+                    "localname": "PATTI NILOWAL - BLOCK 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63c7d91e-4767-41d8-a627-16d46b985244",
+                "boundaryNum": 1,
+                "name": "BLOCK 5",
+                "localname": "BLOCK 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "e8d1350b-9a29-4e6e-b936-a270aae687df",
+                    "boundaryNum": 1,
+                    "name": "PATTI DUNIYA MANSOOR - BLOCK 5 - A1",
+                    "localname": "PATTI DUNIYA MANSOOR - BLOCK 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5aa19b0a-78f3-4e35-8eba-5659abf48f05",
+                "boundaryNum": 1,
+                "name": "BLOCK 6",
+                "localname": "BLOCK 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "1944d3d8-17dc-486c-a069-97c6261f17e6",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHALAI - BLOCK 6 - A1",
+                    "localname": "PATTI BHALAI - BLOCK 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dfcfd43e-0268-45c2-a8de-bdbb22530ea8",
+                "boundaryNum": 1,
+                "name": "BLOCK 7",
+                "localname": "BLOCK 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "a0269398-8827-482b-a3d9-559dd1e064bc",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHATTI - BLOCK 7 - A1",
+                    "localname": "PATTI BHATTI - BLOCK 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2dbd3524-7922-432a-91fb-ead5b3651ee7",
+                "boundaryNum": 1,
+                "name": "BLOCK 8",
+                "localname": "BLOCK 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "162aa889-0c3a-49eb-ac67-8c5c2aa66e44",
+                    "boundaryNum": 1,
+                    "name": "BEHLOLPUR ROAD - BLOCK 8 - A1",
+                    "localname": "BEHLOLPUR ROAD - BLOCK 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ba48dfa0-a437-45c9-9821-4af7d37b3113",
+                "boundaryNum": 1,
+                "name": "BLOCK 9",
+                "localname": "BLOCK 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "6b8913d3-2622-4908-a313-aabc9a9647d5",
+                    "boundaryNum": 1,
+                    "name": "UPPAL ROAD - BLOCK 9 - A1",
+                    "localname": "UPPAL ROAD - BLOCK 9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98e096e2-a9d2-48f7-bc2e-0dec7bc1ea5f",
+                "boundaryNum": 1,
+                "name": "BLOCK 10",
+                "localname": "BLOCK 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "48dcc320-415d-4052-9d17-96435b428687",
+                    "boundaryNum": 1,
+                    "name": "TALWAN ROAD - BLOCK 10 - A1",
+                    "localname": "TALWAN ROAD - BLOCK 10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76ed2d6c-e16c-48ba-8bda-fd15fe8c2f6e",
+                "boundaryNum": 1,
+                "name": "BLOCK 11",
+                "localname": "BLOCK 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "376934d2-e855-4fe5-8840-4c7c7edec465",
+                    "boundaryNum": 1,
+                    "name": "SANGOWAL ROAD - BLOCK 11 - A1",
+                    "localname": "SANGOWAL ROAD - BLOCK 11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca8ca153-bef7-477c-8e12-104d825c7664",
+                "boundaryNum": 1,
+                "name": "BLOCK 12",
+                "localname": "BLOCK 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "88427432-6ed3-4e50-9d56-4d8627cebdfe",
+                    "boundaryNum": 1,
+                    "name": "KHOKHEWAL ROAD - BLOCK 12 - A1",
+                    "localname": "KHOKHEWAL ROAD - BLOCK 12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5db8883-4a35-41bc-895e-dced552cadd1",
+                "boundaryNum": 1,
+                "name": "BLOCK 13",
+                "localname": "BLOCK 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "ea4cb66a-5a5e-4b29-9858-fdce186f91bd",
+                    "boundaryNum": 1,
+                    "name": "THAMANWAL ROAD - BLOCK 13 - A1",
+                    "localname": "THAMANWAL ROAD - BLOCK 13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "469873cd-2fee-4c9b-84d9-d8a2b778ecab",
+                "boundaryNum": 1,
+                "name": "BLOCK 14",
+                "localname": "BLOCK 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "7ca92a20-8616-4b6c-975d-47200173b5d5",
+                    "boundaryNum": 1,
+                    "name": "MAU SAHIB ROAD - BLOCK 14 - A1",
+                    "localname": "MAU SAHIB ROAD - BLOCK 14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35802fda-25c4-4eb9-86f8-1c7c7125e5d8",
+                "boundaryNum": 1,
+                "name": "BLOCK 15",
+                "localname": "BLOCK 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "aafc629b-7c5a-4eee-8a63-81c9b890e995",
+                    "boundaryNum": 1,
+                    "name": "AUJLA ROAD - BLOCK 15 - A1",
+                    "localname": "AUJLA ROAD - BLOCK 15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7aa76fe6-ea29-4521-aab2-f6fb5bf82840",
+                "boundaryNum": 1,
+                "name": "BLOCK 16",
+                "localname": "BLOCK 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "0837912b-6c9a-488c-9d9b-2d8909fbc25c",
+                    "boundaryNum": 1,
+                    "name": "MOWAI ROAD - BLOCK 16 - A1",
+                    "localname": "MOWAI ROAD - BLOCK 16 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d9321e49-3877-45e8-9b2a-5de1f9804bd2",
+                "boundaryNum": 1,
+                "name": "BLOCK 17",
+                "localname": "BLOCK 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "05cb2ad9-30c9-4060-8e45-5b633057496a",
+                    "boundaryNum": 1,
+                    "name": "SHAMPURA ROAD - BLOCK 17 - A1",
+                    "localname": "SHAMPURA ROAD - BLOCK 17 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5dac3ebc-dd1a-4b94-9f33-ab39e470b548",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "eda2a802-c985-45a5-afc0-187d87bf0e14",
+                "boundaryNum": 1,
+                "name": "BLOCK 18",
+                "localname": "BLOCK 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "1e80ba18-cfbe-4816-ba07-8b5fc7a3fdce",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHOJA - BLOCK 18 - A2",
+                    "localname": "PATTI BHOJA - BLOCK 18 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb8bfb07-40b3-4dfd-a4cd-3f0fe84ed382",
+                "boundaryNum": 1,
+                "name": "BLOCK 19",
+                "localname": "BLOCK 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "4eac21fb-3334-4dcc-8457-00d4b98e2ac2",
+                    "boundaryNum": 1,
+                    "name": "PATTI MEHNA - BLOCK 19 - A2",
+                    "localname": "PATTI MEHNA - BLOCK 19 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3abef281-aede-444f-9619-42d071b5a7fb",
+                "boundaryNum": 1,
+                "name": "BLOCK 20",
+                "localname": "BLOCK 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "bb4d7e90-8a3e-4fda-aea1-000d247a1f65",
+                    "boundaryNum": 1,
+                    "name": "PATTI BAGGA - BLOCK 20 - A2",
+                    "localname": "PATTI BAGGA - BLOCK 20 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4893a0f7-b4be-4124-857a-f3e909946de2",
+                "boundaryNum": 1,
+                "name": "BLOCK 21",
+                "localname": "BLOCK 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21",
+                "children": [
+                  {
+                    "id": "2c7775bb-4727-45de-ad31-2776c6e21910",
+                    "boundaryNum": 1,
+                    "name": "PATTI NILOWAL - BLOCK 21 - A2",
+                    "localname": "PATTI NILOWAL - BLOCK 21 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d90a647b-3391-4633-afd2-2615fdfd3c4c",
+                "boundaryNum": 1,
+                "name": "BLOCK 22",
+                "localname": "BLOCK 22",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B22",
+                "children": [
+                  {
+                    "id": "0827d516-7c8f-45d1-8224-9fa93bfbe0aa",
+                    "boundaryNum": 1,
+                    "name": "PATTI DUNIYA MANSOOR - BLOCK 22 - A2",
+                    "localname": "PATTI DUNIYA MANSOOR - BLOCK 22 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG22",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8d8cdb1e-ab6e-4bba-82f4-2c893bda3467",
+                "boundaryNum": 1,
+                "name": "BLOCK 23",
+                "localname": "BLOCK 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B23",
+                "children": [
+                  {
+                    "id": "f22bde34-ea5d-4092-9def-5a4fd5cb05c7",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHALAI - BLOCK 23 - A2",
+                    "localname": "PATTI BHALAI - BLOCK 23 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG23",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afc13742-2a35-4208-9bca-689b01587e23",
+                "boundaryNum": 1,
+                "name": "BLOCK 24",
+                "localname": "BLOCK 24",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B24",
+                "children": [
+                  {
+                    "id": "c2ab0b7c-060f-478e-8a24-baf71d16ca2d",
+                    "boundaryNum": 1,
+                    "name": "PATTI BHATTI - BLOCK 24 - A2",
+                    "localname": "PATTI BHATTI - BLOCK 24 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36be7484-a6b5-43bb-b4fc-1bf7238f60bf",
+                "boundaryNum": 1,
+                "name": "BLOCK 25",
+                "localname": "BLOCK 25",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B25",
+                "children": [
+                  {
+                    "id": "e16737fd-711a-43db-9603-425a15219b31",
+                    "boundaryNum": 1,
+                    "name": "UPPAL ROAD - BLOCK 25 - A2",
+                    "localname": "UPPAL ROAD - BLOCK 25 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49ca7d18-d791-45ee-99f3-8cedce9a519e",
+                "boundaryNum": 1,
+                "name": "BLOCK 26",
+                "localname": "BLOCK 26",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B26",
+                "children": [
+                  {
+                    "id": "84d2de7b-cf64-4594-9675-3c04854c9ebd",
+                    "boundaryNum": 1,
+                    "name": "TALWAN ROAD - BLOCK 26 - A2",
+                    "localname": "TALWAN ROAD - BLOCK 26 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9ed3afbe-65af-4781-91ea-1661dbd933f2",
+                "boundaryNum": 1,
+                "name": "BLOCK 27",
+                "localname": "BLOCK 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B27",
+                "children": [
+                  {
+                    "id": "6a446741-6f0e-47fc-b092-aa4e17bdfadd",
+                    "boundaryNum": 1,
+                    "name": "SANGOWAL ROAD - BLOCK 27 - A2",
+                    "localname": "SANGOWAL ROAD - BLOCK 27 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae301b19-a434-41f3-977c-f413c7d7bd81",
+                "boundaryNum": 1,
+                "name": "BLOCK 28",
+                "localname": "BLOCK 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B28",
+                "children": [
+                  {
+                    "id": "9adc35e8-2662-4b61-9993-83eb02622e78",
+                    "boundaryNum": 1,
+                    "name": "KHOKHEWAL ROAD - BLOCK 28 - A2",
+                    "localname": "KHOKHEWAL ROAD - BLOCK 28 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c25d9e72-a9c2-40da-8b9e-1898b49b9643",
+                "boundaryNum": 1,
+                "name": "BLOCK 29",
+                "localname": "BLOCK 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B29",
+                "children": [
+                  {
+                    "id": "efd3837f-e771-4744-8a28-8bce1119b7a7",
+                    "boundaryNum": 1,
+                    "name": "THAMANWAL ROAD - BLOCK 29 - A2",
+                    "localname": "THAMANWAL ROAD - BLOCK 29 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG29",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90c7d7c3-56ad-46d3-9886-da7358ac4016",
+                "boundaryNum": 1,
+                "name": "BLOCK 30",
+                "localname": "BLOCK 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B30",
+                "children": [
+                  {
+                    "id": "cf9a2a81-014b-40ca-9b54-a569485c7763",
+                    "boundaryNum": 1,
+                    "name": "MAU SAHIB ROAD - BLOCK 30 - A2",
+                    "localname": "MAU SAHIB ROAD - BLOCK 30 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG30",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "747a9cd5-45f5-4497-bee1-4c7bf6ebe576",
+                "boundaryNum": 1,
+                "name": "BLOCK 31",
+                "localname": "BLOCK 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B31",
+                "children": [
+                  {
+                    "id": "1eb91017-1b07-4552-ba28-fc969de55740",
+                    "boundaryNum": 1,
+                    "name": "AUJLA ROAD - BLOCK 31 - A2",
+                    "localname": "AUJLA ROAD - BLOCK 31 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG31",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76e540bf-e40d-48f0-8733-1d1428b2c0cb",
+                "boundaryNum": 1,
+                "name": "BLOCK 32",
+                "localname": "BLOCK 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B32",
+                "children": [
+                  {
+                    "id": "02642c36-e70e-4353-88b9-cd379eae8571",
+                    "boundaryNum": 1,
+                    "name": "MOWAI ROAD - BLOCK 32 - A2",
+                    "localname": "MOWAI ROAD - BLOCK 32 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG32",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b250f6b4-1d8f-4579-9d06-9f581ee360ab",
+                "boundaryNum": 1,
+                "name": "BLOCK 33",
+                "localname": "BLOCK 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B33",
+                "children": [
+                  {
+                    "id": "24d7ed67-454e-42ae-aa2c-6c621918f73c",
+                    "boundaryNum": 1,
+                    "name": "SHAMPURA ROAD - BLOCK 33 - A2",
+                    "localname": "SHAMPURA ROAD - BLOCK 33 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BILG33",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
