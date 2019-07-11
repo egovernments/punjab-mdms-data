@@ -5522,6 +5522,21 @@
       "serviceCode": "PGRCUSTOMREPORT",
       "code": "null",
       "path": "PGR Report"
+    },
+    {
+      "id": 1822,
+      "name": "FinanceRolloutAdoption",
+      "url": "url",
+      "displayName": "Finance Rollout & Adoption",
+      "orderNumber": 1,
+      "parentModule": "Finance",
+      "enabled": true,
+      "serviceCode": "FINANCE",
+      "code": "null",
+      "path": "Dashboard.Finance.FinanceRollout&Adoption",
+      "navigationURL": "integration/dashboard/finance-rollout-adoption",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
