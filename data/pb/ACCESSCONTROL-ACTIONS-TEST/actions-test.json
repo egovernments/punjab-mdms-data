@@ -5550,6 +5550,28 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceipt",
       "path": "Reports.Miscellaneous Receipt Register"
+    },
+    {
+      "id": 1824,
+      "name": "UC Report",
+      "url": "/report/rainmaker-uc/_get",
+      "displayName": "Universal Collection Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "UC Report"
+    },
+    {
+      "id": 1825,
+      "name": "UCReportMetadata",
+      "url": "/report/rainmaker-uc/metadata/_get",
+      "displayName": "Universal Collection Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "UCREPORTS",
+      "code": "null",
+      "path": "UC Collection Metadata "
     }
   ]
 }
