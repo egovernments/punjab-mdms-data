@@ -5572,6 +5572,19 @@
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "UC Collection Metadata "
+    },
+    {
+      "id": 1826,
+      "name": "MiscReceiptULB",
+      "url": "url",
+      "displayName": "Miscellaneous Receipt Register ULB",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
+      "path": "Reports.Miscellaneous Receipt Register"
     }
   ]
 }
