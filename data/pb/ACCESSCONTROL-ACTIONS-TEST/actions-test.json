@@ -5635,6 +5635,19 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
       "path": "Reports.miscellaneous Receipt Register"
+    },
+    {
+      "id": 1825,
+      "name": "MiscReceiptStateWide",
+      "url": "url",
+      "displayName": "Miscellaneous Collections",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
+      "path": "State Reports.UC.Miscellaneous Collection category wise"
     }
   ]
 }
