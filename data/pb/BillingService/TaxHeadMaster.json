@@ -3170,6 +3170,17 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.House_Tax",
+      "name": "TX.HOUSE_TAX",
+      "code": "TX.HOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
+
   ]
 }
