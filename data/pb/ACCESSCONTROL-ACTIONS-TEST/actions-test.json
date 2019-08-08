@@ -5648,6 +5648,21 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptStateWide",
       "path": "State Reports.UC.Miscellaneous Collection category wise"
+    },
+    {
+      "id": 1826,
+      "name": "Receipt Register",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Account Receipt Register",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
