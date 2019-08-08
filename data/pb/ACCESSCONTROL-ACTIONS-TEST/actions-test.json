@@ -5585,6 +5585,21 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULB",
       "path": "Reports.Miscellaneous Receipt Register"
+    },
+    {
+      "id": 1827,
+      "name": "Receipt Register",
+      "url": "url",
+      "displayName": "Account Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Account Receipt Register",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
