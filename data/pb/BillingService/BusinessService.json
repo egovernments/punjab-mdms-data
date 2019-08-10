@@ -965,6 +965,69 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
+      "code": "HCF.Hadud_Certificate_fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    }, 
+    {
+      "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
+      "code": "NDCF.No_Due_Certificate_fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+     },
+     {
+      "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
+      "code": "CSF.Colony_Sambandhi_fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+     }, 
+     {
+      "businessService": "Naksha_Building Manual Fees.Naksha fees",
+      "code": "NF.Naksha_fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+     }, 
+     {
+      "businessService": "Work Fee.OFC Permission fee",
+      "code": "OPF.OFC_Permission_fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    
     }
+
   ]
 }
+  
