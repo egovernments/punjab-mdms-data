@@ -389,6 +389,394 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhikhiwind",
+        "localname": "Bhikhiwind",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhikhiwind",
+        "children": [
+          {
+            "id": "e5a2df99-4a5d-4fe0-969c-a9c9cf7ae599",
+            "boundaryNum": 1,
+            "name": "Bhikhiwind",
+            "localname": "Bhikhiwind",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e31875bd-9944-4b77-b639-d3e99f310368",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "18955e18-8dd5-4e63-b54b-dc0991ca577c",
+                    "boundaryNum": 1,
+                    "name": "Blair road-W1 - Ward 1",
+                    "localname": "Blair road-W1 - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5c17ced8-c018-4450-8111-98115e1bf6ca",
+                    "boundaryNum": 1,
+                    "name": "Garden colony-W1 - Ward 1",
+                    "localname": "Garden colony-W1 - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fcc3bd47-516e-4615-b29e-61526f705c81",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": []
+              },
+              {
+                "id": "bcc0c4d3-5db7-409e-996a-a2e34098c35e",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": []
+              },
+              {
+                "id": "ad797d74-6be7-49d6-bbb4-b805413bf267",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "1955280f-f8b7-4471-a648-3d37e49fdbba",
+                    "boundaryNum": 1,
+                    "name": "Mandir bazar-W4 - Ward 4",
+                    "localname": "Mandir bazar-W4 - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4216164b-397a-43c9-a719-fee470725a67",
+                    "boundaryNum": 1,
+                    "name": "sondhi mohalla-W4 - Ward 4",
+                    "localname": "sondhi mohalla-W4 - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a14696c-06e3-4561-910b-c993f89da809",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "456c45cb-5ab6-4577-bcac-03a07bb843f9",
+                    "boundaryNum": 1,
+                    "name": "Parveem medical store wali gali-W5 - Ward 5",
+                    "localname": "Parveem medical store wali gali-W5 - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "260bd208-7ecc-40db-9ef1-3b5fa99be5b4",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "8f9a7bdd-f616-4728-8e98-31da08f32d02",
+                    "boundaryNum": 1,
+                    "name": "amrit hospital wali Mohalla-W6 - Ward 6",
+                    "localname": "amrit hospital wali Mohalla-W6 - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "97308f79-309c-4e0d-b90c-6a4ecca332cb",
+                    "boundaryNum": 1,
+                    "name": "Passi colony-W6 - Ward 6",
+                    "localname": "Passi colony-W6 - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e4f81ecd-810a-4ab8-be1e-d7df6ba5e165",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "0b367a79-4c99-4c53-b4d7-7090c3487b6e",
+                    "boundaryNum": 1,
+                    "name": "Chela colony-W7 - Ward 7",
+                    "localname": "Chela colony-W7 - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0e0adc50-8bfa-4fac-9479-05ec564b421c",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "b77a8400-5b6c-4b99-8d81-88c85cd20291",
+                    "boundaryNum": 1,
+                    "name": "Chela colony-W8 - Ward 8",
+                    "localname": "Chela colony-W8 - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ed1f662-82c1-4fd3-89b8-ba421fb0fd5f",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "b06e2914-15cb-49c2-9971-cf7470b379f9",
+                    "boundaryNum": 1,
+                    "name": "Doctor karnal wali gali-W9 - Ward 9",
+                    "localname": "Doctor karnal wali gali-W9 - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "641ae722-beb8-4769-a05e-0a36de303d1d",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "057d21ce-a33f-4946-85f8-9cb082e25a6d",
+                    "boundaryNum": 1,
+                    "name": "kanda Mohalla-W10 - Ward 10",
+                    "localname": "kanda Mohalla-W10 - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6f5d493b-831c-4973-a54e-70dc0ca9304e",
+                    "boundaryNum": 1,
+                    "name": "kakkar mohalla-W10 - Ward 10",
+                    "localname": "kakkar mohalla-W10 - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e8552ae3-dcda-47d7-b4e2-f800ac70bafb",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "60e3a810-33ad-4bee-a44d-5c1df36b7131",
+                    "boundaryNum": 1,
+                    "name": "Bagri mohalla-W11 - Ward 11",
+                    "localname": "Bagri mohalla-W11 - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f33705ae-71b9-4935-ad29-eddeee5a95ba",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "ff61ce57-3ae3-423d-bb43-b50b3e70bd6a",
+                    "boundaryNum": 1,
+                    "name": "bedi market-W12 - Ward 12",
+                    "localname": "bedi market-W12 - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "932e8a7b-5317-4365-bdb8-bbac4884d98e",
+                    "boundaryNum": 1,
+                    "name": "Sadanand wali gali-W12 - Ward 12",
+                    "localname": "Sadanand wali gali-W12 - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "911a0172-a485-4ce7-bb09-f92645d3dc71",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "1c701da9-f0d5-483f-8797-33a529eeefd7",
+                    "boundaryNum": 1,
+                    "name": "Pulaha Mohalla-W13 - Ward 13",
+                    "localname": "Pulaha Mohalla-W13 - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cdf25a6e-2f4c-4693-99f2-5461ed36cd35",
+                    "boundaryNum": 1,
+                    "name": "Rice mill wali gali-W13 - Ward 13",
+                    "localname": "Rice mill wali gali-W13 - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "B11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
