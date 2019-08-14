@@ -751,6 +751,396 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jandialaguru",
+        "localname": "Jandialaguru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jandialaguru",
+        "children": [
+          {
+            "id": "7e35c546-cdb7-4cda-a988-fccfb6d57087",
+            "boundaryNum": 1,
+            "name": "Jandiala Guru",
+            "localname": "Jandiala Guru",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "JGZ1",
+            "children": [
+              {
+                "id": "be0ae7e5-c3f8-4611-94bf-bbe3213969b7",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 1",
+                "children": [
+                  {
+                    "id": "78437055-9bc9-4e11-8f46-4442a8122e8c",
+                    "boundaryNum": 1,
+                    "name": "Model Town/ Ghoreshah, Patwarkhana Road, Gali Bhatti Wali, Dakhla Khoo Gehari Road - Ward 1",
+                    "localname": "Model Town/ Ghoreshah, Patwarkhana Road, Gali Bhatti Wali, Dakhla Khoo Gehari Road - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aaeb347c-dbcc-466e-8bec-87748b19eeeb",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 2",
+                "children": [
+                  {
+                    "id": "76a1b2ca-ce8c-4756-96a5-30d50f218704",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shekhupura, Mohalla Malliana, Patwarkhana Road - Ward 2",
+                    "localname": "Mohalla Shekhupura, Mohalla Malliana, Patwarkhana Road - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f77b6a72-99ee-4e04-9853-9ecf8eddd0f2",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 3",
+                "children": [
+                  {
+                    "id": "362f0dae-9b64-47c7-87dd-ed84653007fd",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Shekhupua, Taal Colony - Ward 3",
+                    "localname": "Mohalla Shekhupua, Taal Colony - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "749d85b0-d568-4e46-9e36-bfca6176a952",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 4",
+                "children": [
+                  {
+                    "id": "c17eaffa-16a5-41fa-9dfa-c9a261e4c9a0",
+                    "boundaryNum": 1,
+                    "name": "Jotisar Near Mission School Sarai Road, - Ward 4",
+                    "localname": "Jotisar Near Mission School Sarai Road, - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dc556ad7-a294-4ada-9d7f-191d4d2be272",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 5",
+                "children": [
+                  {
+                    "id": "1c83bc2d-a47d-42c0-a48e-91b338b4e309",
+                    "boundaryNum": 1,
+                    "name": "Jotisar Colony, Bhatha Colony, Gorewal - Ward 5",
+                    "localname": "Jotisar Colony, Bhatha Colony, Gorewal - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d17781e9-baa3-4578-aa14-fbb0c24b4b87",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 6",
+                "children": [
+                  {
+                    "id": "993df25a-fa62-4edf-a20b-a79abcc92938",
+                    "boundaryNum": 1,
+                    "name": "Verowal Road Near Dushehra Ground - Ward 6",
+                    "localname": "Verowal Road Near Dushehra Ground - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9f0974d-116d-4d8e-ae02-66ee68a789a5",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 7",
+                "children": [
+                  {
+                    "id": "f1935df3-5945-4020-817c-05e95c508bd0",
+                    "boundaryNum": 1,
+                    "name": "Udham Singh Chowk, Local Bus Stand - Ward 7",
+                    "localname": "Udham Singh Chowk, Local Bus Stand - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f00ecf32-7784-4609-bfd0-1a002b4a652f",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 8",
+                "children": [
+                  {
+                    "id": "c62aac63-86d9-4027-802b-4a247e84871f",
+                    "boundaryNum": 1,
+                    "name": "Noordi Bazar, Gali Darbar Sahib, Gali Sardaran Wali, gali Dugglan - Ward 8",
+                    "localname": "Noordi Bazar, Gali Darbar Sahib, Gali Sardaran Wali, gali Dugglan - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1fee2af7-7a64-40d3-8a83-26413cd24578",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 9",
+                "children": [
+                  {
+                    "id": "d6fc4f5c-e127-45e3-b1c6-c69532249064",
+                    "boundaryNum": 1,
+                    "name": "Gali Kasaian Wali, Gali Masit Wali, Purana Darwaja, Circullar Road, Gali Gujjran - Ward 9",
+                    "localname": "Gali Kasaian Wali, Gali Masit Wali, Purana Darwaja, Circullar Road, Gali Gujjran - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "adfb5643-e778-4e5e-8717-5dfb90cff9ac",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 10",
+                "children": [
+                  {
+                    "id": "6a54416b-7a84-4b66-87c3-853f2fa93d1c",
+                    "boundaryNum": 1,
+                    "name": "Verowal Road Near Sidhu Colony, Navi Abadi - Ward 10",
+                    "localname": "Verowal Road Near Sidhu Colony, Navi Abadi - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fa574a5e-0cfe-45cf-b897-998f8108bbda",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 11",
+                "children": [
+                  {
+                    "id": "e5c06888-bfbf-4f75-9bb5-9b5762d99e68",
+                    "boundaryNum": 1,
+                    "name": "New Abadi, Bhadarkali Road, Jania Road - Ward 11",
+                    "localname": "New Abadi, Bhadarkali Road, Jania Road - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f308b2b-06cd-4d1f-90f0-6d0e970433d0",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 12",
+                "children": [
+                  {
+                    "id": "e7d434ec-d102-4d60-ad01-0adc0bfca230",
+                    "boundaryNum": 1,
+                    "name": "Patel Nagar, Valmik Mohalla, Gali Kashmirian - Ward 12",
+                    "localname": "Patel Nagar, Valmik Mohalla, Gali Kashmirian - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe6cd7f9-0892-4ea3-a439-5f16a052a006",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 13",
+                "children": [
+                  {
+                    "id": "a52926a6-ae28-4431-afe3-7e090eeb545f",
+                    "boundaryNum": 1,
+                    "name": "Bagh Wala Khoo, Bajaj Palace Colony, - Ward 13",
+                    "localname": "Bagh Wala Khoo, Bajaj Palace Colony, - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8867c28f-6894-4a77-a65a-8ce94500ed44",
+                "boundaryNum": 1,
+                "name": "Ward 14",
+                "localname": "Ward 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 14",
+                "children": [
+                  {
+                    "id": "c3707b98-880a-44df-ab51-ec1226e110a4",
+                    "boundaryNum": 1,
+                    "name": "Bazar Thathiaran, Gali Khoo Wali, Gali Captain Mehal Singh - Ward 14",
+                    "localname": "Bazar Thathiaran, Gali Khoo Wali, Gali Captain Mehal Singh - Ward 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b6cc1d16-64c2-4f82-9df1-bf4e1dda546f",
+                "boundaryNum": 1,
+                "name": "Ward 15",
+                "localname": "Ward 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD 15",
+                "children": [
+                  {
+                    "id": "9890114a-e993-47b3-a5b8-6192d19e70c2",
+                    "boundaryNum": 1,
+                    "name": "Nathuana Gate, Gali Sardaran Wali, Mori Gate, Gali Nayyar Wali - Ward 15",
+                    "localname": "Nathuana Gate, Gali Sardaran Wali, Mori Gate, Gali Nayyar Wali - Ward 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JGLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
