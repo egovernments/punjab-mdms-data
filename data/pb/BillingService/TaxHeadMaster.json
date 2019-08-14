@@ -3380,6 +3380,38 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    
+    },
+    {
+      "category": "CHARGES",
+      "service": "NKS.Hadud_Certificate_fees",
+      "name": "NKS.HADUD_CERTIFICATE_FEES_FIELD_FEE",
+      "code": "NKS.HADUD_CERTIFICATE_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {  {
+      "category": "TAX",
+      "service": "NKS.Hadud_Certificate_fees",
+      "name": "NKS.HADUD_CERTIFICATE_FEES_TAX",
+      "code": "NKS.HADUD_CERTIFICATE_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.Hadud_Certificate_fees",
+      "name": "NKS.HADUD_CERTIFICATE_FEES_CGST",
+      "code": "NKS.HADUD_CERTIFICATE_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    
     }
 
   ]
