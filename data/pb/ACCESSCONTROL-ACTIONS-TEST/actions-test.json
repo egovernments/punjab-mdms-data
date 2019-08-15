@@ -5663,6 +5663,76 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "Id": 1827,
+      "name": "mSeva Event Create",
+      "url": "/egov-user-event/v1/events/_create",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1828,
+      "name": "mSeva Event Update",
+      "url": "/egov-user-event/v1/events/_update",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1829,
+      "name": "mSeva Event Search",
+      "url": "/egov-user-event/v1/events/_search",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1830,
+      "name": "mSeva Event Count",
+      "url": "/egov-user-event/v1/events/notifications/_count",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1831,
+      "name": "mSeva Event llt Update",
+      "url": "/egov-user-event/v1/events/lat/_update",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1832,
+      "name": "ULBInformation",
+      "url": "url",
+      "displayName": "ULB Information",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": "ULBInformation",
+      "navigationURL": "notifications",
+      "leftIcon": "action:description",
+      "rightIcon": ""
     }
   ]
 }
