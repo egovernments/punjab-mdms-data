@@ -787,6 +787,656 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "khemkaran",
+        "localname": "khemkaran",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.khemkaran",
+        "children": [
+          {
+            "id": "ffdf7462-105f-42da-943d-e4d66ab7f690",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c2f60166-b7ef-4de8-baad-096f099d373f",
+                "boundaryNum": 1,
+                "name": "Ward 2 (ZONE 1)",
+                "localname": "Ward 2 (ZONE 1)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2 Z1",
+                "children": []
+              },
+              {
+                "id": "708bebbc-5f7e-4c22-a3be-5d3c9188381e",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "a900817e-489c-4e68-8138-a66630e80cb3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Road (Lift and Right side)W6 - Ward 6",
+                    "localname": "Nagar Panchayat Road (Lift and Right side)W6 - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "02b936f0-8aef-4f8c-90b3-e5f9128e966e",
+                    "boundaryNum": 1,
+                    "name": "Govt Sen.sec School and civil Hospital and veterinary hospital wala rasta - Ward 6",
+                    "localname": "Govt Sen.sec School and civil Hospital and veterinary hospital wala rasta - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "947f552d-e57b-4bff-8065-0c7a05089f46",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "99ed3200-3eac-43ac-a352-fb2b6124a78e",
+                    "boundaryNum": 1,
+                    "name": "Chora Bazar (Lift and Right side) - Ward 7",
+                    "localname": "Chora Bazar (Lift and Right side) - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "e1a13615-9b54-4f10-98ae-33ae6d017cce",
+                    "boundaryNum": 1,
+                    "name": "Amritsar Road (Lift and Right side)W7 - Ward 7",
+                    "localname": "Amritsar Road (Lift and Right side)W7 - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8194e7af-0cf9-4b91-b156-dbd41b22638e",
+                    "boundaryNum": 1,
+                    "name": "Mahinder singh Bajwa House areaW7 - Ward 7",
+                    "localname": "Mahinder singh Bajwa House areaW7 - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "62560e40-c36d-4031-988d-183e618c9dfb",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "34a08205-ff35-4419-9028-12e1b6d43472",
+                    "boundaryNum": 1,
+                    "name": "Gali Karnail singh wali - Ward 8",
+                    "localname": "Gali Karnail singh wali - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4ed2db31-0a81-4ff5-9d94-21c268e8cb56",
+                    "boundaryNum": 1,
+                    "name": "Amritsar Road (Lift and Right side)W8 - Ward 8",
+                    "localname": "Amritsar Road (Lift and Right side)W8 - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3943235a-a469-4fe0-96d1-f947cbd10a06",
+                    "boundaryNum": 1,
+                    "name": "Mahinder singh Bajwa House areaW8 - Ward 8",
+                    "localname": "Mahinder singh Bajwa House areaW8 - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ac596e01-4dda-4e9c-a5fc-060f74084c55",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "cf2db37e-0ae2-4b0e-9287-297f9cc81d79",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Road (Lift and Right side)W9 - Ward 9",
+                    "localname": "Nagar Panchayat Road (Lift and Right side)W9 - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7b15e7f4-632a-4a6f-91c2-9da3ff0ce7fa",
+                    "boundaryNum": 1,
+                    "name": "X Pardhan Mangat ram wali Gali - Ward 9",
+                    "localname": "X Pardhan Mangat ram wali Gali - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8e8b090a-7675-46bf-ada7-17da0833ccdd",
+                    "boundaryNum": 1,
+                    "name": "Gali Khanne patarkar wali - Ward 9",
+                    "localname": "Gali Khanne patarkar wali - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "940403f7-dc45-4d46-a2bc-451cc57c4ea4",
+                    "boundaryNum": 1,
+                    "name": "Gali jhandhe sahh wali - Ward 9",
+                    "localname": "Gali jhandhe sahh wali - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0336acaf-3a18-4859-91ee-6a66983a7f66",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "b8a2b14a-eac1-4e6e-a582-a67c4a4122bb",
+                    "boundaryNum": 1,
+                    "name": "Gali doctor Naresh Wala Mohalla - Ward 10",
+                    "localname": "Gali doctor Naresh Wala Mohalla - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6734fdbb-c993-45f4-8342-3079d1281583",
+                    "boundaryNum": 1,
+                    "name": "Gali Didar singh suniare wali W10 - Ward 10",
+                    "localname": "Gali Didar singh suniare wali W10 - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c0f5ce04-b9bc-4422-8923-f912b9ace436",
+                    "boundaryNum": 1,
+                    "name": "Gali kaci bai wala Rasta (Lift and Right side)W10 - Ward 10",
+                    "localname": "Gali kaci bai wala Rasta (Lift and Right side)W10 - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ffbebc88-40b0-45c7-823c-566f9e868e41",
+                    "boundaryNum": 1,
+                    "name": "Gali sahnshiyea wali W10 - Ward 10",
+                    "localname": "Gali sahnshiyea wali W10 - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51f716a4-0632-450f-811c-deb4e073f182",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "50e8ce13-2446-458e-945d-47f214f2b613",
+                    "boundaryNum": 1,
+                    "name": "Gali Didar singh suniare wali W11 - Ward 11",
+                    "localname": "Gali Didar singh suniare wali W11 - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f0c6d4d4-e961-4c31-b24a-664d90fa6a31",
+                    "boundaryNum": 1,
+                    "name": "Gali charan singh Pattu wali - Ward 11",
+                    "localname": "Gali charan singh Pattu wali - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4372d825-722c-404b-94a5-366e04d748f1",
+                    "boundaryNum": 1,
+                    "name": "Labh singh raw wali Gali - Ward 11",
+                    "localname": "Labh singh raw wali Gali - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ed4080e9-8813-4108-9d76-68270a0c2e6a",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "836699d5-dd29-4d6c-b146-ddce19e11b4d",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a58d7fe9-42ab-4bd0-877a-d89cb07bc270",
+                    "boundaryNum": 1,
+                    "name": "Gali sahnshiyea wali W1 - Ward 1",
+                    "localname": "Gali sahnshiyea wali W1 - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3aa3229d-d884-4ee2-a7a5-90b4d904a64d",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "86efab49-c891-4495-9da6-7776a3dba63c",
+                    "boundaryNum": 1,
+                    "name": "Jai kishan pandit wali gali - Ward 2",
+                    "localname": "Jai kishan pandit wali gali - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "431c16b6-9e66-4f67-89f7-baac9e6e2f63",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "73adc7cf-3032-403e-8c0b-ef7ad5c4e1d5",
+                    "boundaryNum": 1,
+                    "name": "Gali kaci bai wala Rasta (Lift and Right side)W3 - Ward 3",
+                    "localname": "Gali kaci bai wala Rasta (Lift and Right side)W3 - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f139d405-f359-4523-a7f0-9eb480f1b8bd",
+                    "boundaryNum": 1,
+                    "name": "Gali Kalekea wali - Ward 3",
+                    "localname": "Gali Kalekea wali - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d47b4b51-3c14-423d-9082-3312cd6d8159",
+                    "boundaryNum": 1,
+                    "name": "Gali Tara Pandit wali - Ward 3",
+                    "localname": "Gali Tara Pandit wali - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "166a9a4a-d2f0-4646-945f-fa974cc35ca3",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Chain Sahib wala rasta - Ward 3",
+                    "localname": "Gurudwara Chain Sahib wala rasta - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "588e55be-3b87-40fa-945b-fe92fe986e0a",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "b4c1208e-5206-47d6-8245-03cfe79d6c61",
+                    "boundaryNum": 1,
+                    "name": "Baba fateh sahh wala rasta - Ward 4",
+                    "localname": "Baba fateh sahh wala rasta - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6ebd2fda-b42b-4c9b-b146-574be9f176a8",
+                    "boundaryNum": 1,
+                    "name": "Right side Dera Baba Khetarpal wala rasta - Ward 4",
+                    "localname": "Right side Dera Baba Khetarpal wala rasta - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ba9d4408-7bb0-4e03-934c-903b44226e2b",
+                    "boundaryNum": 1,
+                    "name": "Gali Kikkar singh Pardhan wali - Ward 4",
+                    "localname": "Gali Kikkar singh Pardhan wali - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14c42672-702c-41f8-9398-c12ba8fb2b3a",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "f87d32f5-c8a3-4eed-bb21-9a348a0094c8",
+                    "boundaryNum": 1,
+                    "name": "Mohan nagar wasti railway line nal wale ghar - Ward 5",
+                    "localname": "Mohan nagar wasti railway line nal wale ghar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f25eddfa-0cfc-411f-903d-1a5b269464c5",
+                "boundaryNum": 1,
+                "name": "Ward 8 (ZONE 2)",
+                "localname": "Ward 8 (ZONE 2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8 Z2",
+                "children": []
+              },
+              {
+                "id": "13155f4f-146e-4717-9758-cae61e8e0fc4",
+                "boundaryNum": 1,
+                "name": "Ward 10 (ZONE 2)",
+                "localname": "Ward 10 (ZONE 2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10 Z2",
+                "children": []
+              },
+              {
+                "id": "8e7bf7eb-0805-436d-9ebe-d9ba2d437e8a",
+                "boundaryNum": 1,
+                "name": "Ward 11 (ZONE 2)",
+                "localname": "Ward 11 (ZONE 2)",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11 Z2",
+                "children": []
+              },
+              {
+                "id": "affc05de-5e03-4ea0-ab4c-16846bf18124",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "4af5a954-dc30-4755-a143-5391819b39e0",
+                    "boundaryNum": 1,
+                    "name": "Rasta Kaci bahi wala rasta W12 - Ward 12",
+                    "localname": "Rasta Kaci bahi wala rasta W12 - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fdfc5cba-d650-4b5e-b36e-b8bfe34f87b5",
+                    "boundaryNum": 1,
+                    "name": "Gali Raw Sikhan Wali - Ward 12",
+                    "localname": "Gali Raw Sikhan Wali - Ward 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab57ef79-e896-49d6-8c38-4bddd3643287",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "d777b2c4-137b-4f4f-9b16-5496622d70a0",
+                    "boundaryNum": 1,
+                    "name": "Purani Mandi - Ward 13",
+                    "localname": "Purani Mandi - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6d7383ff-5570-49d1-a2df-655e0ab51671",
+                    "boundaryNum": 1,
+                    "name": "Hajori sahh wala rasta - Ward 13",
+                    "localname": "Hajori sahh wala rasta - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3a200869-4d77-46fa-983f-950745d2130e",
+                    "boundaryNum": 1,
+                    "name": "Rasta Kaci bahi wala rasta W13 - Ward 13",
+                    "localname": "Rasta Kaci bahi wala rasta W13 - Ward 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NPK26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
