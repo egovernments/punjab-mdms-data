@@ -5733,6 +5733,30 @@
       "navigationURL": "notifications",
       "leftIcon": "action:description",
       "rightIcon": ""
+    },
+    {
+      "id": 1833,
+      "name": "bankAccountServiceMapping create",
+      "url": "/collection-services/bankAccountServiceMapping/_create",
+      "displayName": "BankAccountServiceMapping Create",
+      "orderNumber": 1,
+      "parentModule": null,
+      "enabled": false,
+      "serviceCode": "collection-masters",
+      "code": "collection-masters.bankAccountServiceMapping",
+      "path": ""
+    },
+    {
+      "id": 1834,
+      "name": "bankAccountServiceMapping search",
+      "url": "/collection-services/bankAccountServiceMapping/_search",
+      "displayName": "BankAccountServiceMapping Create",
+      "orderNumber": 1,
+      "parentModule": null,
+      "enabled": false,
+      "serviceCode": "collection-masters",
+      "code": "collection-masters.bankAccountServiceMapping",
+      "path": ""
     }
   ]
 }
