@@ -3211,6 +3211,209 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    }
+    },
+    {
+        "category": "TAX",
+        "service": "NKS.No_Due_Certificate_fees",
+        "name": "NKS.NO_DUE_CERTIFICATE_FEES_TAX",
+        "code": "NKS.NO_DUE_CERTIFICATE_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.No_Due_Certificate_fees",
+        "name": "NKS.NO_DUE_CERTIFICATE_FEES_FIELD_FEE",
+        "code": "NKS.NO_DUE_CERTIFICATE_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.No_Due_Certificate_fees",
+        "name": "NKS.NO_DUE_CERTIFICATE_FEES_CGST",
+        "code": "NKS.NO_DUE_CERTIFICATE_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.No_Due_Certificate_fees",
+        "name": "NKS.NO_DUE_CERTIFICATE_FEES_SGST",
+        "code": "NKS.NO_DUE_CERTIFICATE_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {  
+        "category": "TAX",
+        "service": "NKS.Colony_Sambandhi_fees",
+        "name": "NKS.COLONY_SAMBANDHI_FEES_TAX",
+        "code": "NKS.COLONY_SAMBANDHI_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Colony_Sambandhi_fees",
+        "name": "NKS.COLONY_SAMBANDHI_FEES_FIELD_FEE",
+        "code": "NKS.COLONY_SAMBANDHI_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Colony_Sambandhi_fees",
+        "name": "NKS.COLONY_SAMBANDHI_FEES_CGST",
+        "code": "NKS.COLONY_SAMBANDHI_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Colony_Sambandhi_fees",
+        "name": "NKS.COLONY_SAMBANDHI_FEES_SGST",
+        "code": "NKS.COLONY_SAMBANDHI_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "NKS.Naksha_fees",
+        "name": "NKS.NAKSHA_FEES_TAX",
+        "code": "NKS.NAKSHA_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Naksha_fees",
+        "name": "NKS.NAKSHA_FEES_FIELD_FEE",
+        "code": "NKS.NAKSHA_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Naksha_fees",
+        "name": "NKS.NAKSHA_FEES_CGST",
+        "code": "NKS.NAKSHA_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Naksha_fees",
+        "name": "NKS.NAKSHA_FEES_SGST",
+        "code": "NKS.NAKSHA_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "WF.OFC_Permission_fees",
+        "name": "WF.OFC_PERMISSION_FEES_TAX",
+        "code": "WF.OFC_PERMISSION_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "WF.OFC_Permission_fees",
+        "name": "WF.OFC_PERMISSION_FEES_FIELD_FEE",
+        "code": "WF.OFC_PERMISSION_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "WF.OFC_Permission_fees",
+        "name": "WF.OFC_PERMISSION_FEES_CGST",
+        "code": "WF.OFC_PERMISSION_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "WF.OFC_Permission_fees",
+        "name": "WF.OFC_PERMISSION_FEES_SGST",
+        "code": "WF.OFC_PERMISSION_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false    
+      },
+      {  
+        "category": "TAX",
+        "service": "NKS.Hadud_Certificate_fees",
+        "name": "NKS.HADUD_CERTIFICATE_FEES_TAX",
+        "code": "NKS.HADUD_CERTIFICATE_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Hadud_Certificate_fees",
+        "name": "NKS.HADUD_CERTIFICATE_FEES_FIELD_FEE",
+        "code": "NKS.HADUD_CERTIFICATE_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Hadud_Certificate_fees",
+        "name": "NKS.HADUD_CERTIFICATE_FEES_CGST",
+        "code": "NKS.HADUD_CERTIFICATE_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Hadud_Certificate_fees",
+        "name": "NKS.HADUD_CERTIFICATE_FEES_SGST",
+        "code": "NKS.HADUD_CERTIFICATE_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      
+      }       
+    
   ]
 }
