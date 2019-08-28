@@ -1040,56 +1040,6 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Finance"
-    },
-    {
-      "businessService": "ADMIN Fees.Parking booking fee",
-      "code": "ADMN.Parking_booking_fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-
-    {
-      "businessService": "O&M Fee.Road cut fees",
-      "code": "OM.Road_Cut_fees",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-
-    {
-      "businessService": "Advertisement Tax.Canopy fee",
-      "code": "ADVT.Canopy fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Advertisement Tax.Outdoor Media Display fee",
-      "code": "ADVT.Outdoor Media Display fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
-      "type": "Adhoc"
     }
 
   ]
