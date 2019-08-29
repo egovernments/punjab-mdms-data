@@ -91,6 +91,38 @@
       "menuPath": "WaterandSewage"
     },
     {
+      "serviceCode": "HowToPayPT",
+      "active": true,
+      "keywords": "pay, property, how",
+      "department": "DEPT_33",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+    {
+      "serviceCode": "WrongCalculationPT",
+      "active": true,
+      "keywords": "calculation, wrong",
+      "department": "DEPT_33",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+    {
+      "serviceCode": "ReceiptNotGenerated",
+      "active": true,
+      "keywords": "genration, generate, receipt, not",
+      "department": "DEPT_33",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+    {
+      "serviceCode": "others",
+      "active": true,
+      "keywords": "other",
+      "department": "DEPT_33",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+    {
       "serviceCode": "DamagedRoad",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
