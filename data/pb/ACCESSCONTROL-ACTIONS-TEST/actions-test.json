@@ -5757,6 +5757,45 @@
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
       "path": ""
+    },
+    {
+      "id": 1835,
+      "name": "MiscReceiptState",
+      "url": "url",
+      "displayName": "Misc Receipt Register State",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptState",
+      "path": "State Reports.UC.Misc Receipts State"
+    },
+    {
+      "id": 1836,
+      "name": "MiscCollectionState",
+      "url": "url",
+      "displayName": "Miscellaneous Collection Register",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscCollectionState",
+      "path": "State Reports.UC.miscellaneous Collection Register"
+    },
+    {
+      "id": 1837,
+      "name": "MiscBusinessServiceCollectionTenant",
+      "url": "url",
+      "displayName": "Misc Business Service Collections",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
+      "path": "Reports.Misc Business Service Collections"
     }
   ]
 }
