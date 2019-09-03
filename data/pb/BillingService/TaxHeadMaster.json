@@ -3898,7 +3898,9 @@
         "isActualDemand": false,
         "order": "0",
         "isRequired": false
+
       },
+
       {
         "category": "TAX",
         "service": "OTHER.Water_Charges",
@@ -3908,172 +3910,9 @@
         "isActualDemand": false,
         "order": "0",
         "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "OTHER.Other_fees",
-        "name": "OTHER.OTHER_FEES_TAX",
-        "code": "OTHER.OTHER_FEES_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "1",
-        "isRequired": true
-      },
-      {
-        "category": "CHARGES",
-        "service": "OTHER.Other_fees",
-        "name": "OTHER.OTHER_FEES_FIELD_FEE",
-        "code": "OTHER.OTHER_FEES_FIELD_FEE",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      }, 
-      {
-        "category": "TAX",
-        "service": "OTHER.Other_fees",
-        "name": "OTHER.OTHER_FEES_CGST",
-        "code": "OTHER.OTHER_FEES_CGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "OTHER.Other_fees",
-        "name": "OTHER.OTHER_FEES_SGST",
-        "code": "OTHER.OTHER_FEES_SGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "CSS.Labor_cess",
-        "name": "CSS.LABOR_CESS_TAX",
-        "code": "CSS.LABOR_CESS_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "1",
-        "isRequired": true
-      },
-      {
-        "category": "CHARGES",
-        "service": "CSS.Labor_cess",
-        "name": "CSS.LABOR_CESS_FIELD_FEE",
-        "code": "CSS.LABOR_CESS_FIELD_FEE",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "CSS.Labor_cess",
-        "name": "CSS.LABOR_CESS_CGST",
-        "code": "CSS.LABOR_CESS_CGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "CSS.Labor_cess",
-        "name": "CSS.LABOR_CESS_SGST",
-        "code": "CSS.LABOR_CESS_SGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "FN.PF_Processing_Fess",
-        "name": "FN.PF_PROCESSING_FEES_TAX",
-        "code": "FN.PF_PROCESSING_FEES_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "1",
-        "isRequired": true
-      },
-      {
-        "category": "CHARGES",
-        "service": "FN.PF_Processing_Fess",
-        "name": "FN.PF_PROCESSING_FEES_FIELD_FEE",
-        "code": "FN.PF_PROCESSING_FEES_FIELD_FEE",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "FN.PF_Processing_Fess",
-        "name": "FN.PF_PROCESSING_FEES_CGST",
-        "code": "FN.PF_PROCESSING_FEES_CGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "FN.PF_Processing_Fess",
-        "name": "FN.PF_PROCESSING_FEES_SGST",
-        "code": "FN.PF_PROCESSING_FEES_SGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-    
-      {
-        "category": "TAX",
-        "service": "OM.Sewerage_connection_disconnection_fees",
-        "name": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_TAX",
-        "code": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_TAX",
-        "isDebit": false,
-        "isActualDemand": true,
-        "order": "1",
-        "isRequired": true
-      },
-      {
-        "category": "CHARGES",
-        "service": "OM.Sewerage_connection_disconnection_fees",
-        "name": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_FIELD_FEE",
-        "code": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_FIELD_FEE",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "OM.Sewerage_connection_disconnection_fees",
-        "name": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_CGST",
-        "code": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_CGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false
-      },
-      {
-        "category": "TAX",
-        "service": "OM.Sewerage_connection_disconnection_fees",
-        "name": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_SGST",
-        "code": "OM.SEWERAGE_CONNECTION_DISCONNECTION_FEES_SGST",
-        "isDebit": false,
-        "isActualDemand": false,
-        "order": "0",
-        "isRequired": false  
-        
-                
-      
-        }
-    
+       }
+           
+     
     
       ]
     
