@@ -1177,8 +1177,60 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"         
-          
+      "type": "Adhoc"   
+      
+      },      
+      
+      {
+        "businessService": "OTHER.Others_fee",
+        "code": "OTHER.Others_Fee",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+      },
+  
+      {
+        "businessService": "Cess.Labor Cess",
+        "code": "CSS.labor_cess",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+      },
+  
+      {
+        "businessService": "Finance Fees.Provident Fund Processing Fees",
+        "code": "FN.Provident_Fund_Processing_Fees",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+      },
+      {
+        "businessService": "O&M Fee.Sewarage disconnection connection fees",
+        "code": "OM.Sewarage_disconnection_connection_fees",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+              
     }
 
   ]
