@@ -1,0 +1,300 @@
+{
+  "tenantId": "pb.narotjaimalsingh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Narotjaimalsingh",
+        "localname": "Narotjaimalsingh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.narotjaimalsingh",
+        "children": [
+          {
+            "id": "999b581f-7f95-4e0b-aec2-bf58d378b7d6",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cad8000d-cba5-4b6a-af4f-50cdd65e4763",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a5cdc719-0fe8-4609-ab5e-0b5a3b3b2a3b",
+                    "boundaryNum": 1,
+                    "name": "Mahajan Mohalla - Ward 1",
+                    "localname": "Mahajan Mohalla - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ff062233-a569-46c7-be97-ee7b05ab6d4f",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "5d2480e4-ec91-42c6-92ba-e37d6a66179f",
+                    "boundaryNum": 1,
+                    "name": "Hospital Wali Gali - Ward 2",
+                    "localname": "Hospital Wali Gali - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34794150-61ca-4a9f-85a0-9ea2e4657db1",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "d1678a70-63e7-47b2-86a9-c5e21bdeb969",
+                    "boundaryNum": 1,
+                    "name": "Nagli Mandir - Ward 3",
+                    "localname": "Nagli Mandir - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "570c94e7-c6ec-4139-80bf-3d8f456e6375",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "9139cd5a-88ac-43b8-8cf3-5cc6b690ea51",
+                    "boundaryNum": 1,
+                    "name": "Arya Smaj Mandir - Ward 4",
+                    "localname": "Arya Smaj Mandir - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6f8caca-6816-4a33-a9fd-11015103b487",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "e7d7665b-5701-4b5a-8d70-bf8967b604db",
+                    "boundaryNum": 1,
+                    "name": "Godri Bazar - Ward 5",
+                    "localname": "Godri Bazar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be34f6e8-50f4-4276-ace1-7e106b612d4d",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "125c458c-61b6-4284-a006-b6650e9c652b",
+                    "boundaryNum": 1,
+                    "name": "Khar Kalan - Ward 6",
+                    "localname": "Khar Kalan - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2b91591d-f480-4469-b2a8-06a5a865fc86",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "2fad5c5f-bca9-41e2-8aaa-d0e9a3359432",
+                    "boundaryNum": 1,
+                    "name": "Siunti - Ward 7",
+                    "localname": "Siunti - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4da91b6c-f18c-4744-b3aa-9ae984bc52ae",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "4fdd5514-caeb-458e-9010-8af46b7e7c3f",
+                    "boundaryNum": 1,
+                    "name": "Kuliyan Mohalla - Ward 8",
+                    "localname": "Kuliyan Mohalla - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8e0d2ea-c98d-4278-9844-b6781b1aaff6",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "f09481e2-e377-439f-8ca5-17a0da5c2073",
+                    "boundaryNum": 1,
+                    "name": "Bada Payain Mohalla - Ward 9",
+                    "localname": "Bada Payain Mohalla - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8d06bab-2b82-4aa9-8f5b-a2df379c503e",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "7e710e30-d173-449c-8c5a-7cfb1f455a85",
+                    "boundaryNum": 1,
+                    "name": "Gandarb Mohalla - Ward 10",
+                    "localname": "Gandarb Mohalla - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1cdb6071-f635-44b8-bd8d-f1e0c0205a44",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "2f552786-24bf-4ac3-ac38-61bc174fa115",
+                    "boundaryNum": 1,
+                    "name": "Khalka Mohalla - Ward 11",
+                    "localname": "Khalka Mohalla - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NJS-LOC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
