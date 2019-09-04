@@ -4079,7 +4079,91 @@
           "isActualDemand": false,
           "order": "0",
           "isRequired": false
-       
+
+        },
+
+        {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Scheme_Charges",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_TAX",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_TAX",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "1",
+            "isRequired": true
+        },
+        {
+            "category": "CHARGES",
+            "service": "NKS.Economics_Weaker_Section_Scheme_Charges",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_FIELD_FEE",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_FIELD_FEE",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+         },
+         {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Scheme_Charges",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_CGST",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_CGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },
+          {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Scheme_Charges",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_SGST",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_SCHEME_CHARGES_SGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },  
+          
+      
+         {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Projects_Fees",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_TAX",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_TAX",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "1",
+            "isRequired": true
+          },
+          {
+            "category": "CHARGES",
+            "service": "NKS.Economics_Weaker_Section_Projects_Fees",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_FIELD_FEE",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_FIELD_FEE",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },
+           {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Projects_Fees",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_CGST",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_CGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },
+          {
+            "category": "TAX",
+            "service": "NKS.Economics_Weaker_Section_Projects_Fees",
+            "name": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_SGST",
+            "code": "NKS.ECONOMICS_WEAKER_SECTION_PROJECTS_FEES_SGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+                
 
        }
            

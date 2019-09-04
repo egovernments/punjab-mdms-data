@@ -1230,6 +1230,34 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"
+
+      },
+      
+      {
+        "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
+        "code": "NKS.Economics_Weaker_Section_Scheme_Charges",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+      },
+  
+      {
+        "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
+        "code": "NKS.Economics_Weaker_Section_Projects_Fees",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+      
               
     }
 
