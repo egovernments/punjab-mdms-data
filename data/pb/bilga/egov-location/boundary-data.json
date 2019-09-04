@@ -1,0 +1,492 @@
+{
+  "tenantId": "pb.bilga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bilga",
+        "localname": "Bilga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bilga",
+        "children": [
+          {
+            "id": "aae61bd0-6e4d-4dbc-a06a-eba4e9a12be7",
+            "boundaryNum": 1,
+            "name": "BILGA",
+            "localname": "BILGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "4e0b74a4-c409-4c94-838b-2ded3c055e4e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f341bb26-a04d-4c3a-9b47-11842cb36b18",
+                    "boundaryNum": 1,
+                    "name": "Patti Bahlai-W1 - WARD_1",
+                    "localname": "Patti Bahlai-W1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14e13abc-d668-4038-80e0-499a4d628800",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "1d407b0a-bbf6-4902-b3d9-f7525bfcd828",
+                    "boundaryNum": 1,
+                    "name": "Patti Bahlai-W2 - WARD_2",
+                    "localname": "Patti Bahlai-W2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b740f3dd-f33a-49c0-8e16-4ed248bcd3f5",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "8ffac9c0-3521-4673-baef-b53373f1ebbc",
+                    "boundaryNum": 1,
+                    "name": "Patti Bahlai-W3 - WARD_3",
+                    "localname": "Patti Bahlai-W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1341386f-d34d-46c4-83b6-bf984eba4120",
+                    "boundaryNum": 1,
+                    "name": "Patti Dunia Mansoor-W3 - WARD_3",
+                    "localname": "Patti Dunia Mansoor-W3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5a6d375-3e69-478a-ad5d-07bffefa3b74",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "635bb387-33e4-4197-8c8c-14d957d072f6",
+                    "boundaryNum": 1,
+                    "name": "Patti Neelowal-W4 - WARD_4",
+                    "localname": "Patti Neelowal-W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "eef584aa-374e-47d9-a595-e081265e8d7f",
+                    "boundaryNum": 1,
+                    "name": "Patti Dunia Mansoor-W4 - WARD_4",
+                    "localname": "Patti Dunia Mansoor-W4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f9bc5a00-8688-483d-8edb-dce78fee68b0",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "afd5f6b5-055c-49c8-ba61-b65f305f2ced",
+                    "boundaryNum": 1,
+                    "name": "Patti Neelowal-W5 - WARD_5",
+                    "localname": "Patti Neelowal-W5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b0e97919-5ad4-447b-863d-8dae717c62bd",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "a6612fd5-918d-4e78-8757-2f17bd1acfea",
+                    "boundaryNum": 1,
+                    "name": "Patti Neelowal-W6 - WARD_6",
+                    "localname": "Patti Neelowal-W6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a0f149a5-9389-4e74-b954-6d9071f7fe09",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "d1f7e727-c169-4e0d-b70d-46b13e894186",
+                    "boundaryNum": 1,
+                    "name": "Patti Neelowal-W7 - WARD_7",
+                    "localname": "Patti Neelowal-W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7df882d7-3d07-4058-aa33-4e041da18549",
+                    "boundaryNum": 1,
+                    "name": "Patti Bagga-W7 - WARD_7",
+                    "localname": "Patti Bagga-W7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c23fe576-19c6-49ae-ab57-7c5cc591fb24",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "e8225964-52bd-47b4-9497-35b6353d1be9",
+                    "boundaryNum": 1,
+                    "name": "Patti Neelowal-W8 - WARD_8",
+                    "localname": "Patti Neelowal-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4b501730-d8e6-4ae3-99af-7f55b1b12264",
+                    "boundaryNum": 1,
+                    "name": "Patti Bagga-W8 - WARD_8",
+                    "localname": "Patti Bagga-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ae5b4da-4d01-4a83-a7fb-948ad2a675c5",
+                    "boundaryNum": 1,
+                    "name": "Patti Bhoja-W8 - WARD_8",
+                    "localname": "Patti Bhoja-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9ff16f7d-0625-4786-b186-160353d42d28",
+                    "boundaryNum": 1,
+                    "name": "Patti Mehna-W8 - WARD_8",
+                    "localname": "Patti Mehna-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2e523b29-13a1-4f8c-a35c-19f63dbe1275",
+                    "boundaryNum": 1,
+                    "name": "Parri Bhatti-W8 - WARD_8",
+                    "localname": "Parri Bhatti-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fb682409-b618-4db3-9212-46368bf07a91",
+                    "boundaryNum": 1,
+                    "name": "Patti Bahlai-W8 - WARD_8",
+                    "localname": "Patti Bahlai-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0f344189-595a-4107-8e63-dee962b308db",
+                    "boundaryNum": 1,
+                    "name": "Patti Dunia Mansoor-W8 - WARD_8",
+                    "localname": "Patti Dunia Mansoor-W8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bb6bfe8f-94bc-4cf7-9523-e4c0e6e8cca8",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "1416b5fb-7cce-46ac-b52f-7e99d0a60775",
+                    "boundaryNum": 1,
+                    "name": "Patti Bagga-W9 - WARD_9",
+                    "localname": "Patti Bagga-W9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0926d134-949e-4e52-88ee-6d32baa5550f",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "c87d8375-90b9-4d4c-a632-c06a3ac4f406",
+                    "boundaryNum": 1,
+                    "name": "Patti Bhoja-W10 - WARD_10",
+                    "localname": "Patti Bhoja-W10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4756b2d0-25bc-4f85-8309-2b4259483bce",
+                    "boundaryNum": 1,
+                    "name": "Patti Mehna-W10 - WARD_10",
+                    "localname": "Patti Mehna-W10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bc2a0ecb-96a1-43d4-bc38-8ff27fdf5764",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "f2b7b494-4021-47d8-aa75-3de458e72b88",
+                    "boundaryNum": 1,
+                    "name": "Patti Bhoja-W11 - WARD_11",
+                    "localname": "Patti Bhoja-W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "84522261-8f68-4bff-ba10-84b17e575616",
+                    "boundaryNum": 1,
+                    "name": "Parri Bhatti-W11 - WARD_11",
+                    "localname": "Parri Bhatti-W11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8682834-423c-4de1-977d-bccef6b47afb",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "d66ec4ab-30d0-4041-ad2a-10420899728a",
+                    "boundaryNum": 1,
+                    "name": "Patti Bhoja-W12 - WARD_12",
+                    "localname": "Patti Bhoja-W12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f8c31b9d-b659-488a-a4c5-7fd7d02fde5a",
+                    "boundaryNum": 1,
+                    "name": "Parri Bhatti-W12 - WARD_12",
+                    "localname": "Parri Bhatti-W12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a38a6cf-4398-407c-a60f-0fa2db439ed9",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "5367c7a6-4f9d-47a9-af1c-1685332daed1",
+                    "boundaryNum": 1,
+                    "name": "Parri Bhatti-W13 - WARD_13",
+                    "localname": "Parri Bhatti-W13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
