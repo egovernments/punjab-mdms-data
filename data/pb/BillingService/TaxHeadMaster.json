@@ -3412,6 +3412,172 @@
         "isActualDemand": false,
         "order": "0",
         "isRequired": false
+
+        },
+
+        {
+          "category": "TAX",
+          "service": "OM.Road_cut_fees",
+          "name": "OM.ROAD_CUT_FEES_TAX",
+          "code": "OM.ROAD_CUT_FEES_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+      },
+      {
+          "category": "CHARGES",
+          "service": "OM.Road_cut_fees",
+          "name": "OM.ROAD_CUT_FEES_FIELD_FEE",
+          "code": "OM.ROAD_CUT_FEES_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       },
+       {
+          "category": "TAX",
+          "service": "OM.Road_cut_fees",
+          "name": "OM.ROAD_CUT_FEES_CGST",
+          "code": "OM.ROAD_CUT_FEES_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OM.Road_cut_fees",
+          "name": "OM.ROAD_CUT_FEES_SGST",
+          "code": "OM.ROAD_CUT_FEES_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADMN.Parking_booking_fee",
+          "name": "ADMN.PARKING_BOOKING_FEE_TAX",
+          "code": "ADMN.PARKING_BOOKING_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "ADMN.Parking_booking_fee",
+          "name": "ADMN.PARKING_BOOKING_FEE_FIELD_FEE",
+          "code": "ADMN.PARKING_BOOKING_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADMN.Parking_booking_fee",
+          "name": "ADMN.PARKING_BOOKING_FEE_CGST",
+          "code": "ADMN.PARKING_BOOKING_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADMN.Parking_booking_fee",
+          "name": "ADMN.PARKING_BOOKING_FEE_SGST",
+          "code": "ADMN.PARKING_BOOKING_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+    
+        {
+          "category": "TAX",
+          "service": "ADVT.Canopy_Fee",
+          "name": "ADVT.CANOPY_FEE_TAX",
+          "code": "ADVT.CANOPY_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "ADVT.Canopy_Fee",
+          "name": "ADVT.CANOPY_FEE_FIELD_FEE",
+          "code": "ADVT.CANOPY_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Canopy_Fee",
+          "name": "ADVT.CANOPY_FEE_CGST",
+          "code": "ADVT.CANOPY_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Canopy_Fee",
+          "name": "ADVT.CANOPY_FEE_SGST",
+          "code": "ADVT.CANOPY_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+    
+    
+        {
+          "category": "TAX",
+          "service": "ADVT.Outdoor_Media_Display_Fee",
+          "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
+          "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "ADVT.Outdoor_Media_Display_Fee",
+          "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
+          "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Outdoor_Media_Display_Fee",
+          "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
+          "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Outdoor_Media_Display_Fee",
+          "name": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
+          "code": "ADVT.OUTDOOR_MEDIA_DISPLAY_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+           
       
       }       
     

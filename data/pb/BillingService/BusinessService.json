@@ -1025,6 +1025,57 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"
+        
+        }, 
+        {
+          "businessService": "O&M Fee.Road cut fees",
+          "code": "OM.Road_cut_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+        },
+      
+        {
+          "businessService": "ADMIN Fees.Parking booking fee",
+          "code": "ADMN.Parking_booking_fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+        },
+      
+        {
+          "businessService": "Advertisement Tax.Canopy Fee",
+          "code": "ADVT.Canopy_Fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+        },
+        {
+          "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+          "code": "ADVT.Outdoor_Media_Display_Fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"    
   
       
     }      
