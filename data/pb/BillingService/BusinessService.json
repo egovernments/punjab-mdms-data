@@ -1025,9 +1025,150 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"
-  
-      
-    }      
+
+        }, 
+        {
+          "businessService": "Naksha_Building Manual Fees.Building_fees",
+          "code": "NKS.Building_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
+         {
+          "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
+          "code": "NKS.Boundary_wall_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
+         {
+          "businessService": "Naksha_Building Manual Fees.Malba_fees",
+          "code": "NKS.Malba_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
+         {
+          "businessService": "Naksha_Building Manual Fees.Development_fees",
+          "code": "NKS.Development_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
+         {
+          "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
+          "code": "NKS.Change_of_land_use_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
+         {
+          "businessService": "Naksha_Building Manual Fees.Under_development_fees",
+          "code": "NKS.Under_development_fees",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }, 
     
-  ]
-}
+         {
+          "businessService": "OTHER.Water_Charges",
+          "code": "OTHER.Water_Charges",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"   
+          
+          },      
+          
+          {
+            "businessService": "OTHER.Others_fee",
+            "code": "OTHER.Others_fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+      
+          {
+            "businessService": "Cess.Labor Cess",
+            "code": "CSS.labor_cess",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+      
+          {
+            "businessService": "Finance Fees.Provident Fund Processing Fees",
+            "code": "FN.Provident_Fund_Processing_Fees",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+          {
+            "businessService": "O&M Fee.Sewerage disconnection connection fees",
+            "code": "OM.Sewerage_disconnection_connection_fees",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+                  
+        }
+    
+      ]
+      
+    }
+      
+      
+   
