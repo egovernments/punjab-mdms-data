@@ -3413,7 +3413,464 @@
         "order": "0",
         "isRequired": false
       
-      }       
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Building_fees",
+        "name": "NKS.BUILDING_FEES_TAX",
+        "code": "NKS.BUILDING_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Building_fees",
+        "name": "NKS.BUILDING_FEES_FIELD_FEE",
+        "code": "NKS.BUILDING_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Building_fees",
+        "name": "NKS.BUILDING_FEES_CGST",
+        "code": "NKS.BUILDING_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Building_fees",
+        "name": "NKS.BUILDING_FEES_SGST",
+        "code": "NKS.BUILDING_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Boundary_wall_fees",
+        "name": "NKS.BOUNDARY_WALL_FEES_TAX",
+        "code": "NKS.BOUNDARY_WALL_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Boundary_wall_fees",
+        "name": "NKS.BOUNDARY_WALL_FEES_FIELD_FEE",
+        "code": "NKS.BOUNDARY_WALL_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Boundary_wall_fees",
+        "name": "NKS.BOUNDARY_WALL_FEES_CGST",
+        "code": "NKS.BOUNDARY_WALL_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Boundary_wall_fees",
+        "name": "NKS.BOUNDARY_WALL_FEES_SGST",
+        "code": "NKS.BOUNDARY_WALL_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Malba_fees",
+        "name": "NKS.MALBA_FEES_TAX",
+        "code": "NKS.MALBA_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Malba_fees",
+        "name": "NKS.MALBA_FEES_FIELD_FEE",
+        "code": "NKS.MALBA_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Malba_fees",
+        "name": "NKS.MALBA_FEES_CGST",
+        "code": "NKS.MALBA_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Malba_fees",
+        "name": "NKS.MALBA_FEES_SGST",
+        "code": "NKS.MALBA_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Development_fees",
+        "name": "NKS.DEVELOPMENT_FEES_TAX",
+        "code": "NKS.DEVELOPMENT_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Development_fees",
+        "name": "NKS.DEVELOPMENT_FEES_FIELD_FEE",
+        "code": "NKS.DEVELOPMENT_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Development_fees",
+        "name": "NKS.DEVELOPMENT_FEES_CGST",
+        "code": "NKS.DEVELOPMENT_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Development_fees",
+        "name": "NKS.DEVELOPMENT_FEES_SGST",
+        "code": "NKS.DEVELOPMENT_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Change_of_land_use_fees",
+        "name": "NKS.CHANGE_OF_LAND_USE_FEES_TAX",
+        "code": "NKS.CHANGE_OF_LAND_USE_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Change_of_land_use_fees",
+        "name": "NKS.CHANGE_OF_LAND_USE_FEES_FIELD_FEE",
+        "code": "NKS.CHANGE_OF_LAND_USE_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Change_of_land_use_fees",
+        "name": "NKS.CHANGE_OF_LAND_USE_FEES_CGST",
+        "code": "NKS.CHANGE_OF_LAND_USE_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Change_of_land_use_fees",
+        "name": "NKS.CHANGE_OF_LAND_USE_FEES_SGST",
+        "code": "NKS.CHANGE_OF_LAND_USE_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Under_development_fees",
+        "name": "NKS.UNDER_DEVELOPMENT_FEES_TAX",
+        "code": "NKS.UNDER_DEVELOPMENT_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Under_development_fees",
+        "name": "NKS.UNDER_DEVELOPMENT_FEES_FIELD_FEE",
+        "code": "NKS.UNDER_DEVELOPMENT_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Under_development_fees",
+        "name": "NKS.UNDER_DEVELOPMENT_FEES_CGST",
+        "code": "NKS.UNDER_DEVELOPMENT_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Under_development_fees",
+        "name": "NKS.UNDER_DEVELOPMENT_FEES_SGST",
+        "code": "NKS.UNDER_DEVELOPMENT_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "OTHER.Water_Charges",
+        "name": "OTHER.WATER_CHARGES_TAX",
+        "code": "OTHER.WATER_CHARGES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "OTHER.Water_Charges",
+        "name": "OTHER.WATER_CHARGES_FIELD_FEE",
+        "code": "OTHER.WATER_CHARGES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "OTHER.Water_Charges",
+        "name": "OTHER.WATER_CHARGES_CGST",
+        "code": "OTHER.WATER_CHARGES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+
+      },
+
+      {
+        "category": "TAX",
+        "service": "OTHER.Water_Charges",
+        "name": "OTHER.WATER_CHARGES_SGST",
+        "code": "OTHER.WATER_CHARGES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+
+       },
+
+
+       {
+          "category": "TAX",
+          "service": "OTHER.Others_fee",
+          "name": "OTHER.OTHERS_FEE_TAX",
+          "code": "OTHER.OTHERS_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "OTHER.Others_fee",
+          "name": "OTHER.OTHERS_FEE_FIELD_FEE",
+          "code": "OTHER.OTHERS_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        }, 
     
-  ]
-}
+        {
+          "category": "TAX",
+          "service": "OTHER.Others_fee",
+          "name": "OTHER.OTHERS_FEE_CGST",
+          "code": "OTHER.OTHERS_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OTHER.Others_fee",
+          "name": "OTHER.OTHERS_FEE_SGST",
+          "code": "OTHER.OTHERS_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+    
+    
+        {
+          "category": "TAX",
+          "service": "CSS.labor_cess",
+          "name": "CSS.LABOR_CESS_TAX",
+          "code": "CSS.LABOR_CESS_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "CSS.labor_cess",
+          "name": "CSS.LABOR_CESS_FIELD_FEE",
+          "code": "CSS.LABOR_CESS_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+       {
+          "category": "TAX",
+          "service": "CSS.labor_cess",
+          "name": "CSS.LABOR_CESS_CGST",
+          "code": "CSS.LABOR_CESS_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "CSS.labor_cess",
+          "name": "CSS.LABOR_CESS_SGST",
+          "code": "CSS.LABOR_CESS_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+     
+    
+        {
+          "category": "TAX",
+          "service": "FN.Provident_Fund_Processing_Fees",
+          "name": "FN.PROVIDENT_FUND_PROCESSING_FEES_TAX",
+          "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "FN.Provident_Fund_Processing_Fees",
+          "name": "FN.PROVIDENT_FUND_PROCESSING_FEES_FIELD_FEE",
+          "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "FN.Provident_Fund_Processing_Fees",
+          "name": "FN.PROVIDENT_FUND_PROCESSING_FEES_CGST",
+          "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "FN.Provident_Fund_Processing_Fees",
+          "name": "FN.PROVIDENT_FUND_PROCESSING_FEES_SGST",
+          "code": "FN.PROVIDENT_FUND_PROCESSING_FEES_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+     
+        {
+          "category": "TAX",
+          "service": "OM.Sewerage_disconnection_connection_fees",
+          "name": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_TAX",
+          "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "OM.Sewerage_disconnection_connection_fees",
+          "name": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_FIELD_FEE",
+          "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OM.Sewerage_disconnection_connection_fees",
+          "name": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_CGST",
+          "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OM.Sewerage_disconnection_connection_fees",
+          "name": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_SGST",
+          "code": "OM.SEWERAGE_DISCONNECTION_CONNECTION_FEES_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       
+
+       }
+           
+     
+    
+      ]
+    
+    }
+      
