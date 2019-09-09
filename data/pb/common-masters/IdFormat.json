@@ -404,6 +404,11 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "advt.outdoor_media_display_fee.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "advt.test_munadi_fee.receipt.id"
         }
+
     ]
 }
