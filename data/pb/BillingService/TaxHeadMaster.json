@@ -4163,9 +4163,49 @@
             "isActualDemand": false,
             "order": "0",
             "isRequired": false
-                
-
-       }
+          },  
+          
+      
+       {
+          "category": "TAX",
+          "service": "ADVT.Test_Munadi_Fee",
+          "name": "ADVT.TEST_MUNADI_FEE_TAX",
+          "code": "ADVT.TEST_MUNADI_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "ADVT.Test_Munadi_Fee",
+          "name": "ADVT.TEST_MUNADI_FEE_FIELD_FEE",
+          "code": "ADVT.TEST_MUNADI_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Test_Munadi_Fee",
+          "name": "ADVT.TEST_MUNADI_FEE_CGST",
+          "code": "ADVT.TEST_MUNADI_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "ADVT.Test_Munadi_Fee",
+          "name": "ADVT.TEST_MUNADI_FEE_SGST",
+          "code": "ADVT.TEST_MUNADI_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        }
            
      
     

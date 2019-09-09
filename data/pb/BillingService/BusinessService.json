@@ -1244,8 +1244,7 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"
-      },
-  
+      },  
       {
         "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
         "code": "NKS.Economics_Weaker_Section_Projects_Fees",
@@ -1256,10 +1255,22 @@
         "isAdvanceAllowed": false,
         "isVoucherCreationEnabled": true,
         "isActive": true,
-        "type": "Adhoc"
-      
-              
-    }
+        "type": "Adhoc"   
+      },  
+      {
+        "businessService": "Advertisement Tax.Test Munadi Fee",
+        "code": "ADVT.Test_Munadi_Fee",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"   
+      }
+
+    
 
   ]
   
