@@ -1268,6 +1268,18 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"   
+      },  
+      {
+        "businessService": "Advertisement Tax.Testing New Service",
+        "code": "ADVT.Testing_New_Service",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"   
       }
 
     
