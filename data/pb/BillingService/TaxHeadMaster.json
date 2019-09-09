@@ -4205,7 +4205,49 @@
           "isActualDemand": false,
           "order": "0",
           "isRequired": false
-        }
+        },  
+          
+      
+        {
+           "category": "TAX",
+           "service": "ADVT.Testing_New_Service",
+           "name": "ADVT.TESTING_NEW_SERVICE_TAX",
+           "code": "ADVT.TESTING_NEW_SERVICE_TAX",
+           "isDebit": false,
+           "isActualDemand": true,
+           "order": "1",
+           "isRequired": true
+         },
+         {
+           "category": "CHARGES",
+           "service": "ADVT.Testing_New_Service",
+           "name": "ADVT.TESTING_NEW_SERVICE_FIELD_FEE",
+           "code": "ADVT.TESTING_NEW_SERVICE_FIELD_FEE",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+         },
+         {
+           "category": "TAX",
+           "service": "ADVT.Testing_New_Service",
+           "name": "ADVT.TESTING_NEW_SERVICE_CGST",
+           "code": "ADVT.TESTING_NEW_SERVICE_CGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+         },
+         {
+           "category": "TAX",
+           "service": "ADVT.Testing_New_Service",
+           "name": "ADVT.TESTING_NEW_SERVICE_SGST",
+           "code": "ADVT.TESTING_NEW_SERVICE_SGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+         }
            
      
     
