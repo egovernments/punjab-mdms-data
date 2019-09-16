@@ -5822,6 +5822,21 @@
       "navigationURL": "integration/dashboard/miscellaneouscollections",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1840,
+      "name": "ULBLevelStatus",
+      "url": "url",
+      "displayName": "Application Status",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.Status Report",
+      "navigationURL": "report/rainmaker-tl/ULBLevelStatus",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }  
   ]
 }
