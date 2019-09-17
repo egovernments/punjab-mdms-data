@@ -5639,6 +5639,21 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
       "path": "Reports.Misc Business Service Collections"
+    },
+    {
+      "id": 1831,
+      "name": "ULBLevelStatus",
+      "url": "url",
+      "displayName": "Application Status",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.Status Report",
+      "navigationURL": "report/rainmaker-tl/ULBLevelStatus",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
