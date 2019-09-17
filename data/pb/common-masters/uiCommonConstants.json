@@ -95,10 +95,16 @@
             "title": "DASHBOARD_TITLE_FINANCE_ROLLOUT_ADOPTION"
           },
           "Miscellaneous": {
-            "routePath": "/kibana/app/kibana#/dashboard/c0fe7a80-d525-11e9-8fb4-fd339ccc072c?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3A%272018-05-31T18%3A30%3A00.000Z%27%2Cmode%3Aabsolute%2Cto%3A%272020-03-31T18%3A29%3A59.999Z%27))",
+            "routePath": "/kibana/app/kibana#/dashboard/c0fe7a80-d525-11e9-8fb4-fd339ccc072c?embed=true&_g=(refreshInterval:(pause:!t,value:0),time:(from:'2019-05-31T18:30:00.000Z',mode:absolute,to:'2019-12-31T18:29:59.999Z'))&_a=(description:'',filters:!(),fullScreenMode:!f,options:(darkTheme:!f,hidePanelTitles:!f,useMargins:!t),panels:!((embeddableConfig:(),gridData:(h:24,i:'1',w:24,x:0,y:35),id:'26b8e060-d524-11e9-8fb4-fd339ccc072c',panelIndex:'1',title:'Collections%20and%20Transactions%20By%20Category',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:24,i:'2',w:24,x:24,y:35),id:'69b83690-d524-11e9-8fb4-fd339ccc072c',panelIndex:'2',title:'Collections%20and%20Transactions%20By%20ULB',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:12,i:'3',w:17,x:0,y:8),id:cad0a0c0-d524-11e9-8fb4-fd339ccc072c,panelIndex:'3',title:'Total%20Collections',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:12,i:'4',w:15,x:17,y:8),id:d8334b50-d524-11e9-8fb4-fd339ccc072c,panelIndex:'4',title:'Total%20Transactions',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:12,i:'5',w:16,x:32,y:8),id:f3beaf90-d524-11e9-8fb4-fd339ccc072c,panelIndex:'5',title:'Total%20ULBs%20with%20Non%20Zero%20Transactions',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:15,i:'7',w:24,x:0,y:20),id:'8370ba20-d525-11e9-8fb4-fd339ccc072c',panelIndex:'7',title:'Collections%20By%20Category',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:8,i:'9',w:48,x:0,y:0),id:e570cfc0-d526-11e9-8fb4-fd339ccc072c,panelIndex:'9',title:Filters,type:visualization,version:'6.4.2'),(embeddableConfig:(vis:(colors:(ADVT.Outdoor_Media_Display_Fee:%236ED0E0,NKS.Development_fees:%231F78C1,'Total%20Collections':%231F78C1),legendOpen:!f)),gridData:(h:15,i:'10',w:24,x:24,y:20),id:ca5ee5a0-d544-11e9-8fb4-fd339ccc072c,panelIndex:'10',title:'Weekly%20Collections%20By%20Category',type:visualization,version:'6.4.2')),query:(language:lucene,query:''),timeRestore:!t,title:'Misc_Collection%20State%20Admin%20Dashboard',viewMode:view)",
             "isOrigin": false,
             "domain": "https://mseva.lgpunjab.gov.in",
             "title": "DASHBOARD_TITLE_MISC"
+          },
+          "misc": {
+            "routePath": "/kibana/app/kibana#/dashboard/c0fe7a80-d525-11e9-8fb4-fd339ccc072c?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3A%272018-05-31T18%3A30%3A00.000Z%27%2Cmode%3Aabsolute%2Cto%3A%272020-03-31T18%3A29%3A59.999Z%27))",
+            "isOrigin": false,
+            "domain": "https://mseva.lgpunjab.gov.in",
+            "title": "DASHBOARD_TITLE_MIC"
           }
         }
       }
