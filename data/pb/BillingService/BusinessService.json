@@ -1280,6 +1280,21 @@
         "isVoucherCreationEnabled": true,
         "isActive": true,
         "type": "Adhoc"   
+
+      }, 
+      {
+          "businessService": "Taxes.Property Tax 2013-14",
+          "code": "TX.Property_Tax_2013-14",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"           
+
+
       }
 
     
