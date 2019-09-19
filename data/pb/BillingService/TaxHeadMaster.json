@@ -4247,6 +4247,48 @@
            "isActualDemand": false,
            "order": "0",
            "isRequired": false
+
+         },
+         {
+            "category": "TAX",
+            "service": "TX.Property_Tax_2013-14",
+            "name": "TX.Property_Tax_2013-14_TAX",
+            "code": "TX.Property_Tax_2013-14_TAX",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "1",
+            "isRequired": true
+          },
+          {
+            "category": "CHARGES",
+            "service": "TX.Property_Tax_2013-14",
+            "name": "TX.Property_Tax_2013-14_FIELD_FEE",
+            "code": "TX.Property_Tax_2013-14_FIELD_FEE",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },
+          {
+            "category": "TAX",
+            "service": "TX.Property_Tax_2013-14",
+            "name": "TX.Property_Tax_2013-14_CGST",
+            "code": "TX.Property_Tax_2013-14_CGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+          },
+          {
+            "category": "TAX",
+            "service": "TX.Property_Tax_2013-14",
+            "name": "TX.Property_Tax_2013-14_SGST",
+            "code": "TX.Property_Tax_2013-14_SGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+         
          }
            
      
