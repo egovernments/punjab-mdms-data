@@ -289,6 +289,93 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
+
+    }, 
+    {
+        "serviceCode": "CleaningOfDrains",
+        "active": true,
+        "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+        "department": "DEPT_4",
+        "slaHours": 336,
+        "menuPath": "Drains"
+     },
+     {
+        "serviceCode": "WaterEnteredHouseRainySeason",
+        "active": true,
+        "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+        "department": "DEPT_4",
+        "slaHours": 336,
+        "menuPath": "Drains"
+   
+     },
+     {
+        "serviceCode": "InstallationOfNewStreetLight",
+        "active": true,
+        "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+        "department": "DEPT_1",
+        "slaHours": 336,
+        "menuPath": "StreetLights"
+  
+     },
+     {
+          "serviceCode": "NonSweepingOfRoad",
+          "active": true,
+          "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+          "department": "DEPT_3",
+          "slaHours": 336,
+          "menuPath": "Garbage"
+  
+     },
+     {
+          "serviceCode": "CongressGrassCutting",
+          "active": true,
+          "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+          "department": "DEPT_3",
+          "slaHours": 336,
+          "menuPath": "Garbage"    
+     }, 
+     {
+            "serviceCode": "SewageMainHoleCoverMissingOrBroken",
+            "active": true,
+            "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+            "department": "DEPT_4",
+            "slaHours": 336,
+            "menuPath": "WaterandSewage"
+     },      
+     {
+            "serviceCode": "SewerageManholeCoverRaising",
+            "active": true,
+            "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+            "department": "DEPT_4",
+            "slaHours": 336,
+            "menuPath": "WaterandSewage"
+     },    
+       
+     {
+            "serviceCode": "CleaningOfSewageRemoveSLURRYGaar",
+            "active": true,
+            "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+            "department": "DEPT_4",
+            "slaHours": 336,
+            "menuPath": "WaterandSewage"  
+  
+     },  
+     {
+            "serviceCode": "IllegalRehriesOnRoad",
+            "active": true,
+            "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+            "department": "DEPT_2",
+            "slaHours": 336,
+            "menuPath": "RoadsAndFootpaths"
+     },          
+     {
+            "serviceCode": "RoadJalliBroken",
+            "active": true,
+            "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+            "department": "DEPT_2",
+            "slaHours": 336,
+            "menuPath": "RoadsAndFootpaths"
+
     }
   ]
 }
