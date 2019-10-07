@@ -1,7 +1,8 @@
 {
     "tenantId": "pb",
     "moduleName": "common-masters",
-    "IdFormat": [{
+    "IdFormat": [
+        {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "watercharges.metered.receipt.id"
         },
@@ -408,18 +409,14 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "advt.test_munadi_fee.receipt.id"
-
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "tx.property_tax_2013-14.receipt.id"
-        
-
         },
         {
             "format": "RG/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_FIN_[TENANT_ID]]",
             "idname": "rev_grants.receipt.id"
         }
-        
     ]
 }
