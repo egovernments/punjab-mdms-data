@@ -415,7 +415,7 @@
             "idname": "tx.property_tax_2013-14.receipt.id"
         },
         {
-            "format": "RG/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_FIN_[TENANT_ID]]",
+            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
             "idname": "rev_grants.receipt.id"
         }
     ]
