@@ -5905,6 +5905,21 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
+    },
+     {
+      "id": 1846,
+      "name": "SearchTradeLicenseApplicationReport",
+      "url": "url",
+      "displayName": "TL Search",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.SearchTradeLicenseApplicationReport",
+      "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
