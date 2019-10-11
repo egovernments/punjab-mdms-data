@@ -4288,6 +4288,49 @@
             "isActualDemand": false,
             "order": "0",
             "isRequired": false
+
+          }, 
+          {
+            "category": "TAX",
+            "service": "OTHER.Noc_fee",
+            "name": "OTHER.NOC_FEE_TAX",
+            "code": "OTHER.NCO_FEE_TAX",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "1",
+            "isRequired": true
+          },
+          {
+            "category": "CHARGES",
+            "service": "OTHER.Noc_fee",
+            "name": "OTHER.NOC_FEE_FIELD_FEE",
+            "code": "OTHER.NOC_FEE_FIELD_FEE",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+            }, 
+        
+            {
+            "category": "TAX",
+            "service": "OTHER.Noc_fee",
+            "name": "OTHER.NOC_FEE_CGST",
+            "code": "OTHER.NCO_FEE_CGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+            },
+            {
+            "category": "TAX",
+            "service": "OTHER.Noc_fee",
+            "name": "OTHER.NOC_FEE_SGST",
+            "code": "OTHER.NOC_FEE_SGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+              
          
          }
            

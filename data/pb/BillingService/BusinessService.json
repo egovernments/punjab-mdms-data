@@ -1292,8 +1292,20 @@
           "isAdvanceAllowed": false,
           "isVoucherCreationEnabled": true,
           "isActive": true,
-          "type": "Adhoc"           
-
+          "type": "Adhoc"   
+        },            
+        {
+          "businessService": "OTHER.Noc_fee",
+          "code": "OTHER.Noc_fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+          
 
       }
 
