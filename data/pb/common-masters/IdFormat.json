@@ -421,7 +421,7 @@
               
         },
         {
-            "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+            "format": "REV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_FIN_[TENANT_ID]]",
             "idname": "rev_grants.receipt.id"
         }
     ]
