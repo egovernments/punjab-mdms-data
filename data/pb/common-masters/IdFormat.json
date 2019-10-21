@@ -423,6 +423,14 @@
         {
             "format": "REV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_FIN_[TENANT_ID]]",
             "idname": "rev_grants.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.fire_tender_fee.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.fire_call_report_fee.receipt.id"
         }
     ]
 }
