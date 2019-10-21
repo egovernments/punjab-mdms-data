@@ -1307,7 +1307,43 @@
           "type": "Adhoc"
           
 
-      }
+      },            
+      {
+        "businessService": "OTHER.Fire_Noc_fee",
+        "code": "OTHER.Fire_Noc_fee",
+        "collectionModesNotAllowed": [
+          "DD"
+        ],
+        "partPaymentAllowed": false,
+        "isAdvanceAllowed": false,
+        "isVoucherCreationEnabled": true,
+        "isActive": true,
+        "type": "Adhoc"
+       },            
+       {
+         "businessService": "OTHER.Fire_Tender_fee",
+         "code": "OTHER.Fire_Tender_fee",
+         "collectionModesNotAllowed": [
+           "DD"
+         ],
+         "partPaymentAllowed": false,
+         "isAdvanceAllowed": false,
+         "isVoucherCreationEnabled": true,
+         "isActive": true,
+         "type": "Adhoc"
+        },            
+        {
+          "businessService": "OTHER.Fire_Call_Report_fee",
+          "code": "OTHER.Fire_Call_Report_fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         }
 
     
 

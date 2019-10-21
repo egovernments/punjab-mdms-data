@@ -4310,7 +4310,6 @@
             "order": "0",
             "isRequired": false
             }, 
-        
             {
             "category": "TAX",
             "service": "OTHER.Noc_fee",
@@ -4330,9 +4329,132 @@
             "isActualDemand": false,
             "order": "0",
             "isRequired": false
-              
-         
-         }
+         }, 
+         {
+           "category": "TAX",
+           "service": "OTHER.Fire_Noc_fee",
+           "name": "OTHER.FIRE_NOC_FEE_TAX",
+           "code": "OTHER.FIRE_NOC_FEE_TAX",
+           "isDebit": false,
+           "isActualDemand": true,
+           "order": "1",
+           "isRequired": true
+         },
+         {
+           "category": "CHARGES",
+           "service": "OTHER.Fire_Noc_fee",
+           "name": "OTHER.FIRE_NOC_FEE_FIELD_FEE",
+           "code": "OTHER.FIRE_NOC_FEE_FIELD_FEE",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+           }, 
+       
+           {
+           "category": "TAX",
+           "service": "OTHER.Fire_Noc_fee",
+           "name": "OTHER.OTHER.FIRE_NOC_FEE_CGST",
+           "code": "OTHER.OTHER.FIRE_NOC_FEE_CGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+           },
+           {
+           "category": "TAX",
+           "service": "OTHER.Fire_Noc_fee",
+           "name": "OTHER.FIRE_NOC_FEE_SGST",
+           "code": "OTHER.FIRE_NOC_FEE_SGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+             
+        
+        }, 
+        {
+          "category": "TAX",
+          "service": "OTHER.Fire_Tender_fee",
+          "name": "OTHER.FIRE_TENDER_FEE_TAX",
+          "code": "OTHER.FIRE_TENDER_FEE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "OTHER.Fire_Tender_fee",
+          "name": "OTHER.FIRE_TENDER_FEE_FIELD_FEE",
+          "code": "OTHER.FIRE_TENDER_FEE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+          }, 
+      
+          {
+          "category": "TAX",
+          "service": "OTHER.Fire_Tender_fee",
+          "name": "OTHER.FIRE_TENDER_FEE_CGST",
+          "code": "OTHER.FIRE_TENDER_FEE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+          },
+          {
+          "category": "TAX",
+          "service": "OTHER.Fire_Tender_fee",
+          "name": "OTHER.FIRE_TENDER_FEE_SGST",
+          "code": "OTHER.FIRE_TENDER_FEE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       }, 
+       {
+         "category": "TAX",
+         "service": "OTHER.Fire_Call_Report_fee",
+         "name": "OTHER.FIRE_CALL_REPORT_FEE_TAX",
+         "code": "OTHER.FIRE_CALL_REPORT_FEE_TAX",
+         "isDebit": false,
+         "isActualDemand": true,
+         "order": "1",
+         "isRequired": true
+       },
+       {
+         "category": "CHARGES",
+         "service": "OTHER.Fire_Call_Report_fee",
+         "name": "OTHER.FIRE_CALL_REPORT_FEE_FIELD_FEE",
+         "code": "OTHER.FIRE_CALL_REPORT_FEE_FIELD_FEE",
+         "isDebit": false,
+         "isActualDemand": false,
+         "order": "0",
+         "isRequired": false
+         }, 
+     
+         {
+         "category": "TAX",
+         "service": "OTHER.Fire_Call_Report_fee",
+         "name": "OTHER.FIRE_CALL_REPORT_FEE_CGST",
+         "code": "OTHER.FIRE_CALL_REPORT_FEE_CGST",
+         "isDebit": false,
+         "isActualDemand": false,
+         "order": "0",
+         "isRequired": false
+         },
+         {
+         "category": "TAX",
+         "service": "OTHER.Fire_Call_Report_fee",
+         "name": "OTHER.FIRE_CALL_REPORT_FEE_SGST",
+         "code": "OTHER.FIRE_CALL_REPORT_FEE_SGST",
+         "isDebit": false,
+         "isActualDemand": false,
+         "order": "0",
+         "isRequired": false
+      }
            
      
     
