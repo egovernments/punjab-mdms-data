@@ -431,6 +431,10 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.fire_call_report_fee.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.fire_noc_fee.receipt.id"
         }
     ]
 }
