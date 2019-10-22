@@ -1343,7 +1343,31 @@
           "isVoucherCreationEnabled": true,
           "isActive": true,
           "type": "Adhoc"
-         }
+         },            
+         {
+           "businessService": "OTHER.Bus_Adda_fee",
+           "code": "OTHER.Bus_Adda_fee",
+           "collectionModesNotAllowed": [
+             "DD"
+           ],
+           "partPaymentAllowed": false,
+           "isAdvanceAllowed": false,
+           "isVoucherCreationEnabled": true,
+           "isActive": true,
+           "type": "Adhoc"
+          },
+          {
+            "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
+            "code": "NKS.Rain_Harvesting_charges",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          }
 
     
 
