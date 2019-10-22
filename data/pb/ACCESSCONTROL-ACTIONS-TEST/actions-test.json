@@ -5750,6 +5750,36 @@
       "serviceCode": "PT",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 1839,
+      "name": "SearchTradeLicenseApplicationReport",
+      "url": "url",
+      "displayName": "TL Search",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.SearchTradeLicenseApplicationReport",
+      "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+       {
+      "id": 1840,
+      "name": "SearchTradeLicenseApplicationReport",
+      "url": "url",
+      "displayName": "TL Search",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.SearchTradeLicenseApplicationReport",
+      "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
