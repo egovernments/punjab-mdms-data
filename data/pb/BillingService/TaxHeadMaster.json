@@ -4354,8 +4354,8 @@
            {
            "category": "TAX",
            "service": "OTHER.Fire_Noc_fee",
-           "name": "OTHER.OTHER.FIRE_NOC_FEE_CGST",
-           "code": "OTHER.OTHER.FIRE_NOC_FEE_CGST",
+           "name": "OTHER.FIRE_NOC_FEE_CGST",
+           "code": "OTHER.FIRE_NOC_FEE_CGST",
            "isDebit": false,
            "isActualDemand": false,
            "order": "0",
@@ -4454,8 +4454,90 @@
          "isActualDemand": false,
          "order": "0",
          "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "OTHER.Bus_Adda_fee",
+        "name": "OTHER.BUS_ADDA_FEE_TAX",
+        "code": "OTHER.BUS_ADDA_FEE_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "OTHER.Bus_Adda_fee",
+        "name": "OTHER.BUS_ADDA_FEE_FIELD_FEE",
+        "code": "OTHER.BUS_ADDA_FEE_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+        }, 
+    
+        {
+        "category": "TAX",
+        "service": "OTHER.Bus_Adda_fee",
+        "name": "OTHER.BUS_ADDA_FEE_CGST",
+        "code": "OTHER.BUS_ADDA_FEE_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+        },
+        {
+        "category": "TAX",
+        "service": "OTHER.Bus_Adda_fee",
+        "name": "OTHER.BUS_ADDA_FEE_SGST",
+        "code": "OTHER.BUS_ADDA_FEE_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+     },
+     {
+        "category": "TAX",
+        "service": "NKS.Rain_Harvesting_charges",
+        "name": "NKS.RAIN_HARVESTING_CHARGES_TAX",
+        "code": "NKS.RAIN_HARVESTING_CHARGES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Rain_Harvesting_charges",
+        "name": "NKS.RAIN_HARVESTING_CHARGES_FIELD_FEE",
+        "code": "NKS.RAIN_HARVESTING_CHARGES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+       {
+        "category": "TAX",
+        "service": "NKS.Rain_Harvesting_charges",
+        "name": "NKS.RAIN_HARVESTING_CHARGES_CGST",
+        "code": "NKS.RAIN_HARVESTING_CHARGES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Rain_Harvesting_charges",
+        "name": "NKS.RAIN_HARVESTING_CHARGES_SGST",
+        "code": "NKS.RAIN_HARVESTING_CHARGES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
       }
            
+
      
     
       ]
