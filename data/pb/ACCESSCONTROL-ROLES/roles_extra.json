@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "LOCALIZATION_UPLOADER",
+      "name": "Localization uploader",
+      "description": "Employee with update localizaiton access"
+    },
+    {
+      "code": "CEMP",
+      "name": "Counter Employee",
+      "description": "Employee at the counter who performs assessment on behalf of citizen"
+    },
+    {
+      "code": "FEMP",
+      "name": "Field Employee",
+      "description": "Employee on the field"
+    },
+    {
+      "code": "GIS_USER",
+      "name": "GIS USER",
+      "description": "Role For GIS Search"
+    },
+    {
+      "code": "EGF_BILL_APPROVER",
+      "name": "EGF Bill Approver",
+      "description": "Employee who takes part in  Bills  approval in finance "
+    },
+    {
+      "code": "PTULBADMIN",
+      "name": "PT ULB Adminsitrator",
+      "description": "Property tax ULB level administrator"
+    },
+    {
+      "code": "PTSTADMIN",
+      "name": "PT State Administrator",
+      "description": "Property tax State level administrator"
+    }
+  ]
+}
