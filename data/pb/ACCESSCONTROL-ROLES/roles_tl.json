@@ -1,0 +1,31 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "TL_CEMP",
+      "name": "TL Counter Employee",
+      "description": "Who has a access to Trade License Services"
+    },
+    {
+      "code": "TL_APPROVER",
+      "name": "TL Approver",
+      "description": "Who has a access to Trade License Workflow"
+    },
+    {
+      "code": "TL_FIELD_INSPECTOR",
+      "name": "Trade License field inspector",
+      "description": "Trade License field inspector"
+    },
+    {
+      "code": "TL_DOC_VERIFIER",
+      "name": "Trade License Document verifier",
+      "description": "Trade License Document verifier"
+    },
+    {
+      "code": "TL_PUBLIC_SEARCH",
+      "name": "TL Public Search",
+      "description": "TL for public search"
+    }
+  ]
+}
