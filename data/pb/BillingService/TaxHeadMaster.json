@@ -4540,9 +4540,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Tender_Earnest_Money_Deposist",
-        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIST_TAX",
-        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIST_TAX",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
         "isDebit": false,
         "isActualDemand": true,
         "order": "1",
@@ -4550,9 +4550,9 @@
       },
       {
         "category": "CHARGES",
-        "service": "FN.Tender_Earnest_Money_Deposist",
-        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIST_FIELD_FEE",
-        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIST_FIELD_FEE",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4560,9 +4560,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Tender_Earnest_Money_Deposist",
-        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIST_CGST",
-        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIST_CGST",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4570,9 +4570,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Tender_Earnest_Money_Deposist",
-        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIST_SGST",
-        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIST_SGST",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4581,9 +4581,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Security_Deposist_Fee",
-        "name": "FN.SECURITY_DEPOSIST_FEE_TAX",
-        "code": "FN.SECURITY_DEPOSIST_FEE_TAX",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_TAX",
+        "code": "FN.SECURITY_DEPOSIT_FEE_TAX",
         "isDebit": false,
         "isActualDemand": true,
         "order": "1",
@@ -4591,9 +4591,9 @@
       },
       {
         "category": "CHARGES",
-        "service": "FN.Security_Deposist_Fee",
-        "name": "FN.SECURITY_DEPOSIST_FEE_FIELD_FEE",
-        "code": "FN.SECURITY_DEPOSIST_FEE_FIELD_FEE",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
+        "code": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4601,9 +4601,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Security_Deposist_Fee",
-        "name": "FN.SECURITY_DEPOSIST_FEE_CGST",
-        "code": "FN.SECURITY_DEPOSIST_FEE_CGST",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_CGST",
+        "code": "FN.SECURITY_DEPOSIT_FEE_CGST",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4611,9 +4611,9 @@
       },
       {
         "category": "TAX",
-        "service": "FN.Security_Deposist_Fee",
-        "name": "FN.SECURITY_DEPOSIST_FEE_SGST",
-        "code": "FN.SECURITY_DEPOSIST_FEE_SGST",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_SGST",
+        "code": "FN.SECURITY_DEPOSIT_FEE_SGST",
         "isDebit": false,
         "isActualDemand": false,
         "order": "0",
@@ -4624,12 +4624,3 @@
     ]
     
 }    
-    
-  
-      
-     
-    
-    
-    
-    
-    
