@@ -1367,6 +1367,32 @@
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
+          }, 
+          {
+            "businessService": "Finance Fees.Tender_Earnest_Money_Deposist",
+            "code": "FN.Tender_Earnest_Money_Deposist",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+          {
+            "businessService": "Finance Fees.Security_Deposist_Fee",
+            "code": "FN.Security_Deposist_Fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+            
+
           }
 
     
