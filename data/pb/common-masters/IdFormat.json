@@ -442,6 +442,16 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "nks.rain_harvesting_charges.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.tender_earnest_money_deposit.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.security_deposit_fee.receipt.id"
+            
+
         }
 
     ]
