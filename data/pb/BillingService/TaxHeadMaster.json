@@ -4250,6 +4250,7 @@
 
          },
          {
+           
             "category": "TAX",
             "service": "TX.Property_Tax_2013-14",
             "name": "TX.Property_Tax_2013-14_TAX",
@@ -4535,18 +4536,91 @@
         "isActualDemand": false,
         "order": "0",
         "isRequired": false
-      }
-           
 
-     
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Tender_Earnest_Money_Deposit",
+        "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
+        "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_TAX",
+        "code": "FN.SECURITY_DEPOSIT_FEE_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
+        "code": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_CGST",
+        "code": "FN.SECURITY_DEPOSIT_FEE_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "FN.Security_Deposit_Fee",
+        "name": "FN.SECURITY_DEPOSIT_FEE_SGST",
+        "code": "FN.SECURITY_DEPOSIT_FEE_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false     
+         
+      }
+       
+    ]
     
-      ]
-    
-    }
-      
-     
-    
-    
-    
-    
-    
+}    

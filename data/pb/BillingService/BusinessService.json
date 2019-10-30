@@ -1367,10 +1367,31 @@
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
+          }, 
+          {
+            "businessService": "Finance Fees.Tender_Earnest_Money_Deposit",
+            "code": "FN.Tender_Earnest_Money_Deposit",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+          {
+            "businessService": "Finance Fees.Security_Deposit_Fee",
+            "code": "FN.Security_Deposit_Fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
           }
-
-    
-
   ]
   
 }
