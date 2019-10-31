@@ -2,6 +2,7 @@
   "ACCESSCONTROL-ACTIONS-TEST": {
     "actions-test": {
       "masterName": "actions-test",
+      "isMergeAllowed": true,
       "isStateLevel": true,
       "uniqueKeys": [
         "$.id"
@@ -21,6 +22,7 @@
   "ACCESSCONTROL-ROLEACTIONS": {
     "roleactions": {
       "masterName": "roleactions",
+      "isMergeAllowed": true,
       "uniqueKeys": [
         "$.rolecode",
         "$.actionid",
