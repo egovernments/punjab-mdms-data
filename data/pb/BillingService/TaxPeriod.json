@@ -931,9 +931,64 @@
               "service": "OTHER.Noc_fee",
               "code": "OTHERNOCFEE",
               "financialYear": "2014-24"           
-            
-                  
-         }
+        },   
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "OTHER.Fire_Noc_fee",
+          "code": "OTHERFIRENOCFEE",
+          "financialYear": "2018-24"        
+        },   
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "OTHER.Fire_Tender_fee",
+          "code": "OTHERTENDERFEE",
+          "financialYear": "2018-24"        
+        },   
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "OTHER.Fire_Call_Report_fee",
+          "code": "OTHERFIRECALLREPORTFEE",
+          "financialYear": "2018-24"        
+        },   
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "OTHER.Bus_Adda_fee",
+          "code": "OTHERBUSADDAFEE",
+          "financialYear": "2014-24"        
+        },
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "NKS.Rain_Harvesting_charges",
+          "code": "NKSRAINHARVESTINGCHARGES",
+          "financialYear": "2014-24"
+        },  
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "FN.Tender_Earnest_Money_Deposit",
+          "code": "TENDEREARNSTMONY",
+          "financialYear": "2014-24"
+        }, 
+        {
+          "fromDate": 1396310399000,
+          "toDate": 1711929599000,
+          "periodCycle": "ANNUAL",
+          "service": "FN.Security_Deposit_Fee",
+          "code": "SECURITYDEPOSIT",
+          "financialYear": "2014-24"
+          
+        }
 
       ]
 }

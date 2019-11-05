@@ -1266,9 +1266,93 @@
           "isVoucherCreationEnabled": true,
           "isActive": true,
           "type": "Adhoc"
-       
-            
-        }
+        },            
+        {
+          "businessService": "OTHER.Fire_Noc_fee",
+          "code": "OTHER.Fire_Noc_fee",
+          "collectionModesNotAllowed": [
+            "DD"
+          ],
+          "partPaymentAllowed": false,
+          "isAdvanceAllowed": false,
+          "isVoucherCreationEnabled": true,
+          "isActive": true,
+          "type": "Adhoc"
+         },            
+         {
+           "businessService": "OTHER.Fire_Tender_fee",
+           "code": "OTHER.Fire_Tender_fee",
+           "collectionModesNotAllowed": [
+             "DD"
+           ],
+           "partPaymentAllowed": false,
+           "isAdvanceAllowed": false,
+           "isVoucherCreationEnabled": true,
+           "isActive": true,
+           "type": "Adhoc"
+          },            
+          {
+            "businessService": "OTHER.Fire_Call_Report_fee",
+            "code": "OTHER.Fire_Call_Report_fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+           },            
+           {
+             "businessService": "OTHER.Bus_Adda_fee",
+             "code": "OTHER.Bus_Adda_fee",
+             "collectionModesNotAllowed": [
+               "DD"
+             ],
+             "partPaymentAllowed": false,
+             "isAdvanceAllowed": false,
+             "isVoucherCreationEnabled": true,
+             "isActive": true,
+             "type": "Adhoc"
+            },
+            {
+              "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
+              "code": "NKS.Rain_Harvesting_charges",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+
+            },  
+            {
+              "businessService": "Finance Fees.Tender_Earnest_Money_Deposit",
+              "code": "FN.Tender_Earnest_Money_Deposit",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+          },             
+          {
+            "businessService": "Finance Fees.Security_Deposit_Fee",
+            "code": "FN.Security_Deposit_Fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          
+          }
     
       ]
       

@@ -5739,6 +5739,47 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
+    },
+    {
+      "id": 1838,
+      "name": "Property Cancel API",
+      "url": "/pt-services-v2/property/_cancel",
+      "displayName": "Cancel Property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 1839,
+      "name": "SearchTradeLicenseApplicationReport",
+      "url": "url",
+      "displayName": "TL Search",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.SearchTradeLicenseApplicationReport",
+      "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+       {
+      "id": 1840,
+      "name": "SearchTradeLicenseApplicationReport",
+      "url": "url",
+      "displayName": "TL Search",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.SearchTradeLicenseApplicationReport",
+      "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }

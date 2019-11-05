@@ -4194,10 +4194,295 @@
                 "isActualDemand": false,
                 "order": "0",
                 "isRequired": false
-           
-
+           }, 
+           {
+             "category": "TAX",
+             "service": "OTHER.Fire_Noc_fee",
+             "name": "OTHER.FIRE_NOC_FEE_TAX",
+             "code": "OTHER.FIRE_NOC_FEE_TAX",
+             "isDebit": false,
+             "isActualDemand": true,
+             "order": "1",
+             "isRequired": true
+           },
+           {
+             "category": "CHARGES",
+             "service": "OTHER.Fire_Noc_fee",
+             "name": "OTHER.FIRE_NOC_FEE_FIELD_FEE",
+             "code": "OTHER.FIRE_NOC_FEE_FIELD_FEE",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+             }, 
          
-         }                   
+             {
+             "category": "TAX",
+             "service": "OTHER.Fire_Noc_fee",
+             "name": "OTHER.FIRE_NOC_FEE_CGST",
+             "code": "OTHER.FIRE_NOC_FEE_CGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+             },
+             {
+             "category": "TAX",
+             "service": "OTHER.Fire_Noc_fee",
+             "name": "OTHER.FIRE_NOC_FEE_SGST",
+             "code": "OTHER.FIRE_NOC_FEE_SGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+               
+          
+          }, 
+          {
+            "category": "TAX",
+            "service": "OTHER.Fire_Tender_fee",
+            "name": "OTHER.FIRE_TENDER_FEE_TAX",
+            "code": "OTHER.FIRE_TENDER_FEE_TAX",
+            "isDebit": false,
+            "isActualDemand": true,
+            "order": "1",
+            "isRequired": true
+          },
+          {
+            "category": "CHARGES",
+            "service": "OTHER.Fire_Tender_fee",
+            "name": "OTHER.FIRE_TENDER_FEE_FIELD_FEE",
+            "code": "OTHER.FIRE_TENDER_FEE_FIELD_FEE",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+            }, 
+        
+            {
+            "category": "TAX",
+            "service": "OTHER.Fire_Tender_fee",
+            "name": "OTHER.FIRE_TENDER_FEE_CGST",
+            "code": "OTHER.FIRE_TENDER_FEE_CGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+            },
+            {
+            "category": "TAX",
+            "service": "OTHER.Fire_Tender_fee",
+            "name": "OTHER.FIRE_TENDER_FEE_SGST",
+            "code": "OTHER.FIRE_TENDER_FEE_SGST",
+            "isDebit": false,
+            "isActualDemand": false,
+            "order": "0",
+            "isRequired": false
+         }, 
+         {
+           "category": "TAX",
+           "service": "OTHER.Fire_Call_Report_fee",
+           "name": "OTHER.FIRE_CALL_REPORT_FEE_TAX",
+           "code": "OTHER.FIRE_CALL_REPORT_FEE_TAX",
+           "isDebit": false,
+           "isActualDemand": true,
+           "order": "1",
+           "isRequired": true
+         },
+         {
+           "category": "CHARGES",
+           "service": "OTHER.Fire_Call_Report_fee",
+           "name": "OTHER.FIRE_CALL_REPORT_FEE_FIELD_FEE",
+           "code": "OTHER.FIRE_CALL_REPORT_FEE_FIELD_FEE",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+           }, 
+       
+           {
+           "category": "TAX",
+           "service": "OTHER.Fire_Call_Report_fee",
+           "name": "OTHER.FIRE_CALL_REPORT_FEE_CGST",
+           "code": "OTHER.FIRE_CALL_REPORT_FEE_CGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+           },
+           {
+           "category": "TAX",
+           "service": "OTHER.Fire_Call_Report_fee",
+           "name": "OTHER.FIRE_CALL_REPORT_FEE_SGST",
+           "code": "OTHER.FIRE_CALL_REPORT_FEE_SGST",
+           "isDebit": false,
+           "isActualDemand": false,
+           "order": "0",
+           "isRequired": false
+           }, 
+           {
+             "category": "TAX",
+             "service": "OTHER.Bus_Adda_fee",
+             "name": "OTHER.BUS_ADDA_FEE_TAX",
+             "code": "OTHER.BUS_ADDA_FEE_TAX",
+             "isDebit": false,
+             "isActualDemand": true,
+             "order": "1",
+             "isRequired": true
+           },
+           {
+             "category": "CHARGES",
+             "service": "OTHER.Bus_Adda_fee",
+             "name": "OTHER.BUS_ADDA_FEE_FIELD_FEE",
+             "code": "OTHER.BUS_ADDA_FEE_FIELD_FEE",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+             },
+             {
+             "category": "TAX",
+             "service": "OTHER.Bus_Adda_fee",
+             "name": "OTHER.BUS_ADDA_FEE_CGST",
+             "code": "OTHER.BUS_ADDA_FEE_CGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+             },
+             {
+             "category": "TAX",
+             "service": "OTHER.Bus_Adda_fee",
+             "name": "OTHER.BUS_ADDA_FEE_SGST",
+             "code": "OTHER.BUS_ADDA_FEE_SGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+          },
+          {
+             "category": "TAX",
+             "service": "NKS.Rain_Harvesting_charges",
+             "name": "NKS.RAIN_HARVESTING_CHARGES_TAX",
+             "code": "NKS.RAIN_HARVESTING_CHARGES_TAX",
+             "isDebit": false,
+             "isActualDemand": true,
+             "order": "1",
+             "isRequired": true
+           },
+           {
+             "category": "CHARGES",
+             "service": "NKS.Rain_Harvesting_charges",
+             "name": "NKS.RAIN_HARVESTING_CHARGES_FIELD_FEE",
+             "code": "NKS.RAIN_HARVESTING_CHARGES_FIELD_FEE",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+           },
+            {
+             "category": "TAX",
+             "service": "NKS.Rain_Harvesting_charges",
+             "name": "NKS.RAIN_HARVESTING_CHARGES_CGST",
+             "code": "NKS.RAIN_HARVESTING_CHARGES_CGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+           },
+           {
+             "category": "TAX",
+             "service": "NKS.Rain_Harvesting_charges",
+             "name": "NKS.RAIN_HARVESTING_CHARGES_SGST",
+             "code": "NKS.RAIN_HARVESTING_CHARGES_SGST",
+             "isDebit": false,
+             "isActualDemand": false,
+             "order": "0",
+             "isRequired": false
+             
+           },
+           {
+              "category": "TAX",
+              "service": "FN.Tender_Earnest_Money_Deposit",
+              "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
+              "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_TAX",
+              "isDebit": false,
+              "isActualDemand": true,
+              "order": "1",
+              "isRequired": true
+            },
+            {
+              "category": "CHARGES",
+              "service": "FN.Tender_Earnest_Money_Deposit",
+              "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
+              "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_FIELD_FEE",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false
+            },
+            {
+              "category": "TAX",
+              "service": "FN.Tender_Earnest_Money_Deposit",
+              "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
+              "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_CGST",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false
+            },
+            {
+              "category": "TAX",
+              "service": "FN.Tender_Earnest_Money_Deposit",
+              "name": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
+              "code": "FN.TENDER_EARNEST_MONEY_DEPOSIT_SGST",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "FN.Security_Deposit_Fee",
+                "name": "FN.SECURITY_DEPOSIT_FEE_TAX",
+                "code": "FN.SECURITY_DEPOSIT_FEE_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+            },
+            {
+                "category": "CHARGES",
+                "service": "FN.Security_Deposit_Fee",
+                "name": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
+                "code": "FN.SECURITY_DEPOSIT_FEE_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "FN.Security_Deposit_Fee",
+                "name": "FN.SECURITY_DEPOSIT_FEE_CGST",
+                "code": "FN.SECURITY_DEPOSIT_FEE_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "FN.Security_Deposit_Fee",
+                "name": "FN.SECURITY_DEPOSIT_FEE_SGST",
+                "code": "FN.SECURITY_DEPOSIT_FEE_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+               
+                
+           }            
                      
         ]
             
