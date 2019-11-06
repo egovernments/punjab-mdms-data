@@ -5935,6 +5935,58 @@
       "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1848,
+      "name": "Auto reconcile- Statement Upload",
+      "navigationURL": "services/EGF/brs/autoReconciliation-beforeUpload.action",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Auto reconcile- Statement Upload",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "FinanceReconcile",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Bank Reconciliation.Auto reconcile Statement Upload"
+    },
+    {
+      "id": 1849,
+      "name": "Reconcile Uploaded Statement",
+      "navigationURL": "services/EGF/brs/autoReconciliation-newForm.action",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Reconcile Uploaded Statement",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "FinanceReconcile",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Bank Reconciliation.Reconcile Uploaded Statement"
+    },
+    {
+      "id": 1850,
+      "name": "Indexer finance billregister",
+      "url": "/egov-indexer/index-operations/finance-bill-topic/_index",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-indexer",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1851,
+      "name": "Indexer finance voucher",
+      "url": "/egov-indexer/index-operations/finance-voucher-topic/_index",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-indexer",
+      "code": "null",
+      "path": ""
     }
   ]
 }
