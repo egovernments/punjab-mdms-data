@@ -5780,6 +5780,19 @@
       "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1841,
+      "name": "MiscReceiptULBCancelled",
+      "url": "url",
+      "displayName": "Miscellaneous Cancelled Receipts",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled",
+      "path": "Reports.miscellaneous Receipt Register"
     }
   ]
 }
