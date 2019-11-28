@@ -4480,7 +4480,47 @@
                 "isActualDemand": false,
                 "order": "0",
                 "isRequired": false
-               
+            },    
+            {
+                "category": "TAX",
+                "service": "OTHER.Dispensary_fee",
+                "name": "OTHER.DISPENSARY_FEE_TAX",
+                "code": "OTHER.DISPENSARY_FEE_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+            },
+            {
+                "category": "CHARGES",
+                "service": "OTHER.Dispensary_fee",
+                "name": "OTHER.DISPENSARY_FEE_FIELD_FEE",
+                "code": "OTHER.DISPENSARY_FEE_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.Dispensary_fee",
+                "name": "OTHER.DISPENSARY_FEE_CGST",
+                "code": "OTHER.DISPENSARY_FEE_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.Dispensary_fee",
+                "name": "OTHER.DISPENSARY_FEE_SGST",
+                "code": "OTHER.DISPENSARY_FEE_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+                
                 
            }            
                      
