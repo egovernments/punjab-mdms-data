@@ -4520,6 +4520,47 @@
                 "isActualDemand": false,
                 "order": "0",
                 "isRequired": false
+
+            },
+            {
+                "category": "TAX",
+                "service": "RT.Sale_of_land",
+                "name": "RT.SALE_OF_LAND_TAX",
+                "code": "RT.SALE_OF_LAND_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+            },
+            {
+                "category": "CHARGES",
+                "service": "RT.Sale_of_land",
+                "name": "RT.SALE_OF_LAND_FIELD_FEE",
+                "code": "RT.SALE_OF_LAND_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "RT.Sale_of_land",
+                "name": "RT.SALE_OF_LAND_CGST",
+                "code": "RT.SALE_OF_LAND_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "RT.Sale_of_land",
+                "name": "RT.SALE_OF_LAND_SGST",
+                "code": "RT.SALE_OF_LAND_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false                
                 
                 
            }            

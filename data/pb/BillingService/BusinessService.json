@@ -1362,8 +1362,20 @@
             "isAdvanceAllowed": false,
             "isVoucherCreationEnabled": true,
             "isActive": true,
-            "type": "Adhoc"               
-              
+            "type": "Adhoc"   
+          },           
+          {
+            "businessService": "Rents.Sale_of_land",
+            "code": "RT.Sale_of_land",
+            "collectionModesNotAllowed": [
+              "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+                        
           
           }
     
