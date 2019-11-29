@@ -1,8 +1,7 @@
 {
   "tenantId": "pb",
   "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
-  "actions-test": [
-    {
+  "actions-test": [{
       "id": 14,
       "name": "Get File by FileStoreId",
       "url": "/filestore/v1/files/id",
@@ -5906,7 +5905,7 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
     },
-     {
+    {
       "id": 1846,
       "name": "SearchTradeLicenseApplicationReport",
       "url": "url",
@@ -5921,7 +5920,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-       {
+    {
       "id": 1847,
       "name": "SearchTradeLicenseApplicationReport",
       "url": "url",
@@ -6013,6 +6012,51 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort",
       "path": "Reports.miscellaneous Receipt Register"
+    },
+    {
+      "id": 1854,
+      "name": "Dashboard Home",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "integration/dss/home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1855,
+      "name": "Dashboard Property Tax",
+      "url": "url",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.PropertyTax",
+      "navigationURL": "integration/dss/propertytax",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1856,
+      "name": "Dashboard Home",
+      "url": "url",
+      "displayName": "Tradelicense",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.TradeLicense",
+      "navigationURL": "integration/dss/tradelicense",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
