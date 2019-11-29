@@ -101,6 +101,22 @@
             "title": "DASHBOARD_TITLE_MICS"
           }
         }
+      },
+      "dss": {
+        "iframe-routes": {
+          "home": {
+            "routePath": "/dashboard",
+            "isOrigin": true
+          },
+          "propertytax": {
+            "routePath": "/dashboard/propertytax",
+            "isOrigin": true
+          },
+          "tradelicense": {
+            "routePath": "/dashboard/tradelicense",
+            "isOrigin": true
+          }
+        }
       }
     }
   ]
