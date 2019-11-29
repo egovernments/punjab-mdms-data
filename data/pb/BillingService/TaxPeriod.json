@@ -1015,9 +1015,35 @@
             "service": "FN.Security_Deposit_Fee",
             "code": "SECURITYDEPOSIT",
             "financialYear": "2014-24"
-          
-          
 
+          },
+          {
+            "fromDate": 1396310399000,
+            "toDate": 1711929599000,
+            "periodCycle": "ANNUAL",
+            "service": "OTHER.License_fee",
+            "code": "OTHERLICENSEFEE",
+            "financialYear": "2014-24"    
+      
+          },
+          {
+  
+            "fromDate": 1396310399000,
+            "toDate": 1711929599000,
+            "periodCycle": "ANNUAL",
+            "service": "OTHER.Candy_fee",
+            "code": "OTHERCANDYFEE",
+            "financialYear": "2014-24"    
+          },
+          {
+         
+            "fromDate": 1396310399000,
+            "toDate": 1711929599000,
+            "periodCycle": "ANNUAL",
+            "service": "OTHER.Conservancy_fee",
+            "code": "OTHERCONSERVANCYFEE",
+            "financialYear": "2014-24"                
+                    
           }                   
        ]  
    }

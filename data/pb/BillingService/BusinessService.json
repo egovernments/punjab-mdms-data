@@ -1391,6 +1391,44 @@
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
+
+          },
+          {
+            "businessService": "OTHER.License_fee",
+            "code": "OTHER.License_fee",
+            "collectionModesNotAllowed": [
+               "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },    
+          {
+            "businessService": "OTHER.Candy_fee",
+            "code": "OTHER.Candy_fee",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+          },
+          {
+            "businessService": "OTHER.Conservancy_fee",
+            "code": "OTHER.Conservancy_fee",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"          
+       
           }
   ]
   
