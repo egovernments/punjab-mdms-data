@@ -4560,9 +4560,129 @@
                 "isDebit": false,
                 "isActualDemand": false,
                 "order": "0",
-                "isRequired": false                
-                
-                
+                "isRequired": false    
+            },    
+            {
+                "category": "TAX",
+                "service": "OTHER.License_fee",
+                "name": "OTHER.LICENSE_FEE_TAX",
+                "code": "OTHER.LICENSE_FEE_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+            },
+            {
+                "category": "CHARGES",
+                "service": "OTHER.License_fee",
+                "name": "OTHER.LICENSE_FEE_FIELD_FEE",
+                "code": "OTHER.LICENSE_FEE_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.License_fee",
+                "name": "OTHER.LICENSE_FEE_CGST",
+                "code": "OTHER.LICENSE_FEE_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.License_fee",
+                "name": "OTHER.LICENSE_FEE_SGST",
+                "code": "OTHER.LICENSE_FEE_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },      
+            {                          
+                "category": "TAX",
+                "service": "OTHER.Candy_fee",
+                "name": "OTHER.CANDY_FEE_TAX",
+                "code": "OTHER.CANDY_FEE_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+            },
+            {
+                "category": "CHARGES",
+                "service": "OTHER.Candy_fee",
+                "name": "OTHER.CANDY_FEE_FIELD_FEE",
+                "code": "OTHER.CANDY_FEE_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.Candy_fee",
+                "name": "OTHER.CANDY_FEE_CGST",
+                "code": "OTHER.CANDY_FEE_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.Candy_fee",
+                "name": "OTHER.CANDY_FEE_SGST",
+                "code": "OTHER.CANDY_FEE_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false                   
+           },                     
+           {
+                "category": "TAX",
+                "service": "OTHER.Conservancy_fee",
+                "name": "OTHER.CONSERVANCY_FEE_TAX",
+                "code": "OTHER.CONSERVANCY_FEE_TAX",
+                "isDebit": false,
+                "isActualDemand": true,
+                "order": "1",
+                "isRequired": true
+           },
+           {
+                "category": "CHARGES",
+                "service": "OTHER.Conservancy_fee",
+                "name": "OTHER.CONSERVANCY_FEE_FIELD_FEE",
+                "code": "OTHER.CONSERVANCY_FEE_FIELD_FEE",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+           },
+           {
+                "category": "TAX",
+                "service": "OTHER.Conservancy_fee",
+                "name": "OTHER.CONSERVANCY_FEE_CGST",
+                "code": "OTHER.CONSERVANCY_FEE_CGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false
+            },
+            {
+                "category": "TAX",
+                "service": "OTHER.Conservancy_fee",
+                "name": "OTHER.CONSERVANCY_FEE_SGST",
+                "code": "OTHER.CONSERVANCY_FEE_SGST",
+                "isDebit": false,
+                "isActualDemand": false,
+                "order": "0",
+                "isRequired": false                       
+                                                   
+                             
            }            
                      
         ]
