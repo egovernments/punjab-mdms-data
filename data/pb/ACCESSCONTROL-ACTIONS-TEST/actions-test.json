@@ -6072,6 +6072,34 @@
       "navigationURL": "integration/dss/pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+      "id": 1858,
+      "name": "Close Financial Year",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Close Financial Year",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Close Financial Year",
+      "navigationURL": "services/EGF/cfinancialyear/search/close"
+    },
+    {
+      "id": 1859,
+      "name": "Close period",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Close Period",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Close Period",
+      "navigationURL": "services/EGF/closedperiod/search/view"
     }
   ]
 }
