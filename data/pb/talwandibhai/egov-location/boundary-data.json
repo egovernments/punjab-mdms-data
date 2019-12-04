@@ -1147,6 +1147,912 @@
           }
         ]
       }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "talwandibhai",
+        "localname": "talwandibhai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.talwandibhai",
+        "children": [
+          {
+            "id": "3e07f13b-d9ab-4640-9462-5ac04bcb0737",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7b8b5b3f-c50b-47ee-ab5f-ae9e810cffdd",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "850f1f1d-49ed-436f-aca9-4d18f4469275",
+                    "boundaryNum": 1,
+                    "name": "Opposite Stata Bank,Main Bazzar,Opposite OBC Bank - Ward1",
+                    "localname": "Opposite Stata Bank,Main Bazzar,Opposite OBC Bank - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "947c6277-b706-424c-bd0b-d9125f48fda5",
+                    "boundaryNum": 1,
+                    "name": "Main Fountain Chownk, Kotak Mahindera wali Side, Main bazar, Baja Boot House - Ward1",
+                    "localname": "Main Fountain Chownk, Kotak Mahindera wali Side, Main bazar, Baja Boot House - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f8c99ff5-5e1c-4488-a60f-b0ac789ea7d4",
+                    "boundaryNum": 1,
+                    "name": "Near Dr. Milkhi Ram Street, Near Puraba Tailor, near Garry Printer, Near Tirlok adtia - Ward1",
+                    "localname": "Near Dr. Milkhi Ram Street, Near Puraba Tailor, near Garry Printer, Near Tirlok adtia - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "150f0fd6-d01e-4ca3-ad12-f4fdf331819d",
+                    "boundaryNum": 1,
+                    "name": "Near Purba Tailor, Truck Union Office, G.t Road Near Railway Crossing, Near Labour Union, dr Milkhi Ram - Ward1",
+                    "localname": "Near Purba Tailor, Truck Union Office, G.t Road Near Railway Crossing, Near Labour Union, dr Milkhi Ram - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "50c6f03f-0d5e-4545-8717-b69e16031baf",
+                    "boundaryNum": 1,
+                    "name": "Muncipal Committee Office, Rajan Vohra, Police Station wali side, Nehru Road, Khosa Dal Singh Road, Near Girls School - Ward1",
+                    "localname": "Muncipal Committee Office, Rajan Vohra, Police Station wali side, Nehru Road, Khosa Dal Singh Road, Near Girls School - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53927114-1fe6-432f-8ce6-2d9a0b2d3bb5",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "a1092492-7426-4716-a86b-7c7bb168f108",
+                    "boundaryNum": 1,
+                    "name": "HDFC Bank wali side,Opposite Dr. Milkhi Ram , Satatoin Wali Bari - Ward2",
+                    "localname": "HDFC Bank wali side,Opposite Dr. Milkhi Ram , Satatoin Wali Bari - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0c3bc3d7-583a-4e51-a8e8-7637b7e06323",
+                    "boundaryNum": 1,
+                    "name": "Satatoin Wali Bari, SBI Side, Girls School Wali Side - Ward2",
+                    "localname": "Satatoin Wali Bari, SBI Side, Girls School Wali Side - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b3588760-a650-490b-8930-281cbf5a6a6e",
+                    "boundaryNum": 1,
+                    "name": "Opp. Raj house, Near Raj di Chakki, sem nala Side - Ward2",
+                    "localname": "Opp. Raj house, Near Raj di Chakki, sem nala Side - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d4e41add-d584-435f-8732-fa6434d50665",
+                    "boundaryNum": 1,
+                    "name": "Near Raj Di Chaki, Shani Mandir ,krishna Rice Mil Side, - Ward2",
+                    "localname": "Near Raj Di Chaki, Shani Mandir ,krishna Rice Mil Side, - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8f55dbc1-1cad-4be6-ad5d-9665dc44cf38",
+                    "boundaryNum": 1,
+                    "name": "Telephone Exchange Side, Near Rama Rice Mil, Near Khurana Gudam, Park City Colony and  Raj di Chakki, Krishna Rice mill wali Side - Ward2",
+                    "localname": "Telephone Exchange Side, Near Rama Rice Mil, Near Khurana Gudam, Park City Colony and  Raj di Chakki, Krishna Rice mill wali Side - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5baa4a68-41d1-44c8-be25-ce255e44d1d5",
+                    "boundaryNum": 1,
+                    "name": "Opp Raj Di chaki South side, Ajit Nagar First Pul inside - Ward2",
+                    "localname": "Opp Raj Di chaki South side, Ajit Nagar First Pul inside - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "db033301-2059-436c-8763-5fb513e1a11a",
+                    "boundaryNum": 1,
+                    "name": "AJIT Nagar First Pull east side, Adrsh Nagar, Near Happy Polltry Farm - Ward2",
+                    "localname": "AJIT Nagar First Pull east side, Adrsh Nagar, Near Happy Polltry Farm - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b1c6b743-7fde-468e-b461-0d851ce19d19",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "5363200b-b162-4808-82df-127832e0e227",
+                    "boundaryNum": 1,
+                    "name": "Radha Kalab wali Side, Neem Wala Chowk, ICICI Bank Side, - Ward3",
+                    "localname": "Radha Kalab wali Side, Neem Wala Chowk, ICICI Bank Side, - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "11039fba-0ef3-4466-bb94-ae320eeb6770",
+                    "boundaryNum": 1,
+                    "name": "Street No. 1 Wadda Mandir Side, Opp Boys Govt. Sen. Sec. School - Ward3",
+                    "localname": "Street No. 1 Wadda Mandir Side, Opp Boys Govt. Sen. Sec. School - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ef99cdd5-5767-4d64-82ba-578c4487a79d",
+                    "boundaryNum": 1,
+                    "name": "Opposite of wadda mandir East Side, Street No. 1,2,3, and 4  South Sides - Ward3",
+                    "localname": "Opposite of wadda mandir East Side, Street No. 1,2,3, and 4  South Sides - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8107043-56c6-4060-baf3-425a773f006c",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "2a1c64b0-6892-4976-bcf7-37a553064956",
+                    "boundaryNum": 1,
+                    "name": "Opposite of Telephone Exchange, Street No.3,&. 4 North Side - Ward4",
+                    "localname": "Opposite of Telephone Exchange, Street No.3,&. 4 North Side - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0092fd17-5cd1-45df-ab40-b081119b49e4",
+                    "boundaryNum": 1,
+                    "name": "Street Dr. Pasricha , Sethi School Side - Ward4",
+                    "localname": "Street Dr. Pasricha , Sethi School Side - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3a413a9f-f11a-4a76-bd46-89ae029b6a07",
+                    "boundaryNum": 1,
+                    "name": "Gaushala, Aruda Ram Labhu mal Petrol Pump Side, Opposite of Sant Bore Wali Kutiya, Right Hand Side Khosa Dal Singh Road - Ward4",
+                    "localname": "Gaushala, Aruda Ram Labhu mal Petrol Pump Side, Opposite of Sant Bore Wali Kutiya, Right Hand Side Khosa Dal Singh Road - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4ecfe7ae-5e8b-48e8-8c4a-efefc83bd1e7",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "b89c7f86-9497-4f84-a6c7-a914e38d8546",
+                    "boundaryNum": 1,
+                    "name": "Sadhu Wala Road Nukar to National Convent School Side, Opposite Dr. Pasricha Street, DAV School wali Side - Ward5",
+                    "localname": "Sadhu Wala Road Nukar to National Convent School Side, Opposite Dr. Pasricha Street, DAV School wali Side - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "97cf0f02-09aa-4595-a43c-4fd212be39f8",
+                    "boundaryNum": 1,
+                    "name": "Narsh goyal, habns Side - Ward5",
+                    "localname": "Narsh goyal, habns Side - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "329ec4ee-4d37-4ded-b691-741e6ccff1bc",
+                    "boundaryNum": 1,
+                    "name": "Deepa Kumar, Master Buta Ram to Bhagwan Dhingra,  House Atma singh To Hari Singh wali side to Pal Singh Wali Side - Ward5",
+                    "localname": "Deepa Kumar, Master Buta Ram to Bhagwan Dhingra,  House Atma singh To Hari Singh wali side to Pal Singh Wali Side - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8b7cc3df-f5ac-4cdd-888b-2a46bf6f4e60",
+                    "boundaryNum": 1,
+                    "name": "Sangha Rice to Babe Bure Wale di Kutiya, Gurudwara Singh Sabha to Colony Kishan Chaudhary, New Aabadi - Ward5",
+                    "localname": "Sangha Rice to Babe Bure Wale di Kutiya, Gurudwara Singh Sabha to Colony Kishan Chaudhary, New Aabadi - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "cdde93a4-183d-4ec3-98ba-2d5b6264057e",
+                    "boundaryNum": 1,
+                    "name": "Harsh Baja to Dhilon Palace to Pandit Subsh to Dhillon House, Colony To Bittu Sharma, Bittu Sharma To Harsh Bajaj - Ward5",
+                    "localname": "Harsh Baja to Dhilon Palace to Pandit Subsh to Dhillon House, Colony To Bittu Sharma, Bittu Sharma To Harsh Bajaj - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d2ffada4-55f1-4233-bde2-c64ececb2f23",
+                    "boundaryNum": 1,
+                    "name": "Masiha Wali Gali, Manhohar di Shop West Side - Ward5",
+                    "localname": "Masiha Wali Gali, Manhohar di Shop West Side - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB24",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "03418528-07ab-465b-afec-84a2cd99f40e",
+                    "boundaryNum": 1,
+                    "name": "Cold Store to Satnam Godown wali Side, - Ward5",
+                    "localname": "Cold Store to Satnam Godown wali Side, - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB25",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a1bf9767-6f2a-4a44-9217-d315048e5421",
+                    "boundaryNum": 1,
+                    "name": "Shah Rice Mill, Purani chungi No.5 Side, Armit Lal Chabra, Dhingra Ice Factory Opp Side, China Pul near Road of Sood - Ward5",
+                    "localname": "Shah Rice Mill, Purani chungi No.5 Side, Armit Lal Chabra, Dhingra Ice Factory Opp Side, China Pul near Road of Sood - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "40bd5470-fc59-49ae-92ab-82a80530b36b",
+                    "boundaryNum": 1,
+                    "name": "Bheem Singh, Dhingra Ice Factory, Feera Saw mill to murli di Shop - Ward5",
+                    "localname": "Bheem Singh, Dhingra Ice Factory, Feera Saw mill to murli di Shop - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB27",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2c4e9eb0-65f4-41e9-a27e-3f33d28fa5de",
+                    "boundaryNum": 1,
+                    "name": "Land Railway fatak to nagar council boundary - Ward5",
+                    "localname": "Land Railway fatak to nagar council boundary - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB28",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "64e25e6a-e8e2-4400-ae4d-0448fdbf22c7",
+                    "boundaryNum": 1,
+                    "name": "Cheena Colony To Pritpal MC , Sooda wali Motor to Nagar Council Boundry - Ward5",
+                    "localname": "Cheena Colony To Pritpal MC , Sooda wali Motor to Nagar Council Boundry - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c24af0e9-9c34-492b-bd19-17f4412a7c9f",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "67d19678-9c05-4d7d-b927-b67a14f55e2f",
+                    "boundaryNum": 1,
+                    "name": "Old Bus Stand, Dharamshala Wali side, Pathian wali galli - Ward6",
+                    "localname": "Old Bus Stand, Dharamshala Wali side, Pathian wali galli - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB30",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5171bf3c-530e-4fe9-a58f-50c7941b9202",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Kalgidhar Sahib wali side, Shamshan Ghat Tubewell wali side - Ward6",
+                    "localname": "Gurudwara Kalgidhar Sahib wali side, Shamshan Ghat Tubewell wali side - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB31",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "677bb1d1-83fc-429a-aefd-74841853756a",
+                    "boundaryNum": 1,
+                    "name": "Karishna Agro, Bhupindra Agro, Lande Fattak Inside Area Govt. Hospital Road, Deol Basti - Ward6",
+                    "localname": "Karishna Agro, Bhupindra Agro, Lande Fattak Inside Area Govt. Hospital Road, Deol Basti - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6f8bc45-95b6-40b7-b316-83a081da7e30",
+                    "boundaryNum": 1,
+                    "name": "Mata Sahib Kaur girls college, Patwar Khana, Deol Basti - Ward6",
+                    "localname": "Mata Sahib Kaur girls college, Patwar Khana, Deol Basti - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "96ed7e3c-55b3-4763-b829-cd66e56f2e5b",
+                    "boundaryNum": 1,
+                    "name": "Sheetala Mandir Street - Ward6",
+                    "localname": "Sheetala Mandir Street - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e78e825-7cbf-4800-8e80-a01caab6e331",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "a15379e0-b838-4204-800a-1f10bb29bf38",
+                    "boundaryNum": 1,
+                    "name": "Vakilan Wali galli,Maghar MC wali gali - Ward7",
+                    "localname": "Vakilan Wali galli,Maghar MC wali gali - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB35",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3d7d1a3a-ea41-41fd-a660-429ff14b3a32",
+                    "boundaryNum": 1,
+                    "name": "Buddha Khooh wali side - Ward7",
+                    "localname": "Buddha Khooh wali side - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5911286f-43cc-4574-af80-fbf394c7974e",
+                    "boundaryNum": 1,
+                    "name": "Sohan Singh Kalsi wali gali, Mistrian di Dharamshala wali side - Ward7",
+                    "localname": "Sohan Singh Kalsi wali gali, Mistrian di Dharamshala wali side - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9f5b3fce-7e92-4420-8369-d493f336d33e",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "fcc5a4ee-1b18-47a2-9015-9ba7138e6b4f",
+                    "boundaryNum": 1,
+                    "name": "Near Dr. Jagtar Singh Kareer, Dhodian Wali gali - Ward8",
+                    "localname": "Near Dr. Jagtar Singh Kareer, Dhodian Wali gali - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB38",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b75f8f5a-2376-4566-9cc8-16ae000ed38c",
+                    "boundaryNum": 1,
+                    "name": "Near Dr. Sham Lal Hospital Wali Side, Ghumiaran Wali gali - Ward8",
+                    "localname": "Near Dr. Sham Lal Hospital Wali Side, Ghumiaran Wali gali - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB39",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1355a390-7825-4f79-96df-d886032f04cf",
+                    "boundaryNum": 1,
+                    "name": "Ramesh MC wali side, Balmiki Dharamsala Wali Side,East side of Railway station - Ward8",
+                    "localname": "Ramesh MC wali side, Balmiki Dharamsala Wali Side,East side of Railway station - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB40",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3def849a-57d2-4a80-b818-e9f4cbb3306e",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "82cb0323-4483-4c97-8290-15f875623ac3",
+                    "boundaryNum": 1,
+                    "name": "Sembhi wali gali, opposite gurudwara kalgidhar wali side, Baij di hatti wali side - Ward9",
+                    "localname": "Sembhi wali gali, opposite gurudwara kalgidhar wali side, Baij di hatti wali side - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB41",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8fca47c1-7b32-4093-9360-b57dd2f24521",
+                    "boundaryNum": 1,
+                    "name": "Janta Hospital wali side, Chownki wali gali - Ward9",
+                    "localname": "Janta Hospital wali side, Chownki wali gali - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB42",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e584af4-6187-4a84-ae6c-ed559b83c7d4",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "8638f334-39cf-4520-9f18-0777e958f87e",
+                    "boundaryNum": 1,
+                    "name": "Opposite gurudwara vishawkarma wali side, Bawa Speakera wali gali, G.T Road - Ward10",
+                    "localname": "Opposite gurudwara vishawkarma wali side, Bawa Speakera wali gali, G.T Road - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB43",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "45e3340e-be04-478b-a23c-2e1a760bb33b",
+                    "boundaryNum": 1,
+                    "name": "Gurbaksh Singh Mappa Brar Wali gali, Chownki Wali gali. New Punjab Eng Works, Dr Tejveer, Langar Sahib Gurudwara, Street Sapuran Singh - Ward10",
+                    "localname": "Gurbaksh Singh Mappa Brar Wali gali, Chownki Wali gali. New Punjab Eng Works, Dr Tejveer, Langar Sahib Gurudwara, Street Sapuran Singh - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB44",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "78e5fb07-b4cf-4853-a12e-1ddd678b463c",
+                    "boundaryNum": 1,
+                    "name": "Rama MC wali gali, Sampuran Singh Pardhan wali gali, - Ward10",
+                    "localname": "Rama MC wali gali, Sampuran Singh Pardhan wali gali, - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB45",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ea909187-5916-4251-805e-16b14d6a7851",
+                    "boundaryNum": 1,
+                    "name": "Sohan Singh Aara wali gali, PSEB office side G.T Road - Ward10",
+                    "localname": "Sohan Singh Aara wali gali, PSEB office side G.T Road - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB46",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36c01c92-0019-480e-b7b6-cd3550d0d0cc",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "c9f3447d-a6a5-4e60-81e7-51ddd45d08cf",
+                    "boundaryNum": 1,
+                    "name": "Near Shiv Mandir Street,   Piyara Singh Kalsi wali gali, langar Sahib Gurudwara Inside - Ward11",
+                    "localname": "Near Shiv Mandir Street,   Piyara Singh Kalsi wali gali, langar Sahib Gurudwara Inside - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB47",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c11572f3-9522-48b9-809d-b6881159495d",
+                    "boundaryNum": 1,
+                    "name": "Near Shive Mandir East Side, Sohan Singh Clerk, Amar Singh, Near Dr Papa, Opp Shive Mandir Side - Ward11",
+                    "localname": "Near Shive Mandir East Side, Sohan Singh Clerk, Amar Singh, Near Dr Papa, Opp Shive Mandir Side - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB48",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4d2fd1d5-10dd-41c7-892c-ac1584172190",
+                    "boundaryNum": 1,
+                    "name": "Gali Kaka sran wali side, Baldev Singh MC wali Side - Ward11",
+                    "localname": "Gali Kaka sran wali side, Baldev Singh MC wali Side - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB49",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2ad25ee6-913b-4808-8c46-0575a32dd072",
+                    "boundaryNum": 1,
+                    "name": "Moga link road kachha darapur road - Ward11",
+                    "localname": "Moga link road kachha darapur road - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB50",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d3f7b98c-6385-4469-a141-8736338194ee",
+                    "boundaryNum": 1,
+                    "name": "Pati wale santa di kutiya wali side, Main chowk kasi wali side, Fun island wali side - Ward11",
+                    "localname": "Pati wale santa di kutiya wali side, Main chowk kasi wali side, Fun island wali side - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB51",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b792b1f1-d920-4707-b4d6-5fb477e9ecc4",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "d059287e-59f7-4142-a452-26d3a145692a",
+                    "boundaryNum": 1,
+                    "name": "Lakhe wale pahi, Saheed ganj School wali gali, guru Teg Bahadr Nagar - Ward12",
+                    "localname": "Lakhe wale pahi, Saheed ganj School wali gali, guru Teg Bahadr Nagar - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB52",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f6867635-8f77-47f4-b137-b3cffd5250da",
+                    "boundaryNum": 1,
+                    "name": "Sekhon colony, nanak nagari, Bedi Medical wali side, moga Link Road, Tubwal Wali Gali - Ward12",
+                    "localname": "Sekhon colony, nanak nagari, Bedi Medical wali side, moga Link Road, Tubwal Wali Gali - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB53",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48dde29c-3628-4a51-913d-c285adbf2e12",
+                    "boundaryNum": 1,
+                    "name": "Main Chowk, Primary school Water works wali side, Bhajan Singh Siyan wali gali - Ward12",
+                    "localname": "Main Chowk, Primary school Water works wali side, Bhajan Singh Siyan wali gali - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB54",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2c514e74-814d-4f0c-97e9-37634557c5c7",
+                    "boundaryNum": 1,
+                    "name": "Principal Balwinder Singh wali gali, Opposite street PSEB office South side - Ward12",
+                    "localname": "Principal Balwinder Singh wali gali, Opposite street PSEB office South side - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB55",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ecc08fa0-1524-4942-8454-2d1e49af5d5c",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "f23a315a-b0bf-4a37-a9be-cb0601dfb7ee",
+                    "boundaryNum": 1,
+                    "name": "SRN theatre side, Railway quarter side, Railway station west side, Kiran sitran wali gali - Ward13",
+                    "localname": "SRN theatre side, Railway quarter side, Railway station west side, Kiran sitran wali gali - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB56",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fe94b84d-756f-42e6-8857-90ca3dd44c17",
+                    "boundaryNum": 1,
+                    "name": "Nirankari Bhawan, sran wali side, Harbanslal Inspector wali side - Ward13",
+                    "localname": "Nirankari Bhawan, sran wali side, Harbanslal Inspector wali side - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB57",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "6946a799-6248-4327-9178-20d0a06a2721",
+                    "boundaryNum": 1,
+                    "name": "Thanedar Balbir Singh Wali Side, Sahid Bhagat Singh Park., opp Side Dhodian Wali Gali - Ward13",
+                    "localname": "Thanedar Balbir Singh Wali Side, Sahid Bhagat Singh Park., opp Side Dhodian Wali Gali - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB58",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "96a07f1b-3cea-449f-ba32-15e1c28a736d",
+                    "boundaryNum": 1,
+                    "name": "SK School wali gali, SGS ITI wali side, - Ward13",
+                    "localname": "SK School wali gali, SGS ITI wali side, - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB59",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3ded7a42-8b11-48a7-92ec-129669e84459",
+                    "boundaryNum": 1,
+                    "name": "Opp SGS, Tohfa Eng Woks G.T Road, Lakhe wali Pahi inside - Ward13",
+                    "localname": "Opp SGS, Tohfa Eng Woks G.T Road, Lakhe wali Pahi inside - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TB60",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
