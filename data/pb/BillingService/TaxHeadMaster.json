@@ -4738,8 +4738,250 @@
        "isDebit": false,
        "isActualDemand": false,
        "order": "0",
-       "isRequired": false               
-              
+       "isRequired": false       
+       
+      }, 
+      {
+        "category": "TAX",
+        "service": "NKS.Sub_division_charges",
+        "name": "NKS.SUB_DIVISION_CHARGES_TAX",
+        "code": "NKS.SUB_DIVISION_CHARGES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Sub_division_charges",
+        "name": "NKS.SUB_DIVISION_CHARGES_FIELD_FEE",
+        "code": "NKS.SUB_DIVISION_CHARGES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },  
+      {
+        "category": "TAX",
+        "service": "NKS.Sub_division_charges",
+        "name": "NKS.SUB_DIVISION_CHARGES_CGST",
+        "code": "NKS.SUB_DIVISION_CHARGES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Sub_division_charges",
+        "name": "NKS.SUB_DIVISION_CHARGES_SGST",
+        "code": "NKS.SUB_DIVISION_CHARGES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },      
+      {
+        "category": "TAX",
+        "service": "NKS.Information_certificate_fees",
+        "name": "NKS.INFORMATION_CERTIFICATE_FEES_TAX",
+        "code": "NKS.INFORMATION_CERTIFICATE_FEES_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Information_certificate_fees",
+        "name": "NKS.INFORMATION_CERTIFICATE_FEES_FIELD_FEE",
+        "code": "NKS.INFORMATION_CERTIFICATE_FEES_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },  
+      {
+        "category": "TAX",
+        "service": "NKS.Information_certificate_fees",
+        "name": "NKS.INFORMATION_CERTIFICATE_FEES_CGST",
+        "code": "NKS.INFORMATION_CERTIFICATE_FEES_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Information_certificate_fees",
+        "name": "NKS.INFORMATION_CERTIFICATE_FEES_SGST",
+        "code": "NKS.INFORMATION_CERTIFICATE_FEES_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "NKS.Building_safety_certificate",
+        "name": "NKS.BUILDING_SAFETY_CERTIFICATE_TAX",
+        "code": "NKS.BUILDING_SAFETY_CERTIFICATE_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "NKS.Building_safety_certificate",
+        "name": "NKS.BUILDING_SAFETY_CERTIFICATE_FIELD_FEE",
+        "code": "NKS.BUILDING_SAFETY_CERTIFICATE_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },  
+      {
+        "category": "TAX",
+        "service": "NKS.Building_safety_certificate",
+        "name": "NKS.BUILDING_SAFETY_CERTIFICATE_CGST",
+        "code": "NKS.BUILDING_SAFETY_CERTIFICATE_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "NKS.Building_safety_certificate",
+        "name": "NKS.BUILDING_SAFETY_CERTIFICATE_SGST",
+        "code": "NKS.BUILDING_SAFETY_CERTIFICATE_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },     
+      {
+        "category": "TAX",
+        "service": "OTHER.Street_light_pole_transfer_fee",
+        "name": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_TAX",
+        "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "OTHER.Street_light_pole_transfer_fee",
+        "name": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_FIELD_FEE",
+        "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "OTHER.Street_light_pole_transfer_fee",
+        "name": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_CGST",
+        "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "OTHER.Street_light_pole_transfer_fee",
+        "name": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_SGST",
+        "code": "OTHER.STREET_LIGHT_POLE_TRANSFER_FEE_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },     
+      {
+        "category": "TAX",
+        "service": "CH.Collection_and_demolition_waste_challan",
+        "name": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_TAX",
+        "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "CH.Collection_and_demolition_waste_challan",
+        "name": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FIELD_FEE",
+        "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "CH.Collection_and_demolition_waste_challan",
+        "name": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_CGST",
+        "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "CH.Collection_and_demolition_waste_challan",
+        "name": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_SGST",
+        "code": "CH.COLLECTION_AND_DEMOLITION_WASTE_CHALLAN_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {   
+        "category": "TAX",
+        "service": "CH.Burning_of_waste_challan",
+        "name": "CH.BURNING_OF_WASTE_CHALLAN_TAX",
+        "code": "CH.BURNING_OF_WASTE_CHALLAN_TAX",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": true
+      },
+      {
+        "category": "CHARGES",
+        "service": "CH.Burning_of_waste_challan",
+        "name": "CH.BURNING_OF_WASTE_CHALLAN_FIELD_FEE",
+        "code": "CH.BURNING_OF_WASTE_CHALLAN_FIELD_FEE",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      }, 
+      {
+        "category": "TAX",
+        "service": "CH.Burning_of_waste_challan",
+        "name": "CH.BURNING_OF_WASTE_CHALLAN_CGST",
+        "code": "CH.BURNING_OF_WASTE_CHALLAN_CGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "TAX",
+        "service": "CH.Burning_of_waste_challan",
+        "name": "CH.BURNING_OF_WASTE_CHALLAN_SGST",
+        "code": "CH.BURNING_OF_WASTE_CHALLAN_SGST",
+        "isDebit": false,
+        "isActualDemand": false,
+        "order": "0",
+        "isRequired": false    
+   
+                    
       }
        
     ]

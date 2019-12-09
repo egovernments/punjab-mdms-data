@@ -1427,9 +1427,85 @@
             "isAdvanceAllowed": false,
             "isVoucherCreationEnabled": true,
             "isActive": true,
-            "type": "Adhoc"          
+            "type": "Adhoc"     
+
+          },  
+          {
+            "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
+            "code": "NKS.Sub_division_charges",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+         }, 
+         {
+            "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
+            "code": "NKS.Information_certificate_fees",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+         }, 
+         {
+            "businessService": "Naksha_Building Manual Fees.Building_safety_certificate_fees",
+            "code": "NKS.Building_safety_certificate_fees",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+         }, 
+         {
+            "businessService": "OTHER.Street_light_pole_transfer_fee",
+            "code": "OTHER.Street_light_pole_transfer_fee",
+            "collectionModesNotAllowed": [
+                "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"   
+              
+         },   
+         {
+            "businessService": "Challans.Collection_and_demolition_waste_challan",
+            "code": "CH.Collection_and_demolition_waste_challan",
+            "collectionModesNotAllowed": [
+                "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+         },
+         {
+            "businessService": "Challans.Burning_of_waste_challan",
+            "code": "CH.Burning_of_waste_challan",
+            "collectionModesNotAllowed": [
+                "DD"
+             ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
+              
        
           }
+          
   ]
   
 }
