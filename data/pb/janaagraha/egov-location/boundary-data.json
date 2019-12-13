@@ -1,0 +1,120 @@
+{
+    "tenantId": "pb.janaagraha",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "ADMIN",
+          "name": "ADMIN"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Janaagraha",
+          "localname": "Janaagraha",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "pb.janaagraha",
+          "children": [
+            {
+              "id": "e64c4f6a-13dc-4a81-b8dd-ef738a5ad41d",
+              "boundaryNum": 1,
+              "name": "Janaagraha",
+              "localname": "Janaagraha",
+              "longitude": null,
+              "latitude": null,
+              "label": "Zone",
+              "code": "Z1",
+              "children": [
+                {
+                  "id": "73b8fe6c-6fde-48f7-865f-3eca5b76219b",
+                  "boundaryNum": 1,
+                  "name": "WARD_1",
+                  "localname": "WARD_1",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "Block",
+                  "code": "WARD1",
+                  "children": [
+                    {
+                      "id": "a2f86da7-4052-46fe-a00e-b168d9df692e",
+                      "boundaryNum": 1,
+                      "name": "Azad Nagar - WARD_1",
+                      "localname": "Azad Nagar - WARD_1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "SC1",
+                      "area": "",
+                      "children": []
+                    },
+                    {
+                      "id": "0c28a9fe-79fa-456c-a2fc-bbdad5867683",
+                      "boundaryNum": 1,
+                      "name": "New Kartar Nagar - WARD_1",
+                      "localname": "New Kartar Nagar - WARD_1",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "SC2",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "5b75fd89-6582-4867-a40c-b9d1df4bd5e3",
+                  "boundaryNum": 1,
+                  "name": "WARD_2",
+                  "localname": "WARD_2",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "Block",
+                  "code": "WARD2",
+                  "children": [
+                    {
+                      "id": "a05da3e2-dc38-47ce-be58-e0877af00ee3",
+                      "boundaryNum": 1,
+                      "name": "Kartar Nagar - WARD_2",
+                      "localname": "Kartar Nagar - WARD_2",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "SC3",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "a8d7b38e-162f-493d-9ed3-da5549ce0ba3",
+                  "boundaryNum": 1,
+                  "name": "WARD_3",
+                  "localname": "WARD_3",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "Block",
+                  "code": "WARD3",
+                  "children": [
+                    {
+                      "id": "eddc3117-322f-478d-a194-8b45a531e17b",
+                      "boundaryNum": 1,
+                      "name": "Bawian - WARD_3",
+                      "localname": "Bawian - WARD_3",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "SC4",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
