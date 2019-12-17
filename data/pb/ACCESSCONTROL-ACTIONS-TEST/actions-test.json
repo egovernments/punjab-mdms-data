@@ -6172,6 +6172,57 @@
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1865,
+      "name": "DSS Dashboard Config Property Tax",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/propertytax",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1866,
+      "name": "DSS Dashboard Config Trade License",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/tradelicense",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1867,
+      "name": "DSS Dashboard Config PGR",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/pgr",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1868,
+      "name": "Dashboard PGR",
+      "url": "url",
+      "displayName": "PGR",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.PGR",
+      "navigationURL": "integration/dss/pgr",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
