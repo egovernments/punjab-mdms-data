@@ -211,7 +211,7 @@
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "other.no_due_certificate_electriCITY.CODE.receipt.id"
+            "idname": "other.no_due_certificate_electricity.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -263,7 +263,7 @@
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "ch.bidi_&_cigrette_challan.receipt.id"
+            "idname": "ch.bidi_and_cigrette_challan.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
@@ -450,8 +450,52 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "fn.security_deposit_fee.receipt.id"
-            
-
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.dispensary_fee.receipt.id"
+        },  
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "rt.sale_of_land.receipt.id"   
+        },      
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.license_fee.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.candy_fee.receipt.id"
+        }, 
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.conservancy_fee.receipt.id"
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "nks.sub_division_charges.receipt.id"
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "nks.information_certificate_fees.receipt.id"
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "nks.building_safety_certificate.receipt.id"
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.street_light_pole_transfer_fee.receipt.id"
+        },   
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "ch.collection_and_demolition_waste_challan.receipt.id"
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "ch.burning_of_waste_challan.receipt.id"                        
+                               
+                            
         }
 
     ]
