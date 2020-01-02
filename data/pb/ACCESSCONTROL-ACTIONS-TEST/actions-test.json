@@ -5891,6 +5891,30 @@
       "path": "Finance.Period End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
  
+    },
+    {
+      "id": 1849,
+      "name": "Indexer finance billregister indexing",
+      "url": "/egov-indexer/index-operations/finance-bill-topic/_index",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-indexer",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1850,
+      "name": "Indexer finance voucher indexing",
+      "url": "/egov-indexer/index-operations/finance-voucher-topic/_index",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-indexer",
+      "code": "null",
+      "path": ""
     }
   ]
 }
