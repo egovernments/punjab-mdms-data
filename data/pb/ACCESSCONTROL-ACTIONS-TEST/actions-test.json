@@ -6255,6 +6255,21 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1893,
+      "name": "UlbPgrSlaReport",
+      "url": "url",
+      "displayName": "Complaints SLA",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.SLAwiseReport",
+      "navigationURL": "report/rainmaker-pgr/UlbPgrSlaReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
