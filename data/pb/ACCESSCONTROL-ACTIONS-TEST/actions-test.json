@@ -5915,6 +5915,21 @@
       "serviceCode": "egov-indexer",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1851,
+      "name": "ComplaintTypesReport",
+      "url": "url",
+      "displayName": "Complaint SLA",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.UlbPgrSlaReport",
+      "navigationURL": "report/rainmaker-pgr/UlbPgrSlaReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
