@@ -6302,6 +6302,20 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseDetailsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1896,
+      "name": "View Bank Statement Uploaded Files",
+      "navigationURL": "services/EGF/bankstatement/search",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "View Bank Statement Uploaded Files",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "FinanceReconcile",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Bank Reconciliation.View Bank Statement Uploaded Files"
     }
   ]
 }
