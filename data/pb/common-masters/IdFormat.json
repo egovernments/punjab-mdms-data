@@ -493,8 +493,17 @@
         },    
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "ch.burning_of_waste_challan.receipt.id"                        
-                               
+            "idname": "ch.burning_of_waste_challan.receipt.id"  
+        },  
+               
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.sale_of_compost.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.sale_of_recyclable.receipt.id"        
+                             
                             
         }
 
