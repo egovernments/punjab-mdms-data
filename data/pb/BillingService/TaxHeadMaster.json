@@ -4980,7 +4980,90 @@
         "isActualDemand": false,
         "order": "0",
         "isRequired": false    
-   
+
+      }, 
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_compost",
+          "name": "OTHER.SALE_OF_COMPOST_TAX",
+          "code": "OTHER.SALE_OF_COMPOST_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+      },
+      {
+          "category": "CHARGES",
+          "service": "OTHER.Sale_of_compost",
+          "name": "OTHER.SALE_OF_COMPOST_FIELD_FEE",
+          "code": "OTHER.SALE_OF_COMPOST_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+      }, 
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_compost",
+          "name": "OTHER.SALE_OF_COMPOST_CGST",
+          "code": "OTHER.SALE_OF_COMPOST_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+  
+      },
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_compost",
+          "name": "OTHER.SALE_OF_COMPOST_SGST",
+          "code": "OTHER.SALE_OF_COMPOST_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+      },         
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_recyclable",
+          "name": "OTHER.SALE_OF_RECYCLABLE_TAX",
+          "code": "OTHER.SALE_OF_RECYCLABLE_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+      },
+      {
+          "category": "CHARGES",
+          "service": "OTHER.Sale_of_recyclable",
+          "name": "OTHER.SALE_OF_RECYCLABLE_FIELD_FEE",
+          "code": "OTHER.SALE_OF_RECYCLABLE_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+      }, 
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_recyclable",
+          "name": "OTHER.SALE_OF_RECYCLABLE_CGST",
+          "code": "OTHER.SALE_OF_RECYCLABLE_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+  
+      },
+      {
+          "category": "TAX",
+          "service": "OTHER.Sale_of_recyclable",
+          "name": "OTHER.SALE_OF_RECYCLABLE_SGST",
+          "code": "OTHER.SALE_OF_RECYCLABLE_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+
                     
       }
        
