@@ -1483,7 +1483,34 @@
               "isAdvanceAllowed": false,
               "isVoucherCreationEnabled": true,
               "isActive": true,
-              "type": "Adhoc"              
+              "type": "Adhoc"  
+
+           },  
+           {
+              "businessService": "OTHER.Sale_of_compost",
+              "code": "OTHER.Sale_of_compost",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+           },
+           {
+              "businessService": "OTHER.Sale_of_recyclable",
+              "code": "OTHER.Sale_of_recyclable",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"               
+              
+
                                   
           }
     
