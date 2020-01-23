@@ -6396,6 +6396,60 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1903,
+      "name": "Dashboard ULB Home",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-home",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1904,
+      "name": "Dashboard ULB Overview",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-overview",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1905,
+      "name": "Dashboard ULB Home",
+      "url": "url",
+      "displayName": "ULB Home",
+      "orderNumber": 6,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "integration/dss/ulb-home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1906,
+      "name": "Dashboard ULB Overview",
+      "url": "url",
+      "displayName": "ULB Overview",
+      "orderNumber": 7,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Overview",
+      "navigationURL": "integration/dss/ulb-overview",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
