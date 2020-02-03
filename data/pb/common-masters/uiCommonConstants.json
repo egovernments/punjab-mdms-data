@@ -100,6 +100,58 @@
             "title": "DASHBOARD_TITLE_MICS"
         }
       }
-    }
+    },
+	  "dss": {
+        "iframe-routes": {
+          "home": {
+            "routePath": "/dashboard/",
+            "isOrigin": true
+          },
+          "propertytax": {
+            "routePath": "/dashboard/propertytax",
+            "isOrigin": true
+          },
+          "tradelicense": {
+            "routePath": "/dashboard/tradelicense",
+            "isOrigin": true
+          },
+          "pgr": {
+            "routePath": "/dashboard/pgr",
+            "isOrigin": true
+          },
+          "overview": {
+            "routePath": "/dashboard/overview",
+            "isOrigin": true
+          },
+          "ulb-pgr": {
+            "routePath": "/dashboard/ulb-pgr",
+            "isOrigin": true
+          },
+          "ulb-tradeLicense": {
+            "routePath": "/dashboard/ulb-tradeLicense",
+            "isOrigin": true
+          },
+          "ulb-propertyTax": {
+            "routePath": "/dashboard/ulb-propertyTax",
+            "isOrigin": true
+          },
+          "ulb-home": {
+            "routePath": "/dashboard/ulb-home",
+            "isOrigin": true
+          },
+          "ulb-overview": {
+            "routePath": "/dashboard/ulb-overview",
+            "isOrigin": true
+          },
+          "ws": {
+            "routePath": "/dashboard/ws",
+            "isOrigin": true
+          },
+          "ulb-ws": {
+            "routePath": "/dashboard/ulb-ws",
+            "isOrigin": true
+          }
+        }
+      }
   }]
 }

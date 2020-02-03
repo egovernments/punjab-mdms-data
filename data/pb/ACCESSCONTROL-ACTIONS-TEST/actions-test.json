@@ -5390,96 +5390,96 @@
       "rightIcon": ""
     },
     {
-        "id": 1809,
-        "name": "businessDetails create",
-        "url": "/egov-common-masters/businessDetails/_update",
-        "parentModule": "",
-        "displayName": "",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "Collections",
-        "code": "null",
-        "path": "",
-        "navigationURL": ""
-      },
-      {
-        "id": 1810,
-        "name": "business category create",
-        "url": "/egov-common-masters/businessCategory/_update",
-        "parentModule": "",
-        "displayName": "business category search",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "Collections",
-        "code": "null",
-        "path": "",
-        "navigationURL": ""
-      },
-      {
-        "id": 1811,
-        "name": "Universal Collection",
-        "url": "url",
-        "displayName": "Universal Collection",
-        "orderNumber": 4,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "UC",
-        "code": "null",
-        "navigationURL": "uc/search",
-        "path": "UC",
-        "leftIcon": "image:collections-bookmark"
-      },
-      {
-        "id": 1812,
-        "name": "Receipts",
-        "url": "url",
-        "displayName": "Receipts",
-        "orderNumber": 4,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "UC",
-        "code": "null",
-        "navigationURL": "uc-citizen/search",
-        "path": "UC",
-        "leftIcon": "image:collections-bookmark"
-      },
-      {
-        "id": 1813,
-        "name": "Search by Property ID",
-        "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/propertyidSearch/_get",
-        "parentModule": "",
-        "displayName": "Punjab customization",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "punjab-customization",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 1814,
-        "name": "Indexer finance rolloutadoption",
-        "url": "/egov-indexer/index-operations/finance-adoption-topic/_index",
-        "parentModule": "",
-        "displayName": "",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "egov-indexer",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 1818,
-        "name": "PropertyTax new payments search by ra",
-        "url": "/egov-searcher/rainmaker-pt-rasearch-punjab/searchPropertyIDBypayername/_get",
-        "parentModule": "",
-        "displayName": "Punjab customization",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "punjab-customization",
-        "code": "null",
-        "path": ""
-      },
-      {      
+      "id": 1809,
+      "name": "businessDetails create",
+      "url": "/egov-common-masters/businessDetails/_update",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Collections",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 1810,
+      "name": "business category create",
+      "url": "/egov-common-masters/businessCategory/_update",
+      "parentModule": "",
+      "displayName": "business category search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "Collections",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 1811,
+      "name": "Universal Collection",
+      "url": "url",
+      "displayName": "Universal Collection",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc/search",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 1812,
+      "name": "Receipts",
+      "url": "url",
+      "displayName": "Receipts",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "UC",
+      "code": "null",
+      "navigationURL": "uc-citizen/search",
+      "path": "UC",
+      "leftIcon": "image:collections-bookmark"
+    },
+    {
+      "id": 1813,
+      "name": "Search by Property ID",
+      "url": "/egov-searcher/rainmaker-pt-customsearch-punjab/propertyidSearch/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1814,
+      "name": "Indexer finance rolloutadoption",
+      "url": "/egov-indexer/index-operations/finance-adoption-topic/_index",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-indexer",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1818,
+      "name": "PropertyTax new payments search by ra",
+      "url": "/egov-searcher/rainmaker-pt-rasearch-punjab/searchPropertyIDBypayername/_get",
+      "parentModule": "",
+      "displayName": "Punjab customization",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "punjab-customization",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 9996,
       "name": "BND UnLink Account",
       "url": "/customization/protected/bndlogin/unlinkAccount",
@@ -5667,7 +5667,7 @@
       "code": "null",
       "path": "Dashboard.MiscellaneousCollections",
       "navigationURL": "integration/dashboard/miscellaneouscollections",
-       "leftIcon": "action:assignment",
+      "leftIcon": "action:assignment",
       "rightIcon": ""
     },
     {
@@ -5751,7 +5751,7 @@
       "code": "null",
       "path": ""
     },
-      {
+    {
       "id": 1839,
       "name": "SearchTradeLicenseApplicationReport",
       "url": "url",
@@ -5766,7 +5766,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-       {
+    {
       "id": 1840,
       "name": "SearchTradeLicenseApplicationReport",
       "url": "url",
@@ -5890,7 +5890,6 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Period End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
- 
     },
     {
       "id": 1849,
@@ -5945,7 +5944,7 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseDetailsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-      },
+    },
     {
       "id": 1853,
       "name": "Surrendered Cheque",
@@ -5959,7 +5958,180 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
       "navigationURL": "services/EGF/report/cheque/surrendered/form"
+    },
+    {
+      "id": 1854,
+      "name": "DSS Dashboard Charts",
+      "url": "/dashboard-analytics/dashboard/getChartV2",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1855,
+      "name": "Dashboard ULB Tradelicense",
+      "url": "url",
+      "displayName": "ULB TradeLicense",
+      "orderNumber": 8,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.TradeLicense",
+      "navigationURL": "integration/dss/ulb-tradeLicense",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1856,
+      "name": "Dashboard ULD Property Tax",
+      "url": "url",
+      "displayName": "ULB PropertyTax",
+      "orderNumber": 9,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.PropertyTax",
+      "navigationURL": "integration/dss/ulb-propertyTax",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1857,
+      "name": "Dashboard ULB PGR",
+      "url": "url",
+      "displayName": "ULB PGR",
+      "orderNumber": 10,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.TradeLicense",
+      "navigationURL": "integration/dss/ulb-pgr",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1858,
+      "name": "Dashboard ULB TradeLicense",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-tradeLicense",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1859,
+      "name": "Dashboard ULB Property Tax",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-propertyTax",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1860,
+      "name": "Dashboard ULB PGR",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-pgr",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1861,
+      "name": "Dashboard ULB Home",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-home",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1862,
+      "name": "Dashboard ULB Overview",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ulb-overview",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1863,
+      "name": "Dashboard ULB Home",
+      "url": "url",
+      "displayName": "ULB Home",
+      "orderNumber": 6,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "integration/dss/ulb-home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1864,
+      "name": "Dashboard ULB Overview",
+      "url": "url",
+      "displayName": "ULB Overview",
+      "orderNumber": 7,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Overview",
+      "navigationURL": "integration/dss/ulb-overview",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1865,
+      "name": "Dashboard Water Sewerage",
+      "url": "url",
+      "displayName": "Water Sewerage",
+      "orderNumber": 11,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Ws",
+      "navigationURL": "integration/dss/ws",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1866,
+      "name": "Dashboard Water Sewerage",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/ws",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
     }
-    ]
-  }   
-   
+  ]
+}
