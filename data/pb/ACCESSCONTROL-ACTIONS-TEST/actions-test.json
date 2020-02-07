@@ -6518,6 +6518,34 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
       "navigationURL": "services/EGF/report/cheque/surrendered/form"
+    },
+    {
+      "id": 1912,
+      "name": "dss migrate",
+      "url": "/ingest/migrate/collectionsindex-v1",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1913,
+      "name": "rainmaker-common-wns",
+      "url": "card",
+      "displayName": "Water & Sewerage",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "",
+      "path": "",
+      "navigationURL": "wns/search",
+      "leftIcon": "custom:water-tap",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
