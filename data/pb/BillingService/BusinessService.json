@@ -1530,6 +1530,18 @@
              
               
        
+          },
+          {
+            "businessService": "License Fee.Trade License Fee",
+            "code": "LCF.Trade License Fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
           }
           
   ]
