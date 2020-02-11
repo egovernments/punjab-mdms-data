@@ -498,8 +498,10 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.sale_of_recyclable.receipt.id"    
-                      
-           
+        },    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "LCF.Trade_License_Fee.receipt.id"
         }
         
     ]
