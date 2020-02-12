@@ -5006,7 +5006,49 @@
                   "order": "0",
                   "isRequired": false 
                               
-             }
+             },
+             {
+              "category": "TAX",
+              "service": "LCF.Trade_License_Fee",
+              "name": "LCF.TRADE_LICENSE_FEE_TAX",
+              "code": "LCF.TRADE_LICENSE_FEE_TAX",
+              "isDebit": false,
+              "isActualDemand": true,
+              "order": "1",
+              "isRequired": true
+            },
+            {
+              "category": "CHARGES",
+              "service": "LCF.Trade_License_Fee",
+              "name": "LCF.TRADE_LICENSE_FEE_FIELD_FEE",
+              "code": "LCF.TRADE_LICENSE_FEE_FIELD_FEE",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false
+            },
+            {
+              "category": "TAX",
+              "service": "LCF.Trade_License_Fee",
+              "name": "LCF.TRADE_LICENSE_FEE_CGST",
+              "code": "LCF.TRADE_LICENSE_FEE_CGST",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false
+        
+         },
+         {
+              "category": "TAX",
+              "service": "LCF.Trade_License_Fee",
+              "name": "LCF.TRADE_LICENSE_FEE_SGST",
+              "code": "LCF.TRADE_LICENSE_FEE_SGST",
+              "isDebit": false,
+              "isActualDemand": false,
+              "order": "0",
+              "isRequired": false 
+                          
+         }
                  
           ]
               

@@ -505,6 +505,10 @@
             "idname": "other.sale_of_recyclable.receipt.id"        
                              
                             
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "lcf.trade_license_fee.receipt.id"
         }
 
     ]
