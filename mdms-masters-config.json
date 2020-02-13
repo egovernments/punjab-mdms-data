@@ -697,7 +697,7 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.billingservicecode",
-         "$.taxhead"
+        "$.taxhead"
       ]
     },
     "InstrumentGLcodeMapping": {
@@ -709,6 +709,36 @@
     },
     "FinanceInstrumentStatusMapping": {
       "masterName": "FinanceInstrumentStatusMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "firenoc": {
+    "BuildingType": {
+      "masterName": "BuildingType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "ApplicationType": {
+      "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "FireStations": {
+      "masterName": "FireStations",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "FireNocStateConstats": {
+      "masterName": "FireNocStateConstats",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
