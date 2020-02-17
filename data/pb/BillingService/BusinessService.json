@@ -1502,8 +1502,46 @@
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
+             
+          },  
+          {
+              "businessService": "OTHER.Sale_of_compost",
+              "code": "OTHER.Sale_of_compost",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+         },
+         {
+              "businessService": "OTHER.Sale_of_recyclable",
+              "code": "OTHER.Sale_of_recyclable",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+             
               
        
+          },
+          {
+            "businessService": "License Fee.Trade License Fee",
+            "code": "LCF.Trade_License_Fee",
+            "collectionModesNotAllowed": [
+              "DD"
+            ],
+            "partPaymentAllowed": false,
+            "isAdvanceAllowed": false,
+            "isVoucherCreationEnabled": true,
+            "isActive": true,
+            "type": "Adhoc"
           }
           
   ]

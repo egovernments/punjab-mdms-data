@@ -59,6 +59,14 @@
       "financialYear": "2013-14"
     },
     {
+      "fromDate": 1579062600000,
+      "toDate": 1617215340000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2020",
+      "financialYear": "2020-21"
+    },
+    {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
@@ -1091,11 +1099,36 @@
             "service": "CH.Burning_of_waste_challan",
             "code": "CHBURNINGOFWASTECHALLAN",
             "financialYear": "2014-24"
-         
+
+         },
+         {
+              "fromDate": 1396310399000,
+              "toDate": 1711929599000,
+              "periodCycle": "ANNUAL",
+              "service": "OTHER.Sale_of_compost",
+              "code": "OTHERSALEOFCOMPOST",
+              "financialYear": "2014-24"   
         
+         },    
+         {
+              "fromDate": 1396310399000,
+              "toDate": 1711929599000,
+              "periodCycle": "ANNUAL",
+              "service": "OTHER.Sale_of_recyclable",
+              "code": "OTHERSALEOFRECYCLABLE",
+              "financialYear": "2014-24"         
+                    
                
                     
-          }                   
+          },
+          {
+            "fromDate": 1396310399000,
+            "toDate": 1711929599000,
+            "periodCycle": "ANNUAL",
+            "service": "LCF.Trade_License_Fee",
+            "code": "LCFTRADELICENSEFEE",
+            "financialYear": "2014-24"
+          }                 
        ]  
    }
 
