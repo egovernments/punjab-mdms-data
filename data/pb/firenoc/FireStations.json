@@ -53,8 +53,8 @@
       ]
     },
     {
-      "code": "pb.RAMPURAPHULL",
-      "baseTenantId": "pb.rampuraphull",
+      "code": "FS_RAMPURAPHUL_01",
+      "baseTenantId": "pb.rampuraphul",
       "active": true,
       "subDistrict": [
         "Rampuraphul",
@@ -65,19 +65,33 @@
     },
     {
       "code": "FS_FATEHGARHSAHIB_01",
-      "baseTenantId": "pb.Fatehgarh Sahib",
+      "baseTenantId": "pb.bassipathana",
       "active": true,
       "subDistrict": [
-        "Sirhind-Fatehgarh sahib",
         "Bassi-pathana"
       ]
     },
     {
-      "code": "FS_GOBINDGARH_01",
-      "baseTenantId": "pb.gobindgarh",
+      "code": "FS_FATEHGARHSAHIB_01",
+      "baseTenantId": "pb.sirhind",
       "active": true,
       "subDistrict": [
-        "Gobindgarh",
+        "Sirhind-Fatehgarh sahib"
+      ]
+    },
+    {
+      "code": "FS_GOBINDGARH_01",
+      "baseTenantId": "pb.mandigobindgarh",
+      "active": true,
+      "subDistrict": [
+        "Gobindgarh"
+      ]
+    },
+    {
+      "code": "FS_GOBINDGARH_01",
+      "baseTenantId": "pb.amloh",
+      "active": true,
+      "subDistrict": [
         "Amloh"
       ]
     },
@@ -92,10 +106,17 @@
     },
     {
       "code": "FS_KOTKAPURA_01",
-      "baseTenantId": "pb.Kotkapura",
+      "baseTenantId": "pb.kotkapura",
       "active": true,
       "subDistrict": [
-        "Kotkapura",
+        "Kotkapura"
+      ]
+    },
+    {
+      "code": "FS_KOTKAPURA_01",
+      "baseTenantId": "pb.jaitu",
+      "active": true,
+      "subDistrict": [
         "Jaitu"
       ]
     },
@@ -105,13 +126,20 @@
       "active": true,
       "subDistrict": [
         "Fazilka",
-        "Arniwala",
         "Sheikh subhan"
       ]
     },
     {
+      "code": "FS_FAZILKA_01",
+      "baseTenantId": "pb.arniwala",
+      "active": true,
+      "subDistrict": [
+        "Arniwala"
+      ]
+    },
+    {
       "code": "FS_ABOHAR_01",
-      "baseTenantId": "pb.Abohar",
+      "baseTenantId": "pb.abohar",
       "active": true,
       "subDistrict": [
         "Abohar",
@@ -129,13 +157,42 @@
     },
     {
       "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.Ferozepur",
+      "baseTenantId": "pb.ferozepur",
       "active": true,
       "subDistrict": [
-        "Zira",
-        "Talwandi bhai",
-        "Mamdot",
+        "Ferozepur"
+      ]
+    },
+    {
+      "code": "FS_FEROZEPUR_01",
+      "baseTenantId": "pb.zira",
+      "active": true,
+      "subDistrict": [
+        "Zira"
+      ]
+    },
+    {
+      "code": "FS_FEROZEPUR_01",
+      "baseTenantId": "pb.makhu",
+      "active": true,
+      "subDistrict": [
         "Makhu"
+      ]
+    },
+    {
+      "code": "FS_FEROZEPUR_01",
+      "baseTenantId": "pb.talwandibhai",
+      "active": true,
+      "subDistrict": [
+        "Talwandi bhai"
+      ]
+    },
+    {
+      "code": "FS_FEROZEPUR_01",
+      "baseTenantId": "pb.mamdot",
+      "active": true,
+      "subDistrict": [
+        "Mamdot"
       ]
     },
     {
@@ -155,12 +212,27 @@
       "active": true,
       "subDistrict": [
         "Gurdaspur",
-        "Dera baba nanak",
         "Kahnuwan",
         "kalanaur",
         "Dinanagar",
         "Nashera majha singh",
         "Dhariwal"
+      ]
+    },
+    {
+      "code": "FS_GURDASPUR_01",
+      "baseTenantId": "pb.dhariwal",
+      "active": true,
+      "subDistrict": [
+        "Dhariwal"
+      ]
+    },
+    {
+      "code": "FS_GURDASPUR_01",
+      "baseTenantId": "pb.derababananak",
+      "active": true,
+      "subDistrict": [
+        "Dera baba nanak"
       ]
     },
     {
@@ -192,6 +264,99 @@
       "active": true,
       "subDistrict": [
         "Testing"
+      ]
+    },
+    {
+      "code": "FS_JALANDHAR_01",
+      "baseTenantId": "pb.jalandhar",
+      "active": true,
+      "subDistrict": [
+        "Jalandhar",
+        "Adampur",
+        "Bhogpur"
+      ]
+    },
+    {
+      "code": "FS_nakodar_01",
+      "baseTenantId": "pb.nakodar",
+      "active": true,
+      "subDistrict": [
+        "Nakodar",
+        "Shahkot",
+        "Lohian",
+        "Nurmahal",
+        "Mehatpur",
+        "Bilga"
+      ]
+    },
+    {
+      "code": "FS_phagwara_01",
+      "baseTenantId": "pb.phagwara",
+      "active": true,
+      "subDistrict": [
+        "Phagwara",
+        "Phillaur(except Bilga)",
+        "Goraya"
+      ]
+    },
+    {
+      "code": "FS_kartarpur_01",
+      "baseTenantId": "pb.kartarpur",
+      "active": true,
+      "subDistrict": [
+        "Kartarpur",
+        "Bhulath"
+      ]
+    },
+    {
+      "code": "FS_Kapurthala_01",
+      "baseTenantId": "pb.kapurthala",
+      "active": true,
+      "subDistrict": [
+        "Kapurthala",
+        "Sultanpur lodhi",
+        "Dhilwan",
+        "Talwandi Choudhrian"
+      ]
+    },
+    {
+      "code": "FS_Khanna_01",
+      "baseTenantId": "pb.khanna",
+      "active": true,
+      "subDistrict": [
+        "Khanna",
+        "Maloud"
+      ]
+    },
+    {
+      "code": "FS_Samrala_01",
+      "baseTenantId": "pb.samrala",
+      "active": true,
+      "subDistrict": [
+        "Samrala",
+        "Machhiwara",
+        "Doraha",
+        "koom kalan",
+        "Khamano",
+        "Sahnewal"
+      ]
+    },
+    {
+      "code": "FS_Ludhiana_01",
+      "baseTenantId": "pb.ludhiana",
+      "active": true,
+      "subDistrict": [
+        "Ludhiana",
+        "Dehlon"
+      ]
+    },
+    {
+      "code": "FS_Ludhiana_01",
+      "baseTenantId": "pb.ludhiana",
+      "active": true,
+      "subDistrict": [
+        "Jagraon",
+        "Sidhwan Bet"
       ]
     }
   ]
