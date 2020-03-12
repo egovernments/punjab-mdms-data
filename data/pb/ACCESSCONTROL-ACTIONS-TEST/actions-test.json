@@ -6387,6 +6387,36 @@
       "navigationURL": "report/rainmaker-tl/ULBDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1886,
+      "name": "StateReceiptRegisterSummary",
+      "url": "url",
+      "displayName": "Summary Receipt Register",
+      "orderNumber": 11,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "State Reports.PT.StateReceiptRegisterSummary",
+      "navigationURL": "report/rainmaker-pt/StateReceiptRegisterSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1887,
+      "name": "ReceiptRegisterSummary",
+      "url": "url",
+      "displayName": "Summary Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ReceiptRegisterSummary",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
