@@ -6357,6 +6357,36 @@
       "navigationURL": "report/rainmaker-pt/Sewa_Kendra_ReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1884,
+      "name": "StateDefaulterReport",
+      "url": "url",
+      "displayName": "Application Status",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.StateDefaulterReport",
+      "navigationURL": "report/rainmaker-tl/StateDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1885,
+      "name": "ULBDefaulterReport",
+      "url": "url",
+      "displayName": "ULB Defaulter Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.ULBDefaulterReport",
+      "navigationURL": "report/rainmaker-tl/ULBDefaulterReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
