@@ -6804,6 +6804,21 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
+    },
+        {
+      "id": 1934,
+      "name": "FeedbackReport",
+      "url": "url",
+      "displayName": "Feedback",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.FeedbackReport",
+      "navigationURL": "report/rainmaker-pgr/FeedbackReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
