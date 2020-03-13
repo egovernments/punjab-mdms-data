@@ -6417,6 +6417,21 @@
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1888,
+      "name": "FeedbackReport",
+      "url": "url",
+      "displayName": "Feedback",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.FeedbackReport",
+      "navigationURL": "report/rainmaker-pgr/FeedbackReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
