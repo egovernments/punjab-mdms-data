@@ -1524,6 +1524,22 @@
             "isVoucherCreationEnabled": true,
             "isActive": true,
             "type": "Adhoc"
+          },
+          
+          {
+              "businessService": "OTHER.Dog_Registration",
+              "code": "OTHER.Dog_Registration",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"               
+              
+
+                                  
           }
     
       ]
