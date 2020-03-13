@@ -1,0 +1,24 @@
+{
+    "tenantId": "pb.testing",
+    "moduleName": "PaymentGateway",
+    "gateways": [
+        {
+            "code": "AXIS",
+            "enabled": true,
+            "default": false,
+            "serviceOverride": {
+                "*": {
+                    "accountNumber": "918010058512121"
+                }
+            }
+        },
+        {
+            "code": "PAYU",
+            "enabled": true,
+            "default": true,
+            "serviceOverride": {
+                "*": {}
+            }
+        }
+    ]
+}

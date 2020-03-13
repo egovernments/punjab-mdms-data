@@ -5105,6 +5105,50 @@
           "isRequired": false
 
                     
+      },
+     {
+      "category": "TAX",
+      "service": "OTHER.Dog_Registration",
+      "name": "OTHER.DOG_REGISTRATION_TAX",
+      "code": "OTHER.DOG_REGISTRATION_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER.Dog_Registration",
+      "name": "OTHER.DOG_REGISTRATION_FIELD_FEE",
+      "code": "OTHER.DOG_REGISTRATION_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
+     ,
+      {
+          "category": "TAX",
+          "service": "OTHER.Dog_Registration",
+          "name": "OTHER.DOG_REGISTRATION_CGST",
+          "code": "OTHER.DOG_REGISTRATION_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+  
+      },
+      {
+          "category": "TAX",
+          "service": "OTHER.Dog_Registration",
+          "name": "OTHER.DOG_REGISTRATION_SGST",
+          "code": "OTHER.DOG_REGISTRATION_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+
+                    
       }
        
     ]
