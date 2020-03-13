@@ -16,7 +16,8 @@
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
       "slaHours": 4800,
-      "menuPath": "StreetLights"
+      "menuPath": "StreetLights",
+      "order": 1
     },
     {
       "serviceCode": "GarbageNeedsTobeCleared",
@@ -24,7 +25,8 @@
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "DEPT_3",
       "slaHours": 336,
-      "menuPath": "Garbage"
+      "menuPath": "Garbage",
+      "order": 4
     },
     {
       "serviceCode": "BurningOfGarbage",
@@ -56,7 +58,8 @@
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "WaterandSewage"
+      "menuPath": "WaterandSewage",
+      "order": 2
     },
     {
       "serviceCode": "ShortageOfWater",
@@ -80,7 +83,8 @@
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 336,
-      "menuPath": "WaterandSewage"
+      "menuPath": "WaterandSewage",
+      "order": 3
     },
     {
       "serviceCode": "WaterPressureisVeryLess",
@@ -120,7 +124,8 @@
       "keywords": "other",
       "department": "DEPT_33",
       "slaHours": 336,
-      "menuPath": "Property Tax/House Tax"
+      "menuPath": "Property Tax/House Tax",
+      "order": 6
     },
     {
       "serviceCode": "DamagedRoad",
@@ -322,8 +327,8 @@
         "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
         "department": "DEPT_3",
         "slaHours": 336,
-        "menuPath": "Garbage"
-
+        "menuPath": "Garbage",
+        "order": 5
     },
     {
         "serviceCode": "CongressGrassCutting",
