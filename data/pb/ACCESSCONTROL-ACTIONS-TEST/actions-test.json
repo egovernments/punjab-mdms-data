@@ -6835,9 +6835,6 @@
         "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT",
         "leftIcon": "action:assignment",
         "rightIcon": ""
-     
-
-      
     },
     {
       "id": 1936,
@@ -6851,6 +6848,21 @@
       "code": "null",
       "path": "PGR.PGR Reports.TestSourceWiseReport",
       "navigationURL": "report/rainmaker-pgr/TestSourceWiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 1937,
+      "name": "EmployeeReport",
+      "url": "url",
+      "displayName": "Source",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "path": "State Reports.HRMS.EmployeeReport",
+      "navigationURL": "report/rainmaker-hrms/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }
