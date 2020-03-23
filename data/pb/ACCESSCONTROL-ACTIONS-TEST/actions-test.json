@@ -6787,7 +6787,7 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.FY Collection Report",
-      "navigationURL": "report/rainmaker-pt/FYCollectionsReport", 
+      "navigationURL": "report/rainmaker-pt/FYCollectionsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -6805,7 +6805,7 @@
       "path": "Finance.Period End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
     },
-        {
+    {
       "id": 1934,
       "name": "FeedbackReport",
       "url": "url",
@@ -6819,22 +6819,21 @@
       "navigationURL": "report/rainmaker-pgr/FeedbackReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-
     },
     {
-        "id": 1935,
-        "name": "ULB-defaulter PT Report",
-        "url": "url",
-        "displayName": "ULB-defaulter PT Report",
-        "orderNumber": 7,
-        "queryParams": "",
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "",
-        "path": "Property Tax.PT Reports.ULB-defaulter PT Report",
-        "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT",
-        "leftIcon": "action:assignment",
-        "rightIcon": ""
+      "id": 1935,
+      "name": "ULB-defaulter PT Report",
+      "url": "url",
+      "displayName": "ULB-defaulter PT Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ULB-defaulter PT Report",
+      "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     },
     {
       "id": 1936,
@@ -6865,6 +6864,17 @@
       "navigationURL": "report/rainmaker-hrms/EmployeeReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 1938,
+      "name": "Collection Saerch Reciept",
+      "url": "/collection-services/payments/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
