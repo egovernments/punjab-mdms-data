@@ -6870,9 +6870,21 @@
       "name": "Collection Saerch Reciept",
       "url": "/collection-services/payments/_search",
       "displayName": "Search Payment",
-      "orderNumber": 0,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1939,
+      "name": "Fetch Bill",
+      "url": "/billing-service/bill/_fetchbill",
+      "displayName": "Fetch Bill",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "Billing-service",
       "code": "null",
       "path": ""
     }
