@@ -379,8 +379,14 @@
           "department": "DEPT_2",
           "slaHours": 336,
           "menuPath": "RoadsAndFootpaths"
-                
-
+    },
+    {
+      "serviceCode": "Covid19Screening",
+      "active": true,
+      "keywords": "covid, corona, virus",
+      "department": "COVID",
+      "slaHours": 336,
+      "menuPath": "Corona"
     }
   ]
 }
