@@ -6888,7 +6888,7 @@
       "code": "null",
       "path": ""
     },
-	 {
+    {
       "id": 1940,
       "name": "CollectionReport",
       "url": "url",
@@ -6903,8 +6903,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-	
-	{
+    {
       "id": 1941,
       "name": "ApplicationStatusReport",
       "url": "url",
@@ -6919,8 +6918,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-	
-	{
+    {
       "id": 1942,
       "name": "ChannelsReport",
       "url": "url",
@@ -6935,7 +6933,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-   {
+    {
       "id": 1943,
       "name": "Property Plain Search",
       "url": "/pt-services-v2/property/_plainsearch",
@@ -6956,6 +6954,22 @@
       "serviceCode": "rainmaker pgr",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1945,
+      "name": "Firenoc Home",
+      "url": "card",
+      "displayName": "FIRE-NOC",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "fire-noc/home",
+      "leftIcon": "custom:fire",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
