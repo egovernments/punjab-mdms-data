@@ -2,20 +2,7 @@
   "tenantId": "pb",
   "moduleName": "egf-master",
   "FinancialYear": [
-    {
-      "id": "9",
-      "tenantId": "pb",
-      "finYearRange": "2020-21",
-      "name": "2020-21",
-      "code": "2020-21",
-      "startingDate": 1585699200000,
-      "endingDate": 1617235199000,
-      "active": true,
-      "isActiveForPosting": false,
-      "isClosed": false,
-      "transferClosingBalance": false,
-      "module": "PT"
-    },
+    
     {
       "id": "8",
       "tenantId": "pb",
@@ -38,7 +25,7 @@
       "code": "2019-20",
       "startingDate": 1554076800000,
       "endingDate": 1585699199000,
-      "active": true,
+      "active": false,
       "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
@@ -169,6 +156,20 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "FIRENOC"
+    },
+    {
+      "id": "12",
+      "tenantId": "pb",
+      "finYearRange": "2020-21",
+      "name": "2020-21",
+      "code": "2020-21",
+      "startingDate": 1585699200000,
+      "endingDate": 1617235199000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
     }
   ]
 }
