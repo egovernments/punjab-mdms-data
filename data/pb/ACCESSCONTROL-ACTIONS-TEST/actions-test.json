@@ -6024,7 +6024,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.Home",
+      "path": "SURE Dashboard.Home",
       "navigationURL": "integration/dss/home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6039,7 +6039,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.PropertyTax",
+      "path": "SURE Dashboard.PropertyTax",
       "navigationURL": "integration/dss/propertytax",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6054,7 +6054,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.TradeLicense",
+      "path": "SURE Dashboard.TradeLicense",
       "navigationURL": "integration/dss/tradelicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6205,7 +6205,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.PGR",
+      "path": "SURE Dashboard.PGR",
       "navigationURL": "integration/dss/pgr",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6282,7 +6282,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.Overview",
+      "path": "SURE Dashboard.Overview",
       "navigationURL": "integration/dss/overview",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6461,7 +6461,7 @@
       "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
-      "path": "Dashboard.Ws",
+      "path": "SURE Dashboard.Ws",
       "navigationURL": "integration/dss/ws",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6968,6 +6968,22 @@
       "path": "",
       "navigationURL": "fire-noc/home",
       "leftIcon": "custom:fire",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1946,
+      "name": "SURE-Dashboard",
+      "url": "card",
+      "displayName": "SURE Dashboard",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "integration/dss/home",
+      "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
     }
