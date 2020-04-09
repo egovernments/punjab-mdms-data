@@ -1,0 +1,249 @@
+{
+  "tenantId": "pb.batala",
+  "moduleName": "firenoc",
+  "BuildingType": [
+    {
+      "code": "BANK",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "BANK",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "COLLEGE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "COLLEGE",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "SHOW_ROOM",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "SHOW_ROOM",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "HOSPITAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HOSPITAL",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "PALACE_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "PALACE_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "NURSING_HOME",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "NURSING_HOME",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "PETROL_PUMP",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "PETROL_PUMP",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "RESTAURENT",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "RESTAURENT_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "RESTAURENT_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "PRIVATE_SCHOOLS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "MORE_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "LESS_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "SHOPPING_COMPLEX",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "SHOPPING_COMPLEX",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "WAREHOUSE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "GAS_AGENCY",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "GAS_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "WARE_HOUSE_OF_WINE",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "ALL_OTHER_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        }
+      ]
+    }
+  ]
+}
