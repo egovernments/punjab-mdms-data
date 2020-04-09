@@ -6465,6 +6465,34 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""   
         
+    },
+    {
+      "id": 1891,
+      "name": "Reopening Closed Period",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Reopening Closed Period",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Period End Activities.Close Period",
+      "navigationURL": "services/EGF/closedperiod/search/reopen"
+    },
+    {
+      "id": 1892,
+      "name": "Remittance Collection Report",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Remittance Collection Report",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
+      "navigationURL": "services/EGF/report/remittance/collection/form"
     }
   ]
 }
