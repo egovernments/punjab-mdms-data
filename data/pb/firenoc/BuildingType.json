@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.batala",
   "moduleName": "firenoc",
   "BuildingType": [
     {
@@ -33,74 +33,14 @@
       ]
     },
     {
-      "code": "CRACKER_FACTORY",
+      "code": "SHOW_ROOM",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "CRACKER_FACTORY",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "EDUCATIONAL_INSTITUTE",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "EDUCATIONAL_INSTITUTE",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "FACTORY",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "FACTORY",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "GAS_AGENCY",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "GAS_AGENCY",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "GODOWN",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "GODOWN",
+          "code": "SHOW_ROOM",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -130,7 +70,13 @@
       "active": true,
       "BuildingSubType": [
         {
-          "code": "HOTEL",
+          "code": "HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -145,7 +91,13 @@
       "active": true,
       "BuildingSubType": [
         {
-          "code": "INDUSTRY",
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -153,44 +105,20 @@
       ]
     },
     {
-      "code": "LPG_GODOWN",
+      "code": "PALACE",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "LPG_GODOWN",
+          "code": "PALACE_LAND_AREA_MORE_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "MARRIAGE_PALACE",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
-          "code": "MARRIAGE_PALACE",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "MINI_PALACE",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "MINI_PALACE",
+          "code": "PALACE_LAND_AREA_LESS_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -213,36 +141,6 @@
       ]
     },
     {
-      "code": "OTHER_COMMERCIAL",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "OTHER_COMMERCIAL",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "PAYING_GUEST",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "PAYING_GUEST",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
       "code": "PETROL_PUMP",
       "uom": [
         "HEIGHT_OF_BUILDING"
@@ -258,21 +156,6 @@
       ]
     },
     {
-      "code": "RESIDENTIAL",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "RESIDENTIAL",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
       "code": "RESTAURENT",
       "uom": [
         "HEIGHT_OF_BUILDING"
@@ -280,7 +163,13 @@
       "active": true,
       "BuildingSubType": [
         {
-          "code": "RESTAURENT",
+          "code": "RESTAURENT_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "RESTAURENT_LAND_AREA_LESS_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -288,59 +177,20 @@
       ]
     },
     {
-      "code": "SCHOOL_HIGH",
+      "code": "PRIVATE_SCHOOLS",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "SCHOOL_HIGH",
+          "code": "MORE_THAN_150_STUDENTS",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SCHOOL_MIDDLE",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
-          "code": "SCHOOL_MIDDLE",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SCHOOL_PRIMARY",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "SCHOOL_PRIMARY",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SCHOOL_SR_SECONDARY",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "SCHOOL_SR_SECONDARY",
+          "code": "LESS_THAN_150_STUDENTS",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
@@ -363,104 +213,32 @@
       ]
     },
     {
-      "code": "SHOPPING_MALL",
+      "code": "WAREHOUSE",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "SHOPPING_MALL",
+          "code": "GAS_AGENCY",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "THEATRE",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
-          "code": "THEATRE",
+          "code": "GAS_WAREHOUSE",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "VIDEO_PARLOUR",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
-          "code": "VIDEO_PARLOUR",
+          "code": "WARE_HOUSE_OF_WINE",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "MULTI_BLOCK_COMPLEX",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
-          "code": "MULTI_BLOCK_COMPLEX",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SCHOOL_GROUND_LEVEL",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "SCHOOL_GROUND_LEVEL",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SOLAR_OR THERMAL_PLANT",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "SOLAR_OR THERMAL_PLANT",
-          "active": true,
-          "NBCGroup": "",
-          "NBCSubGroup": ""
-        }
-      ]
-    },
-    {
-      "code": "SOLAR_OR_PARKING",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
-        {
-          "code": "SOLAR_OR_PARKING",
+          "code": "ALL_OTHER_WAREHOUSE",
           "active": true,
           "NBCGroup": "",
           "NBCSubGroup": ""
