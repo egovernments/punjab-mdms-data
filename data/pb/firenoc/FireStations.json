@@ -1,565 +1,352 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pb.batala",
   "moduleName": "firenoc",
-  "FireStations": [
+  "BuildingType": [
     {
-      "code": "FS_AMRITSAR_01",
-      "baseTenantId": "pb.amritsar",
+      "code": "BANK",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Amritsar"
-        },
-        {
-          "code": "Baba bakala"
-        },
-        {
-          "code": "Ajnala"
-        },
-        {
-          "code": "Tarntaran"
-        },
-        {
-          "code": "patti"
-        },
-        {
-          "code": "khadur sahib"
-        },
-        {
-          "code": "Majitha"
-        },
-        {
-          "code": "Atari"
-        },
-        {
-          "code": "Tarsika"
-        },
-        {
-          "code": "lopoke"
-        },
-        {
-          "code": "ramdass"
-        },
-        {
-          "code": "jhabal"
-        },
-        {
-          "code": "chohla sahib"
-        },
-        {
-          "code": "Naushehra Pannuan"
-        },
-        {
-          "code": "khemkaran"
-        },
-        {
-          "code": "Harike"
-        },
-        {
-          "code": "Bhikhiwind"
-        },
-        {
-          "code": "Goindwal Sahib"
+          "code": "BANK",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
         }
       ]
     },
     {
-      "code": "FS_BARNALA_01",
-      "baseTenantId": "pb.barnala",
+      "code": "COLLEGE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Barnala"
-        },
-        {
-          "code": "Raikot"
-        },
-        {
-          "code": "Tapa"
-        },
-        {
-          "code": "Dhanaula"
-        },
-        {
-          "code": "Mehalkalan"
-        },
-        {
-          "code": "Bhadaur"
+          "code": "COLLEGE",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B2"
         }
       ]
     },
     {
-      "code": "FS_BATHINDA_01",
-      "baseTenantId": "pb.bathinda",
+      "code": "SHOW_ROOM",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Bathinda"
+          "code": "SHOW_ROOM",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F1"
         },
         {
-          "code": "Talwandi sabo"
-        },
-        {
-          "code": "Sangat"
-        },
-        {
-          "code": "Goniana"
-        },
-        {
-          "code": "Nathana"
+          "code": "MORE_SHOW_ROOM",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F2"
         }
       ]
     },
     {
-      "code": "FS_RAMPURAPHUL_01",
-      "baseTenantId": "pb.rampuraphul",
+      "code": "UNDER_GROUND_SHOPPING_CENTERS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Rampuraphul"
-        },
-        {
-          "code": "Bhagtabhai"
-        },
-        {
-          "code": "Balianwali"
-        },
-        {
-          "code": "Maur"
+          "code": "UNDER_GROUND_SHOPPING_CENTERS",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F3"
         }
       ]
     },
     {
-      "code": "FS_FATEHGARHSAHIB_01",
-      "baseTenantId": "pb.bassipathana",
+      "code": "HOSPITAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Bassi-pathana"
+          "code": "HOSPITAL",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
         }
       ]
     },
     {
-      "code": "FS_FATEHGARHSAHIB_01",
-      "baseTenantId": "pb.sirhind",
+      "code": "HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Sirhind-Fatehgarh sahib"
+          "code": "HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A5"
+        },
+        {
+          "code": "HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A5"
         }
       ]
     },
     {
-      "code": "FS_GOBINDGARH_01",
-      "baseTenantId": "pb.mandigobindgarh",
+      "code": "STARRED_HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Gobindgarh"
+          "code": "STARRED_HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A6"
+        },
+        {
+          "code": "STARRED_HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A6"
         }
       ]
     },
     {
-      "code": "FS_GOBINDGARH_01",
-      "baseTenantId": "pb.amloh",
+      "code": "INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Amloh"
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G1"
         }
       ]
     },
     {
-      "code": "FS_FARIDKOT_01",
-      "baseTenantId": "pb.faridkot",
+      "code": "HIGH_INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Faridkot"
+          "code": "HIGH_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G3"
         },
         {
-          "code": "Sadiq"
+          "code": "HIGH_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G3"
         }
       ]
     },
     {
-      "code": "FS_KOTKAPURA_01",
-      "baseTenantId": "pb.kotkapura",
+      "code": "MoDERATE_INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Kotkapura"
+          "code": "MoDERATE_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G2"
+        },
+        {
+          "code": "MoDERATE_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G2"
         }
       ]
     },
     {
-      "code": "FS_KOTKAPURA_01",
-      "baseTenantId": "pb.jaitu",
+      "code": "PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Jaitu"
+          "code": "PALACE_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D3"
+        },
+        {
+          "code": "PALACE_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D3"
         }
       ]
     },
     {
-      "code": "FS_FAZILKA_01",
-      "baseTenantId": "pb.fazilka",
+      "code": "LOW_PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Fazilka"
+          "code": "LOW_PALACE_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D4"
         },
         {
-          "code": "Sheikh subhan"
+          "code": "LOW_PALACE_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D4"
         }
       ]
     },
     {
-      "code": "FS_FAZILKA_01",
-      "baseTenantId": "pb.arniwala",
+      "code": "NURSING_HOME",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Arniwala"
+          "code": "NURSING_HOME",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
         }
       ]
     },
     {
-      "code": "FS_ABOHAR_01",
-      "baseTenantId": "pb.abohar",
+      "code": "PETROL_PUMP",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Abohar"
-        },
-        {
-          "code": "Sito Gunno"
-        },
-        {
-          "code": "Khuian Sarwar"
+          "code": "PETROL_PUMP",
+          "active": true,
+          "NBCGroup": "Group J Hazardous",
+          "NBCSubGroup": ""
         }
       ]
     },
     {
-      "code": "FS_JALALABAD_01",
-      "baseTenantId": "pb.jalalabad",
+      "code": "RESTAURENT",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Jalalabad"
+          "code": "RESTAURENT_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
+        },
+        {
+          "code": "RESTAURENT_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
         }
       ]
     },
     {
-      "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.ferozepur",
+      "code": "PRIVATE_SCHOOLS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Ferozepur"
+          "code": "MORE_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "LESS_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
         }
       ]
     },
     {
-      "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.zira",
+      "code": "SHOPPING_COMPLEX",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Zira"
+          "code": "SHOPPING_COMPLEX",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
         }
       ]
     },
     {
-      "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.makhu",
+      "code": "WAREHOUSE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
       "active": true,
-      "subDistrict": [
+      "BuildingSubType": [
         {
-          "code": "Makhu"
-        }
-      ]
-    },
-    {
-      "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.talwandibhai",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Talwandi bhai"
-        }
-      ]
-    },
-    {
-      "code": "FS_FEROZEPUR_01",
-      "baseTenantId": "pb.mamdot",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Mamdot"
-        }
-      ]
-    },
-    {
-      "code": "FS_BATALA_01",
-      "baseTenantId": "pb.batala",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Testing1"
+          "code": "GAS_AGENCY",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
         },
         {
-          "code": "Testing2"
-        }
-      ]
-    },
-    {
-      "code": "FS_GURDASPUR_01",
-      "baseTenantId": "pb.gurdaspur",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Gurdaspur"
+          "code": "GAS_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
         },
         {
-          "code": "Kahnuwan"
+          "code": "WARE_HOUSE_OF_WINE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
         },
         {
-          "code": "kalanaur"
-        },
-        {
-          "code": "Dinanagar"
-        },
-        {
-          "code": "Nashera majha singh"
-        },
-        {
-          "code": "Dhariwal"
-        }
-      ]
-    },
-    {
-      "code": "FS_GURDASPUR_01",
-      "baseTenantId": "pb.dhariwal",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Dhariwal"
-        }
-      ]
-    },
-    {
-      "code": "FS_GURDASPUR_01",
-      "baseTenantId": "pb.derababananak",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Dera baba nanak"
-        }
-      ]
-    },
-    {
-      "code": "FS_HOSHIARPUR_01",
-      "baseTenantId": "pb.hoshiarpur",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Hoshiarpur"
-        },
-        {
-          "code": "Bhunga"
-        },
-        {
-          "code": "Hajipur"
-        },
-        {
-          "code": "Mahilpur"
-        },
-        {
-          "code": "Talwara"
-        }
-      ]
-    },
-    {
-      "code": "FS_DASUYA_01",
-      "baseTenantId": "pb.dasuya",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Dasuya"
-        },
-        {
-          "code": "Mukerian"
-        },
-        {
-          "code": "Tanda"
-        },
-        {
-          "code": "Garhdiwala"
-        }
-      ]
-    },
-    {
-      "code": "FS_TESTING_01",
-      "baseTenantId": "pb.testing",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Testing"
-        }
-      ]
-    },
-    {
-      "code": "FS_JALANDHAR_01",
-      "baseTenantId": "pb.jalandhar",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Jalandhar"
-        },
-        {
-          "code": "Adampur"
-        },
-        {
-          "code": "Bhogpur"
-        }
-      ]
-    },
-    {
-      "code": "FS_nakodar_01",
-      "baseTenantId": "pb.nakodar",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Nakodar"
-        },
-        {
-          "code": "Shahkot"
-        },
-        {
-          "code": "Lohian"
-        },
-        {
-          "code": "Nurmahal"
-        },
-        {
-          "code": "Mehatpur"
-        },
-        {
-          "code": "Bilga"
-        }
-      ]
-    },
-    {
-      "code": "FS_phagwara_01",
-      "baseTenantId": "pb.phagwara",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Phagwara"
-        },
-        {
-          "code": "Phillaur(except Bilga)"
-        },
-        {
-          "code": "Goraya"
-        }
-      ]
-    },
-    {
-      "code": "FS_kartarpur_01",
-      "baseTenantId": "pb.kartarpur",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Kartarpur"
-        },
-        {
-          "code": "Bhulath"
-        }
-      ]
-    },
-    {
-      "code": "FS_Kapurthala_01",
-      "baseTenantId": "pb.kapurthala",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Kapurthala"
-        },
-        {
-          "code": "Sultanpur lodhi"
-        },
-        {
-          "code": "Dhilwan"
-        },
-        {
-          "code": "Talwandi Choudhrian"
-        }
-      ]
-    },
-    {
-      "code": "FS_Khanna_01",
-      "baseTenantId": "pb.khanna",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Khanna"
-        },
-        {
-          "code": "Maloud"
-        }
-      ]
-    },
-    {
-      "code": "FS_Samrala_01",
-      "baseTenantId": "pb.samrala",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Samrala"
-        },
-        {
-          "code": "Machhiwara"
-        },
-        {
-          "code": "koom kalan"
-        },
-        {
-          "code": "Khamano"
-        },
-        {
-          "code": "Doraha"
-        },
-        {
-          "code": "Sahnewal"
-        }
-      ]
-    },
-    {
-      "code": "FS_Ludhiana_01",
-      "baseTenantId": "pb.ludhiana",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Ludhiana"
-        },
-        {
-          "code": "Dehlon"
-        }
-      ]
-    },
-    {
-      "code": "FS_Ludhiana_01",
-      "baseTenantId": "pb.ludhiana",
-      "active": true,
-      "subDistrict": [
-        {
-          "code": "Jagraon"
-        },
-        {
-          "code": "Sidhwan Bet"
+          "code": "ALL_OTHER_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
         }
       ]
     }
