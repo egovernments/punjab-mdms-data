@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.batala",
+  "tenantId": "pb",
   "moduleName": "firenoc",
   "BuildingType": [
     {
@@ -168,20 +168,20 @@
       ]
     },
     {
-      "code": "MoDERATE_INDUSTRY",
+      "code": "MODERATE_INDUSTRY",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "MoDERATE_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "code": "MODERATE_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "Group G Industrial",
           "NBCSubGroup": "G2"
         },
         {
-          "code": "MoDERATE_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "code": "MODERATE_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "Group G Industrial",
           "NBCSubGroup": "G2"
