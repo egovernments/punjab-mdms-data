@@ -6432,7 +6432,6 @@
       "navigationURL": "report/rainmaker-pgr/FeedbackReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-
     },
     {
       "id": 1889,
@@ -6448,7 +6447,6 @@
       "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-
     },
     {
       "id": 1890,
@@ -6461,10 +6459,9 @@
       "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.FY Collection Report",
-      "navigationURL": "report/rainmaker-pt/FYCollectionsReport", 
+      "navigationURL": "report/rainmaker-pt/FYCollectionsReport",
       "leftIcon": "action:assignment",
-      "rightIcon": ""   
-        
+      "rightIcon": ""
     },
     {
       "id": 1891,
@@ -6493,6 +6490,22 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
+    },
+    {
+      "id": 1893,
+      "name": "SURE-Dashboard",
+      "url": "card",
+      "displayName": "SURE Dashboard",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "integration/dss/home",
+      "leftIcon": "editor:insert-chart",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
