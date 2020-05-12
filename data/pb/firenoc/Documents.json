@@ -1,0 +1,39 @@
+{
+  "tenantId": "pb",
+  "moduleName": "firenoc",
+  "Documents": [
+    {
+      "code": "OWNER.IDENTITYPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        { "code": "OWNER.IDENTITYPROOF.AADHAAR", "active": true },
+        { "code": "OWNER.IDENTITYPROOF.VOTERID", "active": true },
+        { "code": "OWNER.IDENTITYPROOF.DRIVING", "active": true },
+        { "code": "OWNER.IDENTITYPROOF.PAN", "active": true },
+        { "code": "OWNER.IDENTITYPROOF.PASSPORT", "active": true }
+      ],
+      "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.PROPERTY",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "hasDropdown": false,
+     "code": "OWNER.PROPERTY.TAXRECEIPT",
+      "description": "OWNER.PROPERTY.TAXRECEIPT_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.FIRENOC",
+      "documentType": "OWNER",
+      "required": false,
+      "active": true,
+      "hasDropdown": false,
+     "code": "OWNER.FIRENOC.OLDDOCUMENT",
+      "description": "OWNER.FIRENOC.OLDDOCUMENT_DESCRIPTION"
+    }
+  ]
+}
