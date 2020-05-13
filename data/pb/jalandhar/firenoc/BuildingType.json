@@ -1,0 +1,354 @@
+{
+  "tenantId": "pb.batala",
+  "moduleName": "firenoc",
+  "BuildingType": [
+    {
+      "code": "BANK",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "BANK",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "COLLEGE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "COLLEGE",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B2"
+        }
+      ]
+    },
+    {
+      "code": "SHOW_ROOM",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "SHOW_ROOM",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F1"
+        },
+        {
+          "code": "MORE_SHOW_ROOM",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F2"
+        }
+      ]
+    },
+    {
+      "code": "UNDER_GROUND_SHOPPING_CENTERS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "UNDER_GROUND_SHOPPING_CENTERS",
+          "active": true,
+          "NBCGroup": "Group F Mercantile",
+          "NBCSubGroup": "F3"
+        }
+      ]
+    },
+    {
+      "code": "HOSPITAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HOSPITAL",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        }
+      ]
+    },
+    {
+      "code": "HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A5"
+        },
+        {
+          "code": "HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A5"
+        }
+      ]
+    },
+    {
+      "code": "STARRED_HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "STARRED_HOTEL_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A6"
+        },
+        {
+          "code": "STARRED_HOTEL_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A6"
+        }
+      ]
+    },
+    {
+      "code": "INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G1"
+        }
+      ]
+    },
+    {
+      "code": "HIGH_INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HIGH_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G3"
+        },
+        {
+          "code": "HIGH_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G3"
+        }
+      ]
+    },
+    {
+      "code": "MODERATE_INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "MODERATE_INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G2"
+        },
+        {
+          "code": "MODERATE_INDUSTRY_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group G Industrial",
+          "NBCSubGroup": "G2"
+        }
+      ]
+    },
+    {
+      "code": "PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "PALACE_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D3"
+        },
+        {
+          "code": "PALACE_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D3"
+        }
+      ]
+    },
+    {
+      "code": "LOW_PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "LOW_PALACE_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D4"
+        },
+        {
+          "code": "LOW_PALACE_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D4"
+        }
+      ]
+    },
+    {
+      "code": "NURSING_HOME",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "NURSING_HOME",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        }
+      ]
+    },
+    {
+      "code": "PETROL_PUMP",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "PETROL_PUMP",
+          "active": true,
+          "NBCGroup": "Group J Hazardous",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "RESTAURENT",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "RESTAURENT_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
+        },
+        {
+          "code": "RESTAURENT_LAND_AREA_LESS_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
+        }
+      ]
+    },
+    {
+      "code": "PRIVATE_SCHOOLS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "MORE_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "LESS_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        }
+      ]
+    },
+    {
+      "code": "SHOPPING_COMPLEX",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "SHOPPING_COMPLEX",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
+        }
+      ]
+    },
+    {
+      "code": "WAREHOUSE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "GAS_AGENCY",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "GAS_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "WARE_HOUSE_OF_WINE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
+        },
+        {
+          "code": "ALL_OTHER_WAREHOUSE",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
+        }
+      ]
+    }
+  ]
+}
