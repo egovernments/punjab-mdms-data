@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PetLicense",
+  "AnimalSubCategory": [
+    {
+      "name": "American Bulldog",
+      "code": "ASC-1",
+      "active": true,
+      "AnimalCategory": "AC-1"
+    },
+    {
+      "name": "German Pinscher",
+      "code": "ASC-2",
+      "active": true,
+      "AnimalCategory": "AC-1"
+    }
+  ]
+}
