@@ -9,30 +9,67 @@
       "active": true,
       "hasDropdown": true,
       "dropdownData": [
-        { "code": "OWNER.IDENTITYPROOF.AADHAAR", "active": true },
-        { "code": "OWNER.IDENTITYPROOF.VOTERID", "active": true },
-        { "code": "OWNER.IDENTITYPROOF.DRIVING", "active": true },
-        { "code": "OWNER.IDENTITYPROOF.PAN", "active": true },
-        { "code": "OWNER.IDENTITYPROOF.PASSPORT", "active": true }
+        {
+          "code": "OWNER.IDENTITYPROOF.AADHAAR",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.VOTERID",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.DRIVING",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.PAN",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.PASSPORT",
+          "active": true
+        }
       ],
       "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION"
     },
     {
-      "code": "OWNER.PROPERTY",
+      "code": "OWNER.PROPERTY.OWNERSHIPPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": false,
+      "description": "OWNER.PROPERTY.OWNERSHIPPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.PROPERTY.FIREDRAWING",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": false,
+      "description": "OWNER.PROPERTY.FIREDRAWING_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.PROPERTY.OWNERSHIPCHECKLIST",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": false,
+      "description": "OWNER.PROPERTY.OWNERSHIPCHECKLIST_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.PROPERTY.TAXRECEIPT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
       "hasDropdown": false,
-     "code": "OWNER.PROPERTY.TAXRECEIPT",
       "description": "OWNER.PROPERTY.TAXRECEIPT_DESCRIPTION"
     },
     {
-      "code": "OWNER.FIRENOC",
+      "code": "OWNER.FIRENOC.OLDDOCUMENT",
       "documentType": "OWNER",
       "required": false,
       "active": true,
       "hasDropdown": false,
-     "code": "OWNER.FIRENOC.OLDDOCUMENT",
       "description": "OWNER.FIRENOC.OLDDOCUMENT_DESCRIPTION"
     }
   ]
