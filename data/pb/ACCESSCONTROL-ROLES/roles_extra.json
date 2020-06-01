@@ -51,6 +51,11 @@
       "code": "ISOLATION_HEALTH_DETAILS_COLLECTOR",
       "name": "Isolation case health details collector",
       "description": "Isolation case health details collector"
-    }    
+    },
+    {
+      "code": "ISOLATION_CASE_SUPERUSER",
+      "name": "Creates isolation case admins across tenants",
+      "description": "Creates isolation case admins across tenants"
+    }   
   ]
 }
