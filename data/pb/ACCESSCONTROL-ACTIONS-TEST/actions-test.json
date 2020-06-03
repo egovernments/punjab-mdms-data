@@ -6524,6 +6524,17 @@
       "serviceCode": "Billing-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1896,
+      "name": "Collection Saerch Reciept",
+      "url": "/collection-services/payments/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
