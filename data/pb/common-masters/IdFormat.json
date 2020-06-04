@@ -412,109 +412,140 @@
         },
         {
              "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-             "idname": "tx.property_tax_2013-14.receipt.id"   
-        },             
-    
+             "idname": "tx.property_tax_2013-14.receipt.id"
+        },
+
         {
                 "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-                "idname": "other.noc_fee.receipt.id"                
+                "idname": "other.noc_fee.receipt.id"
         },
         {
             "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
             "idname": "rev_grants.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.fire_tender_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.fire_call_report_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.fire_noc_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.bus_adda_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "nks.rain_harvesting_charges.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "fn.tender_earnest_money_deposit.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "fn.security_deposit_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.dispensary_fee.receipt.id"
-        },  
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "rt.sale_of_land.receipt.id"   
-        },      
+            "idname": "rt.sale_of_land.receipt.id"
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.license_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.candy_fee.receipt.id"
-        }, 
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.conservancy_fee.receipt.id"
-        },    
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "nks.sub_division_charges.receipt.id"
-        },    
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "nks.information_certificate_fees.receipt.id"
-        },    
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "nks.building_safety_certificate.receipt.id"
-        },    
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.street_light_pole_transfer_fee.receipt.id"
-        },   
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "ch.collection_and_demolition_waste_challan.receipt.id"
-        },    
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "ch.burning_of_waste_challan.receipt.id"  
-        },  
-               
+            "idname": "ch.burning_of_waste_challan.receipt.id"
+        },
+
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.sale_of_compost.receipt.id"
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "other.sale_of_recyclable.receipt.id"        
-                             
-                            
+            "idname": "other.sale_of_recyclable.receipt.id"
+
+
         },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "lcf.trade_license_fee.receipt.id"
         },
-                 
+
          {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-            "idname": "other.dog_registration.receipt.id"        
-        }
-
+            "idname": "other.dog_registration.receipt.id"
+        },
+     {
+        "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "waterservice.connection.id"
+     },
+     {
+        "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "sewerageservice.connection.id"
+     },
+     {
+        "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "ws.receipt.id"
+     },
+     {
+        "format": "SW/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "sw.receipt.id"
+     },
+     {
+        "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "waterservice.application.id"
+     },
+     {
+        "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "sewerageservice.application.id"
+     },
+     {
+        "format": "WS.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "ws.one_time_fee.receipt.id"
+     },
+     {
+        "format": "SW.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "idname": "sw.one_time_fee.receipt.id"
+     }
     ]
 }
