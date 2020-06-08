@@ -6881,6 +6881,17 @@
       "path": "wns",
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
+    },
+    {
+      "id": 1930,
+      "name": "FetchBillV2",
+      "url": "/billing-service/bill/v2/_fetchbill",
+      "displayName": "fetch Bill v2",
+      "orderNumber": 9,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.GenerateBill"
     }
   ]
 }
