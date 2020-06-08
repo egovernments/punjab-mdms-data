@@ -6900,7 +6900,7 @@
       "displayName": "Trade License",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "",
       "path": "",
@@ -6908,6 +6908,28 @@
       "leftIcon": "custom:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1932,
+      "name": "mSeva Event Search",
+      "url": "/egov-user-event/v1/events/_search",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1933,
+      "name": "mSeva Event Count",
+      "url": "/egov-user-event/v1/events/notifications/_count",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
     }
   ]
 }
