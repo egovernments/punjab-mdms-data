@@ -7003,17 +7003,18 @@
     },
     {
       "id": 1948,
-      "name": "Remittance Collection Report",
+      "name": "ReceiptRegisterSummary",
       "url": "url",
+      "displayName": "Summary Receipt Register",
+      "orderNumber": 2,
+      "queryParams": "",
       "parentModule": "",
-      "displayName": "Remittance Collection Report",
-      "orderNumber": 6,
       "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
-      "navigationURL": "services/EGF/report/remittance/collection/form"
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ReceiptRegisterSummary",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
