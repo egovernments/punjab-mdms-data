@@ -6937,7 +6937,7 @@
       "url": "/property-services/property/_search",
       "displayName": "Search Property Registry",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
@@ -6948,7 +6948,7 @@
       "url": "/property-services/property/_create",
       "displayName": "Create Property Registry",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
@@ -6959,7 +6959,7 @@
       "url": "/property-services/property/_update",
       "displayName": "Update Property Registry",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
@@ -6981,7 +6981,7 @@
       "url": "/egov-searcher/locality/PT/_get",
       "displayName": "PT locality searcher",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
@@ -6992,7 +6992,7 @@
       "url": "/egov-searcher/locality/pt-services/_get",
       "displayName": "PT locality searcher",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
