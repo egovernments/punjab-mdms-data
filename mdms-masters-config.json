@@ -722,7 +722,7 @@
   "ws-services-masters": {
     "connectionCategory": {
       "masterName": "connectionCategory",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
@@ -743,7 +743,7 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -757,7 +757,7 @@
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -778,7 +778,7 @@
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_CHARGE": {
@@ -808,22 +808,22 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
@@ -835,7 +835,7 @@
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -856,7 +856,7 @@
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "billingPeriod": {
@@ -883,22 +883,22 @@
     },
     "PlotSizeSlab": {
       "masterName": "PlotSizeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "PropertyUsageType": {
       "masterName": "PropertyUsageType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "FeeSlab": {
       "masterName": "FeeSlab",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "RoadType": {
       "masterName": "RoadType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "CalculationAttribute": {

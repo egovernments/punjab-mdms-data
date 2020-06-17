@@ -1,0 +1,14 @@
+{
+  "tenantId": "pg.amritsar",
+  "moduleName": "ws-services-masters",
+  "billingPeriod": [
+    {
+      "active": true,
+      "connectionType": "Non Metered",
+      "billingCycle": "monthly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 0,
+      "demandGenerationDateMillis": 345600000
+    }
+  ]
+}
