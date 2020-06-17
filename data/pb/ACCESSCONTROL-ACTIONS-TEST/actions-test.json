@@ -6895,17 +6895,18 @@
     },
     {
       "id": 1931,
-      "name": "Tradelicense Home",
-      "url": "card",
-      "displayName": "Trade License",
-      "orderNumber": 2,
+      "name": "TradeLicense",
+      "url": "url",
+      "displayName": "trade licences",
+      "orderNumber": 13,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "Tradelicense",
-      "code": "",
-      "path": "TL",
+      "serviceCode": "TradeLicense",
+      "code": "null",
       "navigationURL": "tradelicense-citizen/home",
-      "leftIcon": "custom:business-center"
+      "path": "TradeLicense",
+      "leftIcon": "custom:business-center",
+      "rightIcon": ""
     },
     {
       "id": 1932,
@@ -6996,7 +6997,7 @@
       "path": ""
     },
     {
-      "id": 1941,
+      "id": 1940,
       "name": "rainmaker-citizen-TradeLicense",
       "url": "card",
       "displayName": "trade licences",
@@ -7010,21 +7011,6 @@
       "leftIcon": "custom:business-center",
       "rightIcon": "",
       "queryParams": ""
-    },
-    {
-      "id": 1942,
-      "name": "TradeLicense",
-      "url": "url",
-      "displayName": "trade licences",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "navigationURL": "tradelicense-citizen/home",
-      "path": "TradeLicense",
-      "leftIcon": "custom:business-center",
-      "rightIcon": ""
     }
   ]
 }
