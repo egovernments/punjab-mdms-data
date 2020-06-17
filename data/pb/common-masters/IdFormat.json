@@ -516,35 +516,35 @@
             "idname": "other.dog_registration.receipt.id"
         },
      {
-        "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
         "idname": "waterservice.connection.id"
      },
      {
-        "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_CON_[TENANT_ID]]",
         "idname": "sewerageservice.connection.id"
      },
      {
-        "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
         "idname": "ws.receipt.id"
      },
      {
-        "format": "SW/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_BILL_RCPT_[TENANT_ID]]",
         "idname": "sw.receipt.id"
      },
      {
-        "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
         "idname": "waterservice.application.id"
      },
      {
-        "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_APP_[TENANT_ID]]",
         "idname": "sewerageservice.application.id"
      },
      {
-        "format": "WS.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "WS_FEE/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
         "idname": "ws.one_time_fee.receipt.id"
      },
      {
-        "format": "SW.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+        "format": "SW_FEE/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
         "idname": "sw.one_time_fee.receipt.id"
      }
     ]
