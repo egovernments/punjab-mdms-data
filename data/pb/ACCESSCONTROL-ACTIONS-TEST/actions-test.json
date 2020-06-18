@@ -7011,6 +7011,37 @@
       "leftIcon": "custom:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1941,
+      "name": "Complaints",
+      "url": "url",
+      "displayName": "Complaints",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "Complaints",
+      "navigationURL": "pgr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": ""
+    },
+{
+      "id": 1942,
+      "name": "rainmaker-citizen-complaints",
+      "url": "card",
+      "displayName": "Complaints",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "pgr-home",
+      "leftIcon": "custom:account-alert",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
