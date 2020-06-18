@@ -7042,6 +7042,37 @@
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1943,
+      "name": "PropertyTax",
+      "url": "url",
+      "displayName": "Property Tax",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax",
+      "navigationURL": "property-tax",
+      "leftIcon": "communication:business",
+      "rightIcon": ""
+    },
+{
+      "id": 1944,
+      "name": "rainmaker-citizen-propertytax",
+      "url": "card",
+      "displayName": "Property Tax",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "property-tax",
+      "leftIcon": "custom:home-city-outline",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
