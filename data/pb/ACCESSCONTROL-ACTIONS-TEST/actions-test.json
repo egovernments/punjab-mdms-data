@@ -7084,6 +7084,39 @@
       "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1946,
+      "name": "Create Assessment registry",
+      "url": "/property-services/assessment/_create",
+      "displayName": "Create Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1947,
+      "name": "Update Assessment registry",
+      "url": "/property-services/assessment/_update",
+      "displayName": "Update Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1948,
+      "name": "Search Assessment registry",
+      "url": "/property-services/assessment/_search",
+      "displayName": "Search Assessment Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
