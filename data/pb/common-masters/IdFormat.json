@@ -546,6 +546,10 @@
      {
         "format": "SW_FEE/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
         "idname": "sw.one_time_fee.receipt.id"
-     }
+     },
+     {
+      "format": "PB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "idname": "pt.assessmentnumber"
+    }
     ]
 }
