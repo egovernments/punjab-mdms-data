@@ -74,6 +74,11 @@
     }
   },
   "common-masters": {
+    "uiCommonPay": {
+      "masterName": "uiCommonPay",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
     "IdFormat": {
       "masterName": "IdFormat",
       "moduleDefinition": null,
@@ -570,7 +575,7 @@
         "$.code"
       ]
     },
-   "UsageCategory": {
+    "UsageCategory": {
       "masterName": "UsageCategory",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -610,7 +615,7 @@
         "$.code"
       ]
     },
-   "MutationRebate": {
+    "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
       "uniqueKeys": [
@@ -722,7 +727,7 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.billingservicecode",
-         "$.taxhead"
+        "$.taxhead"
       ]
     },
     "InstrumentGLcodeMapping": {
