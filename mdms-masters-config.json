@@ -73,7 +73,12 @@
       ]
     }
   },
-  "common-masters": {
+ "common-masters": {
+    "uiCommonPay": {
+      "masterName": "uiCommonPay",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
     "IdFormat": {
       "masterName": "IdFormat",
       "moduleDefinition": null,
