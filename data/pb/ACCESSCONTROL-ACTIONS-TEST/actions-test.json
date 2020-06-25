@@ -7027,7 +7027,7 @@
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
-    {
+{
       "id": 1942,
       "name": "rainmaker-citizen-complaints",
       "url": "card",
@@ -7058,7 +7058,7 @@
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
-    {
+{
       "id": 1944,
       "name": "rainmaker-citizen-propertytax",
       "url": "card",
@@ -7130,7 +7130,7 @@
       "code": "null",
       "path": "null"
     },
-    {
+ {
       "id": 1950,
       "name": "MutationBillingSlabCreate",
       "url": "/pt-calculator-v2/billingslab/mutation/_create",
@@ -7177,39 +7177,6 @@
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
-    },
-    {
-      "id": 1954,
-      "name": "Pdf Generator create",
-      "url": "/pdf-service/v1/_create",
-      "displayName": "Pdf Generator create",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "pdf-generator-create",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1955,
-      "name": "Pdf Generator search",
-      "url": "/pdf-service/v1/_search",
-      "displayName": "Pdf Generator search",
-      "orderNumber": 2,
-      "enabled": false,
-      "serviceCode": "pdf-generator-search",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1956,
-      "name": "Pdf Generator createnosave",
-      "url": "/pdf-service/v1/_createnosave",
-      "displayName": "Pdf Generator createnosave",
-      "orderNumber": 3,
-      "enabled": false,
-      "serviceCode": "pdf-generator-createnosave",
-      "code": "null",
-      "path": ""
     }
   ]
 }
