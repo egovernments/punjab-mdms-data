@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.sunam",
+  "tenantId": "pb.sunam",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
@@ -8,7 +8,6 @@
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 100,
-
       "slabs": [
         {
           "from": 0,
