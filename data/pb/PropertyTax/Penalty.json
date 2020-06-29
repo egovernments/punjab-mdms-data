@@ -3,32 +3,25 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
-      "rate": 10.0,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "26/03/2019"
-    },
-    {
-      "rate": 10.0,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "01/01/2019"
-    },
-    {
-      "rate": 10,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2014-15",
-      "startingDay": "01/04/2015"
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020"
     },
     {
       "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "startingDay": "24/02/2020"
+      "startingDay": "30/06/2020"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": "01/04/2015"
     }
     
   ]
