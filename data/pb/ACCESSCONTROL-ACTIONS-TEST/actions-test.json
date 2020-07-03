@@ -7210,6 +7210,97 @@
       "serviceCode": "pdf-generator-createnosave",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1957,
+      "name": "MiscReceipt_v2",
+      "url": "url",
+      "displayName": "Miscellaneous Receipt Register V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceipt_v2",
+      "path": "State Reports.UC.Miscellaneous Receipt Register V2"
+    },
+    {
+      "id": 1958,
+      "name": "MiscReceiptULB_v2",
+      "url": "url",
+      "displayName": "Miscellaneous Receipt Register ULB V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULB_v2",
+      "path": "Reports.Miscellaneous Receipt Register V2"
+    },
+    {
+      "id": 1959,
+      "name": "MiscReceiptState_v2",
+      "url": "url",
+      "displayName": "Misc Receipt Register State V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptState_v2",
+      "path": "State Reports.UC.Misc Receipts State V2"
+    },
+    {
+      "id": 1960,
+      "name": "MiscCollectionState_v2",
+      "url": "url",
+      "displayName": "Miscellaneous Collection Register V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscCollectionState_v2",
+      "path": "State Reports.UC.miscellaneous Collection Register V2"
+    },
+    {
+      "id": 1961,
+      "name": "MiscBusinessServiceCollectionTenant_v2",
+      "url": "url",
+      "displayName": "Misc Business Service Collections V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant_v2",
+      "path": "Reports.Misc Business Service Collections V2"
+    },
+    {
+      "id": 1962,
+      "name": "MiscReceiptULBCancelled_v2",
+      "url": "url",
+      "displayName": "Miscellaneous Cancelled Receipts V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled_v2",
+      "path": "Reports.miscellaneous Receipt Register V2"
+    },
+    {
+      "id": 1963,
+      "name": "MiscReceiptULBShort_v2",
+      "url": "url",
+      "displayName": "Miscellaneous Consumer Receipts V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort_v2",
+      "path": "Reports.miscellaneous Receipt Register V2"
     }
   ]
 }
