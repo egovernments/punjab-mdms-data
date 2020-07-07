@@ -1,33 +1,14 @@
 {
-  "tenantId": "pb",
-  "moduleName": "common-masters",
-  "DocumentType": [
-    {
-      "code": "OWNERIDPROOF",
-      "active": true
-    },
-    {
-      "code": "OWNERSHIPPROOF",
-      "active": true
-    },
-    {
-      "code": "OWNERPHOTO",
-      "allowedFormat": [
-        "image/*",
-        ".png",
-        ".jpeg"
-      ],
-      "maxFileSize": 3000
-    },
-    {
-      "code": "OLDLICENCENO",
-      "allowedFormat": [
-        "image/*",
-        ".pdf",
-        ".png",
-        ".jpeg"
-      ],
-      "maxFileSize": 6000
-    }
-  ]
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "DocumentType": [
+        {
+            "code": "OWNERIDPROOF",
+            "active": true
+        },
+        {
+            "code": "OWNERSHIPPROOF",
+            "active": true
+        }
+    ]
 }
