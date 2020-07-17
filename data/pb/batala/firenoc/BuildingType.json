@@ -3,7 +3,7 @@
   "moduleName": "firenoc",
   "BuildingType": [
     {
-      "code": "CINEMA_OR_THEATRE",
+      "code": "CINEMA",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "code": "COMMERCIAL_UNIT_PLOT_SIZE_5_MARLA_OR_ABOVE",
+      "code": "COMMERCIAL_UNIT",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -29,16 +29,7 @@
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
-        }
-      ]
-    },
-    {
-      "code": "COMMERCIAL_UNIT_PLOT_SIZE_BELOW_5_MARLA",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
           "code": "COMMERCIAL_UNIT_PLOT_SIZE_BELOW_5_MARLA",
           "active": true,
@@ -57,13 +48,13 @@
         {
           "code": "GAS_AGENCY",
           "active": true,
-          "NBCGroup": "Group E Business",
-          "NBCSubGroup": "E1"
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
         }
       ]
     },
     {
-      "code": "GROUP_HOUSING_HEIGHT_BELOW_15_MTR",
+      "code": "GROUP_HOUSING",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -78,7 +69,7 @@
       ]
     },
     {
-      "code": "HIGH_RISE_BUILDING_HEIGHT_ABOVE_15_MTR",
+      "code": "HIGH_RISE_BUILDING",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -89,16 +80,7 @@
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
-        }
-      ]
-    },
-    {
-      "code": "HIGH_RISE_BUILDING_HEIGHT_BELOW_15_MTR",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
           "code": "HIGH_RISE_BUILDING_HEIGHT_BELOW_15_MTR",
           "active": true,
@@ -117,13 +99,13 @@
         {
           "code": "HOSPITAL",
           "active": true,
-          "NBCGroup": "Group E Business",
-          "NBCSubGroup": "E1"
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
         }
       ]
     },
     {
-      "code": "HOTE_3_STAR_OR_ABOVE",
+      "code": "HOTE",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -134,16 +116,7 @@
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
-        }
-      ]
-    },
-    {
-      "code": "HOTE_BELOW_3_STAR",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
           "code": "HOTE_BELOW_3_STAR",
           "active": true,
@@ -207,8 +180,8 @@
         {
           "code": "PETROL_PUMP",
           "active": true,
-          "NBCGroup": "Group E Business",
-          "NBCSubGroup": "E1"
+          "NBCGroup": "Group J Hazardous",
+          "NBCSubGroup": ""
         }
       ]
     },
@@ -243,7 +216,7 @@
       ]
     },
     {
-      "code": "SCHOOL_OR_COLLEGE_STUDENT_150_OR_ABOVE",
+      "code": "SCHOOL_OR_COLLEGE",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
@@ -254,16 +227,7 @@
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
-        }
-      ]
-    },
-    {
-      "code": "SCHOOL_OR_COLLEGE_STUDENT_BELOW_150",
-      "uom": [
-        "HEIGHT_OF_BUILDING"
-      ],
-      "active": true,
-      "BuildingSubType": [
+        },
         {
           "code": "SCHOOL_OR_COLLEGE_STUDENT_BELOW_150",
           "active": true,
@@ -282,8 +246,8 @@
         {
           "code": "SHOPPING_MALL",
           "active": true,
-          "NBCGroup": "Group E Business",
-          "NBCSubGroup": "E1"
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
         }
       ]
     }
