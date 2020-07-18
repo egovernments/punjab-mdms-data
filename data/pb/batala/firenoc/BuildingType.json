@@ -3,6 +3,21 @@
   "moduleName": "firenoc",
   "BuildingType": [
     {
+      "code": "BANK",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "BANK",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
       "code": "CINEMA",
       "uom": [
         "HEIGHT_OF_BUILDING"
@@ -126,14 +141,14 @@
       ]
     },
     {
-      "code": "INDUSTRIAL_UNIT",
+      "code": "INDUSTRY",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "INDUSTRIAL_UNIT",
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
@@ -216,20 +231,20 @@
       ]
     },
     {
-      "code": "SCHOOL_OR_COLLEGE",
+      "code": "PRIVATE_SCHOOLS",
       "uom": [
         "HEIGHT_OF_BUILDING"
       ],
       "active": true,
       "BuildingSubType": [
         {
-          "code": "SCHOOL_OR_COLLEGE_STUDENT_150_OR_ABOVE",
+          "code": "MORE_THAN_150_STUDENTS",
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
         },
         {
-          "code": "SCHOOL_OR_COLLEGE_STUDENT_BELOW_150",
+          "code": "LESS_THAN_150_STUDENTS",
           "active": true,
           "NBCGroup": "Group E Business",
           "NBCSubGroup": "E1"
