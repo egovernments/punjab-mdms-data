@@ -9,6 +9,25 @@
         {
             "code": "OWNERSHIPPROOF",
             "active": true
-        }
+        },
+		{
+      "code": "OWNERPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
+    },
+    {
+      "code": "OLDLICENCENO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    }
     ]
 }
