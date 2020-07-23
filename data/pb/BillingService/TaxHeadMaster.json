@@ -182,56 +182,7 @@
       "order": "0",
       "isRequired": false
     },
-    {
-      "category": "REBATE",
-      "service": "FIRENOC",
-      "name": "firenoc adhoc rebate",
-      "code": "FIRENOC_ADHOC_REBATE",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "PENALTY",
-      "service": "FIRENOC",
-      "name": "firenoc adhoc penalty",
-      "code": "FIRENOC_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": false,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "FIRENOC",
-      "name": "firenoc fees",
-      "code": "FIRENOC_FEES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "FIRENOC",
-      "name": "firenoc taxes",
-      "code": "FIRENOC_TAXES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "FIRENOC",
-      "name": "firenoc roundoff",
-      "code": "FIRENOC_ROUNDOFF",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
+   
     {
       "category": "TAX",
       "service": "TX.No_Dues_Certificate",
