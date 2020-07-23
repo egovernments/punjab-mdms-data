@@ -559,6 +559,10 @@
     {
       "format": "PB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
       "idname": "pt.mutation.number"
-    }
+    },
+	 {
+       "format": "FN/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+        "idname": "firenoc.receipt.id"
+     }
     ]
 }
