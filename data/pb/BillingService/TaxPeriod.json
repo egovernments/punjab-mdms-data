@@ -922,38 +922,7 @@
       "code": "TXPROPERTYTAX2013",
       "financialYear": "2013-24"
     },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHER.Noc_fee",
-      "code": "OTHERNOCFEE",
-      "financialYear": "2014-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHER.Fire_Noc_fee",
-      "code": "OTHERFIRENOCFEE",
-      "financialYear": "2018-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHER.Fire_Tender_fee",
-      "code": "OTHERTENDERFEE",
-      "financialYear": "2018-24"
-    },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "OTHER.Fire_Call_Report_fee",
-      "code": "OTHERFIRECALLREPORTFEE",
-      "financialYear": "2018-24"
-    },
+    
     {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
@@ -970,21 +939,37 @@
       "code": "NKSRAINHARVESTINGCHARGES",
       "financialYear": "2014-24"
     },
-    {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+   {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
-      "service": "FN.Tender_Earnest_Money_Deposit",
-      "code": "TENDEREARNSTMONY",
-      "financialYear": "2014-24"
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2018",
+      "financialYear": "2018-19"
     },
     {
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
       "periodCycle": "ANNUAL",
-      "service": "FN.Security_Deposit_Fee",
-      "code": "SECURITYDEPOSIT",
-      "financialYear": "2014-24"
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2019",
+      "financialYear": "2019-20"
     },
     {
       "fromDate": 1396310399000,
@@ -1217,6 +1202,14 @@
       "service": "SW.ONE_TIME_FEE",
       "code": "SW10YRS2019",
       "financialYear": "2019-29"
-    }
+    },
+	{
+      "fromDate": 1585699200000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2020",
+      "financialYear": "2020-21"
+    },
   ]
 }
