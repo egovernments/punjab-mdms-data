@@ -7301,7 +7301,7 @@
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort_v2",
       "path": "Reports.miscellaneous Receipt Register V2"
-    },  
+    },
     {
       "id": 1964,
       "name": "Receipt Register_v2",
@@ -7316,8 +7316,7 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseRegistryReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-
-    },       
+    },
     {
       "id": 1965,
       "name": "StateLevelStatus_v2",
@@ -7332,7 +7331,6 @@
       "navigationURL": "report/rainmaker-tl/StateLevelStatus_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-  
     },
     {
       "id": 1966,
@@ -7348,8 +7346,7 @@
       "navigationURL": "report/rainmaker-tl/StateLevelTradeWiseCollection_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
- 
-    },   
+    },
     {
       "id": 1967,
       "name": "TL Report_v2",
@@ -7360,8 +7357,7 @@
       "serviceCode": "TLREPORTS",
       "code": "null",
       "path": "TL Report_v2"
-  
-    },             
+    },
     {
       "id": 1968,
       "name": "Cancelled Receipt Register_v2",
@@ -7391,8 +7387,7 @@
       "navigationURL": "report/rainmaker-tl/StateTradeLicenseCancelledRegistryReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-  
-    },               
+    },
     {
       "id": 1970,
       "name": "TradeLicenseULBWiseApplicationStatusReport_v2",
@@ -7422,7 +7417,7 @@
       "navigationURL": "report/rainmaker-tl/ULBLevelStatus_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },              
+    },
     {
       "id": 1972,
       "name": "SearchTradeLicenseApplicationReport_v2",
@@ -7452,7 +7447,7 @@
       "navigationURL": "report/rainmaker-tl/SearchTradeLicenseApplicationReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },                  
+    },
     {
       "id": 1974,
       "name": "TradeLicenseDetailsReport_v2",
@@ -7467,7 +7462,7 @@
       "navigationURL": "report/rainmaker-tl/TradeLicenseDetailsReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    },               
+    },
     {
       "id": 1975,
       "name": "StateDefaulterReport_v2",
@@ -7496,9 +7491,9 @@
       "path": "Trade License.TL Reports.ULBDefaulterReport_v2",
       "navigationURL": "report/rainmaker-tl/ULBDefaulterReport_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": "" 
+      "rightIcon": ""
     },
-	{
+    {
       "id": 1977,
       "name": "mSeva Event llt Update",
       "url": "/egov-user-event/v1/events/lat/_update",
@@ -7509,7 +7504,7 @@
       "code": "null",
       "path": ""
     },
-	  {
+    {
       "id": 1978,
       "name": "Create FireNoc",
       "url": "/firenoc-services/v1/_create",
@@ -7545,7 +7540,7 @@
       "code": "null",
       "path": ""
     },
-	{
+    {
       "id": 1981,
       "name": "Firenoc Get Bill",
       "url": "/firenoc-calculator/v1/_getbill",
@@ -7604,6 +7599,38 @@
       "serviceCode": "firenoc-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1986,
+      "name": "rainmaker-citizen-fire-noc",
+      "url": "card",
+      "displayName": "FIRE-NOC",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "fire-noc/home",
+      "leftIcon": "custom:fire",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1987,
+      "name": "rainmaker-common-fire-noc",
+      "url": "card",
+      "displayName": "FIRE-NOC",
+      "orderNumber": 3,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "fire-noc/search",
+      "leftIcon": "social:people",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
