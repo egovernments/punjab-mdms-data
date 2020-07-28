@@ -49,12 +49,12 @@
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.PROPERTY.FIREDRAWING_DESCRIPTION",
-          "required": false
+          "required": true
         },
         {
           "code": "OWNER.PROPERTY.OWNERSHIPCHECKLIST",
           "documentType": "OWNER",
-          "required": false,
+          "required": true,
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.PROPERTY.OWNERSHIPCHECKLIST_DESCRIPTION"
@@ -62,7 +62,7 @@
         {
           "code": "OWNER.FIRENOC.OLDDOCUMENT",
           "documentType": "OWNER",
-          "required": true,
+          "required": false,
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.FIRENOC.OLDDOCUMENT_DESCRIPTION"
@@ -199,12 +199,12 @@
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.PROPERTY.FIREDRAWING_DESCRIPTION",
-          "required": false
+          "required": true
         },
         {
           "code": "OWNER.PROPERTY.OWNERSHIPCHECKLIST",
           "documentType": "OWNER",
-          "required": false,
+          "required": true,
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.PROPERTY.OWNERSHIPCHECKLIST_DESCRIPTION"
@@ -212,7 +212,7 @@
         {
           "code": "OWNER.FIRENOC.OLDDOCUMENT",
           "documentType": "OWNER",
-          "required": true,
+          "required": false,
           "active": true,
           "hasDropdown": false,
           "description": "OWNER.FIRENOC.OLDDOCUMENT_DESCRIPTION"
