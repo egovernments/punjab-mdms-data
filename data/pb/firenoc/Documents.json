@@ -3,66 +3,106 @@
   "moduleName": "firenoc",
   "Documents": [
     {
-      "code": "OWNER.IDENTITYPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": true,
-      "dropdownData": [
+      "allowedDocs": [
         {
-          "code": "OWNER.IDENTITYPROOF.AADHAAR",
-          "active": true
+          "code": "OWNER.PROPERTY.OWNERSHIPPROOF",
+          "documentType": "OWNER",
+          "active": true,
+          "hasDropdown": false,
+          "description": "OWNER.PROPERTY.OWNERSHIPPROOF_DESCRIPTION",
+          "applicationType": [
+            "NEW",
+            "RENEWAL",
+            "PROVISIONAL"
+          ],
+          "required": true
         },
         {
-          "code": "OWNER.IDENTITYPROOF.VOTERID",
-          "active": true
+          "code": "OWNER.IDENTITYPROOF",
+          "documentType": "OWNER",
+          "active": true,
+          "hasDropdown": true,
+          "dropdownData": [
+            {
+              "code": "OWNER.IDENTITYPROOF.AADHAAR",
+              "active": true
+            },
+            {
+              "code": "OWNER.IDENTITYPROOF.VOTERID",
+              "active": true
+            },
+            {
+              "code": "OWNER.IDENTITYPROOF.DRIVING",
+              "active": true
+            },
+            {
+              "code": "OWNER.IDENTITYPROOF.PAN",
+              "active": true
+            },
+            {
+              "code": "OWNER.IDENTITYPROOF.PASSPORT",
+              "active": true
+            }
+          ],
+          "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION",
+          "applicationType": [
+            "NEW",
+            "RENEWAL",
+            "PROVISIONAL"
+          ],
+          "required": true
         },
         {
-          "code": "OWNER.IDENTITYPROOF.DRIVING",
-          "active": true
+          "code": "OWNER.PROPERTY.FIREDRAWING",
+          "documentType": "OWNER",
+          "active": true,
+          "hasDropdown": false,
+          "description": "OWNER.PROPERTY.FIREDRAWING_DESCRIPTION",
+          "applicationType": [
+            "NEW",
+            "RENEWAL",
+            "PROVISIONAL"
+          ],
+          "required": false
         },
         {
-          "code": "OWNER.IDENTITYPROOF.PAN",
-          "active": true
+          "code": "OWNER.PROPERTY.OWNERSHIPCHECKLIST",
+          "documentType": "OWNER",
+          "required": false,
+          "active": true,
+          "hasDropdown": false,
+          "description": "OWNER.PROPERTY.OWNERSHIPCHECKLIST_DESCRIPTION",
+          "applicationType": [
+            "RENEWAL",
+            "PROVISIONAL",
+            "NEW"
+          ]
         },
         {
-          "code": "OWNER.IDENTITYPROOF.PASSPORT",
-          "active": true
+          "code": "OWNER.FIRENOC.OLDDOCUMENT",
+          "documentType": "OWNER",
+          "required": true,
+          "active": true,
+          "hasDropdown": false,
+          "description": "OWNER.FIRENOC.OLDDOCUMENT_DESCRIPTION",
+          "applicationType": [
+            "RENEWAL"
+          ]
+        },
+        {
+          "code": "OWNER.PROPERTY.TAXRECEIPT",
+          "documentType": "OWNER",
+          "required": false,
+          "active": true,
+          "hasDropdown": false,
+          "description": "OWNER.PROPERTY.TAXRECEIPT_DESCRIPTION",
+          "applicationType": [
+            "RENEWAL",
+            "PROVISIONAL",
+            "NEW"
+          ]
         }
-      ],
-      "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.PROPERTY.OWNERSHIPPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": false,
-      "description": "OWNER.PROPERTY.OWNERSHIPPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.PROPERTY.FIREDRAWING",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": false,
-      "description": "OWNER.PROPERTY.FIREDRAWING_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.PROPERTY.OWNERSHIPCHECKLIST",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": false,
-      "description": "OWNER.PROPERTY.OWNERSHIPCHECKLIST_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.PROPERTY.TAXRECEIPT",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "hasDropdown": false,
-      "description": "OWNER.PROPERTY.TAXRECEIPT_DESCRIPTION"
+      ]
     }
   ]
 }
