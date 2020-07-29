@@ -3,31 +3,31 @@
   "moduleName": "common-masters",
   "Designation": [
     {
-      "code": "DESIG_01",
-      "name": "Superintending Engineer ( B&R)",
-      "description": "Superintending Engineer ( B&R)",
+      "code": "SE",
+      "name": "Superintending Engineer",
+      "description": "Superintending Engineer",
       "active": true
     },
     {
-      "code": "DESIG_02",
-      "name": "Corporation Engineer (B&R)",
-      "description": "Corporation Engineer (B&R)",
+      "code": "CORPE",
+      "name": "Corporation Engineer",
+      "description": "Corporation Engineer",
       "active": true
     },
     {
-      "code": "DESIG_03",
-      "name": "Asst. Engineer ( B&R)",
-      "description": "Asst. Engineer ( B&R)",
+      "code": "AE",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
       "active": true
     },
     {
-      "code": "DESIG_04",
-      "name": "Junior Engineer ( B&R)",
-      "description": "Junior Engineer ( B&R)",
+      "code": "JE",
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
       "active": true
     },
     {
-      "code": "DESIG_05",
+      "code": "LSO",
       "name": "Land Scape Officer",
       "description": "Land Scape Officer",
       "active": true
@@ -36,94 +36,94 @@
       "code": "DESIG_06",
       "name": "Superintending Engineer ( O&M)",
       "description": "Superintending Engineer ( O&M)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_07",
       "name": "Corporation Engineer (O&M)",
       "description": "Corporation Engineer (O&M)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_08",
       "name": "Asst. Engineer ( O&M)",
       "description": "Asst. Engineer ( O&M)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_09",
       "name": "Junior Engineer ( O&M)",
       "description": "Junior Engineer ( O&M)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_10",
       "name": "Superintending Engineer ( Light)",
       "description": "Superintending Engineer ( Light)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_11",
       "name": "Corporation Engineer (Light)",
       "description": "Corporation Engineer (Light)",
-      "active": true
+      "active": false
     },
     {
       "code": "DESIG_12",
       "name": "Junior Engineer ( Light)",
       "description": "Junior Engineer ( Light)",
-      "active": true
+      "active": false
     },
     {
-      "code": "DESIG_13",
+      "code": "HO",
       "name": "Health Officer",
       "description": "Health Officer",
       "active": true
     },
     {
-      "code": "DESIG_14",
+      "code": "MO",
       "name": "Medical Officer",
       "description": "Medical Officer",
       "active": true
     },
     {
-      "code": "DESIG_15",
+      "code": "CSI",
       "name": "Chief Sanitary Inspector",
-      "description": "Mechanical Oversear",
+      "description": "Chief Sanitary Inspecto",
       "active": true
     },
     {
-      "code": "DESIG_16",
+      "code": "SI",
       "name": "Sainitary Inspector",
       "description": "Clerk",
       "active": true
     },
     {
-      "code": "DESIG_17",
+      "code": "SS",
       "name": "Sainitary Supervisor",
       "description": "Accountant",
       "active": true
     },
     {
-      "code": "DESIG_18",
+      "code": "STP",
       "name": "Senior Town Planner",
       "description": "Senior Town Planner",
       "active": true
     },
     {
-      "code": "DESIG_19",
+      "code": "MTP",
       "name": "Municipal Town Planner",
       "description": "Municipal Town Planner",
       "active": true
     },
     {
-      "code": "DESIG_20",
-      "name": "Asst. Town Planner",
-      "description": "Asst. Town Planner",
+      "code": "ATP",
+      "name": "Assistant Town Planner",
+      "description": "Assistant Town Planner",
       "active": true
     },
     {
-      "code": "DESIG_21",
+      "code": "BI",
       "name": "Building Inspector",
       "description": "Building Inspector",
       "active": true
@@ -132,22 +132,22 @@
       "code": "DESIG_22",
       "name": "Junior Enginer ( Horticulutre)",
       "description": "Junior Enginer ( Horticulutre)",
-      "active": true
+      "active": false
     },
     {
-      "code": "DESIG_23",
+      "code": "CSR",
       "name": "Citizen service representative",
       "description": "Citizen service representative",
       "active": true
     },
     {
-      "code": "XEN_PWSSB",
+      "code": "XEN",
       "name": "Executive Engineer",
       "description": "Executive Engineer",
       "active": true
     },
     {
-      "code": "SDO_PWSSB",
+      "code": "SDO",
       "name": "Sub Division Officer",
       "description": "Sub Division Officer",
       "active": true
@@ -156,7 +156,7 @@
       "code": "JE_PWSSB",
       "name": "Junior Engineer",
       "description": "Junior Engineer",
-      "active": true
+      "active": false
     },
     {
       "code": "CLERK",
@@ -165,7 +165,7 @@
       "active": true
     },
     {
-      "code": "DESIG_24",
+      "code": "AC",
       "name": "Assistant Commissioner",
       "description": "Assistant Commissioner",
       "active": true
@@ -174,22 +174,22 @@
       "code": "DESIG_25",
       "name": "Assistant Engineer (Light)",
       "description": "Assistant Engineer (Light)",
-      "active": true
+      "active": false
     },
     {
-      "code": "DESIG_26",
+      "code": "SEC",
       "name": "Secretary",
       "description": "Secretary",
       "active": true
     },
     {
-      "code": "DESIG_27",
+      "code": "CO",
       "name": "Computer Operator",
       "description": "Computer Operator",
       "active": true
     },
     {
-      "code": "DESIG_28",
+      "code": "DBA",
       "name": "In Charge/DBA",
       "description": "In Charge/DBA",
       "active": true
@@ -197,560 +197,560 @@
     {
       "name": "Baildar",
       "description": "Baildar",
-      "code": "DESIG_33",
+      "code": "BAILDAR",
       "active": true
     },
     {
       "name": "Junior Assistant",
       "description": "Junior Assistant",
-      "code": "DESIG_34",
+      "code": "JA",
       "active": true
     },
     {
       "name": "Inspector",
       "description": "Inspector",
-      "code": "DESIG_35",
+      "code": "INS",
       "active": true
     },
     {
       "name": "Assistant Engineer",
       "description": "Assistant Engineer",
       "code": "DESIG_36",
-      "active": true
+      "active": false
     },
     {
       "name": "Surveyor",
       "description": "Surveyor",
-      "code": "DESIG_37",
+      "code": "SURVEYOR",
       "active": true
     },
     {
-      "name": "Assistant Corporation Engg.",
-      "description": "Assistant Corporation Engg.",
-      "code": "DESIG_38",
+      "name": "Assistant Corporation Engineer",
+      "description": "Assistant Corporation Engineer",
+      "code": "ACE",
       "active": true
     },
     {
       "name": "Head Draftsman",
       "description": "Head Draftsman",
-      "code": "DESIG_39",
+      "code": "HD",
       "active": true
     },
     {
       "name": "General Inspector",
       "description": "General Inspector",
       "code": "DESIG_40",
-      "active": true
+      "active": false
     },
     {
       "name": "Draftsman",
       "description": "Draftsman",
       "code": "DESIG_41",
-      "active": true
+      "active": false
     },
     {
       "name": "Superintending Engineer",
       "description": "Superintending Engineer",
-      "code": "DESIG_42",
+      "code": "SE",
       "active": true
     },
     {
       "name": "Superitendent",
       "description": "Superitendent",
-      "code": "DESIG_43",
-      "active": true
+      "code": "SUPT",
+      "active": false
     },
     {
       "name": "Junior Draftsman",
       "description": "Junior Draftsman",
-      "code": "DESIG_44",
+      "code": "JD",
       "active": true
     },
     {
       "name": "Assistant Town Planner",
       "description": "Assistant Town Planner",
-      "code": "DESIG_45",
-      "active": true
+      "code": "ATP",
+      "active": false
     },
     {
       "name": "Building inspector(Technical)/Draftsman",
       "description": "Building inspector(Technical)/Draftsman",
       "code": "DESIG_46",
-      "active": true
+      "active": false
     },
     {
       "name": "Superintendent",
       "description": "Superintendent",
-      "code": "DESIG_47",
+      "code": "SUPT",
       "active": true
     },
     {
       "name": "Data entry operator",
       "description": "Data entry operator",
-      "code": "DESIG_48",
+      "code": "DEO",
       "active": true
     },
     {
       "name": "Assistant Municipal Engineering",
       "description": "Assistant Municipal Engineering",
-      "code": "DESIG_49",
+      "code": "AME",
       "active": true
     },
     {
       "name": "Sanitary Inspector",
       "description": "Sanitary Inspector",
       "code": "DESIG_50",
-      "active": true
+      "active": false
     },
     {
       "name": "Commissioner",
       "description": "Commissioner",
-      "code": "DESIG_51",
+      "code": "COMM",
       "active": true
     },
     {
       "name": "Municipal Engineer",
       "description": "Municipal Engineer",
-      "code": "DESIG_52",
+      "code": "ME",
       "active": true
     },
     {
       "name": "Executive Engineer/Municipal Engineer/Corporation Engineer",
       "description": "Executive Engineer/Municipal Engineer/Corporation Engineer",
       "code": "DESIG_53",
-      "active": true
+      "active": false
     },
     {
       "name": "Junior.Assistant",
       "description": "Junior.Assistant",
       "code": "DESIG_54",
-      "active": true
+      "active": false
     },
     {
       "name": "Fireman",
       "description": "Fireman",
-      "code": "DESIG_55",
+      "code": "FIREMAN",
       "active": true
     },
     {
       "name": "Deputy Controller (Finance & Accounts)",
       "description": "Deputy Controller (Finance & Accounts)",
-      "code": "DESIG_56",
+      "code": "DCFA",
       "active": true
     },
     {
       "name": "Corporation Engineer",
       "description": "Corporation Engineer",
       "code": "DESIG_57",
-      "active": true
+      "active": false
     },
     {
       "name": "Accountant",
       "description": "Accountant",
-      "code": "DESIG_58",
+      "code": "ACC",
       "active": true
     },
     {
       "name": "Sanitary Supervisor",
       "description": "Sanitary Supervisor",
       "code": "DESIG_59",
-      "active": true
+      "active": false
     },
     {
       "name": "Draftman",
       "description": "Draftman",
       "code": "DESIG_60",
-      "active": true
+      "active": false
     },
     {
       "name": "Data Entry Operator",
       "description": "Data Entry Operator",
       "code": "DESIG_61",
-      "active": true
+      "active": false
     },
     {
       "name": "Inspector/Senior Assistant",
       "description": "Inspector/Senior Assistant",
       "code": "DESIG_62",
-      "active": true
+      "active": false
     },
     {
       "name": "Fire Station Officer",
       "description": "Fire Station Officer",
-      "code": "DESIG_63",
+      "code": "FSO",
       "active": true
     },
     {
       "name": "INSPECTOR",
       "description": "INSPECTOR",
       "code": "DESIG_64",
-      "active": true
+      "active": false
     },
     {
       "name": "Assistant Corporation Engineer",
       "description": "Assistant Corporation Engineer",
       "code": "DESIG_65",
-      "active": true
+      "active": false
     },
     {
       "name": "Computer Programmer",
       "description": "Computer Programmer",
-      "code": "DESIG_66",
+      "code": "CP",
       "active": true
     },
     {
       "name": "Corporation Engineer",
       "description": "Corporation Engineer",
       "code": "DESIG_67",
-      "active": true
+      "active": false
     },
     {
       "name": "Asistant Commisstioner",
       "description": "Asistant Commisstioner",
       "code": "DESIG_68",
+      "active": false
+    },
+    {
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "code": "EO",
       "active": true
     },
     {
-      "name": "Executive officer",
-      "description": "Executive officer",
-      "code": "DESIG_69",
-      "active": true
-    },
-    {
-      "name": "ALM (Assistant Line Man)",
-      "description": "ALM (Assistant Line Man)",
-      "code": "DESIG_70",
+      "name": "Assistant Line Man",
+      "description": "Assistant Line Man",
+      "code": "ALM",
       "active": true
     },
     {
       "name": "Sub-Divisional Engineer",
       "description": "Sub-Divisional Engineer",
-      "code": "DESIG_71",
+      "code": "SDE",
       "active": true
     },
     {
       "name": "Supervisor",
       "description": "Supervisor",
-      "code": "DESIG_72",
+      "code": "SUPERVISOR",
       "active": true
     },
     {
       "name": "GIS EXPERT",
       "description": "GIS EXPERT",
-      "code": "DESIG_73",
+      "code": "GISEXPERT",
       "active": true
     },
     {
       "name": "Local Registrar",
       "description": "Local Registrar",
-      "code": "DESIG_74",
+      "code": "LR",
       "active": true
     },
     {
       "name": "Tax Collector",
       "description": "Tax Collector",
-      "code": "DESIG_75",
+      "code": "TC",
       "active": true
     },
     {
       "name": "Building Superintendent",
       "description": "Building Superintendent",
       "code": "DESIG_76",
-      "active": true
+      "active": false
     },
     {
       "name": "Sanitory Inspector",
       "description": "Sanitory Inspector",
       "code": "DESIG_77",
-      "active": true
+      "active": false
     },
     {
       "name": "Additional Local Registrar",
       "description": "Additional Local Registrar",
-      "code": "DESIG_78",
+      "code": "ALR",
       "active": true
     },
     {
       "name": "Superintendent Engineer (Councils)",
       "description": "Superintendent Engineer (Councils)",
       "code": "DESIG_79",
-      "active": true
+      "active": false
     },
     {
       "name": "Senior Assistant",
       "description": "Senior Assistant",
-      "code": "DESIG_80",
+      "code": "SA",
       "active": true
     },
     {
       "name": "Chief Sanitory Inspector",
       "description": "Chief Sanitory Inspector",
       "code": "DESIG_81",
-      "active": true
+      "active": false
     },
     {
       "name": "Sub Registrar",
       "description": "Sub Registrar",
-      "code": "DESIG_82",
+      "code": "SR",
       "active": true
     },
     {
       "name": "Legal Assistant",
       "description": "Legal Assistant",
-      "code": "DESIG_83",
+      "code": "LA",
       "active": true
     },
     {
       "name": "Electrician",
       "description": "Electrician",
-      "code": "DESIG_84",
+      "code": "ELECTRICIAN",
       "active": true
     },
     {
       "name": "Assistant Municipal Engineer ( Civil )",
       "description": "Assistant Municipal Engineer ( Civil )",
       "code": "DESIG_85",
-      "active": true
+      "active": false
     },
     {
       "name": "Junior Engineer (Building)",
       "description": "Junior Engineer (Building)",
       "code": "DESIG_86",
-      "active": true
+      "active": false
     },
     {
       "name": "Computer in Birth and Death Branch",
       "description": "Computer in Birth and Death Branch",
       "code": "DESIG_87",
-      "active": true
+      "active": false
     },
     {
       "name": "Junior Engineer (Electrical)",
       "description": "Junior Engineer (Electrical)",
       "code": "DESIG_88",
-      "active": true
+      "active": false
     },
     {
       "name": "Executive Officer",
       "description": "Executive Officer",
       "code": "DESIG_89",
-      "active": true
+      "active": false
     },
     {
       "name": "Peon",
       "description": "Peon",
       "code": "DESIG_90",
-      "active": true
+      "active": false
     },
     {
       "name": "Municipal Engineer",
       "description": "Municipal Engineer",
       "code": "DESIG_91",
-      "active": true
+      "active": false
     },
     {
       "name": "Driver",
       "description": "Driver",
       "code": "DESIG_92",
-      "active": true
+      "active": false
     },
     {
       "name": "Sectional Officer",
       "description": "Sectional Officer",
-      "code": "DESIG_93",
+      "code": "SO",
       "active": true
     },
     {
       "name": "Sweeper",
       "description": "Sweeper",
       "code": "DESIG_94",
-      "active": true
+      "active": false
     },
     {
       "name": "Watchman",
       "description": "Watchman",
       "code": "DESIG_95",
-      "active": true
+      "active": false
     },
     {
       "name": "Pump Opertor",
       "description": "Pump Opertor",
       "code": "DESIG_96",
-      "active": true
+      "active": false
     },
     {
       "name": "Clerk-cum- computer opertor",
       "description": "Clerk-cum- computer opertor",
       "code": "DESIG_97",
-      "active": true
+      "active": false
     },
     {
       "name": "Assistant Municipal Engineer",
       "description": "Assistant Municipal Engineer",
       "code": "DESIG_98",
-      "active": true
+      "active": false
     },
     {
       "name": "Assistant Pump Operator",
       "description": "Assistant Pump Operator",
       "code": "DESIG_99",
-      "active": true
+      "active": false
     },
     {
       "name": "Computer Opertor",
       "description": "Computer Opertor",
       "code": "DESIG_100",
-      "active": true
+      "active": false
     },
     {
       "name": "Steno",
       "description": "Steno",
       "code": "DESIG_101",
-      "active": true
+      "active": false
     },
     {
       "name": "Plumber",
       "description": "Plumber",
       "code": "DESIG_102",
-      "active": true
+      "active": false
     },
     {
       "name": "Pump Operator",
       "description": "Pump Operator",
       "code": "DESIG_103",
-      "active": true
+      "active": false
     },
     {
       "name": "Court Clerk",
       "description": "Court Clerk",
       "code": "DESIG_104",
-      "active": true
+      "active": false
     },
     {
       "name": "Fitter Coolie",
       "description": "Fitter Coolie",
       "code": "DESIG_105",
-      "active": true
+      "active": false
     },
     {
       "name": "Sub Divisional Engineer",
       "description": "Sub Divisional Engineer",
       "code": "DESIG_106",
-      "active": true
+      "active": false
     },
     {
       "name": "Sub Fire Officer",
       "description": "Sub Fire Officer",
-      "code": "DESIG_107",
+      "code": "SFO",
       "active": true
     },
     {
       "name": "Restorar",
       "description": "Restorar",
       "code": "DESIG_108",
-      "active": true
+      "active": false
     },
     {
       "name": "Senior Scale Stenographer",
       "description": "Senior Scale Stenographer",
       "code": "DESIG_109",
-      "active": true
+      "active": false
     },
     {
       "name": "Mali-Cum-Chounkidar",
       "description": "Mali-Cum-Chounkidar",
       "code": "DESIG_110",
-      "active": true
+      "active": false
     },
     {
       "name": "Mali",
       "description": "Mali",
       "code": "DESIG_111",
-      "active": true
+      "active": false
     },
     {
       "name": "Beldar",
       "description": "Beldar",
       "code": "DESIG_112",
-      "active": true
+      "active": false
     },
     {
       "name": "Sanitory Supervisor",
       "description": "Sanitory Supervisor",
       "code": "DESIG_113",
-      "active": true
+      "active": false
     },
     {
       "name": "Fiter Cooli",
       "description": "Fiter Cooli",
       "code": "DESIG_114",
-      "active": true
+      "active": false
     },
     {
       "name": "Junior Technician",
       "description": "Junior Technician",
       "code": "DESIG_115",
-      "active": true
+      "active": false
     },
     {
       "name": "Sewerman",
       "description": "Sewerman",
       "code": "DESIG_116",
-      "active": true
+      "active": false
     },
     {
       "name": "Steno/Personal Assistant",
       "description": "Steno/Personal Assistant",
       "code": "DESIG_117",
-      "active": true
+      "active": false
     },
     {
       "name": "Architect",
       "description": "Architect",
       "code": "DESIG_118",
-      "active": true
+      "active": false
     },
     {
       "name": "Site Engineer/Contractor",
       "description": "Site Engineer/Contractor",
       "code": "DESIG_119",
-      "active": true
+      "active": false
     },
     {
       "name": "Tractor Driver",
       "description": "Tractor Driver",
       "code": "DESIG_120",
-      "active": true
+      "active": false
     },
     {
       "name": "Trolley Man",
       "description": "Trolley Man",
       "code": "DESIG_121",
-      "active": true
+      "active": false
     },
     {
       "name": "Deputy Controller Finance and Accounts",
       "description": "Deputy Controller Finance and Accounts",
       "code": "DESIG_1001",
-      "active": true
+      "active": false
     },
     {
       "name": "peon",
       "description": "peon",
       "code": "DESIG_123",
-      "active": true
+      "active": false
     },
     {
       "name": "Bill Distributor",
       "description": "Bill Distributor",
       "code": "DESIG_124",
-      "active": true
+      "active": false
     },
     {
       "name": "Sewadar",
       "description": "Sewadar",
       "code": "DESIG_125",
-      "active": true
+      "active": false
     },
     {
       "name": "Chief Engineer",
@@ -761,7 +761,7 @@
     {
       "name": "Sewa Kendra Operator",
       "description": "Sewa Kendra Operator",
-      "code": "DESIG_SK_OPR",
+      "code": "SK_OPR",
       "active": true
     }
   ]
