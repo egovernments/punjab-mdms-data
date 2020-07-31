@@ -1,0 +1,63 @@
+{
+  "tenantId": "pb",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_BATALA_01",
+      "baseTenantId": "pb.batala",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Srihargobindpur"
+        },
+        {
+          "code": "Batala"
+        },
+        {
+          "code": "Quadian"
+        },
+        {
+          "code": "Fatehgarhchurian"
+        },
+        {
+          "code": "Dera Baba Nanak"
+        },
+        {
+          "code": "Rural Area"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "pb.srihargobindpur"
+        },
+        {
+          "code": "pb.batala"
+        },
+        {
+          "code": "pb.quadian"
+        },
+        {
+          "code": "pb.fatehgarhchurian"
+        }
+      ]
+    },
+    {
+      "code": "FS_TESTING_01",
+      "baseTenantId": "pb.testing",
+      "active": true,
+      "subDistrict": [
+        {
+          "code": "Testing1"
+        },
+        {
+          "code": "Testing2"
+        }
+      ],
+      "ulb": [
+        {
+          "code": "pb.testing"
+        }
+      ]
+    }
+  ]
+}

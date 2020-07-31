@@ -18,7 +18,7 @@
             "idname": "watercharges.nonmetered.receipt.id"
         },
         {
-            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "format": "FN/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "firenoc.receipt.id"
         },
         {
@@ -509,7 +509,16 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "lcf.trade_license_fee.receipt.id"
-        }
+        },
+                 
+         {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.dog_registration.receipt.id"        
+        },
+        {
+            "format": "FN/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "firenoc.receipt.id"
+        }         
 
     ]
 }
