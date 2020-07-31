@@ -1,7 +1,16 @@
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
-  "Interest": [{
+  "Interest": [
+    {
+      "rate": 0,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2019"
+    },
+    {
       "rate": 0,
       "minAmount": null,
       "flatAmount": null,
