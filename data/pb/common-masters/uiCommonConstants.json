@@ -30,19 +30,19 @@
         "pgr": {
           "routePath": "/kibana/app/kibana#/dashboard/e0b938a0-5515-11e9-a895-c975e706b69b?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Cmode%3Aquick%2Cto%3Anow))",
           "isOrigin": false,
-          "domain": "https://mseva.lgpunjab.gov.in",
+          "domain": "https://mseva-qa.lgpunjab.gov.in",
           "title": "DASHBOARD_TITLE_PGR"
         },
         "pgr-ulb": {
           "routePath": "/kibana/app/kibana#/dashboard/e0b938a0-5515-11e9-a895-c975e706b69b?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Cmode%3Aquick%2Cto%3Anow))",
           "isOrigin": false,
-          "domain": "https://mseva.lgpunjab.gov.in",
+          "domain": "https://mseva-qa.lgpunjab.gov.in",
           "title": "DASHBOARD_TITLE_PGR"
         },
         "property": {
           "routePath": "/kibana/app/kibana#/dashboard/2a8a5c80-d606-11ea-8e1f-63fad6699564?embed=true&_g=(refreshInterval:(pause:!f,value:5000),time:(from:now-2y,mode:quick,to:now))&_a=(description:'',filters:!(),fullScreenMode:!f,options:(darkTheme:!f,hidePanelTitles:!f,useMargins:!t),panels:!((embeddableConfig:(),gridData:(h:1,i:'13',w:48,x:0,y:59),id:a0775f50-5516-11e9-a895-c975e706b69b,panelIndex:'13',title:END,type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:6,i:'14',w:48,x:0,y:0),id:a834def0-d6ea-11ea-8e1f-63fad6699564,panelIndex:'14',title:Filters,type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:7,i:'15',w:17,x:0,y:6),id:b6136140-d78f-11ea-8e1f-63fad6699564,panelIndex:'15',title:'Total%20Collections',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:7,i:'16',w:16,x:17,y:6),id:'632f0640-d62d-11ea-8e1f-63fad6699564',panelIndex:'16',title:'Total%20Properties%20Assessed',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:7,i:'17',w:15,x:33,y:6),id:'4ab19360-d62f-11ea-8e1f-63fad6699564',panelIndex:'17',title:'Total%20ULBs%20with%20Non%20Zero%20Assessments',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:15,i:'18',w:24,x:0,y:13),id:'79d48590-d6bf-11ea-8e1f-63fad6699564',panelIndex:'18',title:'Total%20Collections%20Month-wise',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:15,i:'19',w:24,x:24,y:13),id:ebac3d60-d6c0-11ea-8e1f-63fad6699564,panelIndex:'19',title:'Total%20Collections%20Week-wise',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:10,i:'20',w:24,x:0,y:49),id:'1a049ff0-d6ca-11ea-8e1f-63fad6699564',panelIndex:'20',title:'Usage%20Type%20Distribution',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:10,i:'21',w:24,x:24,y:49),id:'4d547ff0-d6cb-11ea-8e1f-63fad6699564',panelIndex:'21',title:'Payment%20Type%20Distribution',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:21,i:'22',w:24,x:24,y:28),id:c8563d80-d6d3-11ea-8e1f-63fad6699564,panelIndex:'22',title:'Total%20Properties%20Assessed%20ULB-wise',type:visualization,version:'6.4.2'),(embeddableConfig:(),gridData:(h:21,i:'23',w:24,x:0,y:28),id:'9a60bea0-d6ce-11ea-8e1f-63fad6699564',panelIndex:'23',title:'Total%20Collections%20ULB-wise',type:visualization,version:'6.4.2')),query:(language:lucene,query:''),timeRestore:!t,title:'PT%20State%20Administrator%20Dashboard%20v1',viewMode:view)",
           "isOrigin": false,
-          "domain": "https://mseva.lgpunjab.gov.in",
+          "domain": "https://mseva-qa.lgpunjab.gov.in",
           "title": "DASHBOARD_TITLE_PT_COLLECTION"
         },
         "ws-municipal-adoption": {
@@ -90,13 +90,13 @@
        "finance-rollout-adoption": {
           "routePath": "/kibana/app/kibana#/dashboard/8acd5580-9f0b-11e9-a97a-17090c89ba80?embed=true&_g=(refreshInterval%3A(pause%3A!f%2Cvalue%3A300000)%2Ctime%3A(from%3Anow-1y%2Cmode%3Aquick%2Cto%3Anow))",
           "isOrigin": false,
-          "domain": "https://mseva.lgpunjab.gov.in",
+          "domain": "https://mseva-qa.lgpunjab.gov.in",
 	  "title": "DASHBOARD_TITLE_FINANCE_ROLLOUT_ADOPTION"
         },
 	"miscellaneouscollections": {
             "routePath": "/kibana/app/kibana#/dashboard/c0fe7a80-d525-11e9-8fb4-fd339ccc072c?embed=true&_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-1y%2Cmode%3Aquick%2Cto%3Anow))",
             "isOrigin": false,
-            "domain": "https://mseva.lgpunjab.gov.in",
+            "domain": "https://mseva-qa.lgpunjab.gov.in",
             "title": "DASHBOARD_TITLE_MICS"
         }
       }
