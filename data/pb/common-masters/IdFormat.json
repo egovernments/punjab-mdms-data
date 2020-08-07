@@ -544,7 +544,7 @@
         "idname": "sw.one_time_fee.receipt.id"
      },
      {
-      "format": "PB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.assessmentnumber"
     },
     {
@@ -553,7 +553,7 @@
     },
 
     {
-      "format": "PB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+      "format": "MT-[CITY]-[SEQ_EG_PT_MUTATION]",
       "idname": "pt.mutation.number"
     },
 	 {
