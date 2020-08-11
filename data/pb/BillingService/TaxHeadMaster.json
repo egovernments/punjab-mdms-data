@@ -5148,6 +5148,130 @@
           "order": "0",
           "isRequired": false
 
+      }, 
+
+      {
+          "category": "TAX",
+          "service": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+          "name": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_TAX",
+          "code": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+      },
+      {
+          "category": "CHARGES",
+          "service": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+          "name": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_FIELD_FEE",
+          "code": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+      },
+      {
+          "category": "TAX",
+          "service": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+          "name": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_CGST",
+          "code": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       },
+       {
+          "category": "TAX",
+          "service": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+          "name": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_SGST",
+          "code": "RT.SERVICE_TAX_GST_OF_RENT_OF_MC_PROPERTIES_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       },                   
+       {
+          "category": "TAX",
+          "service": "RT.Street_Vendor_Icard_Certificate_Fees",
+          "name": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_TAX",
+          "code": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+       },
+       {
+          "category": "CHARGES",
+          "service": "RT.Street_Vendor_Icard_Certificate_Fees",
+          "name": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_FIELD_FEE",
+          "code": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       },
+       {
+          "category": "TAX",
+          "service": "RT.Street_Vendor_Icard_Certificate_Fees",
+          "name": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_CGST",
+          "code": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+       },
+       {
+          "category": "TAX",
+          "service": "RT.Street_Vendor_Icard_Certificate_Fees",
+          "name": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_SGST",
+          "code": "RT.STREET_VENDOR_ICARD_CERTIFICATE_FEES_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },      
+        {
+          "category": "TAX",
+          "service": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+          "name": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_TAX",
+          "code": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+          "name": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_FIELD_FEE",
+          "code": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+          "name": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_CGST",
+          "code": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+          "name": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_SGST",
+          "code": "TX.PROPERTY_TAX_DISHONOURED_CHEQUE_PAYMENT_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false          
+               
+         
+
                     
       }
        
