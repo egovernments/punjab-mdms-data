@@ -1536,9 +1536,44 @@
               "isAdvanceAllowed": false,
               "isVoucherCreationEnabled": true,
               "isActive": true,
-              "type": "Adhoc"               
+              "type": "Adhoc" 
+          },
+          {
+              "businessService": "Rents.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+              "code": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+         },
+         {
+              "businessService": "Rents.Street_Vendor_Icard_Certificate_Fees",
+              "code": "RT.Street_Vendor_Icard_Certificate_Fees",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"
+         },         
+         {
+              "businessService": "Taxes.Property_Tax_Dishonoured_Cheque_Payment",
+              "code": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+              "collectionModesNotAllowed": [
+                 "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"                         
               
-
                                   
           }
     
