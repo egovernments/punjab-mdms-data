@@ -507,6 +507,22 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
             "idname": "other.dog_registration.receipt.id"
+        
+        },
+        {
+           "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+           "idname": "rt.service_tax_gst_of_rent_of_mc_properties.receipt.id"
+        },
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "rt.street_vendor_icard_certificate.receipt.id"
+        },
+    
+        {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "tx.property_tax_dishonoured_cheque_payment.receipt.id"
+        
+
 
         }
         
