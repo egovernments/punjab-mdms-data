@@ -7797,6 +7797,28 @@
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 1999,
+      "name": "mSeva Event Create",
+      "url": "/egov-user-event/v1/events/_create",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2000,
+      "name": "mSeva Event Update",
+      "url": "/egov-user-event/v1/events/_update",
+      "displayName": "mSeva Event Notification",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "msea-event-notification",
+      "code": "null",
+      "path": ""
     }
   ]
 }
