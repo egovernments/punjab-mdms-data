@@ -1572,7 +1572,22 @@
               "isAdvanceAllowed": false,
               "isVoucherCreationEnabled": true,
               "isActive": true,
-              "type": "Adhoc"                         
+              "type": "Adhoc"  
+
+         },   
+         
+         {
+              "businessService": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+              "code": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+              "collectionModesNotAllowed": [
+                "DD"
+              ],
+              "partPaymentAllowed": false,
+              "isAdvanceAllowed": false,
+              "isVoucherCreationEnabled": true,
+              "isActive": true,
+              "type": "Adhoc"       
+        
               
                                   
           }
