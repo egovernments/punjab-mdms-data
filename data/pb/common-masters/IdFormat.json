@@ -565,6 +565,10 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "tx.property_tax_dishonoured_cheque_payment.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "other.swimming_pool_and_gymnactics_hall_fees.receipt.id"
     }
   ]
 }
