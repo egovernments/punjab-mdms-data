@@ -5501,6 +5501,46 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "name": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_TAX",
+      "code": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "name": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_FIELD_FEE",
+      "code": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "name": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_CGST",
+      "code": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "name": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_SGST",
+      "code": "OTHER.SWIMMING_POOL_AND_GYMNACTICS_HALL_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
