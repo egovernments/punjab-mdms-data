@@ -603,16 +603,16 @@
       "active": false
     },
     {
-      "name": "Steno",
-      "description": "Steno",
-      "code": "DESIG_101",
-      "active": false
+      "name": "Stenographer",
+      "description": "Stenographer",
+      "code": "STENO",
+      "active": true
     },
     {
       "name": "Plumber",
       "description": "Plumber",
-      "code": "DESIG_102",
-      "active": false
+      "code": "PLUMBER",
+      "active": true
     },
     {
       "name": "Pump Operator",
@@ -629,8 +629,8 @@
     {
       "name": "Fitter Coolie",
       "description": "Fitter Coolie",
-      "code": "DESIG_105",
-      "active": false
+      "code": "FC",
+      "active": true
     },
     {
       "name": "Sub Divisional Engineer",
@@ -647,8 +647,8 @@
     {
       "name": "Restorar",
       "description": "Restorar",
-      "code": "DESIG_108",
-      "active": false
+      "code": "RESTORAR",
+      "active": true
     },
     {
       "name": "Senior Scale Stenographer",
@@ -659,8 +659,8 @@
     {
       "name": "Mali-Cum-Chounkidar",
       "description": "Mali-Cum-Chounkidar",
-      "code": "DESIG_110",
-      "active": false
+      "code": "MALI",
+      "active": true
     },
     {
       "name": "Mali",
@@ -689,14 +689,14 @@
     {
       "name": "Junior Technician",
       "description": "Junior Technician",
-      "code": "DESIG_115",
-      "active": false
+      "code": "JT",
+      "active": true
     },
     {
       "name": "Sewerman",
       "description": "Sewerman",
-      "code": "DESIG_116",
-      "active": false
+      "code": "SEWERMAN",
+      "active": true
     },
     {
       "name": "Steno/Personal Assistant",
@@ -707,20 +707,20 @@
     {
       "name": "Architect",
       "description": "Architect",
-      "code": "DESIG_118",
-      "active": false
+      "code": "ARCHITECT",
+      "active": true
     },
     {
       "name": "Site Engineer/Contractor",
       "description": "Site Engineer/Contractor",
-      "code": "DESIG_119",
-      "active": false
+      "code": "SE/CON",
+      "active": true
     },
     {
-      "name": "Tractor Driver",
-      "description": "Tractor Driver",
-      "code": "DESIG_120",
-      "active": false
+      "name": "Driver",
+      "description": "Driver",
+      "code": "DRIVER",
+      "active": true
     },
     {
       "name": "Trolley Man",
@@ -735,10 +735,10 @@
       "active": false
     },
     {
-      "name": "peon",
-      "description": "peon",
-      "code": "DESIG_123",
-      "active": false
+      "name": "PEON",
+      "description": "PEON",
+      "code": "PEON",
+      "active": true
     },
     {
       "name": "Bill Distributor",
@@ -769,6 +769,6 @@
       "description": "Pump Operator",
       "code": "PUMPOP",
       "active": true
-    }
+    } 
   ]
 }
