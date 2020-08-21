@@ -63,12 +63,6 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Showroom",
-      "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.SHOWROOM",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
       "name": "Malls",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
       "active": true,
@@ -94,7 +88,8 @@
     },
     {
       "name": "Other Commercial Usage",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "usageCategoryMinor": "COMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -297,12 +292,6 @@
       "fromFY": "2013-14"
     },
     {
-      "name": "Other Industrial Usage ",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR",
-      "active": true,
-      "fromFY": "2013-14"
-    },
-    {
       "name": "Educational",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
       "usageCategoryMinor": "INSTITUTIONAL",
@@ -397,6 +386,41 @@
     {
       "name": "Establishments (In Malls)",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Manufacturing Facility",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Industrial Usage",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Godown/Warehouse",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
+      "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Hotels",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "usageCategoryMinor": "COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Office Space",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACE",
+      "usageCategoryMinor": "COMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     }
