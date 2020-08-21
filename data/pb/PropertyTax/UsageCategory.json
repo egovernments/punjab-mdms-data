@@ -63,12 +63,6 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Showroom",
-      "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.SHOWROOM",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
       "name": "Malls",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.MALLS",
       "active": true,
@@ -413,6 +407,20 @@
       "name": "Godown/Warehouse",
       "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
       "usageCategoryMinor": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Hotels",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "usageCategoryMinor": "COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Office Space",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACE",
+      "usageCategoryMinor": "COMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     }
