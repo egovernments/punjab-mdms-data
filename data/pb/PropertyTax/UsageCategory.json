@@ -52,7 +52,7 @@
     },
     {
       "name": "Hotels",
-      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS",
+      "code": "NONRESIDENTIAL.COMMERCIAL.HOTELS.HOTELS",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -88,7 +88,7 @@
     },
     {
       "name": "Colleges",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.COLLEGES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.COLLEGES",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -106,13 +106,13 @@
     },
     {
       "name": "Other Instituation",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.OTHERINSTITUTIONAL",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "School",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.SCHOOL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.SCHOOL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -124,7 +124,7 @@
     },
     {
       "name": "Govt. Aided Educational Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.GOVAIDEDEDUCATIONAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED.GOVAIDEDEDUCATIONAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -142,13 +142,13 @@
     },
     {
       "name": "Godown/Warehouse",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE.WAREHOUSE",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Training Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.TRAININGINSTITUTES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.TRAININGINSTITUTES",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -164,10 +164,9 @@
       "active": true,
       "fromFY": "2015-16"
     },
-  
     {
       "name": "Govt. Hospital & Dispensary",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.GOVTHOSPITAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.GOVTHOSPITAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -185,19 +184,13 @@
     },
     {
       "name": "Other Private Educational Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHEREDUCATIONAL",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Other Private Educational Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHEREDUCATIONAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.OTHEREDUCATIONAL",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Manufacturing Facility",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY.MANUFACTURINGFACILITY",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -209,25 +202,25 @@
     },
     {
       "name": "Golf Club",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.GOLFCLUB",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.GOLFCLUB",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Social Club",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.SOCIALCLUB",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.SOCIALCLUB",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Public Libraries",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.LIBRARIES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.LIBRARIES",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Religious Institution",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION.RELIGIOUSINSTITUTION",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -239,7 +232,7 @@
     },
     {
       "name": "Old Age Homes",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.OLDAGEHOMES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.OLDAGEHOMES",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -257,7 +250,7 @@
     },
     {
       "name": "Community Hall",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.COMMUNITYHALL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.COMMUNITYHALL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -275,11 +268,10 @@
     },
     {
       "name": "Polytechnic",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.POLYTECHNICS",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.POLYTECHNICS",
       "active": true,
       "fromFY": "2015-16"
     },
-    
     {
       "name": "Event Space ",
       "code": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE",
@@ -319,7 +311,7 @@
     },
     {
       "name": "Educational(govt. aided)",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED.GOVAIDEDEDUCATIONAL",
       "active": true,
       "fromFY": "2013-14"
     },
@@ -337,25 +329,25 @@
     },
     {
       "name": "Stray Animal Care Center",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.ANIMALCARE",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.ANIMALCARE",
       "active": true,
       "fromFY": "2013-14"
     },
     {
       "name": "Historical Building",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL.HISTORICAL",
       "active": true,
       "fromFY": "2013-14"
     },
     {
       "name": "Public Facility",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.LIBRARIES",
       "active": true,
       "fromFY": "2013-14"
     },
     {
       "name": "Other Institutional Usage ",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONALSUBMINOR",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONALSUBMINOR.OTHERINSTITUTIONAL",
       "active": true,
       "fromFY": "2013-14"
     },
@@ -368,29 +360,29 @@
     },
     {
       "name": "Orphanage",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.ORPHANAGE",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.ORPHANAGE",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Home for the disabled / destitute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.DISABLEDHOME",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.DISABLEDHOME",
       "active": true,
       "fromFY": "2015-16"
     },
-{
+    {
       "name": "Sports Stadium",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.SPORTSSTADIUM",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.SPORTSSTADIUM",
       "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Other Commercial Usage",
-      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIAL",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     },
-{
+    {
       "name": "Office Space",
       "code": "NONRESIDENTIAL.COMMERCIAL.OFFICESPACE.OFFICESPACE",
       "active": true,
@@ -398,13 +390,13 @@
     },
     {
       "name": "Shop/Showroom",
-      "code": "NONRESIDENTIAL.COMMERCIAL.SHOWROOM",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.SHOWROOM",
       "active": true,
       "fromFY": "2015-16"
     },
-{
+    {
       "name": "Establishments (In Malls)",
-      "code": "NONRESIDENTIAL.COMMERCIAL.ESTABLISHMENTSINMALLS",
+      "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
       "active": true,
       "fromFY": "2015-16"
     }
