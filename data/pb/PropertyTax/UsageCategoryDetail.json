@@ -304,6 +304,66 @@
       "usageCategorySubMinor": "OFFICESPACE",
       "active": true,
       "fromFY": "2013-14"
+    },
+    {
+      "name": "Other Instituation",
+      "code": "OTHERINSTITUTIONAL",
+      "usageCategorySubMinor": "EDUCATIONAL",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+{
+      "name": "Religious Institution",
+      "code": "OTHERINSTITUTIONAL",
+      "usageCategorySubMinor": "RELIGIOUSINSTITUTION",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+{
+      "name": "Hotels",
+      "code": "HOTELS",
+      "usageCategorySubMinor": "HOTELS",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+{
+      "name": "Godown/Warehouse",
+      "code": "WAREHOUSE",
+      "usageCategorySubMinor": "WAREHOUSE",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+{
+      "name": "Manufacturing Facility",
+      "code": "MANUFACTURINGFACILITY",
+      "usageCategorySubMinor": "MANUFACTURINGFACILITY",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 50,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
   ]
 }
