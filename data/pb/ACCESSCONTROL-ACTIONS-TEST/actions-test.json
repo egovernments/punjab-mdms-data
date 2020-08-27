@@ -6871,7 +6871,7 @@
       "id": 1929,
       "name": "Water & Sewerage",
       "url": "url",
-      "displayName": "Water & Sewerage",
+      "displayName": "Water & Sewerage",     
       "orderNumber": 13,
       "parentModule": "",
       "enabled": true,
@@ -8008,6 +8008,17 @@
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2014,
+      "name": "Collection Reciept Workflow",
+      "url": "/collection-services/payments/_workflow",
+      "displayName": "Payment workflow",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
       "code": "null",
       "path": ""
     }
