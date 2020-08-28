@@ -7797,6 +7797,173 @@
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {     
+        "id": 1905,
+        "name": "FIRE-NOC_V2",
+        "url": "quickAction",
+        "displayName": "Search Fire Noc_V2",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "FIRE-NOC",
+        "code": "null",
+        "navigationURL": "fire-noc/search_V2",
+        "path": "FIRE-NOC.Search_V2",
+        "leftIcon": "social:people"
+      },
+      {
+        "id": 1906,
+        "name": "Create FireNoc_V2",
+        "url": "/firenoc-services/v1/_create",
+        "parentModule": "",
+        "displayName": "Create FireNoc_V2",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-service",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1907,
+        "name": "Update FireNoc_V2",
+        "url": "/firenoc-services/v1/_update",
+        "parentModule": "",
+        "displayName": "Update FireNoc_V2",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-service",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1908,
+        "name": "Search FireNoc_V2",
+        "url": "/firenoc-services/v1/_search",
+        "parentModule": "",
+        "displayName": "Search FireNoc_V2",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-service",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1909,
+        "name": "Firenoc Get Bill_V2",
+        "url": "/firenoc-calculator/v1/_getbill",
+        "parentModule": "",
+        "displayName": "Get Bill_V2",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1910,
+        "name": "Firenoc Calculate_V2",
+        "url": "/firenoc-calculator/v1/_calculate",
+        "parentModule": "",
+        "displayName": "Calculate_V2",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "firenoc-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1911,
+        "name": "Firenoc billing slab create_V2",
+        "url": "/firenoc-calculator/billingslab/_create",
+        "parentModule": "",
+        "displayName": "",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1912,
+        "name": "Firenoc billing slab update_V2",
+        "url": "/firenoc-calculator/billingslab/_update",
+        "parentModule": "",
+        "displayName": "",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1913,
+        "name": "Firenoc billing slab search_V2",
+        "url": "/firenoc-calculator/billingslab/_search",
+        "parentModule": "",
+        "displayName": "",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "firenoc-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 1914,
+        "name": "rainmaker-citizen-fire-noc_V2",
+        "url": "card",
+        "displayName": "FIRE-NOC_V2",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL": "fire-noc/home_V2",
+        "leftIcon": "custom:fire",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 1915,
+        "name": "rainmaker-common-fire-noc_V2",
+        "url": "card",
+        "displayName": "FIRE-NOC_V2",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL": "fire-noc/search_V2",
+        "leftIcon": "social:people",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+   
+      {
+        "id": 1916,
+        "name": "FIRENOC Report_V2",
+        "url": "/report/rainmaker-noc/_get",
+        "displayName": "FIRENOC Report_V2",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "REPORTS",
+        "code": "null",
+        "path": "FIRENOC Report_V2"
+      },
+      {
+        "id": 1917,
+        "name": "FIRENOCReportMetadata_V2",
+        "url": "/report/rainmaker-noc/metadata/_get",
+        "displayName": "FIRENOC Report metadata_V2",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "FIRENOCREPORTS",
+        "code": "null",
+        "path": "FIRENOC Metadata_V2"
+     
+
     }
   ]
 }
