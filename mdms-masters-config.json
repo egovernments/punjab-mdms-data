@@ -651,7 +651,30 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },"Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
+  },
+  "Workflow": {
+    "BusinessService": {
+      "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
+    }
+  }
   },
   "egov-hrms": {
     "EmployeeStatus": {
