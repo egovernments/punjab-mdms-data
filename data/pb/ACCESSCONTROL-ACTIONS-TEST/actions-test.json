@@ -7797,6 +7797,29 @@
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
+    },    
+   {
+      "id": 1999,
+      "name": "FIRENOC Report_V2",
+      "url": "/report/rainmaker-noc/_get",
+      "displayName": "FIRENOC Report_V2",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "REPORTS",
+      "code": "null",
+      "path": "FIRENOC Report_V2"
+  },
+  {
+      "id": 2000,
+      "name": "FIRENOCReportMetadata_V2",
+      "url": "/report/rainmaker-noc/metadata/_get",
+      "displayName": "FIRENOC Report metadata_V2",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FIRENOCREPORTS",
+      "code": "null",
+     "path": "FIRENOC Metadata_V2"
+    
     }
   ]
 }
