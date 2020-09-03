@@ -285,14 +285,14 @@
                 "jsonPath": "*/collectorname",
                 "maskingTechnique": "collectorname"
               },
-              "accessType": "MASK"
+              "accessType": "PLAIN"
             },
             {
               "attribute": {
                 "jsonPath": "*/mobilenumber",
                 "maskingTechnique": "mobile"
               },
-              "accessType": "MASK"
+              "accessType": "PLAIN"
             }
           ]
         }
