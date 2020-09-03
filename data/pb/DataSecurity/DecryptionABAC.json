@@ -282,6 +282,36 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/collectorname",
+                "maskingTechnique": "collectorname"
+              },
+              "accessType": "MASK"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "MASK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TradeLicenseRegistryReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
