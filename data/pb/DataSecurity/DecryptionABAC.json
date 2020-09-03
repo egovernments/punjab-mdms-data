@@ -269,7 +269,7 @@
       ]
     },
     {
-      "key": "TradeLicenseRegistryReport_v2",
+      "key": "TradeLicenseRegistryReport",
       "roleAttributeAccessList": [
         {
           "roleCode": "TL_CEMP",
@@ -277,6 +277,12 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
               },
               "accessType": "PLAIN"
             },
