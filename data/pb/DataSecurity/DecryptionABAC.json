@@ -1202,207 +1202,6 @@
               "accessType": "MASK"
             }
           ]
-        },
-        {
-          "key": "TradeLicenseRegistryReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/collectorname"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "StateTradeLicenseCancelledRegistryReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "TradeLicenseCancelledRegistryReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "StateLevelTradeLicenseRegistryReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "SearchTradeLicenseApplicationReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "TradeLicenseDetailsReport_OLD_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "TradeLicenseDetailsReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/name"
-                  },
-                  "accessType": "PLAIN"
-                },
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "StateDefaulterReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "ULBDefaulterReport_v2",
-          "roleAttributeAccessList": [
-            {
-              "roleCode": "TL_CEMP",
-              "attributeAccessList": [
-                {
-                  "attribute": {
-                    "jsonPath": "*/mobilenumber",
-                    "maskingTechnique": "mobile"
-                  },
-                  "accessType": "PLAIN"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1543,6 +1342,207 @@
               "attribute": {
                 "jsonPath": "*/phone",
                 "maskingTechnique": "phone"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TradeLicenseRegistryReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "StateTradeLicenseCancelledRegistryReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TradeLicenseCancelledRegistryReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "StateLevelTradeLicenseRegistryReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "SearchTradeLicenseApplicationReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TradeLicenseDetailsReport_OLD_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TradeLicenseDetailsReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "StateDefaulterReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ULBDefaulterReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             }
