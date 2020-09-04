@@ -351,6 +351,22 @@
       ]
     },
     {
+      "key": "ReceiptRegister_V2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "PTCEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "StateTradeLicenseCancelledRegistryReport_v2",
       "roleAttributeAccessList": [
         {
