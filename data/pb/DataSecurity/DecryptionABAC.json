@@ -299,6 +299,29 @@
       ]
     },
     {
+      "key": "DescriptionReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "GRO",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "phone"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "TradeLicenseRegistryReport_v2",
       "roleAttributeAccessList": [
         {
