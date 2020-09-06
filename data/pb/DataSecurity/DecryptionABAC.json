@@ -351,6 +351,22 @@
       ]
     },
     {
+      "key": "ReceiptRegister",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "ReceiptRegister_V2",
       "roleAttributeAccessList": [
         {
