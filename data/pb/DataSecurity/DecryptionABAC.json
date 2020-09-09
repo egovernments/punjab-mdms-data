@@ -382,6 +382,37 @@
         }
       ]
     },
+    
+    {
+      "key": "MiscReceiptULB_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "UC_EMP",
+          "attributeAccessList": [
+            
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    
      {
       "key": "StateTradeLicenseCancelledRegistryReport_v2",
       "roleAttributeAccessList": [
