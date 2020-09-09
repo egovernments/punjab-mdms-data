@@ -525,6 +525,18 @@
       "type": "Adhoc"
     },
     {
+      "businessService": "Work Fee.Tender Form Fee",
+      "code": "WF.TenderFormFee",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
       "businessService": "Tehbazaari Fee.Advertisement fee",
       "code": "TB.Advertisement_fee",
       "collectionModesNotAllowed": [
