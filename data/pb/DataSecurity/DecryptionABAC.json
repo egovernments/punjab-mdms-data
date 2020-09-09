@@ -382,58 +382,7 @@
         }
       ]
     },
-    {
-      "key": "MiscReceiptULBCancelled_v2",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "UC_EMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname",
-                "maskingTechnique": "collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "MiscReceiptULBCancelled_v2",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "UC_EMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname",
-                "maskingTechnique": "collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-      {
-      "key": "MiscReceiptULB_v2",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "UC_EMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname",
-                "maskingTechnique": "collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
+     {
       "key": "StateTradeLicenseCancelledRegistryReport_v2",
       "roleAttributeAccessList": [
         {
