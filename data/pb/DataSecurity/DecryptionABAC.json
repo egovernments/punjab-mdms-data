@@ -312,6 +312,18 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
