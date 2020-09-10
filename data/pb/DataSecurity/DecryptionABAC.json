@@ -237,6 +237,22 @@
       ]
     },
     {
+      "key": "EmployeeReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "EmployeeReport",
       "roleAttributeAccessList": [
         {
