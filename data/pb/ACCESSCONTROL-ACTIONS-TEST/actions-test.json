@@ -6731,7 +6731,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-     {
+    {
       "id": 1911,
       "name": "Block FY Report",
       "url": "url",
@@ -6745,6 +6745,56 @@
       "navigationURL": "report/rainmaker-pt/BlockFYReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
+   }, 
+   {
+        "id": 1912,
+        "name": "CollectionReport",
+        "url": "url",
+        "displayName": "Collection Report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Rural.CollectionReport",
+        "navigationURL": "report/rainmaker-noc/RuralDistrictWiseCollectionReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+    },
+    {
+        "id": 1913,
+        "name": "ApplicationStatusReport",
+        "url": "url",
+        "displayName": "Application Status Report",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Rural.ApplicationStatusReport",
+        "navigationURL": "report/rainmaker-noc/RuralDistrictWiseApplicationStatusReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+    },
+    {
+        "id": 1914,
+        "name": "ChannelsReport",
+        "url": "url",
+        "displayName": "Channels Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Rural.ChannelsReport",
+        "navigationURL": "report/rainmaker-noc/RuralDistrictWiseChannelsReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+          
+
+
+
     }
   ]
 }
