@@ -325,13 +325,6 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "phone"
-              },
-              "accessType": "PLAIN"
             }
           ]
         },
@@ -341,13 +334,6 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "phone"
               },
               "accessType": "PLAIN"
             }
