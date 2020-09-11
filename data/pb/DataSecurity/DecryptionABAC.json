@@ -334,6 +334,24 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "PGR-ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "phone"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
