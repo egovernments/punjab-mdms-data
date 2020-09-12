@@ -8220,6 +8220,36 @@
       "navigationURL": "report/rainmaker-pt/ZoneFYReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 2029,
+      "name": "Assessment Report",
+      "url": "url",
+      "displayName": "Assessments Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Assessments Report_V2",
+      "navigationURL": "report/rainmaker-pt/AssessmentsReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2030,
+      "name": "Dump Report ",
+      "url": "url",
+      "displayName": "PT Dump Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Dump Report_v2",
+      "navigationURL": "report/rainmaker-pt/DumpReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
