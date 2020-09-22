@@ -6791,10 +6791,22 @@
         "navigationURL": "report/rainmaker-noc/RuralDistrictWiseChannelsReport",
         "leftIcon": "action:assignment",
         "rightIcon": ""
-          
-
-
-
+    },
+     {
+      "id": 1915,
+      "name": "rainmaker-common-wns",
+      "url": "card",
+      "displayName": "Water & Sewerage",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "wns",
+      "code": "",
+      "path": "",
+      "navigationURL": "wns/search",
+      "leftIcon": "custom:water-tap",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
