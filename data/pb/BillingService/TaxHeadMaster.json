@@ -5543,6 +5543,16 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "OTHER.Fire_Noc_fee",
+      "name": "OTHER.FIRE_NOC_TAX",
+      "code": "OTHER.FIRE_NOC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
       "category": "CHARGES",
       "service": "OTHER.Fire_Noc_fee",
       "name": "OTHER.FIRE_NOC_FEE",
@@ -5574,9 +5584,9 @@
     },
     {
       "category": "TAX",
-      "service": "OTHER.Fire_Noc_fee",
-      "name": "OTHER.FIRE_NOC_TAX",
-      "code": "OTHER.FIRE_NOC_TAX",
+      "service": "OTHER.Noc_fee",
+      "name": "OTHER.NOC_TAX",
+      "code": "OTHER.NOC_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -5614,9 +5624,9 @@
     },
     {
       "category": "TAX",
-      "service": "OTHER.Noc_fee",
-      "name": "OTHER.NOC_TAX",
-      "code": "OTHER.NOC_TAX",
+      "service": "OTHER.Fire_Tender_fee",
+      "name": "OTHER.FIRE_TENDER_TAX",
+      "code": "OTHER.FIRE_TENDER_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -5654,9 +5664,9 @@
     },
     {
       "category": "TAX",
-      "service": "OTHER.Fire_Tender_fee",
-      "name": "OTHER.FIRE_TENDER_TAX",
-      "code": "OTHER.FIRE_TENDER_TAX",
+      "service": "OTHER.Fire_Call_Report_fee",
+      "name": "OTHER.FIRE_CALL_REPORT_TAX",
+      "code": "OTHER.FIRE_CALL_REPORT_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -5691,16 +5701,6 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "OTHER.Fire_Call_Report_fee",
-      "name": "OTHER.FIRE_CALL_REPORT_TAX",
-      "code": "OTHER.FIRE_CALL_REPORT_TAX",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": true
     }
   ]
 }
