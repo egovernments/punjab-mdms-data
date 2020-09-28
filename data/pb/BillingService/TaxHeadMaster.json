@@ -5541,6 +5541,36 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER.Fire_Noc_fee",
+      "name": "OTHER.FIRE_NOC_FEE",
+      "code": "OTHER.FIRE_NOC_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Fire_Noc_fee",
+      "name": "OTHER.FIRE_NOC_CGST",
+      "code": "OTHER.FIRE_NOC_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Fire_Noc_fee",
+      "name": "OTHER.FIRE_NOC_SGST",
+      "code": "OTHER.FIRE_NOC_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
