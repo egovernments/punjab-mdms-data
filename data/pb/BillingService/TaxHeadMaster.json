@@ -5571,6 +5571,16 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    }
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Fire_Noc_fee",
+      "name": "OTHER.FIRE_NOC_TAX",
+      "code": "OTHER.FIRE_NOC_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
   ]
 }
