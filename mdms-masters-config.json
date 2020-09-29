@@ -651,8 +651,22 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },"Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "Rebate": {
+      "masterName": "Rebate",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
     }
   },
+ 
   "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",

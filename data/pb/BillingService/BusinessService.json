@@ -514,7 +514,7 @@
     },
     {
       "businessService": "Work Fee.Tender Form Fee",
-      "code": "WF.Tender Form Fee",
+      "code": "WF.TenderFormFee",
       "collectionModesNotAllowed": [
         ""
       ],
@@ -527,6 +527,18 @@
     {
       "businessService": "Tehbazaari Fee.Advertisement fee",
       "code": "TB.Advertisement_fee",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Work Fee.Tender Form Fee",
+      "code": "WF.TenderFormFee",
       "collectionModesNotAllowed": [
         ""
       ],
@@ -1223,6 +1235,54 @@
       "code": "TX.Property_Tax_2013-14",
       "collectionModesNotAllowed": [
         ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "OTHER.Noc_fee",
+      "code": "OTHER.Noc_fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "OTHER.Fire_Noc_fee",
+      "code": "OTHER.Fire_Noc_fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "OTHER.Fire_Tender_fee",
+      "code": "OTHER.Fire_Tender_fee",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "OTHER.Fire_Call_Report_fee",
+      "code": "OTHER.Fire_Call_Report_fee",
+      "collectionModesNotAllowed": [
+        "DD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
