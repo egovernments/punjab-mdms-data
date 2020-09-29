@@ -231,6 +231,28 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignedto"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "EmployeeReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -304,7 +326,6 @@
         {
           "roleCode": "UC_EMP",
           "attributeAccessList": [
-            
             {
               "attribute": {
                 "jsonPath": "*/collectorname"
@@ -316,7 +337,6 @@
         {
           "roleCode": "EMPLOYEE",
           "attributeAccessList": [
-            
             {
               "attribute": {
                 "jsonPath": "*/collectorname"
@@ -343,6 +363,23 @@
               "attribute": {
                 "jsonPath": "*/phone",
                 "maskingTechnique": "phone"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "PGR-ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
             }
@@ -414,6 +451,33 @@
     {
       "key": "CancelledReceiptRegister_V2",
       "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MiscReceiptULB_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "UC_EMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
         {
           "roleCode": "EMPLOYEE",
           "attributeAccessList": [
