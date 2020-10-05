@@ -8310,7 +8310,280 @@
       "navigationURL": "report/rainmaker-pt/DumpReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+	{
+
+   "id":2035,
+
+   "name":"rainmaker-localization-screen",
+
+   "url":"url",
+
+   "displayName":"Localization",
+
+   "orderNumber":5,
+
+   "parentModule":"",
+
+   "enabled":true,
+
+   "serviceCode":"",
+
+   "code":"",
+
+   "path":"Localization",
+
+   "navigationURL":"integration/ui-localisation/localization",
+
+   "leftIcon":"places:business-center",
+
+   "rightIcon":"",
+
+   "queryParams":""
+
+},
+
+{
+
+   "id":2036,
+
+   "name":"consolidatedreceipt search",
+
+   "url":"/egov-pdf/download/PAYMENT/consolidatedreceipt",
+
+   "displayName":"consolidatedreceipt search",
+
+   "orderNumber":1,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2037,
+
+   "name":"consolidatedbill search",
+
+   "url":"/egov-pdf/download/BILL/consolidatedbill",
+
+   "displayName":"consolidatedbill search",
+
+   "orderNumber":2,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2038,
+
+   "name":"tlreceipt search",
+
+   "url":"/egov-pdf/download/TL/tlreceipt",
+
+   "displayName":"tlreceipt search",
+
+   "orderNumber":3,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2039,
+
+   "name":"tlcertificate search",
+
+   "url":"/egov-pdf/download/TL/tlcertificate",
+
+   "displayName":"tlcertificate search",
+
+   "orderNumber":4,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2040,
+
+   "name":"tlrenewalcertificate search",
+
+   "url":"/egov-pdf/download/TL/tlrenewalcertificate",
+
+   "displayName":"tlrenewalcertificate search",
+
+   "orderNumber":5,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2041,
+
+   "name":"tlbill search",
+
+   "url":"/egov-pdf/download/TL/tlbill",
+
+   "displayName":"tlbill search",
+
+   "orderNumber":6,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2042,
+
+   "name":"ptmutationcertificate search",
+
+   "url":"/egov-pdf/download/PT/ptmutationcertificate",
+
+   "displayName":"ptmutationcertificate search",
+
+   "orderNumber":7,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2043,
+
+   "name":"ptbill search",
+
+   "url":"/egov-pdf/download/PT/ptbill",
+
+   "displayName":"ptbill search",
+
+   "orderNumber":8,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2044,
+
+   "name":"ptreceipt search",
+
+   "url":"/egov-pdf/download/PT/ptreceipt",
+
+   "displayName":"ptreceipt search",
+
+   "orderNumber":9,
+
+   "enabled":false,
+
+   "serviceCode":"egov-pdf",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2045,
+
+   "name":"Locality searcher endpoint for SW",
+
+   "url":"/egov-searcher/locality/sw-services/_get",
+
+   "displayName":"SW-Service locality searcher",
+
+   "orderNumber":0,
+
+   "enabled":false,
+
+   "serviceCode":"egov-searcher",
+
+   "code":"null",
+
+   "path":""
+
+},
+
+{
+
+   "id":2046,
+
+   "name":"Locality searcher endpoint for WS",
+
+   "url":"/egov-searcher/locality/ws-services/_get",
+
+   "displayName":"WS-Service locality searcher",
+
+   "orderNumber":0,
+
+   "enabled":false,
+
+   "serviceCode":"egov-searcher",
+
+   "code":"null",
+
+   "path":""
+
+}
 
   ]
 }
