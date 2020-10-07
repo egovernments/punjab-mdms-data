@@ -320,7 +320,33 @@
         }
       ]
     },
-    
+    {
+      "key": "MiscReceiptULB_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "UC_EMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
     {
       "key": "DescriptionReport_v2",
       "roleAttributeAccessList": [
@@ -425,33 +451,6 @@
     {
       "key": "CancelledReceiptRegister_V2",
       "roleAttributeAccessList": [
-        {
-          "roleCode": "EMPLOYEE",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "MiscReceiptULB_v2",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "UC_EMP",
-          "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        },
         {
           "roleCode": "EMPLOYEE",
           "attributeAccessList": [
