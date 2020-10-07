@@ -6650,7 +6650,7 @@
       "url": "/ws-services/wc/_create",
       "displayName": "Create Water COnnection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
@@ -6661,7 +6661,7 @@
       "url": "/ws-services/wc/_search",
       "displayName": "Search Water COnnection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
@@ -6672,7 +6672,7 @@
       "url": "/ws-services/wc/_update",
       "displayName": "Update Water COnnection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
@@ -6683,7 +6683,7 @@
       "url": "/ws-calculator/meterConnection/_create",
       "displayName": "Enter Meter Reading",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -6694,7 +6694,7 @@
       "url": "/ws-calculator/meterConnection/_search",
       "displayName": "Search Meter Reading",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -6705,7 +6705,7 @@
       "url": "/ws-calculator/waterCalculator/_calculate",
       "displayName": "Calculate Water Bill",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -6716,7 +6716,7 @@
       "url": "/sw-services/swc/_create",
       "displayName": "Create Sewerage Connection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-services",
       "code": "null",
       "path": ""
@@ -6749,7 +6749,7 @@
       "url": "/sw-calculator/sewerageCalculator/_calculate",
       "displayName": "Sewerage Calculation",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
@@ -6782,7 +6782,7 @@
       "url": "/ws-calculator/waterCalculator/_estimate",
       "displayName": "Fee Calculation For Water Application",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -6793,7 +6793,7 @@
       "url": "/sw-calculator/sewerageCalculator/_estimate",
       "displayName": "Fee Calculation For Sewerage Application",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
@@ -6804,7 +6804,7 @@
       "url": "/ws-calculator/waterCalculator/_applyAdhocTax",
       "displayName": "Add adhoc tax",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
@@ -6815,7 +6815,7 @@
       "url": "/sw-calculator/sewerageCalculator/_applyAdhocTax",
       "displayName": "Add adhoc tax",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
@@ -6827,7 +6827,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "",
       "path": "",
@@ -6843,7 +6843,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "",
       "path": "",
@@ -6859,7 +6859,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 13,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "null",
       "navigationURL": "wns-citizen/home",
@@ -6874,7 +6874,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 13,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "null",
       "navigationURL": "wns/search",
