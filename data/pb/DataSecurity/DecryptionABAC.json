@@ -496,7 +496,8 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobileno"
+                "jsonPath": "*/mobileno",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             }
