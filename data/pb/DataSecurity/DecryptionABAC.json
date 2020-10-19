@@ -231,6 +231,12 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignedto"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -247,6 +253,13 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -261,6 +274,45 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "FeedbackReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/citizenname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignto"
+              },
+              "accessType": "PLAIN"
+            }
+           ]
+        },
+        {
+          "roleCode": "PGR-ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/citizenname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignto"
               },
               "accessType": "PLAIN"
             }
@@ -315,6 +367,33 @@
       ]
     },
     {
+      "key": "MiscReceiptULB_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "UC_EMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "DescriptionReport_v2",
       "roleAttributeAccessList": [
         {
@@ -323,6 +402,13 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             },
@@ -340,6 +426,13 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             },
@@ -383,7 +476,97 @@
       ]
     },
     {
+      "key": "ReceiptRegister",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "ReceiptRegister_V2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ULBPTDataDumpReport_V2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/guardianname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileno",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ULBDEFAULTERPTREPORT_V2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/guardianname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobileno",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ReceiptRegisterShort_V2",
       "roleAttributeAccessList": [
         {
           "roleCode": "EMPLOYEE",
@@ -414,38 +597,7 @@
         }
       ]
     },
-    
     {
-      "key": "MiscReceiptULB_v2",
-      "roleAttributeAccessList": [
-        {
-          "roleCode": "UC_EMP",
-          "attributeAccessList": [
-            
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        },
-        {
-          "roleCode": "EMPLOYEE",
-          "attributeAccessList": [
-            
-            {
-              "attribute": {
-                "jsonPath": "*/collectorname"
-              },
-              "accessType": "PLAIN"
-            }
-          ]
-        }
-      ]
-    },
-    
-     {
       "key": "StateTradeLicenseCancelledRegistryReport_v2",
       "roleAttributeAccessList": [
         {
