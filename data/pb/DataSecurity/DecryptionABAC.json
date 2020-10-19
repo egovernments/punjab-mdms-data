@@ -253,13 +253,6 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "mobile"
-              },
-              "accessType": "PLAIN"
             }
           ]
         }
@@ -407,13 +400,6 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "mobile"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
@@ -426,13 +412,6 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             },
