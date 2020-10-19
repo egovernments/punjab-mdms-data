@@ -253,6 +253,13 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -267,6 +274,45 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "FeedbackReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/citizenname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignto"
+              },
+              "accessType": "PLAIN"
+            }
+           ]
+        },
+        {
+          "roleCode": "PGR-ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/citizenname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignto"
               },
               "accessType": "PLAIN"
             }
@@ -362,7 +408,13 @@
             {
               "attribute": {
                 "jsonPath": "*/phone",
-                "maskingTechnique": "phone"
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
             }
@@ -374,6 +426,13 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/phone",
+                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             },
