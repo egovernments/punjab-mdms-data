@@ -8250,6 +8250,87 @@
       "navigationURL": "report/rainmaker-pt/DumpReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+
+    },
+    {  
+        "id": 2031,
+        "name": "UrbanChannelsReport_V2",
+        "url": "url",
+        "displayName": "Channels Report",
+        "orderNumber": 3,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.ChannelsReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanChannelsReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+    },
+    {
+
+        "id": 2032,
+        "name": "UrbanApplicationStatusReport_V2",
+        "url": "url",
+        "displayName": "Application Status Report",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.ApplicationStatusReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanApplicationStatusReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+    },
+    {
+        "id": 2033,
+        "name": "UrbanCollectionReport_V2",
+        "url": "url",
+        "displayName": "Collection Report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.Urban.CollectionReport_V2",
+        "navigationURL": "report/rainmaker-noc/UrbanCollectionReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+        
+     
+    }, 
+    {
+      "id": 2034,
+      "name": "ReceiptRegisterFirenocReport_V2",
+      "url": "url",
+      "displayName": "Receipt Register FireNoc",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "FIRE-NOC.Reports.FirenocReports.ReceiptRegisterFirenocReport_V2",
+      "navigationURL": "report/rainmaker-noc/ReceiptRegisterFirenocReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+
+    }, 
+    {
+        "id": 2035,
+        "name": "CancelledReceiptRegisterFirenocReport_V2",
+        "url": "url",
+        "displayName": "Cancelled Receipt Register FireNoc",
+        "orderNumber": 6,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "FIRE-NOC.Reports.FirenocReports.CancelledReceiptRegisterFirenocReport_V2",
+        "navigationURL": "report/rainmaker-noc/CancelledReceiptRegisterFirenocReport_V2",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""  
+        
     }
 
   ]
