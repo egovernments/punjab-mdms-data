@@ -527,6 +527,12 @@
             },
             {
               "attribute": {
+                "jsonPath": "*/emailid"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
                 "jsonPath": "*/mobileno",
                 "maskingTechnique": "mobile"
               },
