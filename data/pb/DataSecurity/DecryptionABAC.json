@@ -756,6 +756,12 @@
                 "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
