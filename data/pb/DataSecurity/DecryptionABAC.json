@@ -733,6 +733,24 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "STADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
