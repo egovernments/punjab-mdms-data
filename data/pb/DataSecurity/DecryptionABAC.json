@@ -407,13 +407,6 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "mobile"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
                 "jsonPath": "*/lastassignedto"
               },
               "accessType": "PLAIN"
@@ -426,13 +419,6 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/phone",
-                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             },
@@ -614,13 +600,6 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber",
-                "maskingTechnique": "mobile"
-              },
-              "accessType": "PLAIN"
             }
           ]
         }
@@ -635,13 +614,6 @@
             {
               "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobilenumber",
-                "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
             }
@@ -753,6 +725,30 @@
                 "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "STADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber",
+                "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -768,6 +764,12 @@
               "attribute": {
                 "jsonPath": "*/mobilenumber",
                 "maskingTechnique": "mobile"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/ownername"
               },
               "accessType": "PLAIN"
             }
