@@ -2532,7 +2532,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "PGR.PGR Reports.ComplaintTypeWiseReport",
-      "navigationURL": "report/rainmaker-pgr-nonframework/ComplaintTypeWiseReport",
+      "navigationURL": "report/rainmaker-pgr/ComplaintTypeWiseReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -2592,7 +2592,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "PGR.PGR Reports.SourceWiseReport",
-      "navigationURL": "report/rainmaker-pgr-nonframework/SourceWiseReport",
+      "navigationURL": "report/rainmaker-pgr/SourceWiseReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -4777,7 +4777,7 @@
       "parentModule": "",
       "displayName": "BusinessService Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -4789,7 +4789,7 @@
       "parentModule": "",
       "displayName": "Workflow transition",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -7933,7 +7933,7 @@
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Sewa Kendra Receipt Register_V2",
       "navigationURL": "report/rainmaker-pt/Sewa_Kendra_ReceiptRegister_V2",
@@ -8108,7 +8108,7 @@
       "displayName": "Collection Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "null",
       "path": "FIRE-NOC.Reports.Urban.CollectionReport",
@@ -8138,11 +8138,11 @@
       "displayName": "Rural Districtwise Collection Report",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "FIRE-NOC.Reports.Rural.RuralDistrictWiseCollectionReport_V2",
-      "navigationURL": "report/rainmaker-noc/DrillDownRuralSubdistrictCollectionReport_V2",
+      "navigationURL": "report/rainmaker-noc/RuralDistrictWiseCollectionReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -8153,7 +8153,7 @@
       "displayName": "Rural District Wise Application Status Report",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "FIRE-NOC.Reports.Rural.RuralDistrictWiseApplicationStatusReport_V2",
@@ -8183,7 +8183,7 @@
       "displayName": "Rural District Wise Channel Report",
       "orderNumber": 5,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": "FIRE-NOC.Reports.Rural.RuralDistrictWiseChannelsReport_V2",
@@ -8214,7 +8214,7 @@
       "orderNumber": 7,
       "queryParams": "",
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Zone FY Report",
       "navigationURL": "report/rainmaker-pt/ZoneFYReport",
@@ -8223,37 +8223,19 @@
     },
     {
       "id": 2029,
-      "name": "Assessment Report",
-      "url": "url",
-      "displayName": "Assessments Report",
-      "orderNumber": 7,
-      "queryParams": "",
-      "parentModule": "",
+      "name": "RainmakerPGRReportMetadata",
+      "url": "report/rainmaker-pgr-nonframework/metadata/_get",
+      "displayName": "Rainmaker PGR report metadata",
+      "orderNumber": 1,
+      "parentModule": "147",
       "enabled": true,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Assessments Report_V2",
-      "navigationURL": "report/rainmaker-pt/AssessmentsReport_v2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 2030,
-      "name": "Dump Report ",
-      "url": "url",
-      "displayName": "PT Dump Report",
-      "orderNumber": 7,
-      "queryParams": "",
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "path": "Property Tax.PT Reports.Dump Report_v2",
-      "navigationURL": "report/rainmaker-pt/DumpReport_v2",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
+      "serviceCode": "RainmakerPGRReports",
+      "code": "null",
+      "path": "Asset Management.Asset Reports.AssetImmovableRegister"
 
     },
     {  
-        "id": 2031,
+        "id": 2030,
         "name": "UrbanChannelsReport_V2",
         "url": "url",
         "displayName": "Channels Report",
@@ -8266,10 +8248,10 @@
         "navigationURL": "report/rainmaker-noc/UrbanChannelsReport_V2",
         "leftIcon": "action:assignment",
         "rightIcon": ""
-    },
-    {
+      },
+      {
 
-        "id": 2032,
+        "id": 2031,
         "name": "UrbanApplicationStatusReport_V2",
         "url": "url",
         "displayName": "Application Status Report",
@@ -8282,9 +8264,9 @@
         "navigationURL": "report/rainmaker-noc/UrbanApplicationStatusReport_V2",
         "leftIcon": "action:assignment",
         "rightIcon": ""
-    },
-    {
-        "id": 2033,
+      },
+      {
+        "id": 2032,
         "name": "UrbanCollectionReport_V2",
         "url": "url",
         "displayName": "Collection Report",
@@ -8298,10 +8280,40 @@
         "leftIcon": "action:assignment",
         "rightIcon": ""
         
-     
-    }, 
+    },
+	{
+      "id": 2033,
+      "name": "Assessment Report",
+      "url": "url",
+      "displayName": "Assessments Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Assessments Report_V2",
+      "navigationURL": "report/rainmaker-pt/AssessmentsReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
     {
       "id": 2034,
+      "name": "Dump Report ",
+      "url": "url",
+      "displayName": "PT Dump Report",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Dump Report_v2",
+      "navigationURL": "report/rainmaker-pt/DumpReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+
+    }, 
+    {
+      "id": 2035,
       "name": "ReceiptRegisterFirenocReport_V2",
       "url": "url",
       "displayName": "Receipt Register FireNoc",
@@ -8317,7 +8329,7 @@
 
     }, 
     {
-        "id": 2035,
+        "id": 2036,
         "name": "CancelledReceiptRegisterFirenocReport_V2",
         "url": "url",
         "displayName": "Cancelled Receipt Register FireNoc",
@@ -8330,7 +8342,7 @@
         "navigationURL": "report/rainmaker-noc/CancelledReceiptRegisterFirenocReport_V2",
         "leftIcon": "action:assignment",
         "rightIcon": ""  
-
+      
     },
     {
       "id": 2037,
@@ -8344,7 +8356,6 @@
       "code": "null",
       "path": ""
    }
-
 
   ]
 }
