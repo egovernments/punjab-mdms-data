@@ -215,6 +215,12 @@
     },
     {
       "name": "Religious Institution",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION",
+      "active": true,
+      "fromFY": "2015-16"
+    },    
+    {
+      "name": "Religious Institution",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.RELIGIOUSINSTITUTION.RELIGIOUSINSTITUTION",
       "active": true,
       "fromFY": "2015-16"
@@ -300,7 +306,7 @@
     },
     {
       "name": "Educational(govt. aided)",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED.GOVAIDEDEDUCATIONAL",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
       "active": true,
       "fromFY": "2013-14"
     },
@@ -324,18 +330,30 @@
     },
     {
       "name": "Historical Building",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "active": true,
+      "fromFY": "2013-14"
+    },
+    {
+      "name": "Historical Building",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL.HISTORICAL",
       "active": true,
       "fromFY": "2013-14"
     },
     {
       "name": "Public Facility",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.LIBRARIES",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY",
       "active": true,
       "fromFY": "2013-14"
     },
     {
-      "name": "Other Institutional Usage ",
+      "name": "Other Institutional Usage",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONALSUBMINOR",
+      "active": true,
+      "fromFY": "2013-14"
+    },
+    {
+      "name": "Others",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONALSUBMINOR.OTHERINSTITUTIONAL",
       "active": true,
       "fromFY": "2013-14"

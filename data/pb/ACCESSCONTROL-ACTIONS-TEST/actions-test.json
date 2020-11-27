@@ -8214,7 +8214,7 @@
       "orderNumber": 7,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.Zone FY Report",
       "navigationURL": "report/rainmaker-pt/ZoneFYReport",
@@ -8355,6 +8355,38 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2038,
+      "name": "ZoneFYReport_V2",
+      "url": "url",
+      "displayName": "Zone FY Report",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ZoneFYReport_V2",
+      "navigationURL": "report/rainmaker-pt/ZoneFYReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""  
+    },	    
+    {
+      "id": 2039,
+      "name": "BlockFYReport_V2",
+      "url": "url",
+      "displayName": "Block FY Collection",
+      "orderNumber": 11,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.BlockFYReport_V2",
+      "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""  
+	    	    
+	    
    }
 
   ]
