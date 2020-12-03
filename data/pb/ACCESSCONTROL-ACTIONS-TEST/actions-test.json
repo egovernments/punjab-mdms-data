@@ -7888,7 +7888,7 @@
       "orderNumber": 7,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "path": "Property Tax.PT Reports.ULB-wise PT Collection_V2",
       "navigationURL": "report/rainmaker-pt/UlbWisePtCollection_V2",
@@ -8384,10 +8384,23 @@
       "path": "Property Tax.PT Reports.BlockFYReport_V2",
       "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""  
-	    	    
-	    
-   }
+      "rightIcon": ""      
+   },
+   {
+      "id": 2040,
+      "name": "Receipt Register_Without_Locality_V2",
+      "url": "url",
+      "displayName": "Receipt Register without locality",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Receipt Register_without_locality_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_without_locality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
 
   ]
 }
