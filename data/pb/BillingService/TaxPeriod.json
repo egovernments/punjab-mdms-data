@@ -1274,7 +1274,7 @@
       "code": "OTHERFIRECALLREPORTFEE",
       "financialYear": "2018-24"
     },
-	{
+    {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -1289,6 +1289,54 @@
       "service": "FN.Security_Deposit_Fee",
       "code": "SECURITYDEPOSIT",
       "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1554076801000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699201000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235201000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "code": "DFAL10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "code": "DFAB10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "code": "DFAMV10YRS2018",
+      "financialYear": "2018-28"
     }
   ]
 }

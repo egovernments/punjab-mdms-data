@@ -1,0 +1,30 @@
+{
+  "tenantId": "pb.mohali",
+  "moduleName": "FinanceModule",
+  "BankAccountServiceMapping": [
+    {
+      "businessDetails": "DISP_FIXED_ASSET.BUILDING",
+      "bankAccount": "123456789000",
+      "bank": "Axis Bank",
+      "bankBranch": "Municipal Corporation- Bathinda"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.LAND",
+      "bankAccount": "355501000032",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICICI Bank Rampura Phul"
+    },
+    {
+      "businessDetails": "REV_GRANTS",
+      "bankAccount": "123456789000",
+      "bank": "Axis Bank",
+      "bankBranch": "Municipal Corporation- Bathinda"
+    },
+    {
+      "businessDetails": "REV_GRANTS",
+      "bankAccount": "355501000032",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICICI Bank Rampura Phul"
+    }
+  ]
+}
