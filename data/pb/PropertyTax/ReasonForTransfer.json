@@ -2,7 +2,11 @@
     "tenantId": "pb",
     "moduleName": "PropertyTax",
     "ReasonForTransfer":
-    [
+    [ {
+        "name": "Correction of Details",
+        "code": "CORRECTIONOFDETAILS",
+        "active": true
+      },
       {
         "name": "Sale Deed",
         "code": "SALEDEED",
@@ -51,11 +55,6 @@
       {
         "name": "Unregistered Will deed",
         "code": "UNREGISTEREDWILLDEED",
-        "active": true
-      },
-      {
-        "name": "Correction of Details",
-        "code": "CORRECTIONOFDETAILS",
         "active": true
       }
     ]
