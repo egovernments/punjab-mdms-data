@@ -6,7 +6,7 @@
       "serviceCode": "NoStreetlight",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "DEPT_1",
+      "department": "O&M",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -14,7 +14,7 @@
       "serviceCode": "StreetLightNotWorking",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "DEPT_1",
+      "department": "O&M",
       "slaHours": 4800,
       "menuPath": "StreetLights",
       "order": 1
@@ -23,7 +23,7 @@
       "serviceCode": "GarbageNeedsTobeCleared",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Garbage",
       "order": 4
@@ -32,7 +32,7 @@
       "serviceCode": "BurningOfGarbage",
       "active": true,
       "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -40,7 +40,7 @@
       "serviceCode": "OverflowingOrBlockedDrain",
       "active": true,
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "Drains"
     },
@@ -48,7 +48,7 @@
       "serviceCode": "illegalDischargeOfSewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
@@ -56,7 +56,7 @@
       "serviceCode": "BlockOrOverflowingSewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "order": 2
@@ -65,7 +65,7 @@
       "serviceCode": "ShortageOfWater",
       "active": true,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -73,7 +73,7 @@
       "serviceCode": "DirtyWaterSupply",
       "active": true,
       "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 12,
       "menuPath": "WaterandSewage"
     },
@@ -81,7 +81,7 @@
       "serviceCode": "BrokenWaterPipeOrLeakage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
       "order": 3
@@ -90,7 +90,7 @@
       "serviceCode": "WaterPressureisVeryLess",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 6,
       "menuPath": "WaterandSewage"
     },
@@ -98,7 +98,7 @@
       "serviceCode": "HowToPayPT",
       "active": true,
       "keywords": "pay, property, how",
-      "department": "DEPT_33",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -106,7 +106,7 @@
       "serviceCode": "WrongCalculationPT",
       "active": true,
       "keywords": "calculation, wrong",
-      "department": "DEPT_33",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -114,7 +114,7 @@
       "serviceCode": "ReceiptNotGenerated",
       "active": true,
       "keywords": "genration, generate, receipt, not",
-      "department": "DEPT_33",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -122,7 +122,7 @@
       "serviceCode": "others",
       "active": true,
       "keywords": "other",
-      "department": "DEPT_33",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax",
       "order": 6
@@ -131,7 +131,7 @@
       "serviceCode": "DamagedRoad",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "DEPT_2",
+      "department": "WORKS",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -139,7 +139,7 @@
       "serviceCode": "WaterLoggedRoad",
       "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "DEPT_2",
+      "department": "WORKS",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -147,7 +147,7 @@
       "serviceCode": "ManholeCoverMissingOrDamaged",
       "active": true,
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "DEPT_2",
+      "department": "WORKS",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -155,7 +155,7 @@
       "serviceCode": "DamagedOrBlockedFootpath",
       "active": true,
       "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "DEPT_2",
+      "department": "WORKS",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -163,7 +163,7 @@
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
       "active": true,
       "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "DEPT_2",
+      "department": "WORKS",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -171,7 +171,7 @@
       "serviceCode": "RequestSprayingOrFoggingOperation",
       "active": true,
       "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
@@ -179,7 +179,7 @@
       "serviceCode": "StrayAnimals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Animals"
     },
@@ -187,7 +187,7 @@
       "serviceCode": "DeadAnimals",
       "active": true,
       "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Animals"
     },
@@ -195,7 +195,7 @@
       "serviceCode": "DirtyOrSmellyPublicToilets",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -203,7 +203,7 @@
       "serviceCode": "PublicToiletIsDamaged",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -211,7 +211,7 @@
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -219,7 +219,7 @@
       "serviceCode": "IllegalShopsOnFootPath",
       "active": true,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "DEPT_6",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -227,7 +227,7 @@
       "serviceCode": "IllegalConstructions",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "DEPT_6",
+      "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -235,7 +235,7 @@
       "serviceCode": "IllegalParking",
       "active": true,
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "DEPT_6",
+      "department": "TAX",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -243,7 +243,7 @@
       "serviceCode": "IllegalCuttingOfTrees",
       "active": true,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
-      "department": "DEPT_5",
+      "department": "HORTI",
       "slaHours": 336,
       "menuPath": "Trees"
     },
@@ -251,7 +251,7 @@
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
       "active": true,
       "keywords": "tree, remove, trim, fallen, cut, plant, branch",
-      "department": "DEPT_5",
+      "department": "HORTI",
       "slaHours": 336,
       "menuPath": "Trees"
     },
@@ -259,7 +259,7 @@
       "serviceCode": "OpenDefecation",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "OpenDefecation"
     },
@@ -267,7 +267,7 @@
       "serviceCode": "ParkRequiresMaintenance",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "DEPT_5",
+      "department": "HORTI",
       "slaHours": 336,
       "menuPath": "Parks"
     },
@@ -275,7 +275,7 @@
       "serviceCode": "Others",
       "active": true,
       "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
-      "department": "DEPT_8",
+      "department": "ADMIN",
       "slaHours": 336,
       "menuPath": ""
     },
@@ -283,7 +283,7 @@
       "serviceCode": "DamagedGarbageBin",
       "active": true,
       "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
-      "department": "DEPT_3",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -291,7 +291,7 @@
       "serviceCode": "NoWaterSupply",
       "active": true,
       "keywords": "water, supply, connection, drink, tap",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "WaterandSewage"
     },
@@ -299,7 +299,7 @@
       "serviceCode": "CleaningOfDrains",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "Drains"
     },
@@ -307,7 +307,7 @@
       "serviceCode": "WaterEnteredHouseRainySeason",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "DEPT_4",
+      "department": "O&M",
       "slaHours": 336,
       "menuPath": "Drains"
  
@@ -316,7 +316,7 @@
       "serviceCode": "InstallationOfNewStreetLight",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "DEPT_1",
+      "department": "O&M",
       "slaHours": 1200,
       "menuPath": "StreetLights"
 
@@ -325,7 +325,7 @@
         "serviceCode": "NonSweepingOfRoad",
         "active": true,
         "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-        "department": "DEPT_3",
+        "department": "H&S",
         "slaHours": 336,
         "menuPath": "Garbage",
         "order": 5
@@ -334,7 +334,7 @@
         "serviceCode": "CongressGrassCutting",
         "active": true,
         "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-        "department": "DEPT_3",
+        "department": "H&S",
         "slaHours": 336,
         "menuPath": "Garbage"    
     }, 
@@ -342,7 +342,7 @@
           "serviceCode": "SewageMainHoleCoverMissingOrBroken",
           "active": true,
           "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-          "department": "DEPT_4",
+          "department": "O&M",
           "slaHours": 336,
           "menuPath": "WaterandSewage"
     },      
@@ -350,7 +350,7 @@
           "serviceCode": "SewerageManholeCoverRaising",
           "active": true,
           "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-          "department": "DEPT_4",
+          "department": "O&M",
           "slaHours": 336,
           "menuPath": "WaterandSewage"
     },    
@@ -359,7 +359,7 @@
           "serviceCode": "CleaningOfSewageRemoveSLURRYGaar",
           "active": true,
           "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-          "department": "DEPT_4",
+          "department": "O&M",
           "slaHours": 336,
           "menuPath": "WaterandSewage"  
 
@@ -368,7 +368,7 @@
           "serviceCode": "IllegalRehriesOnRoad",
           "active": true,
           "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-          "department": "DEPT_2",
+          "department": "TAX",
           "slaHours": 336,
           "menuPath": "RoadsAndFootpaths"
     },          
@@ -376,7 +376,7 @@
           "serviceCode": "RoadJalliBroken",
           "active": true,
           "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-          "department": "DEPT_2",
+          "department": "TAX",
           "slaHours": 336,
           "menuPath": "RoadsAndFootpaths"
     },
@@ -384,7 +384,7 @@
       "serviceCode": "Covid19Screening",
       "active": true,
       "keywords": "covid, corona, virus",
-      "department": "COVID",
+      "department": "H&S",
       "slaHours": 336,
       "menuPath": "Corona"
     }
