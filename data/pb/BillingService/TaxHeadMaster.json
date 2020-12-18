@@ -5701,6 +5701,48 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+        
+      "category": "TAX",
+      "service": "TX.Pt_Mutation_Fees",
+      "name": "TX.PT_MUTATION_FEES_TAX",
+      "code": "TX.PT_MUTATION_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Pt_Mutation_Fees",
+      "name": "TX.PT_MUTATION_FEES_FIELD_FEE",
+      "code": "TX.PT_MUTATION_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Pt_Mutation_Fees",
+      "name": "TX.PT_MUTATION_FEES_CGST",
+      "code": "TX.PT_MUTATION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Pt_Mutation_Fees",
+      "name": "TX.PT_MUTATION_FEES_SGST",
+      "code": "TX.PT_MUTATION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false              
+      
     }
   ]
 }
