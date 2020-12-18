@@ -1638,6 +1638,19 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    { 
+      "businessService": "Taxes.Pt_Mutation_Fees",
+      "code": "TX.Pt_Mutation_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+
     }
   ]
 }
