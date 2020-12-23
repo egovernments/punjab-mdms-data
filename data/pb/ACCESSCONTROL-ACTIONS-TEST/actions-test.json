@@ -6727,7 +6727,7 @@
       "url": "/sw-services/swc/_update",
       "displayName": "Update Sewerage Connection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-services",
       "code": "null",
       "path": ""
@@ -6738,7 +6738,7 @@
       "url": "/sw-services/swc/_search",
       "displayName": "Search Sewerage Connection",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "sw-services",
       "code": "null",
       "path": ""
@@ -6760,7 +6760,7 @@
       "url": "/egov-searcher/bill-genie/waterbills/_get",
       "displayName": "Search Water Bill",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
@@ -6771,7 +6771,7 @@
       "url": "/egov-searcher/bill-genie/seweragebills/_get",
       "displayName": "Search Sewerage Bill",
       "orderNumber": 2,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
