@@ -8470,7 +8470,24 @@
       "path": "Property Tax.PT Reports.ULBDEFAULTERPTREPORT_MINI_STATE_V2",
       "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_MINI_STATE_V2",
       "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {	  
+	    
+      "id": 2046,
+      "name": "StateTradeLicenseDetailsReport_v2",
+      "url": "url",
+      "displayName": "State Trade License Details Report",
+      "orderNumber": 7,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.StateTradeLicenseDetailsReport_v2",
+      "navigationURL": "report/rainmaker-tl/StateTradeLicenseDetailsReport_v2",
+      "leftIcon": "action:assignment",
       "rightIcon": ""	    
+	    
     }
 
   ]
