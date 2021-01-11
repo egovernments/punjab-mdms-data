@@ -494,6 +494,33 @@
       ]
     },
     {
+      "key": "StatusReport_V2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },    
+    {
       "key": "ULBPTDataDumpReport_V2",
       "roleAttributeAccessList": [
         {
