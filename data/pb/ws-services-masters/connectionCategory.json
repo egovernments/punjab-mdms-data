@@ -3,19 +3,13 @@
   "moduleName": "ws-services-masters",
   "connectionCategory": [
     {
-      "name": "Temporary",
-      "code": "Temporary",
+      "name": "General",
+      "code": "GENERAL",
       "active": true
     },
     {
-      "name": "Permanent",
-      "code": "Permanent",
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "OWNERPHOTO"
-      ],
-      "verificationDocument": [],
+      "name": "Below Poverty Line",
+      "code": "BELOW_POVERTY_LINE",
       "active": true
     }
   ]
