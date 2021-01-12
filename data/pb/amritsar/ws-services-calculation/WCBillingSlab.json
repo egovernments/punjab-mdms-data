@@ -7,341 +7,1074 @@
       "buildingType": "RESIDENTIAL",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
-      "minimumCharge": 100,
+      "minimumCharge": 300,
 
       "slabs": [
-        {
-          "from": 0,
-          "to": 10,
-          "charge": 2,
-          "meterCharge": 50
-        },
-        {
-          "from": 10,
-          "to": 20,
-          "charge": 2.5,
-          "meterCharge": 50
-        },
-        {
-          "from": 20,
-          "to": 30,
-          "charge": 8,
-          "meterCharge": 150
-        },
-        {
-          "from": 30,
-          "to": 40,
-          "charge": 12,
-          "meterCharge": 150
-        },
-        {
-          "from": 40,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 15,
-          "meterCharge": 150
+          "charge": 3.8
         }
       ]
     },
     {
-      "id": 2,
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "Water consumption",
+      "id": "2",
+      "buildingType": "COMMERCIAL",
       "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
 
-      "minimumCharge": 200,
       "slabs": [
-        {
-          "from": 0,
-          "to": 10,
-          "charge": 13.31,
-          "meterCharge": 532.4
-
-        },
-        {
-          "from": 10,
-          "to": 25,
-          "charge": 26.62,
-          "meterCharge": 798.6
-        },
-        {
-          "from": 25,
-          "to": 50,
-          "charge": 66.55,
-          "meterCharge": 931.7
-        },
-        {
-          "from": 50,
-          "to": 100,
-          "charge": 106.48,
-          "meterCharge": 1064.8
-        },
-        {
-          "from": 100,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 133.1,
-          "meterCharge": 1197.9
+          "charge": 7.6
         }
       ]
     },
     {
-      "id": 3,
-      "buildingType": "Commercial and Government",
-      "calculationAttribute": "Water consumption",
+      "id": "3",
+      "buildingType": "INSTITUTIONAL",
       "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
 
-      "minimumCharge": 200,
       "slabs": [
-        {
-          "from": 0,
-          "to": 10,
-          "charge": 13.31,
-          "meterCharge": 532.4
-
-        },
-        {
-          "from": 10,
-          "to": 25,
-          "charge": 26.62,
-          "meterCharge": 798.6
-        },
-        {
-          "from": 25,
-          "to": 50,
-          "charge": 66.55,
-          "meterCharge": 931.7
-        },
-        {
-          "from": 50,
-          "to": 100,
-          "charge": 106.48,
-          "meterCharge": 1064.8
-        },
-        {
-          "from": 100,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 133.1,
-          "meterCharge": 1197.9
+          "charge": 7.6
         }
       ]
     },
     {
       "id": "4",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "Water consumption",
+      "buildingType": "COMMERCIAL_MOTOR_GOVT",
       "connectionType": "Metered",
-      "minimumCharge": 150,
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
 
       "slabs": [
-        {
-          "from": 0,
-          "to": 10,
-          "charge": 8,
-          "meterCharge": 250
-        },
-        {
-          "from": 10,
-          "to": 15,
-          "charge": 25,
-          "meterCharge": 250
-        },
-        {
-          "from": 15,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 40,
-          "meterCharge": 250
+          "charge": 3.8
         }
       ]
     },
     {
       "id": "5",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "buildingType": "DOMESTIC+MOTOR",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 600,
 
-      "minimumCharge": 100,
       "slabs": [
-        {
-          "from": 0,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 100
+          "charge": 7.6
         }
       ]
     },
     {
       "id": "6",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "buildingType": "COMMERCIAL+MOTOR",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 600,
 
-      "minimumCharge": 100,
       "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 150
+       {
+          "from": 1,
+          "to": 1000000000
         }
       ]
     },
     {
       "id": "7",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "buildingType": "MOTOR",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
 
-      "minimumCharge": 200,
       "slabs": [
-        {
-          "from": 0,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 250
+          "charge": 3.8
         }
       ]
     },
-       {
+    {
       "id": "8",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "No. of taps",
-      "connectionType": "Non Metered",
+      "buildingType": "MOTOR_HP_HR",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
 
-      "minimumCharge": 200,
       "slabs": [
-        {
-          "from": 0,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 300
+          "charge": 7.6
         }
       ]
     },
     {
       "id": "9",
-      "buildingType": "Commercial",
-      "calculationAttribute": "Pipe Size",
-      "connectionType": "Non Metered",
+      "buildingType": "INSTITUTIONAL+MOTOR",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 600,
 
-      "minimumCharge": 200,
       "slabs": [
-        {
-          "from": 0,
+       {
+          "from": 1,
           "to": 1000000000,
-          "charge": 250
+          "charge": 15.2
         }
       ]
     },
     {
       "id": "10",
-      "buildingType": "Commercial",
-      "calculationAttribute": "No. of taps",
+      "buildingType": "RESIDENTIAL",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 200,
 
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
+          "to": 125,
+          "charge": 0
+        },
+        {
+          "from": 126,
+          "to": 250,
+          "charge": 315
+        },
+        {
+          "from": 251,
           "to": 1000000000,
-          "charge": 300
-
+          "charge": 420
         }
       ]
     },
     {
       "id": "11",
-      "buildingType": "Government",
-      "calculationAttribute": "No. of taps",
+      "buildingType": "Commercial",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
-      "minimumCharge": 300,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
+          "to": 125,
+          "charge": 630
+        },
+        {
+          "from": 126,
           "to": 1000000000,
-          "charge": 350
+          "charge": 840
         }
       ]
-    },
+    }
     {
       "id": "12",
-      "buildingType": "Government",
-      "calculationAttribute": "Pipe Size",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
-      "minimumCharge": 300,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
+          "to": 125,
+          "charge": 630
+        },
+        {
+          "from": 126,
           "to": 1000000000,
-          "charge": 250
+          "charge": 840
         }
       ]
     },
     {
       "id": "13",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "No. of taps",
+      "buildingType": "MOTOR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
+      "minimumCharge": 0,
 
-      "minimumCharge": 150,
       "slabs": [
         {
           "from": 0,
+          "to": 125,
+          "charge": 0
+        },
+        {
+          "from": 126,
+          "to": 250,
+          "charge": 315
+        },
+        {
+          "from": 251,
           "to": 1000000000,
-          "charge": 200
+          "charge": 420
         }
       ]
     },
     {
       "id": "14",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "Pipe Size",
+      "buildingType": "MOTOR_1HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
-      "minimumCharge": 150,
+      "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
           "to": 1000000000,
-          "charge": 150
+          "charge": 577
         }
       ]
     },
     {
       "id": "15",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "Flat",
+      "buildingType": "MOTOR_1HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 250,
-      "slabs": []
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 1163
+        }
+      ]
     },
     {
       "id": "16",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "Flat",
+      "buildingType": "MOTOR_1HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 550,
-      "slabs": []
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 1740
+        }
+      ]
     },
     {
       "id": "17",
-      "buildingType": "Commercial",
-      "calculationAttribute": "Flat",
+      "buildingType": "MOTOR_2HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 550,
-      "slabs": []
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 996
+        }
+      ]
     },
     {
       "id": "18",
-      "buildingType": "Government",
-      "calculationAttribute": "Flat",
+      "buildingType": "MOTOR_2HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 650,
-      "slabs": []
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 1991
+        }
+      ]
     },
     {
       "id": "19",
-      "buildingType": "Partly commercial",
-      "calculationAttribute": "Flat",
+      "buildingType": "MOTOR_2HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-      "minimumCharge": 350,
-      "slabs": []
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 2987
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "buildingType": "MOTOR_3HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 1657
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "buildingType": "MOTOR_3HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 3314
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "buildingType": "MOTOR_3HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 4978
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "buildingType": "MOTOR_5HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 2242
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "buildingType": "MOTOR_5HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 4476
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "buildingType": "MOTOR_5HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 6718
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "buildingType": "MOTOR_8HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 4150
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "buildingType": "MOTOR_8HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 8292
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "buildingType": "MOTOR_8HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 12441
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "buildingType": "DOMESTIC+MOTOR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 0
+        },
+        {
+          "from": 126,
+          "to": 250,
+          "charge": 630
+        },
+        {
+          "from": 251,
+          "to": 1000000000,
+          "charge": 840
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "buildingType": "COMMERCIAL+MOTOR_1HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1207
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 1417
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "buildingType": "COMMERCIAL+MOTOR_1HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1793
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2003
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "buildingType": "COMMERCIAL+MOTOR_1HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2370
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2580
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "buildingType": "COMMERCIAL+MOTOR_2HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1626
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 1836
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "buildingType": "COMMERCIAL+MOTOR_2HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2621
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2831
+        }      
+      ]
+    },
+    {
+      "id": "35",
+      "buildingType": "COMMERCIAL+MOTOR_2HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 3617
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 3827
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "buildingType": "COMMERCIAL+MOTOR_3HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2287
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2497
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "buildingType": "COMMERCIAL+MOTOR_3HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 3944
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 4154
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "buildingType": "COMMERCIAL+MOTOR_3HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 5608
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 5818
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "buildingType": "COMMERCIAL+MOTOR_5HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2872
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 3082
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "buildingType": "COMMERCIAL+MOTOR_5HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 5106
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 5316
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "buildingType": "COMMERCIAL+MOTOR_5HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 7348
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 7558
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "buildingType": "COMMERCIAL+MOTOR_8HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 4780
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 4990
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "buildingType": "COMMERCIAL+MOTOR_8HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 8922
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 9132
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "buildingType": "COMMERCIAL+MOTOR_8HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 13071
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 13281
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "buildingType": "INSTITUTIONAL+MOTOR_1HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1207
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 1417
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "buildingType": "INSTITUTIONAL+MOTOR_1HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1793
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2003
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "buildingType": "INSTITUTIONAL+MOTOR_1HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2370
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2580
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "buildingType": "INSTITUTIONAL+MOTOR_2HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 1626
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 1836
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "buildingType": "INSTITUTIONAL+MOTOR_2HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2621
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2831
+        }      
+      ]
+    },
+    {
+      "id": "50",
+      "buildingType": "INSTITUTIONAL+MOTOR_2HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 3617
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 3827
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "buildingType": "INSTITUTIONAL+MOTOR_3HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2287
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 2497
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "buildingType": "INSTITUTIONAL+MOTOR_3HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 3944
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 4154
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "buildingType": "INSTITUTIONAL+MOTOR_3HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 5608
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 5818
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "buildingType": "INSTITUTIONAL+MOTOR_5HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 2872
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 3082
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "buildingType": "INSTITUTIONAL+MOTOR_5HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 5106
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 5316
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "buildingType": "INSTITUTIONAL+MOTOR_5HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 7348
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 7558
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "buildingType": "INSTITUTIONAL+MOTOR_8HP_1HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 4780
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 4990
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "buildingType": "INSTITUTIONAL+MOTOR_8HP_2HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 8922
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 9132
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "buildingType": "INSTITUTIONAL+MOTOR_8HP_3HR",
+      "calculationAttribute": "PLOT_BASED",
+      "connectionType": "Non Metered",
+
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 125,
+          "charge": 13071
+        },
+        {
+          "from": 126,
+          "to": 1000000000,
+          "charge": 13281
+        }
+      ]
     }
   ]
 }
