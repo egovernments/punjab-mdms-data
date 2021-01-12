@@ -760,6 +760,14 @@
     }
   },
   "ws-services-masters": {
+    "billingType": {
+      "masterName": "billingType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "connectionCategory": {
       "masterName": "connectionCategory",
       "isStateLevel": false,
