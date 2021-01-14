@@ -469,7 +469,13 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/collectorname"
+                "jsonPath": "*/createdby"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/approvedby"
               },
               "accessType": "PLAIN"
             }
@@ -480,7 +486,13 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/collectorname"
+                "jsonPath": "*/createdby"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/approvedby"
               },
               "accessType": "PLAIN"
             }
