@@ -497,11 +497,17 @@
       "key": "StatusReport_V2",
       "roleAttributeAccessList": [
         {
-          "roleCode": "TL_CEMP",
+          "roleCode": "PTCEMP",
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/collectorname"
+                "jsonPath": "*/createdby"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/approvedby"
               },
               "accessType": "PLAIN"
             }
@@ -512,7 +518,13 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/collectorname"
+                "jsonPath": "*/createdby"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/approvedby"
               },
               "accessType": "PLAIN"
             }
