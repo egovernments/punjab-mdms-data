@@ -5233,6 +5233,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage application connection fee",
+      "code": "SW_CONNECTION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
       "category": "TAX",
       "service": "WS",
       "name": "Water adhoc rebate",
