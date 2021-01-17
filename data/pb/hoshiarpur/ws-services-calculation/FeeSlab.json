@@ -3,11 +3,12 @@
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
-      "formFee": 25,
-      "scrutinyFee": 250,
+      "formFee": 5,
+      "securityCharge": 500,
       "meterCost": 850,
-      "other": 325,
-      "taxpercentage": 5,
+      "connectionFee": 100,
+      "other": 0,
+      "taxpercentage": 0,
       "isActive": true
     }
   ]
