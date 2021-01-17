@@ -5114,6 +5114,16 @@
     },
     {
       "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application connection fee",
+      "code": "WS_CONNECTION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage application form fee",
       "code": "SW_FORM_FEE",
