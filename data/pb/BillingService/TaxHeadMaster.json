@@ -5056,20 +5056,30 @@
       "category": "CHARGES",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application security charge",
-      "code": "WS_SECURITY_CHARGE",
+      "code": "WS_SECURITY_DEPOSIT",
       "isDebit": false,
       "isActualDemand": true,
       "order": "5",
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
-      "name": "Water application other charges",
-      "code": "WS_OTHER_CHARGE",
+      "name": "Water application other fee",
+      "code": "WS_OTHER_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "6",
+      "isRequired": false
+    },
+	{
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application user charges",
+      "code": "WS_USER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "13",
       "isRequired": false
     },
     {
@@ -5122,6 +5132,16 @@
       "order": "11",
       "isRequired": false
     },
+	{
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water application Composition fee",
+      "code": "WS_COMPOSITION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
+      "isRequired": false
+    },
     {
       "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
@@ -5172,14 +5192,34 @@
       "order": "5",
       "isRequired": false
     },
-    {
+	{
       "category": "CHARGES",
       "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application other charges",
-      "code": "SW_OTHER_CHARGE",
+      "name": "Sewerage application User Charges",
+      "code": "SW_USER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "13",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage application other fee",
+      "code": "SW_OTHER_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "6",
+      "isRequired": false
+    },
+	{
+      "category": "FEE",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage application Composition fee",
+      "code": "SW_COMPOSITION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
       "isRequired": false
     },
     {
