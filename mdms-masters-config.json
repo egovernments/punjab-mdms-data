@@ -798,6 +798,13 @@
     }
   },
   "ws-services-calculation": {
+    "PipeSize": {
+      "masterName": "PipeSize",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
+    },
     "WaterCess": {
       "masterName": "WaterCess",
       "isStateLevel": true,
