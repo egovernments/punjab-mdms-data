@@ -874,6 +874,11 @@
       "isStateLevel": false,
       "uniqueKeys": []
     },
+	"PipeSize":{
+	"masterName": "PipeSize",
+      "isStateLevel": false,
+      "uniqueKeys": ["$.size"]
+	},
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
@@ -900,6 +905,13 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.fromFY"
+      ]
+    },
+	 "PipeSize": {
+      "masterName": "PipeSize",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.size"
       ]
     },
     "SCBillingSlab": {
