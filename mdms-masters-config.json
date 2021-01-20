@@ -874,11 +874,6 @@
       "isStateLevel": false,
       "uniqueKeys": []
     },
-	  "PipeSize":{
-	    "masterName": "PipeSize",
-      "isStateLevel": true,
-      "uniqueKeys": ["$.size"]
-	},
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
       "isStateLevel": false,
