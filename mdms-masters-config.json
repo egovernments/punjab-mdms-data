@@ -802,6 +802,14 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+	
+	 "ModifyConnectionDocuments": {
+      "masterName": "ModifyConnectionDocuments",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
