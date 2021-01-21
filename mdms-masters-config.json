@@ -795,6 +795,13 @@
       "uniqueKeys": [
         "$.billingCycle"
       ]
+    },
+	 "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
