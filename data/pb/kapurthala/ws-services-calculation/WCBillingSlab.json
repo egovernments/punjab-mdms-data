@@ -14,7 +14,9 @@
           "from": 1,
           "to": 1000000000,
           "charge": 3.80,
-          "meterCharge": 150
+          "meterCharge": 150,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         }
       ]
     },
@@ -30,7 +32,9 @@
           "from": 1,
           "to": 1000000000,
           "charge": 133.1,
-          "meterCharge": 1197.9
+          "meterCharge": 1197.9,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         }
       ]
     },
@@ -45,22 +49,30 @@
         {
           "from": 0,
           "to": 125,
-          "charge": 315
+          "charge": 315,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         },
         {
           "from": 126,
           "to": 250,
-          "charge": 600
+          "charge": 600,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         },
         {
           "from": 251,
           "to": 405,
-          "charge": 630
+          "charge": 630,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         },
         {
           "from": 406,
           "to": 1000000000,
-          "charge": 690
+          "charge": 690,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         }
       ]
     },
@@ -74,12 +86,16 @@
         {
           "from": 0,
           "to": 125,
-          "charge": 600
+          "charge": 600,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         },
         {
           "from": 126,
           "to": 1000000000,
-          "charge": 1200
+          "charge": 1200,
+		  "effectiveFrom":917523271000,
+		  "effetiveTo":1738064071000
         }
       ]
     }
