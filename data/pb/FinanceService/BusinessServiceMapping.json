@@ -14,8 +14,8 @@
       "validFrom": 1234567890,
       "validTo": 2345678901,
       "serviceAttributeMappingEnabled":true,
-      "serviceAttributeUrl":"/property-services/property/_search?tenantId=%s&propertyIds=%s",
-      "serviceAttributeKey":"Properties.usageCategory",
+      "serviceAttributeUrl":"/pt-services-v2/property/_search?tenantId=%s&ids=%s&propertyDetailids=%s",
+      "serviceAttributeKey":"Properties.propertyDetails.usageCategoryMajor~usageCategoryMinor",
       "serviceAttributeTaxHead" : "PT_TAX"
     },
     {
