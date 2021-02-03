@@ -8455,6 +8455,21 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
       "navigationURL": "services/EGF/report/remittance/pending/form"
+    },
+    {
+      "id":2045,
+      "name": "TradeLicensePendencyReport",
+      "url": "url",
+      "displayName": "TL Pendency Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.TradeLicensePendencyReport_v2",
+      "navigationURL": "report/rainmaker-tl/TradeLicensePendencyReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
   ]
 }
