@@ -8518,6 +8518,21 @@
       "navigationURL": "report/rainmaker-pt/StatusReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+     {
+      "id":2049,
+      "name": "TradeLicensePendencyReport",
+      "url": "url",
+      "displayName": "TL Pendency Report",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.TradeLicensePendencyReport_v2",
+      "navigationURL": "report/rainmaker-tl/TradeLicensePendencyReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
 
   ]
