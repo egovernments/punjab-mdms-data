@@ -8636,7 +8636,30 @@
       "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+      "id": 2051,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ReceiptRegisterSW/metadata/_get",
+      "displayName": "WS Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2052,
+      "name": "WSReport",
+      "url": "/report/rainmaker-pt/metadata/_get",
+      "displayName": "WS Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
 
+	  
   ]
 }
