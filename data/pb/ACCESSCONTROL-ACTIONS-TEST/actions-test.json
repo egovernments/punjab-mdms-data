@@ -8533,7 +8533,22 @@
       "navigationURL": "report/rainmaker-tl/TradeLicensePendencyReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+     {
+      "id": 2050,
+      "name": "PendingPTApplicationsReport",
+      "url": "url",
+      "displayName": "Pending PT Applications Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PendingPTApplicationsReport",
+      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }  
 
   ]
 }
