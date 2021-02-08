@@ -8621,6 +8621,21 @@
       "navigationURL": "abg/billSearch",
       "path": "BG",
       "leftIcon": "action:receipt"
+    },
+     {
+      "id": 2050,
+      "name": "Receipt Register SW",
+      "url": "url",
+      "displayName": "Receipt Register SW",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Receipt RegisterSW",
+      "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
     }
 
   ]
