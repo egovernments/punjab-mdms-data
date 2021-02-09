@@ -184,6 +184,20 @@
           "employeeUrl": "/fire-noc/search"
         }
       ]
+    },
+    {
+      "code": "WC",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "waterchargesdemandbill",
+      "billKey": "wc-bill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/wc-citizen/home",
+          "employeeUrl": "/wc/search"
+        }
+      ]
     }
   ]
 }
