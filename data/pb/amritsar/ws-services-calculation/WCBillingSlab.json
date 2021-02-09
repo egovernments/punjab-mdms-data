@@ -5,6 +5,7 @@
     {
       "id": "1",
       "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -22,6 +23,7 @@
     {
       "id": "2",
       "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -39,6 +41,7 @@
     {
       "id": "3",
       "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -55,7 +58,8 @@
     },
     {
       "id": "4",
-      "buildingType": "COMMERCIAL_MOTOR_GOVT",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType" : "USAGE_COMM_MOT_GOVT",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -72,7 +76,8 @@
     },
     {
       "id": "5",
-      "buildingType": "DOMESTIC+MOTOR",
+      "buildingType": "DOMESTIC",
+      "waterSubUsageType": "USAGE_DOM_MOT"
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 600,
@@ -89,7 +94,8 @@
     },
     {
       "id": "6",
-      "buildingType": "COMMERCIAL+MOTOR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType" : "USAGE_COMM_MOT",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 600,
@@ -105,7 +111,8 @@
     },
     {
       "id": "7",
-      "buildingType": "MOTOR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_MOT",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -122,7 +129,8 @@
     },
     {
       "id": "8",
-      "buildingType": "MOTOR_HP_HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_MOT_HP_HR",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 300,
@@ -139,7 +147,8 @@
     },
     {
       "id": "9",
-      "buildingType": "INSTITUTIONAL+MOTOR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType" : "USAGE_INST_MOT",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 600,
@@ -157,6 +166,7 @@
     {
       "id": "10",
       "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -188,6 +198,7 @@
     {
       "id": "11",
       "buildingType": "Commercial",
+      "waterSubUsageType": "USAGE_COMM",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -212,6 +223,7 @@
     {
       "id": "12",
       "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -235,7 +247,8 @@
     },
     {
       "id": "13",
-      "buildingType": "MOTOR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_MOT"
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
@@ -266,7 +279,8 @@
     },
     {
       "id": "14",
-      "buildingType": "MOTOR_1HP_1HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_1HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -283,7 +297,8 @@
     },
     {
       "id": "15",
-      "buildingType": "MOTOR_1HP_2HR",
+      "buildingType": "RESINDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_1HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -300,7 +315,8 @@
     },
     {
       "id": "16",
-      "buildingType": "MOTOR_1HP_3HR",
+      "buildingType": "RESINDENTAL",
+      "waterSubUsageType": "USAGE_DOM_1HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -317,7 +333,8 @@
     },
     {
       "id": "17",
-      "buildingType": "MOTOR_2HP_1HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_2HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -334,7 +351,8 @@
     },
     {
       "id": "18",
-      "buildingType": "MOTOR_2HP_2HR",
+      "buildingType": "RESIDENTIAK",
+      "waterSubUsageType": "USAGE_DOM_2HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -351,7 +369,8 @@
     },
     {
       "id": "19",
-      "buildingType": "MOTOR_2HP_3HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_2HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -368,7 +387,8 @@
     },
     {
       "id": "20",
-      "buildingType": "MOTOR_3HP_1HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_3HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -385,7 +405,8 @@
     },
     {
       "id": "21",
-      "buildingType": "MOTOR_3HP_2HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_3HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -403,7 +424,8 @@
     },
     {
       "id": "22",
-      "buildingType": "MOTOR_3HP_3HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_3HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -420,7 +442,8 @@
     },
     {
       "id": "23",
-      "buildingType": "MOTOR_5HP_1HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_5HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -437,7 +460,8 @@
     },
     {
       "id": "24",
-      "buildingType": "MOTOR_5HP_2HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_5HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -454,7 +478,8 @@
     },
     {
       "id": "25",
-      "buildingType": "MOTOR_5HP_3HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_5HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -471,7 +496,8 @@
     },
     {
       "id": "26",
-      "buildingType": "MOTOR_8HP_1HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_8HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -488,7 +514,8 @@
     },
     {
       "id": "27",
-      "buildingType": "MOTOR_8HP_2HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_8HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -505,7 +532,8 @@
     },
     {
       "id": "28",
-      "buildingType": "MOTOR_8HP_3HR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_8HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -520,7 +548,8 @@
     },
     {
       "id": "29",
-      "buildingType": "DOMESTIC+MOTOR",
+      "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_MOT";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -545,7 +574,8 @@
     },
     {
       "id": "30",
-      "buildingType": "COMMERCIAL+MOTOR_1HP_1HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_1HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -565,7 +595,8 @@
     },
     {
       "id": "31",
-      "buildingType": "COMMERCIAL+MOTOR_1HP_2HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_1HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -585,7 +616,8 @@
     },
     {
       "id": "32",
-      "buildingType": "COMMERCIAL+MOTOR_1HP_3HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_1HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -605,7 +637,8 @@
     },
     {
       "id": "33",
-      "buildingType": "COMMERCIAL+MOTOR_2HP_1HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_2HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -625,7 +658,8 @@
     },
     {
       "id": "34",
-      "buildingType": "COMMERCIAL+MOTOR_2HP_2HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_2HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -645,7 +679,8 @@
     },
     {
       "id": "35",
-      "buildingType": "COMMERCIAL+MOTOR_2HP_3HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_2HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -665,7 +700,8 @@
     },
     {
       "id": "36",
-      "buildingType": "COMMERCIAL+MOTOR_3HP_1HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_3HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -685,7 +721,8 @@
     },
     {
       "id": "37",
-      "buildingType": "COMMERCIAL+MOTOR_3HP_2HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_3HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -705,7 +742,8 @@
     },
     {
       "id": "38",
-      "buildingType": "COMMERCIAL+MOTOR_3HP_3HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_3HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -725,7 +763,8 @@
     },
     {
       "id": "39",
-      "buildingType": "COMMERCIAL+MOTOR_5HP_1HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_5HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -745,7 +784,8 @@
     },
     {
       "id": "40",
-      "buildingType": "COMMERCIAL+MOTOR_5HP_2HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_5HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -765,7 +805,8 @@
     },
     {
       "id": "41",
-      "buildingType": "COMMERCIAL+MOTOR_5HP_3HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_5HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -785,7 +826,8 @@
     },
     {
       "id": "42",
-      "buildingType": "COMMERCIAL+MOTOR_8HP_1HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_8HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -805,7 +847,8 @@
     },
     {
       "id": "43",
-      "buildingType": "COMMERCIAL+MOTOR_8HP_2HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_8HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -825,7 +868,8 @@
     },
     {
       "id": "44",
-      "buildingType": "COMMERCIAL+MOTOR_8HP_3HR",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_8HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -845,7 +889,8 @@
     },
     {
       "id": "45",
-      "buildingType": "INSTITUTIONAL+MOTOR_1HP_1HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_1HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -865,7 +910,8 @@
     },
     {
       "id": "46",
-      "buildingType": "INSTITUTIONAL+MOTOR_1HP_2HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_1HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -885,7 +931,8 @@
     },
     {
       "id": "47",
-      "buildingType": "INSTITUTIONAL+MOTOR_1HP_3HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_1HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -905,7 +952,8 @@
     },
     {
       "id": "48",
-      "buildingType": "INSTITUTIONAL+MOTOR_2HP_1HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_2HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -925,7 +973,8 @@
     },
     {
       "id": "49",
-      "buildingType": "INSTITUTIONAL+MOTOR_2HP_2HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_2HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -945,7 +994,8 @@
     },
     {
       "id": "50",
-      "buildingType": "INSTITUTIONAL+MOTOR_2HP_3HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_2HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -969,7 +1019,8 @@
     },
     {
       "id": "51",
-      "buildingType": "INSTITUTIONAL+MOTOR_3HP_1HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_3HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -993,7 +1044,8 @@
     },
     {
       "id": "52",
-      "buildingType": "INSTITUTIONAL+MOTOR_3HP_2HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_3HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1017,7 +1069,8 @@
     },
     {
       "id": "53",
-      "buildingType": "INSTITUTIONAL+MOTOR_3HP_3HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_3HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1041,7 +1094,8 @@
     },
     {
       "id": "54",
-      "buildingType": "INSTITUTIONAL+MOTOR_5HP_1HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_5HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1066,7 +1120,8 @@
     },
     {
       "id": "55",
-      "buildingType": "INSTITUTIONAL+MOTOR_5HP_2HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_5HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1090,7 +1145,8 @@
     },
     {
       "id": "56",
-      "buildingType": "INSTITUTIONAL+MOTOR_5HP_3HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_5HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1114,7 +1170,8 @@
     },
     {
       "id": "57",
-      "buildingType": "INSTITUTIONAL+MOTOR_8HP_1HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_8HP_1HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1138,7 +1195,8 @@
     },
     {
       "id": "58",
-      "buildingType": "INSTITUTIONAL+MOTOR_8HP_2HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_8HP_2HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
@@ -1162,7 +1220,8 @@
     },
     {
       "id": "59",
-      "buildingType": "INSTITUTIONAL+MOTOR_8HP_3HR",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "USAGE_INST_8HP_3HR";
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
 
