@@ -7845,7 +7845,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Cancelled Receipt Register_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.Cancelled Receipt Register_V2",
       "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7890,7 +7890,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ULB-wise PT Collection_V2",
+      "path": "Property Tax.PT Reports.Collections.ULB-wise PT Collection_V2",
       "navigationURL": "report/rainmaker-pt/UlbWisePtCollection_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7920,7 +7920,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.PT Data Dump_V2",
+      "path": "Property Tax.PT Reports.Other Reports.PT Data Dump_V2",
       "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7950,7 +7950,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ReceiptRegisterSummary_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7995,7 +7995,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ULB-defaulter PT Report_V2",
+      "path": "Property Tax.PT Reports.Other Reports.ULB-defaulter PT Report_V2",
       "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8366,7 +8366,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ZoneFYReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.ZoneFYReport_V2",
       "navigationURL": "report/rainmaker-pt/ZoneFYReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""  
@@ -8381,7 +8381,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.BlockFYReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.BlockFYReport_V2",
       "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""      
@@ -8396,7 +8396,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Receipt Register_without_locality_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.Receipt Register_without_locality_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegister_without_locality_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8411,7 +8411,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Account Receipt RegisterWithoutLocality_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.Account Receipt RegisterWithoutLocality_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort_WithoutLocality_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8426,7 +8426,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.FY Collection Report_WithoutLocality_V2",
+      "path": "Property Tax.PT Reports.Collections.FY Collection Report_WithoutLocality_V2",
       "navigationURL": "report/rainmaker-pt/FYCollectionsReport_WithoutLocality_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8441,7 +8441,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ULB-defaulter PT Report_NEW_V2",
+      "path": "Property Tax.PT Reports.Other Reports.ULB-defaulter PT Report_NEW_V2",
       "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_NEW_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8499,7 +8499,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.TopPayersReport_V2",
+      "path": "Property Tax.PT Reports.Collections.TopPayersReport_V2",
       "navigationURL": "report/rainmaker-pt/TopPayersReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8514,7 +8514,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.StatusReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.StatusReport_V2",
       "navigationURL": "report/rainmaker-pt/StatusReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8536,7 +8536,7 @@
     },
      {
       "id": 2050,
-      "name": "PendingPTApplicationsReport",
+      "name": "PendingPTApplicationsReport_V2",
       "url": "url",
       "displayName": "Pending PT Applications Report",
       "orderNumber": 2,
@@ -8544,8 +8544,8 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PendingPTApplicationsReport",
-      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport",
+      "path": "Property Tax.PT Reports.Other Reports.PendingPTApplicationsReport_V2",
+      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     }  
