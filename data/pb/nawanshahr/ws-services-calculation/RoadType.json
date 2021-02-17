@@ -1,0 +1,55 @@
+{
+  "tenantId": "pb.nawanshahr",
+  "moduleName": "ws-services-calculation",
+  "RoadType": [
+    {
+      "name": "Berm Cutting (Katcha)",
+      "code": "BERMCUTTINGKATCHA",
+      "unitCost": 12,
+      "isActive": true
+    },
+    {
+      "name": "BM and Premix Road",
+      "code": "BMPREMIXROAD",
+      "unitCost": 319,
+      "isActive": true
+    },
+    {
+      "name": "Brick Paving",
+      "code": "BRICKPAVING",
+      "unitCost": 60,
+      "isActive": true
+    },
+    {
+      "name": "CC Road",
+      "code": "CCROAD",
+      "unitCost": 240,
+      "isActive": true
+    },
+    {
+      "name": "Interlocking Paver Block",
+      "code": "INTERLOCKINGPAVERBLOCK",
+      "unitCost": 359,
+      "isActive": true
+    },
+    {
+      "name": "Open Pipe",
+      "code": "OPENPIPE",
+      "unitCost": 0,
+      "isActive": true
+    },
+   
+    {
+      "name": "Premix Carpet",
+      "code": "PREMIXCARPET",
+      "unitCost": 240,
+      "isActive": true
+    },
+	{
+      "name": "Under Scheme",
+      "code": "UNDERSCHEME",
+      "unitCost": 0,
+      "isActive": true
+    }
+  ]
+}
