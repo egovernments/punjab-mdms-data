@@ -9126,7 +9126,44 @@
     "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
     "leftIcon": "action:assignment",
     "rightIcon": ""
-  }
+  },
+   {
+    "id": 2087,
+    "name": "Base Register Report WS",
+    "url": "url",
+    "displayName": "Base Register Report WS",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Base Register Report WS",
+    "navigationURL": "report/rainmaker-ws/BaseRegisterReportWS",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+    {
+      "id": 2088,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/BaseRegisterReportWS/metadata/_get",
+      "displayName": "WS BASE Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2089,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/BaseRegisterReportWS/_get",
+      "displayName": "WS BASE Report metadata",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }
 ]
 
 }
