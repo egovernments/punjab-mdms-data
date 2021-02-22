@@ -1,4 +1,3 @@
-
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
@@ -137,7 +136,7 @@
           }
         }
       },
-      "dropdownData":[
+      "dropdownData": [
         {
           "code": "OWNER.REGISTRATIONPROOF.SALEDEED",
           "active": true
@@ -176,66 +175,11 @@
         },
         {
           "code": "OWNER.REGISTRATIONPROOF.UNREGISTEREDWILLDEED",
+          
           "active": true
         }
       ],
       "description": "OWNER.REGISTRATIONPROOF.REGISTRATIONPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.USAGEPROOF",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "dropdownFilter": {
-          "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor"
-        },
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "reassess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "update": {
-            "disableUpload": false,
-            "disableDropdown": false
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "OWNER.USAGEPROOF.ELECTRICITYBILL",
-          "active": true,
-          "parentValue": [
-            null,
-            "OTHERS"
-          ]
-        },
-        {
-          "code": "OWNER.USAGEPROOF.TRADELICENCE",
-          "active": true,
-          "parentValue": [
-            "INDUSTRIAL",
-            "COMMERCIAL"
-          ]
-        },
-        {
-          "code": "OWNER.USAGEPROOF.INSTITUTEREGISTRATIONDOCUMENT",
-          "active": true,
-          "parentValue": [
-            "INSTITUTIONAL"
-          ]
-        }
-      ],
-      "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
     },
     {
       "code": "OWNER.SPECIALCATEGORYPROOF",
@@ -310,20 +254,14 @@
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
     },
     {
-      "code": "OWNER.OCCUPANCYPROOF",
+      "code": "OWNER.USAGEPROOF",
       "documentType": "OWNER",
       "required": false,
       "active": true,
       "hasDropdown": true,
       "additionalDetails": {
-        "filterCondition": {
-          "filterValue": [
-            "SELFOCCUPIED",
-            "UNOCCUPIED"
-          ],
-          "jsonPath": "Properties[0].propertyDetails[0].units",
-          "onArray": true,
-          "arrayAttribute": "occupancyType"
+        "dropdownFilter": {
+          "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor"
         },
         "enabledActions": {
           "assess": {
@@ -346,11 +284,31 @@
       },
       "dropdownData": [
         {
-          "code": "OWNER.OCCUPANCYPROOF.RENTAGREEMENT",
-          "active": true
+          "code": "OWNER.USAGEPROOF.ELECTRICITYBILL",
+          "active": true,
+          "parentValue": [
+            null,
+            "OFFICESPACE",
+            "OTHERS"
+          ]
+        },
+        {
+          "code": "OWNER.USAGEPROOF.TRADELICENCE",
+          "active": true,
+          "parentValue": [
+            "INDUSTRIAL",
+            "COMMERCIAL"
+          ]
+        },
+        {
+          "code": "OWNER.USAGEPROOF.INSTITUTEREGISTRATIONDOCUMENT",
+          "active": true,
+          "parentValue": [
+            "INSTITUTIONAL"
+          ]
         }
       ],
-      "description": "OWNER.OCCUPANCYPROOF.OCCUPANCYPROOF_DESCRIPTION"
+      "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
     },
     {
       "code": "OWNER.CONSTRUCTIONPROOF",
@@ -392,6 +350,49 @@
         }
       ],
       "description": "OWNER.CONSTRUCTIONPROOF.CONSTRUCTIONPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OCCUPANCYPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "additionalDetails": {
+        "filterCondition": {
+          "filterValue": [
+            "SELFOCCUPIED",
+            "UNOCCUPIED"
+          ],
+          "jsonPath": "Properties[0].propertyDetails[0].units",
+          "onArray": true,
+          "arrayAttribute": "occupancyType"
+        },
+        "enabledActions": {
+          "assess": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "reassess": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "update": {
+            "disableUpload": false,
+            "disableDropdown": false
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "OWNER.OCCUPANCYPROOF.RENTAGREEMENT",
+          "active": true
+        }
+      ],
+      "description": "OWNER.OCCUPANCYPROOF.OCCUPANCYPROOF_DESCRIPTION"
     }
   ]
 }
