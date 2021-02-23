@@ -1174,22 +1174,6 @@
       "fromDate": 1554076800000,
       "toDate": 1617175799000,
       "periodCycle": "TWOYEARS",
-      "service": "WS",
-      "code": "WC2018",
-      "financialYear": "2020-21"
-    },
-    {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
-      "service": "WS.ONE_TIME_FEE",
-      "code": "WS10YRS2019",
-      "financialYear": "2019-29"
-    },
-    {
-      "fromDate": 1554076800000,
-      "toDate": 1617175799000,
-      "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2018",
       "financialYear": "2020-21"
@@ -1274,7 +1258,7 @@
       "code": "OTHERFIRECALLREPORTFEE",
       "financialYear": "2018-24"
     },
-	{
+	  {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -1289,6 +1273,646 @@
       "service": "FN.Security_Deposit_Fee",
       "code": "SECURITYDEPOSIT",
       "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1530403199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2018-19-Q1",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1530403200000,
+      "toDate": 1538351999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2018-19-Q2",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1538352000000,
+      "toDate": 1546300799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2018-19-Q3",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1546300800000,
+      "toDate": 1554076799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2018-19-Q4",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1561939199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2019-20-Q1",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1561939200000,
+      "toDate": 1569887999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2019-20-Q2",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1569888000000,
+      "toDate": 1577836799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2019-20-Q3",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1577836800000,
+      "toDate": 1585699199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2019-20-Q4",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1593561599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q1",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1593561600000,
+      "toDate": 1601510399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q2",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1601510400000,
+      "toDate": 1609459199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q3",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1609459200000,
+      "toDate": 1617235199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q4",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1625097599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q1",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1625097600000,
+      "toDate": 1633046399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2020-21-Q2",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1633046400000,
+      "toDate": 1640995199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2021-22-Q3",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1640995200000,
+      "toDate": 1648771199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2021-22-Q4",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1656633599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2022-23-Q1",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1656633600000,
+      "toDate": 1664582399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2022-23-Q2",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1664582400000,
+      "toDate": 1672531199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2022-23-Q3",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1672531200000,
+      "toDate": 1680307199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS-OTF-2022-23-Q4",
+      "financialYear": "2022-23"
+    },
+        {
+      "fromDate": 1522540800000,
+      "toDate": 1530403199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2018-19-Q1",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1530403200000,
+      "toDate": 1538351999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2018-19-Q2",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1538352000000,
+      "toDate": 1546300799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2018-19-Q3",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1546300800000,
+      "toDate": 1554076799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2018-19-Q4",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1561939199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2019-20-Q1",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1561939200000,
+      "toDate": 1569887999000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2019-20-Q2",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1569888000000,
+      "toDate": 1577836799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2019-20-Q3",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1577836800000,
+      "toDate": 1585699199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2019-20-Q4",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1593561599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q1",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1593561600000,
+      "toDate": 1601510399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q2",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1601510400000,
+      "toDate": 1609459199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q3",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1609459200000,
+      "toDate": 1617235199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q4",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1625097599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q1",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1625097600000,
+      "toDate": 1633046399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2020-21-Q2",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1633046400000,
+      "toDate": 1640995199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2021-22-Q3",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1640995200000,
+      "toDate": 1648771199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2021-22-Q4",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1656633599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2022-23-Q1",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1656633600000,
+      "toDate": 1664582399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2022-23-Q2",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1664582400000,
+      "toDate": 1672531199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2022-23-Q3",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1672531200000,
+      "toDate": 1680307199000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2022-23-Q4",
+      "financialYear": "2022-23"
+    },
+        {
+      "fromDate": 1522540800000,
+      "toDate": 1530403199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2018-19-Q1",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1530403200000,
+      "toDate": 1538351999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2018-19-Q2",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1538352000000,
+      "toDate": 1546300799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2018-19-Q3",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1546300800000,
+      "toDate": 1554076799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2018-19-Q4",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1561939199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2019-20-Q1",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1561939200000,
+      "toDate": 1569887999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2019-20-Q2",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1569888000000,
+      "toDate": 1577836799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2019-20-Q3",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1577836800000,
+      "toDate": 1585699199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2019-20-Q4",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1593561599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q1",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1593561600000,
+      "toDate": 1601510399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q2",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1601510400000,
+      "toDate": 1609459199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q3",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1609459200000,
+      "toDate": 1617235199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q4",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1625097599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q1",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1625097600000,
+      "toDate": 1633046399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2020-21-Q2",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1633046400000,
+      "toDate": 1640995199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2021-22-Q3",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1640995200000,
+      "toDate": 1648771199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2021-22-Q4",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1656633599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2022-23-Q1",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1656633600000,
+      "toDate": 1664582399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2022-23-Q2",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1664582400000,
+      "toDate": 1672531199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2022-23-Q3",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1672531200000,
+      "toDate": 1680307199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW",
+      "code": "SW-2022-23-Q4",
+      "financialYear": "2022-23"
+    },
+        {
+      "fromDate": 1522540800000,
+      "toDate": 1530403199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2018-19-Q1",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1530403200000,
+      "toDate": 1538351999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2018-19-Q2",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1538352000000,
+      "toDate": 1546300799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2018-19-Q3",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1546300800000,
+      "toDate": 1554076799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2018-19-Q4",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1561939199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2019-20-Q1",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1561939200000,
+      "toDate": 1569887999000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2019-20-Q2",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1569888000000,
+      "toDate": 1577836799000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2019-20-Q3",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1577836800000,
+      "toDate": 1585699199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2019-20-Q4",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1593561599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q1",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1593561600000,
+      "toDate": 1601510399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q2",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1601510400000,
+      "toDate": 1609459199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q3",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1609459200000,
+      "toDate": 1617235199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q4",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1625097599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q1",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1625097600000,
+      "toDate": 1633046399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2020-21-Q2",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1633046400000,
+      "toDate": 1640995199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2021-22-Q3",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1640995200000,
+      "toDate": 1648771199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2021-22-Q4",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1656633599000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2022-23-Q1",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1656633600000,
+      "toDate": 1664582399000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2022-23-Q2",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1664582400000,
+      "toDate": 1672531199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2022-23-Q3",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1672531200000,
+      "toDate": 1680307199000,
+      "periodCycle": "QUATERLY",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW-OTF-2022-23-Q4",
+      "financialYear": "2022-23"
     }
   ]
 }
