@@ -301,6 +301,11 @@
       "code": "MSG_BROADCASTER",
       "name": "Message Broadcaster",
       "description": "Broadcaster can broad cast messages in their respective ULB for mass updates"
+    },
+	{
+      "code": "ANONYMOUS",
+      "name": "Anonymous User",
+      "description": "Anonymous User to be used in case of no auth"
     }
   ]
 }
