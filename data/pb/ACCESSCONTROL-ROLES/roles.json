@@ -306,6 +306,11 @@
       "code": "ANONYMOUS",
       "name": "Anonymous User",
       "description": "Anonymous User to be used in case of no auth"
-    }
+    },
+	{
+      "code": "SYSTEM",
+      "name": "SYSTEM user for cron job",
+      "description": "SYSTEM who can run the cron jobs"
+    },
   ]
 }
