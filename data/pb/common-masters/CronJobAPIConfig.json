@@ -1,0 +1,18 @@
+{
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "CronJobAPIConfig": [
+    {
+      "jobName": "ws-demand-generation-every-15min",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-services.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    }
+  ]
+}
