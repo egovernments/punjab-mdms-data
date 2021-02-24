@@ -6,7 +6,7 @@
       "jobName": "ws-demand-generation-every-15min",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-services.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
+      "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
