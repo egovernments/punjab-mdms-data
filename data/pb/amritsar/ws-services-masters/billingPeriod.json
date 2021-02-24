@@ -7,6 +7,8 @@
       "connectionType": "Metered",
       "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
+      "taxPeriodFrom": 1609459200000,
+      "taxPeriodTo": 1617235199000,
       "demandExpiryDate": 864000000,
       "demandGenerationDateMillis": 345600000,
       "description": "Metered connectionType is not available. Adding this for testing purpose."
@@ -14,20 +16,12 @@
     {
       "active": true,
       "connectionType": "Non Metered",
-      "billingCycle": "monthly",
+      "billingCycle": "quarterly",
       "demandEndDateMillis": 2592000000,
       "demandExpiryDate": 864000000,
-      "demandGenerationDateMillis": 345600000
-    }
-  ],
-  "schedulerBillingPeriod":[
-      {
-      "active": true,
-      "connectionType": "Non Metered",
-      "billingCycle": "quarterly",
       "taxPeriodFrom": 1609459200000,
       "taxPeriodTo": 1617235199000,
-      "demandExpiryDate": 864000000
+      "demandGenerationDateMillis": 345600000
     }
-    ]
+  ]
 }
