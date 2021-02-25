@@ -754,6 +754,28 @@
       ]
     },
     {
+      "key": "TradeLicensePendencyReport_v2",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/assignee"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "StateDefaulterReport_v2",
       "roleAttributeAccessList": [
         {
