@@ -3,8 +3,14 @@
   "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
     {
-      "name": "PLOT_BASED",
-      "code": "PLOT_BASED",
+      "name": "Metered",
+      "code": "Metered",
+      "attribute": "PLOT_BASED",
+      "active": true
+    },
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
       "attribute": "PLOT_BASED",
       "active": true
     }
