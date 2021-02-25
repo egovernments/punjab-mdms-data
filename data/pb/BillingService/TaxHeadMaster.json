@@ -32,6 +32,7 @@
       "order": "0",
       "isRequired": false
     },
+    
     {
       "category": "TAX",
       "service": "PT",
@@ -5924,6 +5925,66 @@
       "isRequired": false  
       
       
+    }
+    {
+      "category": "TAX",
+      "service": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time",
+      "name": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_TAX",
+      "code": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+  {
+      "category": "CHARGES",
+      "service": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time",
+      "name": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_FIELD_FEE",
+      "code": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+{
+      "category": "TAX",
+      "service": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time",
+      "name": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_CGST",
+      "code": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+{
+      "category": "TAX",
+      "service": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time",
+      "name": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_SGST",
+      "code": "FTP.Colony_unauthoriszed_Policy_2013*-14_after_five_year_a_time_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.ADVT.Gas_Balloon_Advertisement",
+      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_CGST",
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "name": "ADVT.GAS_BALLOON_ADVERTISEMENT_SGST",
+      "code": "ADVT.GAS_BALLOON_ADVERTISEMENT_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
