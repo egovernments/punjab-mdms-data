@@ -3,15 +3,9 @@
   "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
     {
-      "name": "Metered",
-      "code": "METERED",
-      "attribute": "Water consumption",
-      "active": true
-    },
-    {
-      "name": "Non Metered",
-      "code": "NONMETERED",
-      "attribute": "Pipe Size",
+      "name": "PLOT_BASED",
+      "code": "PLOT_BASED",
+      "attribute": "PLOT_BASED",
       "active": true
     }
   ]
