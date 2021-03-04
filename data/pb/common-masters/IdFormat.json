@@ -573,6 +573,15 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "tx.pt_mutation_fees.receipt.id"
+    },  
+    { 
+      
+     "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "nks.external_development_charges.receipt.id"
+  },
+  {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "nks.permission_fees.receipt.id"    
 
     }
   ]
