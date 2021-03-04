@@ -5741,7 +5741,89 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false              
+      "isRequired": false   
+      
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.External_Development_Charges",
+      "name": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_TAX",
+      "code": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "NKS.External_Development_Charges",
+      "name": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_FIELD_FEE",
+      "code": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.External_Development_Charges",
+      "name": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_CGST",
+      "code": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.External_Development_Charges",
+      "name": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_SGST",
+      "code": "NKS.EXTERNAL_DEVELOPMENT_CHARGES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.Permission_fees",
+      "name": "NKS.PERMISSION_FEES_TAX",
+      "code": "NKS.PERMISSION_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "NKS.Permission_fees",
+      "name": "NKS.PERMISSION_FEES_FIELD_FEE",
+      "code": "NKS.PERMISSION_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.Permission_fees",
+      "name": "NKS.PERMISSION_FEES_CGST",
+      "code": "NKS.PERMISSION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "NKS.Permission_fees",
+      "name": "NKS.PERMISSION_FEES_SGST",
+      "code": "NKS.PERMISSION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false   
+      
       
     }
   ]
