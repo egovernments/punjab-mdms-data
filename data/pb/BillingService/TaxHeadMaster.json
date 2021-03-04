@@ -4900,7 +4900,8 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
@@ -4920,7 +4921,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": false
     },
     {
       "category": "TAX",
@@ -4930,7 +4932,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": false    
     },
     {
       "category": "PENALTY",
@@ -4940,7 +4943,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": false    
     },
     {
       "category": "TAX",
@@ -4960,7 +4964,8 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": false
     },
     {
       "category": "TAX",
@@ -4980,7 +4985,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": true
     },
     {
       "category": "PENALTY",
@@ -4990,7 +4996,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": true
     },
     {
       "category": "TAX",
