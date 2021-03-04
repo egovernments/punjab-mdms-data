@@ -1650,6 +1650,34 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+      
+    },
+    {      
+           
+      "businessService": "Naksha_Building Manual Fees.External_Development_Charges",
+      "code": "NKS.External_Development_Charges",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Permission_Fees",
+      "code": "NKS.Permission_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc" 
+      
+   
 
     }
   ]
