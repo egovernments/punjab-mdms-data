@@ -8704,7 +8704,7 @@
       "displayName": "BillAmendment",
       "orderNumber": 22,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "",
       "path": "",
@@ -10603,8 +10603,143 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 2210,
+    "name": "CreateAmendment",
+    "url": "/billing-service/amendment/_create",
+    "displayName": "Create Amendment",
+    "orderNumber": 4,
+    "enabled": false,
+    "serviceCode": "BILLING_SERVICE",
+    "code": "null",
+    "path": "Billing Service.CreateAmendment"
+  },
+  {
+    "id": 2211,
+    "name": "SearchAmendment",
+    "url": "/billing-service/amendment/_search",
+    "displayName": "Search Amendment",
+    "orderNumber": 5,
+    "enabled": false,
+    "serviceCode": "BILLING_SERVICE",
+    "code": "null",
+    "path": "Billing Service.SearchAmendment"
+  },
+  {
+    "id": 2212,
+    "name": "UpdateAmendment",
+    "url": "/billing-service/amendment/_update",
+    "displayName": "Update Amendment",
+    "orderNumber": 6,
+    "enabled": false,
+    "serviceCode": "BILLING_SERVICE",
+    "code": "null",
+    "path": "Billing Service.Amendment"
+  },
+  {
+    "id": 2213,
+    "name": "FSM BillingSlab Create",
+     "url": "/fsm-calculator/v1/billingSlab/_create",
+    "displayName": "FSM BillingSlab Create",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2214,
+    "name": "FSM BillingSlab Update",
+     "url": "/fsm-calculator/v1/billingSlab/_update",
+    "displayName": "FSM BillingSlab Update",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2215,
+    "name": "FSM BillingSlab Search",
+     "url": "/fsm-calculator/v1/billingSlab/_search",
+    "displayName": "FSM BillingSlab Search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2216,
+    "name": "Search Vendor/DSO",
+    "url": "/vendor/v1/_search",
+    "displayName": "Search  Vendor",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "vendor",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2217,
+    "name": "Locality searcher endpoint for Bill Amendment",
+    "url": "/egov-searcher/locality/BS/_get",
+    "displayName": "Bill amendment locality searcher",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "egov-searcher",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2218,
+    "name": "BillAmendment",
+    "url": "url",
+    "displayName": "BillAmendment",
+    "orderNumber": 22,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "code": "",
+    "path": "",
+    "navigationURL": "bill-amend/search",
+    "leftIcon": "action:receipt",
+    "rightIcon": "",
+    "queryParams": ""
+  },
+  {
+    "id": 2219,
+    "displayName": "FstpInbox",
+    "orderNumber": 0,
+    "leftIcon": "",
+    "url": "url",
+    "name": "FSM FSTP INBOX",
+    "enabled": true,
+    "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
+    "parentModule": "",
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2220,
+    "displayName": "FstpDetails",
+    "orderNumber": 0,
+    "leftIcon": "",
+    "url": "url",
+    "name": "FSM FSTP DETAILS",
+    "enabled": true,
+    "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
+    "parentModule": "",
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
-	  
+
 ]
 
 }

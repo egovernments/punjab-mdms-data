@@ -569,6 +569,10 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "other.swimming_pool_and_gymnactics_hall_fees.receipt.id"
+    },
+    {
+      "idname": "bs.amendment.id",
+      "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
     }
   ]
 }
