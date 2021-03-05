@@ -10738,7 +10738,51 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
-  }
+  },
+{
+      "id": 2221,
+      "name": "WS Bill generation scheduler",
+      "url": "/ws-calculator/watercharges/scheduler/_create",
+      "displayName": "WS Bill Generation Scheduler",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 2222,
+      "name": "WS Bill generation search",
+      "url": "/ws-calculator/watercharges/scheduler/_search",
+      "displayName": "WS Bill Generation Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 2223,
+      "name": "SW Bill generation scheduler",
+      "url": "/sw-calculator/seweragecharges/scheduler/_create",
+      "displayName": "SW Bill Generation Scheduler",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
+{
+      "id": 2224,
+      "name": "SW Bill generation search",
+      "url": "/sw-calculator/seweragecharges/scheduler/_search",
+      "displayName": "SW Bill Generation Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    }
 
 ]
 
