@@ -10772,7 +10772,7 @@
       "code": "null",
       "path": ""
     },
-{
+    {
       "id": 2224,
       "name": "SW Bill generation search",
       "url": "/sw-calculator/seweragecharges/scheduler/_search",
@@ -10782,8 +10782,21 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
-    }
-
+    },
+   {
+      "id": 2225,
+      "name": "Bill Amendment",
+      "url": "url",
+      "displayName": "Bill Amendment",
+      "orderNumber": 25,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Bill Amendment",
+      "code": "null",
+      "navigationURL": "bill-amend/search",
+      "path": "Bill Amendment.Search",
+      "leftIcon": "action:receipt"
+    }  
 ]
 
 }
