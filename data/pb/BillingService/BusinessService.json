@@ -16,7 +16,7 @@
     {
       "businessService": "WaterCharges",
       "code": "WC",
-      "isBillAmendmentEnabled":false,
+      "isBillAmendmentEnabled":true,
       "collectionModesNotAllowed": [
         ""
       ],
@@ -537,18 +537,7 @@
       "isActive": true,
       "type": "Adhoc"
     },
-    {
-      "businessService": "Work Fee.Tender Form Fee",
-      "code": "WF.TenderFormFee",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
+    
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
       "code": "TB.Tehbazaari",
