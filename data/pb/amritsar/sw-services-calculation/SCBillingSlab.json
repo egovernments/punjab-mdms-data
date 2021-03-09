@@ -5,7 +5,7 @@
     {
       "id": "1",
       "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "No. of water closets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -21,7 +21,7 @@
     {
       "id": "2",
       "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "No. of toilets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -37,7 +37,7 @@
     {
       "id": "3",
       "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "No. of water closets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -53,7 +53,7 @@
     {
       "id": "4",
       "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "No. of toilets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -69,7 +69,7 @@
     {
       "id": "5",
       "buildingType": "Commercial",
-      "calculationAttribute": "No. of water closets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
@@ -85,7 +85,7 @@
     {
       "id": "6",
       "buildingType": "Commercial",
-      "calculationAttribute": "No. of toilets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "slabs": [
         {
@@ -100,7 +100,7 @@
     {
       "id": "7",
       "buildingType": "Government",
-      "calculationAttribute": "No. of water closets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "slabs": [
         {
@@ -115,7 +115,7 @@
     {
       "id": "8",
       "buildingType": "Government",
-      "calculationAttribute": "No. of toilets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "slabs": [
         {
@@ -130,7 +130,7 @@
     {
       "id": "9",
       "buildingType": "Partly Commercial",
-      "calculationAttribute": "No. of water closets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "slabs": [
         {
@@ -145,7 +145,7 @@
     {
       "id": "10",
       "buildingType": "Partly Commercial",
-      "calculationAttribute": "No. of toilets",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "slabs": [
         {
@@ -160,7 +160,7 @@
     {
       "id": "11",
       "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 100,
       "slabs": []
@@ -168,7 +168,7 @@
     {
       "id": "12",
       "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 250,
       "slabs": []
@@ -176,7 +176,7 @@
     {
       "id": "13",
       "buildingType": "Commercial",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 250,
       "slabs": []
@@ -184,7 +184,7 @@
     {
       "id": "14",
       "buildingType": "Government",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 350,
       "slabs": []
@@ -192,7 +192,7 @@
     {
       "id": "15",
       "buildingType": "Partly commercial",
-      "calculationAttribute": "Flat",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 200,
       "slabs": []
