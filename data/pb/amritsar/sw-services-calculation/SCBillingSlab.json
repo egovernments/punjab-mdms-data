@@ -19,39 +19,7 @@
       ]
     },
     {
-      "id": "2",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 15,
-		   "effectiveFrom":917523271000,
-		  "effetiveTo":1738064071000
-        }
-      ]
-    },
-    {
       "id": "3",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effetiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "4",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
@@ -83,37 +51,7 @@
       ]
     },
     {
-      "id": "6",
-      "buildingType": "Commercial",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effetiveTo":1738064071000
-        }
-      ]
-    },
-    {
       "id": "7",
-      "buildingType": "Government",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effetiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "8",
       "buildingType": "Government",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
@@ -141,45 +79,6 @@
 		  "effetiveTo":1738064071000
         }
       ]
-    },
-    {
-      "id": "10",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 25,
-		   "effectiveFrom":917523271000,
-		  "effetiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 100,
-      "slabs": []
-    },
-    {
-      "id": "12",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 250,
-      "slabs": []
-    },
-    {
-      "id": "13",
-      "buildingType": "Commercial",
-      "calculationAttribute": "PLOT_BASED",
-      "connectionType": "Non Metered",
-      "minimumCharge": 250,
-      "slabs": []
     },
     {
       "id": "14",
