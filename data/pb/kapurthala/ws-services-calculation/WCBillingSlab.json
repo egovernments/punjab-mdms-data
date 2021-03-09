@@ -43,7 +43,7 @@
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-
+      "waterSubUsageType": "NA",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -79,6 +79,7 @@
     {
       "id": "4",
       "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "NA",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,

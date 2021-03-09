@@ -7,7 +7,7 @@
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-
+      "waterSubUsageType": "NA",
       "minimumCharge": 0,
       "slabs": [
         {
@@ -18,14 +18,14 @@
 		  "effectiveTo":1738064071000
         },
         {
-          "from": 125.01,
+          "from": 126,
           "to": 250,
           "charge": 210,
 		  "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
         },
         {
-          "from": 250.01,
+          "from": 251,
           "to": 1000000000,
           "charge": 210,
 		  "effectiveFrom":917523271000,
@@ -38,7 +38,7 @@
       "buildingType": "COMMERCIAL",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-
+      "waterSubUsageType": "NA",
       "minimumCharge": 100,
       "slabs": [
         {
@@ -49,14 +49,14 @@
 		  "effectiveTo":1738064071000
         },
         {
-          "from": 125.01,
+          "from": 126,
           "to": 250,
           "charge": 420,
 		  "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
         },
         {
-          "from": 250.01,
+          "from": 251,
           "to": 1000000000,
           "charge": 420,
 		  "effectiveFrom":917523271000,
@@ -69,7 +69,7 @@
       "buildingType": "INSTITUTIONAL",
       "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
-
+      "waterSubUsageType": "NA",
       "minimumCharge": 200,
       "slabs": [
         {
