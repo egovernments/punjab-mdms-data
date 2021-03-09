@@ -939,7 +939,7 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -981,7 +981,7 @@
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
