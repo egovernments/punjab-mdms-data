@@ -5,14 +5,29 @@
     {
       "id": "1",
       "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "No. of water closets",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
+          "to": 125,
+          "charge": 0,
+		   "effectiveFrom":917523271000,
+		  "effectiveTo":1738064071000
+        },
+        {
+          "from": 126,
+          "to": 230,
+          "charge": 315,
+		   "effectiveFrom":917523271000,
+		  "effectiveTo":1738064071000
+        },
+        {
+          "from": 231,
           "to": 1000000000,
-          "charge": 15,
+          "charge": 420,
 		   "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
         }
@@ -20,183 +35,51 @@
     },
     {
       "id": "2",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "No. of toilets",
+      "buildingType": "Commercial",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
-          "to": 1000000000,
-          "charge": 15,
+          "to": 230,
+          "charge": 630,
 		   "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
-		  
+        },
+        {
+          "from": 231,
+          "to": 1000000000,
+          "charge": 840,
+		   "effectiveFrom":917523271000,
+		  "effectiveTo":1738064071000
         }
       ]
     },
     {
       "id": "3",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "No. of water closets",
+      "buildingType": "INSTITUTIONAL",
+      "waterSubUsageType": "NA",
+      "calculationAttribute": "PLOT_BASED",
       "connectionType": "Non Metered",
       "minimumCharge": 0,
       "slabs": [
         {
           "from": 0,
-          "to": 1000000000,
-          "charge": 30,
+          "to": 230,
+          "charge": 630,
 		   "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "No. of toilets",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
+        },
         {
-          "from": 0,
+          "from": 231,
           "to": 1000000000,
-          "charge": 30,
+          "charge": 840,
 		   "effectiveFrom":917523271000,
 		  "effectiveTo":1738064071000
         }
       ]
-    },
-    {
-      "id": "5",
-      "buildingType": "Commercial",
-      "calculationAttribute": "No. of water closets",
-      "connectionType": "Non Metered",
-      "minimumCharge": 0,
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "buildingType": "Commercial",
-      "calculationAttribute": "No. of toilets",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "buildingType": "Government",
-      "calculationAttribute": "No. of water closets",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "buildingType": "Government",
-      "calculationAttribute": "No. of toilets",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 30,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "No. of water closets",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 25,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "10",
-      "buildingType": "Partly Commercial",
-      "calculationAttribute": "No. of toilets",
-      "connectionType": "Non Metered",
-      "slabs": [
-        {
-          "from": 0,
-          "to": 1000000000,
-          "charge": 25,
-		   "effectiveFrom":917523271000,
-		  "effectiveTo":1738064071000
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "buildingType": "RESIDENTIAL",
-      "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
-      "minimumCharge": 100,
-      "slabs": []
-    },
-    {
-      "id": "12",
-      "buildingType": "NONRESIDENTIAL",
-      "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
-      "minimumCharge": 250,
-      "slabs": []
-    },
-    {
-      "id": "13",
-      "buildingType": "Commercial",
-      "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
-      "minimumCharge": 250,
-      "slabs": []
-    },
-    {
-      "id": "14",
-      "buildingType": "Government",
-      "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
-      "minimumCharge": 350,
-      "slabs": []
-    },
-    {
-      "id": "15",
-      "buildingType": "Partly commercial",
-      "calculationAttribute": "Flat",
-      "connectionType": "Non Metered",
-      "minimumCharge": 200,
-      "slabs": []
     }
   ]
 }
