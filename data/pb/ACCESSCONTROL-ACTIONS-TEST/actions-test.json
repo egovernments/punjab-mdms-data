@@ -10796,7 +10796,81 @@
       "navigationURL": "bill-amend/search",
       "path": "Bill Amendment.Search",
       "leftIcon": "action:receipt"
-    }  
+    },
+   {
+    "id": 2026,
+    "name": "FieldCollectionSearchReportWS",
+    "url": "url",
+    "displayName": "Field Collection Search Report WS",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Base Register Report WS",
+    "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2027,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/metadata/_get",
+    "displayName": "Field Collection Search Report WS",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2028,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/_get",
+     "displayName": "Field Collection Search Report WS",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
+    },
+    {
+     "id": 2029,
+     "name": "FieldCollectionSearchReceiptWS",
+     "url": "url",
+     "displayName": "Field Collection Search Receipt WS",
+     "orderNumber": 1,
+     "queryParams": "",
+     "parentModule": "",
+     "enabled": true,
+     "serviceCode": "",
+     "path": "W and S.WS Reports.Base Register Report WS",
+     "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
+     "leftIcon": "action:assignment",
+     "rightIcon": ""
+   },
+    {
+      "id": 2030,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/metadata/_get",
+      "displayName": "Field Collection Search Receipt WS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 2031,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/_get",
+      "displayName": "Field Collection Search Receipt WS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    }
 ]
 
 }
