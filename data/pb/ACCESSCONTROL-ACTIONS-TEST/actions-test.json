@@ -10807,7 +10807,7 @@
     "parentModule": "",
     "enabled": true,
     "serviceCode": "",
-    "path": "W and S.WS Reports.Base Register Report WS",
+    "path": "W and S.WS Reports.Field Collection Search Report WS",
     "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
     "leftIcon": "action:assignment",
     "rightIcon": ""
@@ -10844,7 +10844,7 @@
      "parentModule": "",
      "enabled": true,
      "serviceCode": "",
-     "path": "W and S.WS Reports.Base Register Report WS",
+     "path": "W and S.WS Reports.Field Collection Search Receipt WS",
      "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
      "leftIcon": "action:assignment",
      "rightIcon": ""
@@ -10870,6 +10870,43 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 2232,
+    "name": "SearchOnlineReceiptsWS",
+    "url": "url",
+    "displayName": "Search Online Receipts WS",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Search Online Receipts WS",
+    "navigationURL": "report/rainmaker-ws/SearchOnlineReceiptsWS",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2233,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/metadata/_get",
+    "displayName": "Search Online Receipts WS",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2234,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/_get",
+     "displayName": "Search Online Receipts WS",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
     }
 ]
 
