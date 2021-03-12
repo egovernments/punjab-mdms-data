@@ -1,0 +1,36 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ws-services-masters",
+  "unitUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "NonResidential",
+      "code": "NONRESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    }
+  ]
+}
