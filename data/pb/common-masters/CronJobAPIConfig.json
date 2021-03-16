@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "CronJobAPIConfig": [
     {
-      "jobName": "ws-demand-generation-every-15min",
+      "jobName": "ws-demand-generation-job-scheduler",
       "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
@@ -15,7 +15,7 @@
       }
     },
      {
-      "jobName": "sw-demand-generation-every-15min",
+      "jobName": "sw-demand-generation-job-scheduler",
       "active": "true",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobscheduler",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "jobName": "ws-bill-generation-every-15min",
+      "jobName": "ws-bill-generation-job-scheduler",
       "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobbillscheduler",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "jobName": "sw-bill-generation-every-15min",
+      "jobName": "sw-bill-generation-job-scheduler",
       "active": "true",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobbillscheduler",
