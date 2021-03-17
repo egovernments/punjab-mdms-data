@@ -7,14 +7,16 @@
       "minAmount": 0.0,
       "flatAmount": 0.0,
       "fromFY": "2018-19",
-      "startingDay": "1/09/2018"
+      "startingDay": "1/09/2018",
+      "type":"MC"
     },
     {
       "rate": 0,
       "minAmount": 0.0,
       "flatAmount": 0.0,
       "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
+      "startingDay": "1/04/2016",
+      "type":"MC"
 
     },
     {
@@ -22,28 +24,32 @@
       "minAmount": 0.0,
       "flatAmount": 0.0,
       "fromFY": "2018-19",
-      "startingDay": "1/09/2018"
+      "startingDay": "1/09/2018",
+      "type":"MC"
     },
     {
       "rate": 0,
       "minAmount": 0.0,
       "flatAmount": 0.0,
       "fromFY": "2019-20",
-      "startingDay": "1/09/2019"
+      "startingDay": "1/09/2019",
+      "type":"MC"
     },
     {
-      "rate": 200,
+      "rate": 10,
       "minAmount": 0.0,
-      "flatAmount": 0.0,
+      "flatAmount": 100.0,
       "fromFY": "2020-21",
-      "startingDay": "1/09/2020"
+      "startingDay": "01/04/2020",
+      "type":"MC"
     },
     {
-        "rate": null,
-        "minAmount": 10.0,
-        "flatAmount": 50.0,
-        "fromFY": "2021-22",
-        "startingDay": "1/03/2021"
-      }
+      "rate": 100,
+      "minAmount": 0.0,
+      "flatAmount": 1000.0,
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2020",
+      "type":"Municipal Corporation"
+    }
   ]
 }
