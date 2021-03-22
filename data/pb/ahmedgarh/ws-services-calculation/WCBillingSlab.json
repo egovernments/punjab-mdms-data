@@ -1,0 +1,74 @@
+{
+   "tenantId":"pb.ahmedgarh",
+   "moduleName":"ws-services-calculation",
+   "WCBillingSlab":[
+      {
+         "id":"1",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType" : "NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":0,
+               "effectiveFrom":1514745000000,
+               "effetiveTo":1617215399000
+            }
+         ]
+      },
+      {
+         "id":"2",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType" : "NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":126,
+               "to":1000000000,
+               "charge":315,
+               "effectiveFrom":1514745000000,
+               "effetiveTo":1617215399000
+            }
+         ]
+      },
+      {
+         "id":"4",
+         "buildingType":"NONRESIDENTIAL",
+         "waterSubUsageType" : "NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":315,
+               "effectiveFrom":1514745000000,
+               "effetiveTo":1617215399000
+            }
+         ]
+      },
+      {
+         "id":"5",
+         "buildingType":"NONRESIDENTIAL",
+         "waterSubUsageType" : "NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":126,
+               "to":1000000000,
+               "charge":315,
+               "effectiveFrom":1514745000000,
+               "effetiveTo":1617215399000
+            }
+         ]
+      }
+   ]
+}
