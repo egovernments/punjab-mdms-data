@@ -6823,7 +6823,7 @@
   {
       "id": 1926,
       "name": "rainmaker-common-wns",
-      "url": "url",
+      "url": "card",
       "displayName": "Water & Sewerage",
       "orderNumber": 2,
       "parentModule": "",
@@ -6832,7 +6832,7 @@
       "code": "",
       "path": "",
       "navigationURL": "wns/search",
-       "leftIcon": "custom:water-tap",
+      "leftIcon": "custom:water-tap",
       "rightIcon": "",
       "queryParams": ""
     },
@@ -10918,19 +10918,8 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
-    },
-     {
-     "id": 2236,
-     "name": "WNSSearch",
-     "url": "wns/search",
-     "displayName": "Application",
-     "orderNumber": 1,
-     "parentModule": "WNS",
-     "enabled": false,
-     "serviceCode": "wns",
-     "code": "null",
-     "path": ""
     }
+    
 
 ]
 
