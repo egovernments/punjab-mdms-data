@@ -10929,6 +10929,18 @@
       "serviceCode": "sw-services",
       "code": "null",
       "path": ""
+    },
+	
+	  {
+      "id": 2237,
+      "name": "Collection Create Reciept for W&S migration",
+      "url": "/collection-services/payments/ws/migration/_create",
+      "displayName": "Create Payment for W&S migration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
     
 
