@@ -5982,6 +5982,49 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+	    
+    },
+    {	  
+	     
+      "category": "TAX",
+      "service": "OTHER.Conservency_Fee_Slaughterhouse",
+      "name": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_TAX",
+      "code": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "OTHER.Conservency_Fee_Slaughterhouse",
+      "name": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_FIELD_FEE",
+      "code": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Conservency_Fee_Slaughterhouse",
+      "name": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_CGST",
+      "code": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "OTHER.Conservency_Fee_Slaughterhouse",
+      "name": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_SGST",
+      "code": "OTHER.CONSERVENCY_FEE_SLAUGHTERHOUSE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+	  
     }
   ]
 }
