@@ -1677,6 +1677,19 @@
       "isActive": true,
       "type": "Adhoc" 
       
+    },
+    {
+      "businessService": "OTHER.Conservency_Fee_Slaughterhouse",
+      "code": "OTHER.Conservency_Fee_Slaughterhouse",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"	
+      
    
 
     }
