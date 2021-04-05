@@ -394,6 +394,19 @@
       ]
     },
     {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "DescriptionReport_v2",
       "roleAttributeAccessList": [
         {
