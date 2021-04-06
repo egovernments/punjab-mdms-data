@@ -11124,6 +11124,43 @@
       "quickAction": true,
       "leftIcon": "communication:business",
       "rightIcon": ""
+    },
+    {
+    "id": 2240,
+    "name": "ArrearReport",
+    "url": "url",
+    "displayName": "Arrear Report",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.ArrearReport",
+    "navigationURL": "report/rainmaker-ws/ArrearReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2241,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/ArrearReport/metadata/_get",
+    "displayName": "Arrear Report",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2242,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/ArrearReport/_get",
+     "displayName": "Arrear Report",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
     }
 ]
 
