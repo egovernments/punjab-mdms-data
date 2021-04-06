@@ -390,6 +390,17 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "TL_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/collectorname"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
