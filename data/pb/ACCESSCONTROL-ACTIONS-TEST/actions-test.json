@@ -8548,7 +8548,34 @@
       "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }  
-
+    },  
+     {
+      "id":2051,
+      "name": "EmployeeWiseCollectionTL_v2",
+      "url": "url",
+      "displayName": "Employee Wise Collection TL",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.EmployeeWiseCollectionTL_v2",
+      "navigationURL": "report/rainmaker-tl/EmployeeWiseCollectionTL_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+     {
+      "id": 2052,
+      "name": "EmployeeWiseCollectionUC_v2",
+      "url": "url",
+      "displayName": "Employee Wise Collection UC",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/EmployeeWiseCollectionUC_v2",
+      "path": "State Reports.UC.EmployeeWiseCollectionUC_v2"
+    }
   ]
 }
