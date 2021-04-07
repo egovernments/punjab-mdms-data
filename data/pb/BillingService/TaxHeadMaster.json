@@ -5872,6 +5872,115 @@
       "isActualDemand": true,
       "order": "6",
       "isRequired": false
+    },
+	  {
+      "category": "FEE",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage title transfer fee",
+      "code": "SW_TITLE_TRANSFER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage additional title transfer fee",
+      "code": "SW_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+ {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage supervision charge",
+      "code": "SW_SUPERVISION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+ {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage donation charge",
+      "code": "SW_DONATION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage estimation charge",
+      "code": "SW_ESTIMATION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage inspection charge",
+      "code": "SW_INSPECTION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage door to door collection charge",
+      "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage application charge",
+      "code": "SW_APPLICATION_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+ {
+      "category": "TAX",
+      "service": "SW",
+      "name": "Sewerage tax adjustment",
+      "code": "SW_TAX_ADJUSTMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+
+    {
+      "category": "TAX",
+      "service": "SW",
+      "name": "Sewerage security deposit",
+      "code": "SW_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false,
+      "IsBillamend": true
     }
   ]
 }
