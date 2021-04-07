@@ -5768,6 +5768,110 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+	  {
+      "category": "PENALTY",
+      "service": "WS",
+      "name": "BreakdownPenalty",
+      "code": "WS_BREAKDOWN_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Meter Rent",
+      "code": "WS_METER_RENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Tax Adjustment",
+      "code": "WS_TAX_ADJUSTMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Door to door collection charges",
+      "code": "WS_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+   
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water security tax",
+      "code": "WS_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false,
+      "IsBillamend": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water supervision tax",
+      "code": "WS_SUPERVISION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Application Tax",
+      "code": "WS_APPLICATION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {  
+       "category": "FEE",
+      "service": "WS",
+      "name": "Water connection type conversion fee",
+      "code": "WS_CONNECTION_TYPE_CONVERSION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {  
+       "category": "FEE",
+      "service": "WS",
+      "name": "Water title transfer fee",
+      "code": "WS_TITLE_TRANSFER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {  
+       "category": "FEE",
+      "service": "WS",
+      "name": "Water additional title transfer fee",
+      "code": "WS_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
     }
   ]
 }
