@@ -3458,7 +3458,7 @@
       "parentModule": "",
       "displayName": "Modify Bank",
       "orderNumber": 3,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Bank.Modify Bank",
@@ -3471,7 +3471,7 @@
       "parentModule": "",
       "displayName": "Create Bank",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "path": "Finance.Masters.Bank.Create Bank",
@@ -3999,7 +3999,7 @@
       "displayName": "Miscellaneous Receipts",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
@@ -4351,7 +4351,7 @@
       "name": "BNDIntegration",
       "url": "url",
       "displayName": "Application",
-      "orderNumber": 2,
+      "orderNumber": 1,
       "parentModule": "BND",
       "enabled": true,
       "serviceCode": "BND",
@@ -4870,7 +4870,7 @@
       "displayName": "Application Dashboard",
       "orderNumber": 2,
       "parentModule": "W&S",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "W&S",
       "code": "null",
       "path": "Dashboard.Water & Sewerage.WSApplicationsDashboard",
@@ -4885,7 +4885,7 @@
       "displayName": "Department",
       "orderNumber": 10,
       "parentModule": "rainmaker-pgr",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
       "path": "PGR.PGR Reports.Department",
@@ -6443,8 +6443,8 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ULB-defaulter PT Report New",
-      "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_NEW_V2",
+      "path": "Property Tax.PT Reports.ULB-defaulter PT Report",
+      "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -6470,7 +6470,7 @@
       "parentModule": "",
       "displayName": "Reopening Closed Period",
       "orderNumber": 4,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
@@ -6557,7 +6557,7 @@
       "name": "Assess And Search Properties",
       "url": "quickAction",
       "displayName": "Search Property",
-      "orderNumber": 4,
+      "orderNumber": 1,
       "queryParams": "",
       "parentModule": "",
       "enabled": true,
@@ -7229,7 +7229,7 @@
       "name": "MiscReceiptULB_v2",
       "url": "url",
       "displayName": "Miscellaneous Receipt Register ULB V2",
-      "orderNumber": 3,
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "MiscReceipt",
       "code": "null",
@@ -7669,7 +7669,7 @@
       "displayName": "State Source v2",
       "orderNumber": 7,
       "parentModule": "rainmaker-pgr",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PGR",
       "code": "null",
       "path": "State Reports.PGR.StateSourceReport_2",
@@ -7828,9 +7828,9 @@
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Registers.Receipt Register_V2",
+      "path": "Property Tax.PT Reports.Receipt Register_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegister_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7845,7 +7845,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Registers.Cancelled Receipt Register_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.Cancelled Receipt Register_V2",
       "navigationURL": "report/rainmaker-pt/CancelledReceiptRegister_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7903,9 +7903,9 @@
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Registers.Account Receipt Register_V2",
+      "path": "Property Tax.PT Reports.Account Receipt Register_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7920,7 +7920,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.PT Data Dump_V2",
+      "path": "Property Tax.PT Reports.Other Reports.PT Data Dump_V2",
       "navigationURL": "report/rainmaker-pt/ULBPTDataDumpReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7950,7 +7950,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Registers.ReceiptRegisterSummary_V2",
+      "path": "Property Tax.PT Reports.Payment Registers.ReceiptRegisterSummary_V2",
       "navigationURL": "report/rainmaker-pt/ReceiptRegisterSummary_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7963,9 +7963,9 @@
       "orderNumber": 2,
       "queryParams": "",
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.Collections.FY Collection Report_V2",
+      "path": "Property Tax.PT Reports.FY Collection Report_V2",
       "navigationURL": "report/rainmaker-pt/FYCollectionsReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -7995,7 +7995,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ULB-defaulter PT Report_V2",
+      "path": "Property Tax.PT Reports.Other Reports.ULB-defaulter PT Report_V2",
       "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -8366,7 +8366,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.ZoneFYReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.ZoneFYReport_V2",
       "navigationURL": "report/rainmaker-pt/ZoneFYReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""  
@@ -8381,15 +8381,73 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.BlockFYReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.BlockFYReport_V2",
       "navigationURL": "report/rainmaker-pt/BlockFYReport_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""  
-	    	    
-	    
+      "rightIcon": ""      
    },
    {
       "id": 2040,
+      "name": "Receipt Register_Without_Locality_V2",
+      "url": "url",
+      "displayName": "Receipt Register without locality",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.Receipt Register_without_locality_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegister_without_locality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2041,
+      "name": "Receipt RegisterShortWithoutLocality_V2",
+      "url": "url",
+      "displayName": "Account Receipt Register WithoutLocality_V2",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Payment Registers.Account Receipt RegisterWithoutLocality_V2",
+      "navigationURL": "report/rainmaker-pt/ReceiptRegisterShort_WithoutLocality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2042,
+      "name": "FY Collection Report_WithoutLocality_V2",
+      "url": "url",
+      "displayName": "FY Collection Report Without Locality",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Collections.FY Collection Report_WithoutLocality_V2",
+      "navigationURL": "report/rainmaker-pt/FYCollectionsReport_WithoutLocality_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2043,
+      "name": "ULB-defaulter PT Report_NEW_V2",
+      "url": "url",
+      "displayName": "ULB-defaulter PT Report_NEW_V2",
+      "orderNumber": 7,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Other Reports.ULB-defaulter PT Report_NEW_V2",
+      "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_NEW_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2044,
       "name": "Property Cancel API",
       "url": "/property-services/property/_cancel",
       "displayName": "Cancel Property",
@@ -8399,8 +8457,55 @@
       "code": "null",
       "path": ""
     },
+    {    
+      "id": 2045,
+      "name": "ULBDEFAULTERPTREPORT_MINI_STATE_V2",
+      "url": "url",
+      "displayName": "Ulb Defaulter Report Mini State",
+      "orderNumber": 12,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.ULBDEFAULTERPTREPORT_MINI_STATE_V2",
+      "navigationURL": "report/rainmaker-pt/ULBDEFAULTERPTREPORT_MINI_STATE_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {	  
+	    
+      "id": 2046,
+      "name": "StateTradeLicenseDetailsReport_v2",
+      "url": "url",
+      "displayName": "State Trade License Details Report",
+      "orderNumber": 7,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "State Reports.TL.StateTradeLicenseDetailsReport_v2",
+      "navigationURL": "report/rainmaker-tl/StateTradeLicenseDetailsReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""	    
+	    
+    },
     {
-      "id": 2041,
+      "id": 2047,
+      "name": "Top Payers 2020-21",
+      "url": "url",
+      "displayName": "Top Payers FY 2020-21",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Collections.TopPayersReport_V2",
+      "navigationURL": "report/rainmaker-pt/TopPayersReport_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+	{
+      "id": 2048,
       "name": "Status Report_V2",
       "url": "url",
       "displayName": "Status Report",
@@ -8409,55 +8514,13 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.StatusReport_V2",
+      "path": "Property Tax.PT Reports.Other Reports.StatusReport_V2",
       "navigationURL": "report/rainmaker-pt/StatusReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
-      "id": 2042,
-      "name": "Dishonor Cheque/DD",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Dishonor Cheque/DD",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "FinanceAdmin",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Administration.Dishonor Cheque/DD",
-      "navigationURL": "services/collection/dishonour/cheque/form"
-    },
-    {
-      "id": 2043,
-      "name": "Dishonored Cheque Report ",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Dishonored Cheque Report ",
-      "orderNumber": 7,
-      "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
-      "navigationURL": "services/collection/report/dishonouredcheque/searchform"
-    },
-    {
-      "id": 2044,
-      "name": "Remittance Pending Report",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Remittance Pending Report",
-      "orderNumber": 6,
-      "enabled": true,
-      "serviceCode": "FinanceReport",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
-      "navigationURL": "services/EGF/report/remittance/pending/form"
-    },
-    {
-      "id":2045,
+     {
+      "id":2049,
       "name": "TradeLicensePendencyReport",
       "url": "url",
       "displayName": "TL Pendency Report",
@@ -8471,9 +8534,9 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-    {
-      "id": 2046,
-      "name": "PendingPTApplicationsReport",
+     {
+      "id": 2050,
+      "name": "PendingPTApplicationsReport_V2",
       "url": "url",
       "displayName": "Pending PT Applications Report",
       "orderNumber": 2,
@@ -8481,11 +8544,2665 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "Property Tax.PT Reports.PendingPTApplicationsReport",
-      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport",
+      "path": "Property Tax.PT Reports.Other Reports.PendingPTApplicationsReport_V2",
+      "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
-	  
+    },  
+     {
+      "id":2051,
+      "name": "EmployeeWiseCollectionTL_v2",
+      "url": "url",
+      "displayName": "Employee Wise Collection TL",
+      "orderNumber": 6,
+      "parentModule": "rainmaker-tl",
+      "enabled": true,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": "Trade License.TL Reports.EmployeeWiseCollectionTL_v2",
+      "navigationURL": "report/rainmaker-tl/EmployeeWiseCollectionTL_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+     {
+      "id": 2052,
+      "name": "EmployeeWiseCollectionUC_v2",
+      "url": "url",
+      "displayName": "Employee Wise Collection UC",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/EmployeeWiseCollectionUC_v2",
+      "path": "State Reports.UC.EmployeeWiseCollectionUC_v2"
+    },
+    {
+
+      "id":2053,
+   
+      "name":"rainmaker-localization-screen",
+   
+      "url":"url",
+   
+      "displayName":"Localization",
+   
+      "orderNumber":5,
+   
+      "parentModule":"",
+   
+      "enabled":true,
+   
+      "serviceCode":"",
+   
+      "code":"",
+   
+      "path":"Localization",
+   
+      "navigationURL":"integration/ui-localisation/localization",
+   
+      "leftIcon":"places:business-center",
+   
+      "rightIcon":"",
+   
+      "queryParams":""
+   
+   },
+   
+   {
+   
+      "id":2054,
+   
+      "name":"consolidatedreceipt search",
+   
+      "url":"/egov-pdf/download/PAYMENT/consolidatedreceipt",
+   
+      "displayName":"consolidatedreceipt search",
+   
+      "orderNumber":1,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2055,
+   
+      "name":"consolidatedbill search",
+   
+      "url":"/egov-pdf/download/BILL/consolidatedbill",
+   
+      "displayName":"consolidatedbill search",
+   
+      "orderNumber":2,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2056,
+   
+      "name":"tlreceipt search",
+   
+      "url":"/egov-pdf/download/TL/tlreceipt",
+   
+      "displayName":"tlreceipt search",
+   
+      "orderNumber":3,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2057,
+   
+      "name":"tlcertificate search",
+   
+      "url":"/egov-pdf/download/TL/tlcertificate",
+   
+      "displayName":"tlcertificate search",
+   
+      "orderNumber":4,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2058,
+   
+      "name":"tlrenewalcertificate search",
+   
+      "url":"/egov-pdf/download/TL/tlrenewalcertificate",
+   
+      "displayName":"tlrenewalcertificate search",
+   
+      "orderNumber":5,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2059,
+   
+      "name":"tlbill search",
+   
+      "url":"/egov-pdf/download/TL/tlbill",
+   
+      "displayName":"tlbill search",
+   
+      "orderNumber":6,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2060,
+   
+      "name":"ptmutationcertificate search",
+   
+      "url":"/egov-pdf/download/PT/ptmutationcertificate",
+   
+      "displayName":"ptmutationcertificate search",
+   
+      "orderNumber":7,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2061,
+   
+      "name":"ptbill search",
+   
+      "url":"/egov-pdf/download/PT/ptbill",
+   
+      "displayName":"ptbill search",
+   
+      "orderNumber":8,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2062,
+   
+      "name":"ptreceipt search",
+   
+      "url":"/egov-pdf/download/PT/ptreceipt",
+   
+      "displayName":"ptreceipt search",
+   
+      "orderNumber":9,
+   
+      "enabled":false,
+   
+      "serviceCode":"egov-pdf",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2063,
+   
+      "name":"Locality searcher endpoint for SW",
+   
+      "url":"/egov-searcher/locality/sw-services/_get",
+   
+      "displayName":"SW-Service locality searcher",
+   
+      "orderNumber":0,
+   
+      "enabled":true,
+   
+      "serviceCode":"egov-searcher",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   
+   {
+   
+      "id":2064,
+   
+      "name":"Locality searcher endpoint for WS",
+   
+      "url":"/egov-searcher/locality/ws-services/_get",
+   
+      "displayName":"WS-Service locality searcher",
+   
+      "orderNumber":0,
+   
+      "enabled":true,
+   
+      "serviceCode":"egov-searcher",
+   
+      "code":"null",
+   
+      "path":""
+   
+   },
+   {
+         "id": 2065,
+         "name": "LocalizationMessagesSearch",
+         "url": "/localization/messages/v2/_search",
+         "displayName": "Localization Messages Search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "localisation search",
+         "code": "null",
+         "path": ""
+       },
+   
+     {
+         "id": 2066,
+         "name": "BillGenie",
+         "url": "url",
+         "displayName": "BillGenie",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "BG",
+         "code": "null",
+         "navigationURL": "abg/billSearch",
+         "path": "BG",
+         "leftIcon": "action:receipt"
+       },
+        {
+         "id": 2067,
+         "name": "Receipt Register SW",
+         "url": "url",
+         "displayName": "Receipt Register SW",
+         "orderNumber": 1,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "path": "W and S.WS Reports.Receipt RegisterSW",
+         "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+       },
+       {
+         "id": 2068,
+         "name": "WS Report",
+         "url": "/report/rainmaker-ws/ReceiptRegisterSW/metadata/_get",
+         "displayName": "WS Report metadata",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2069,
+         "name": "WSReport",
+         "url": "/report/rainmaker-ws/metadata/_get",
+         "displayName": "WS Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2070,
+         "name": "WS Report",
+         "url": "/report/rainmaker-ws/_get",
+         "displayName": "WS Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": "WS Report"
+       }
+       ,{
+        "id": 2071,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/ReceiptRegisterSW/_get",
+        "displayName": "WS Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2072,
+        "name": "BillAmendment",
+        "url": "url",
+        "displayName": "BillAmendment",
+        "orderNumber": 23,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "bill-amend/search",
+        "path": "",
+        "leftIcon": "action:receipt"
+      },
+      {
+        "id": 2073,
+        "name": "BillAmendment",
+        "url": "card",
+        "displayName": "BillAmendment",
+        "orderNumber": 22,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL":"bill-amend/search",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2074,
+        "name": "PT Receipt Update",
+        "url": "/collection-services/payments/PT/_workflow",
+        "displayName": "PT Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2075,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2076,
+        "name": "ReceiptCancellation",
+        "url": "url",
+        "displayName": "ReceiptCancellation",
+        "orderNumber": 24,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "receipts/search",
+        "path": "",
+        "leftIcon": "action:receipt"
+      },
+      {
+        "id": 2077,
+        "name": "ReceiptCancellation",
+        "url": "card",
+        "displayName": "ReceiptCancellation",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "receipts",
+        "navigationURL": "receipts/search",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2078,
+        "name": "PT Payment search",
+        "url": "/collection-services/payments/PT.MUTATION/_search",
+        "displayName": "PT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2079,
+        "name": "TL Payment search",
+        "url": "/collection-services/payments/TL/_search",
+        "displayName": "TL Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2080,
+        "name": "FIRENOC Payment search",
+        "url": "/collection-services/payments/FIRENOC/_search",
+        "displayName": "FIRENOC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2081,
+        "name": "WS Payment search",
+        "url": "/collection-services/payments/WS/_search",
+        "displayName": "WS Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2082,
+        "name": "SW Payment search",
+        "url": "/collection-services/payments/SW/_search",
+        "displayName": "SW Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2083,
+        "name": "UC Payment search",
+        "url": "/collection-services/payments/ADVT/_search",
+        "displayName": "UC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2084,
+        "name": "UC Payment search",
+        "url": "/collection-services/payments/UC/_search",
+        "displayName": "UC Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2085,
+        "name": "DEFAULT Payment search",
+        "url": "/collection-services/payments/DEFAULT/_search",
+        "displayName": "DEFAULT Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+    {
+      "id": 2086,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Light_Wala_Board/_search",
+      "displayName": "Light_Wala_Board Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2087,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Hoardings/_search",
+      "displayName": "Hoardings Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2088,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Unipolls/_search",
+      "displayName": "Unipolls Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2089,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Wall_Paint_Advertisement/_search",
+      "displayName": "Wall_Paint_Advertisement Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+   
+  
+  
+  
+     {
+      "id": 2090,
+      "name": "Base Register Report WS",
+      "url": "url",
+      "displayName": "Base Register Report WS",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Base Register Report WS",
+      "navigationURL": "report/rainmaker-ws/BaseRegisterReportWS",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+      {
+        "id": 2091,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/BaseRegisterReportWS/metadata/_get",
+        "displayName": "WS BASE Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2092,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/BaseRegisterReportWS/_get",
+        "displayName": "WS BASE Report metadata",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+      "id": 2093,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.2_year_time_limit_of_Renewal_Building_Naksha/_search",
+      "displayName": "2_year_time_limit_of_Renewal_Building_Naksha Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2094,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Advance_Provident_Fund/_search",
+      "displayName": "Advance_Provident_Fund Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2095,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TB.Advertisement_fee/_search",
+      "displayName": "Advertisement_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2096,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Alteration_additional_charge/_search",
+      "displayName": "Alteration_additional_charge Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2097,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Architect_license_fee/_search",
+      "displayName": "Architect_license_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2098,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Bidi_And_Cigrette_Challan/_search",
+      "displayName": "Bidi_And_Cigrette_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2099,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Boundary_wall_fees/_search",
+      "displayName": "Boundary_wall_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2100,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Building_fees/_search",
+      "displayName": "Building_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2101,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Building_planner_renew/_search",
+      "displayName": "Building_planner_renew Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2102,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Building_safety_certificate/_search",
+      "displayName": "Building_safety_certificate Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2103,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Burning_of_waste_challan/_search",
+      "displayName": "Burning_of_waste_challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2104,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Bus_Adda_fee/_search",
+      "displayName": "Bus_Adda_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2105,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Candy_fee/_search",
+      "displayName": "Candy_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2106,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Canopy_Fee/_search",
+      "displayName": "Canopy_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2107,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Cattle_Challan/_search",
+      "displayName": "Cattle_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2108,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Challan_for_Misuse_of_Water/_search",
+      "displayName": "Challan_for_Misuse_of_Water Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2109,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TB.Challan_Under_section_156/_search",
+      "displayName": "Challan_Under_section_156 Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2110,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Change_of_land_use_fees/_search",
+      "displayName": "Change_of_land_use_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2111,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.clean_safai_sanitation/_search",
+      "displayName": "clean_safai_sanitation Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2112,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Collection_and_demolition_waste_challan/_search",
+      "displayName": "Collection_and_demolition_waste_challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2113,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Colony_Sambandhi_fees/_search",
+      "displayName": "Colony_Sambandhi_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2114,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Commercial_Use_of_Municipal_Land/_search",
+      "displayName": "Commercial_Use_of_Municipal_Land Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2115,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Community_Centre_Booking_Fee/_search",
+      "displayName": "Community_Centre_Booking_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2116,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Compremasing_fees/_search",
+      "displayName": "Compremasing_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2117,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Conservancy_fee/_search",
+      "displayName": "Conservancy_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2118,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Construction_Waste/_search",
+      "displayName": "Construction_Waste Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2119,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/WF.Contractor_Enlistment/_search",
+      "displayName": "Contractor_Enlistment Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2120,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CSS.cow_cess/_search",
+      "displayName": "cow_cess Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2121,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.CPF_received_check/_search",
+      "displayName": "CPF_received_check Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2122,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Dairy_Animals_Challan/_search",
+      "displayName": "Dairy_Animals_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2123,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.Dead_animals_contract/_search",
+      "displayName": "Dead_animals_contract Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2124,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Demolition_Waste/_search",
+      "displayName": "Demolition_Waste Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2125,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Dengue_Challan/_search",
+      "displayName": "Dengue_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2126,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Development_fees/_search",
+      "displayName": "Development_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2127,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Dispensary_fee/_search",
+      "displayName": "Dispensary_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2128,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Dog_Registration/_search",
+      "displayName": "Dog_Registration Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2129,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Draftsmen_fees/_search",
+      "displayName": "Draftsmen_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2130,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Economics_Weaker_Section_Projects_Fees/_search",
+      "displayName": "Economics_Weaker_Section_Projects_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2131,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Economics_Weaker_Section_Scheme_Charges/_search",
+      "displayName": "Economics_Weaker_Section_Scheme_Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2132,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.Election_rally_fees/_search",
+      "displayName": "Election_rally_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2133,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Electricity_Chungi/_search",
+      "displayName": "Electricity_Chungi Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2134,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ST.Expenditure_santitation_Not_Income/_search",
+      "displayName": "Expenditure_santitation_Not_Income Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2135,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Fire_Call_Report_fee/_search",
+      "displayName": "Fire_Call_Report_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2136,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Fire_Noc_fee/_search",
+      "displayName": "Fire_Noc_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2137,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Fire_Tender_fee/_search",
+      "displayName": "Fire_Tender_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2138,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.GPF/_search",
+      "displayName": "GPF Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2139,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Grants_cheque/_search",
+      "displayName": "Grants_cheque Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2140,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Hadud_Certificate_fees/_search",
+      "displayName": "Hadud_Certificate_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2141,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.House_Tax/_search",
+      "displayName": "House_Tax Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2142,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Information_certificate_fees/_search",
+      "displayName": "Information_certificate_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2143,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Jamin_Theka/_search",
+      "displayName": "Jamin_Theka Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2144,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CSS.labor_cess/_search",
+      "displayName": "labor_cess Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2145,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Land_Rent/_search",
+      "displayName": "Land_Rent Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2146,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Leave_encashment_and_gratuty/_search",
+      "displayName": "Leave_encashment_and_gratuty Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2147,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/SNT.Licence_Pure_food/_search",
+      "displayName": "Licence_Pure_food Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2148,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.License_fee/_search",
+      "displayName": "License_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2149,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.License_fees_building_branch/_search",
+      "displayName": "License_fees_building_branch Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2150,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Littering_Challan/_search",
+      "displayName": "Littering_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2151,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Malba_fees/_search",
+      "displayName": "Malba_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2152,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/LCF.Manual_Rikshaw/_search",
+      "displayName": "Manual_Rikshaw Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2153,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Misc_Challans/_search",
+      "displayName": "Misc_Challans Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2154,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Municipal_Shops_Rent/_search",
+      "displayName": "Municipal_Shops_Rent Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2155,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Naksha_changes/_search",
+      "displayName": "Naksha_changes Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2156,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Naksha_fees/_search",
+      "displayName": "Naksha_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2157,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Naksha_renew_fees/_search",
+      "displayName": "Naksha_renew_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2158,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Naksha_samjota_fees/_search",
+      "displayName": "Naksha_samjota_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2159,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.No_Dues_Certificate/_search",
+      "displayName": "No_Dues_Certificate Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2160,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.No_Dues_Certificate/_search",
+      "displayName": "No_Dues_Certificate Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2161,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.No_Due_Certificate_fees/_search",
+      "displayName": "No_Due_Certificate_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2162,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.No_due_certificate_electricity/_search",
+      "displayName": "No_due_certificate_electricity Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2163,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.NOC_Completion_of_building_approval/_search",
+      "displayName": "NOC_Completion_of_building_approval Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2164,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Noc_fee/_search",
+      "displayName": "Noc_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2165,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/WF.OFC_Permission_fees/_search",
+      "displayName": "OFC_Permission_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2166,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Others_fee/_search",
+      "displayName": "Others_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2167,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Outdoor_Media_Display_Fee/_search",
+      "displayName": "Outdoor_Media_Display_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2168,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.Parking_booking_fee/_search",
+      "displayName": "Parking_booking_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2169,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.Parking_during_election/_search",
+      "displayName": "Parking_during_election Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2170,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Parking_Fee/_search",
+      "displayName": "Parking_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2171,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.PF_transfer_(Accounts)/_search",
+      "displayName": "PF_transfer_(Accounts) Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2172,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Plastic_Challan/_search",
+      "displayName": "Plastic_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2173,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Plumber_License_Fee/_search",
+      "displayName": "Plumber_License_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2174,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Property_Tax_2013-14/_search",
+      "displayName": "Property_Tax_2013-14 Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2175,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Property_Tax_Dishonoured_Cheque_Payment/_search",
+      "displayName": "Property_Tax_Dishonoured_Cheque_Payment Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2176,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Provident_Fund_Processing_Fees/_search",
+      "displayName": "Provident_Fund_Processing_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2177,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Rain_Harvesting_charges/_search",
+      "displayName": "Rain_Harvesting_charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2178,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Recovery_employee_contractor/_search",
+      "displayName": "Recovery_employee_contractor Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2179,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.registery_and_bank_loan/_search",
+      "displayName": "registery_and_bank_loan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2180,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Regularisation_of_Buildings/_search",
+      "displayName": "Regularisation_of_Buildings Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2181,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Rehri_Challan/_search",
+      "displayName": "Rehri_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2182,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TB.Rehri_Challan/_search",
+      "displayName": "Rehri_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2183,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Road_cut_fees/_search",
+      "displayName": "Road_cut_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2184,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.Road_show/_search",
+      "displayName": "Road_show Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2185,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.RTI/_search",
+      "displayName": "RTI Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2186,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Sale_of_compost/_search",
+      "displayName": "Sale_of_compost Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2187,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Sale_of_land/_search",
+      "displayName": "Sale_of_land Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2188,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Sale_of_recyclable/_search",
+      "displayName": "Sale_of_recyclable Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2189,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Santitation_dumping_garbage/_search",
+      "displayName": "Santitation_dumping_garbage Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2190,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.SBM_garbage_plastic_polythene_challan/_search",
+      "displayName": "SBM_garbage_plastic_polythene_challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2191,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Security_Deposit_Fee/_search",
+      "displayName": "Security_Deposit_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2192,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties/_search",
+      "displayName": "Service_Tax_Gst_Of_Rent_Of_MC_Properties Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2193,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Sewerage_disconnection_connection_fees/_search",
+      "displayName": "Sewerage_disconnection_connection_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2194,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ST.Stationary_Not_Income/_search",
+      "displayName": "Stationary_Not_Income Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2195,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Street_light_pole_transfer_fee/_search",
+      "displayName": "Street_light_pole_transfer_fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2196,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Street_Vendor/_search",
+      "displayName": "Street_Vendor Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2197,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Street_Vendor_Icard_Certificate_Fees/_search",
+      "displayName": "Street_Vendor_Icard_Certificate_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2198,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Sub_division_charges/_search",
+      "displayName": "Sub_division_charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2199,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees/_search",
+      "displayName": "Swimming_Pool_And_Gymnactics_Hall_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2200,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TB.Tehbazaari/_search",
+      "displayName": "Tehbazaari Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2201,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FTP.Telecom_tower_fees/_search",
+      "displayName": "Telecom_tower_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2202,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/FN.Tender_Earnest_Money_Deposit/_search",
+      "displayName": "Tender_Earnest_Money_Deposit Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2203,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/WF.TenderFormFee/_search",
+      "displayName": "TenderFormFee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2204,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Tower_Annual_Rent/_search",
+      "displayName": "Tower_Annual_Rent Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2205,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Tower_Installation/_search",
+      "displayName": "Tower_Installation Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2206,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.Tower_Rent/_search",
+      "displayName": "Tower_Rent Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2207,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/LCF.Trade_License_Fee/_search",
+      "displayName": "Trade_License_Fee Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2208,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Transfer_Property_Fees/_search",
+      "displayName": "Transfer_Property_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2209,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.TS1_copy_register_for_old_survey/_search",
+      "displayName": "TS1_copy_register_for_old_survey Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2210,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.Under_development_fees/_search",
+      "displayName": "Under_development_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2211,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Water_Charges/_search",
+      "displayName": "Water_Charges Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2212,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OM.Water_connection_disconnection_fees/_search",
+      "displayName": "Water_connection_disconnection_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2213,
+      "name": "CreateAmendment",
+      "url": "/billing-service/amendment/_create",
+      "displayName": "Create Amendment",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.CreateAmendment"
+    },
+    {
+      "id": 2214,
+      "name": "SearchAmendment",
+      "url": "/billing-service/amendment/_search",
+      "displayName": "Search Amendment",
+      "orderNumber": 5,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.SearchAmendment"
+    },
+    {
+      "id": 2215,
+      "name": "UpdateAmendment",
+      "url": "/billing-service/amendment/_update",
+      "displayName": "Update Amendment",
+      "orderNumber": 6,
+      "enabled": false,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.Amendment"
+    },
+    {
+      "id": 2216,
+      "name": "FSM BillingSlab Create",
+       "url": "/fsm-calculator/v1/billingSlab/_create",
+      "displayName": "FSM BillingSlab Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2217,
+      "name": "FSM BillingSlab Update",
+       "url": "/fsm-calculator/v1/billingSlab/_update",
+      "displayName": "FSM BillingSlab Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2218,
+      "name": "FSM BillingSlab Search",
+       "url": "/fsm-calculator/v1/billingSlab/_search",
+      "displayName": "FSM BillingSlab Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2219,
+      "name": "Search Vendor/DSO",
+      "url": "/vendor/v1/_search",
+      "displayName": "Search  Vendor",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2220,
+      "name": "Locality searcher endpoint for Bill Amendment",
+      "url": "/egov-searcher/locality/BS/_get",
+      "displayName": "Bill amendment locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2221,
+      "name": "BillAmendment",
+      "url": "url",
+      "displayName": "BillAmendment",
+      "orderNumber": 22,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "bill-amend/search",
+      "leftIcon": "action:receipt",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 2222,
+      "displayName": "FstpInbox",
+      "orderNumber": 0,
+      "leftIcon": "",
+      "url": "url",
+      "name": "FSM FSTP INBOX",
+      "enabled": true,
+      "navigationURL": "/digit-ui/employee/fsm/fstp-inbox",
+      "parentModule": "",
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2223,
+      "displayName": "FstpDetails",
+      "orderNumber": 0,
+      "leftIcon": "",
+      "url": "url",
+      "name": "FSM FSTP DETAILS",
+      "enabled": true,
+      "navigationURL": "/digit-ui/employee/fsm/fstp-operator-details/:id",
+      "parentModule": "",
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+  {
+        "id": 2224,
+        "name": "WS Bill generation scheduler",
+        "url": "/ws-calculator/watercharges/scheduler/_create",
+        "displayName": "WS Bill Generation Scheduler",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+      },
+  {
+        "id": 2225,
+        "name": "WS Bill generation search",
+        "url": "/ws-calculator/watercharges/scheduler/_search",
+        "displayName": "WS Bill Generation Search",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-calculator",
+        "code": "null",
+        "path": ""
+      },
+  {
+        "id": 2226,
+        "name": "SW Bill generation scheduler",
+        "url": "/sw-calculator/seweragecharges/scheduler/_create",
+        "displayName": "SW Bill Generation Scheduler",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-calculator",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2227,
+        "name": "SW Bill generation search",
+        "url": "/sw-calculator/seweragecharges/scheduler/_search",
+        "displayName": "SW Bill Generation Search",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-calculator",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2228,
+        "name": "Bill Amendment",
+        "url": "url",
+        "displayName": "Bill Amendment",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "Bill Amendment",
+        "code": "null",
+        "navigationURL": "bill-amend/search",
+        "path": "Bill Amendment.Search",
+        "leftIcon": "action:receipt"
+      },
+     {
+      "id": 2229,
+      "name": "FieldCollectionSearchReportWS",
+      "url": "url",
+      "displayName": "Field Collection Search Report WS",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Field Collection Search Report WS",
+      "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 2230,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/metadata/_get",
+      "displayName": "Field Collection Search Report WS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2231,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/FieldCollectionSearchReportWS/_get",
+       "displayName": "Field Collection Search Report WS",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2232,
+       "name": "FieldCollectionSearchReceiptWS",
+       "url": "url",
+       "displayName": "Field Collection Search Receipt WS",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "W and S.WS Reports.Field Collection Search Receipt WS",
+       "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2233,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/metadata/_get",
+        "displayName": "Field Collection Search Receipt WS",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2234,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/FieldCollectionSearchReceiptWS/_get",
+        "displayName": "Field Collection Search Receipt WS",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      {
+      "id": 2235,
+      "name": "SearchOnlineReceiptsWS",
+      "url": "url",
+      "displayName": "Search Online Receipts WS",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Search Online Receipts WS",
+      "navigationURL": "report/rainmaker-ws/SearchOnlineReceiptsWS",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id":2236,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/metadata/_get",
+      "displayName": "Search Online Receipts WS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2237,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/SearchOnlineReceiptsWS/_get",
+       "displayName": "Search Online Receipts WS",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+     {
+        "id": 2238,
+        "name": "Save Water Connection Filestores",
+        "url": "/ws-services/wc/documents/_create",
+        "displayName": "Save Water Connection Documents",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "ws-services",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2239,
+        "name": "Save Sewerage Connection Filestores",
+        "url": "/sw-services/swc/documents/_create",
+        "displayName": "Save Sewerage Connection Documents",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "sw-services",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2240,
+        "name": "Collection Create Reciept for W&S migration",
+        "url": "/collection-services/payments/ws/migration/_create",
+        "displayName": "Create Payment for W&S migration",
+        "orderNumber": 0,
+        "enabled": true,
+        "serviceCode": "COLLECTION",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2241,
+        "name": "Water & Sewerage",
+        "url": "url",
+        "displayName": "Water & Sewerage",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "path": "Water & Sewerage",
+        "navigationURL": "water-sewerage",
+        "leftIcon": "communication:business",
+        "rightIcon": ""
+      },
+      {
+        "id": 2242,
+        "name": "Search Connection",
+        "url": "quickAction",
+        "displayName": "Search Connection",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "tenantId": "pb",
+        "createdDate": null,
+        "createdBy": null,
+        "lastModifiedDate": null,
+        "lastModifiedBy": null,
+        "path": "Water & Sewerage.Search Connection",
+        "navigationURL": "wns/search",
+        "quickAction": true,
+        "leftIcon": "communication:business",
+        "rightIcon": ""
+      },
+      {
+      "id": 2243,
+      "name": "ArrearReport",
+      "url": "url",
+      "displayName": "Arrear Report",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.ArrearReport",
+      "navigationURL": "report/rainmaker-ws/ArrearReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 2244,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ArrearReport/metadata/_get",
+      "displayName": "Arrear Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2245,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ArrearReport/_get",
+       "displayName": "Arrear Report",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+     {
+        "id": 2246,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/JE_PendencyReport/_get",
+        "displayName": "JE_Pendency Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+        {
+       "id": 2247,
+       "name": "CashCollectionReport",
+       "url": "url",
+       "displayName": "Cash Collection Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "W and S.WS Reports.Cash Collection Report",
+       "navigationURL": "report/rainmaker-ws/CashCollectionReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2248,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CashCollectionReport/metadata/_get",
+        "displayName": "Cash Collection Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2249,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CashCollectionReport/_get",
+        "displayName": "Cash Collection Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+       {
+       "id": 2250,
+       "name": "CollectionsSummaryHeadwiseReport",
+       "url": "url",
+       "displayName": "Collections Summary Headwise Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "W and S.WS Reports.Collections Summary Headwise Report",
+       "navigationURL": "report/rainmaker-ws/CollectionsSummaryHeadwiseReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2251,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/metadata/_get",
+        "displayName": "Collections Summary Headwise Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2252,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/CollectionsSummaryHeadwiseReport/_get",
+        "displayName": "Collections Summary Headwise Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      },
+      
+      {
+      "id": 2253,
+      "name": "ReceiptCollections",
+      "url": "url",
+      "displayName": "Receipt Collections",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Receipt Collections",
+      "navigationURL": "report/rainmaker-ws/ReceiptCollections",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 2254,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ReceiptCollections/metadata/_get",
+      "displayName": "Receipt Collections",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2255,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ReceiptCollections/_get",
+       "displayName": "Receipt Collections",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+       "id": 2256,
+       "name": "JE_PendencyReport",
+       "url": "url",
+       "displayName": "JE_Pendency Report",
+       "orderNumber": 1,
+       "queryParams": "",
+       "parentModule": "",
+       "enabled": true,
+       "serviceCode": "",
+       "path": "W and S.WS Reports.JE_Pendency Report",
+       "navigationURL": "report/rainmaker-ws/JE_PendencyReport",
+       "leftIcon": "action:assignment",
+       "rightIcon": ""
+     },
+      {
+        "id": 2257,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/JE_PendencyReport/metadata/_get",
+        "displayName": "JE_Pendency Report",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+      }
   ]
 }
