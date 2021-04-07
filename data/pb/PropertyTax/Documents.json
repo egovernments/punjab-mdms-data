@@ -216,6 +216,7 @@
           "active": true,
           "parentValue": [
             null,
+            "OFFICESPACE",
             "OTHERS"
           ]
         },
@@ -312,7 +313,7 @@
     {
       "code": "OWNER.OCCUPANCYPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "hasDropdown": true,
       "additionalDetails": {
