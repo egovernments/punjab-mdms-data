@@ -7,6 +7,7 @@
       "headerBandLabel": "PT_COMMON_TABLE_COL_PT_ID",
       "receiptKey": "property-receipt",
       "billKey": "property-bill",
+      "cancelReceipt": true,
       "arrears": true,
       "buttons": [
         {
@@ -21,6 +22,7 @@
       "headerBandLabel": "PTM_COMMON_TABLE_COL_PT_ID",
       "receiptKey": "property-receipt",
       "billKey": "property-bill",
+      "cancelReceipt": false,
       "arrears": true,
       "buttons": [
         {
@@ -36,6 +38,7 @@
       "receiptKey": "tradelicense-receipt",
       "billKey": "tradelicense-bill",
       "arrears": false,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -92,6 +95,7 @@
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",
       "arrears": false,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -121,6 +125,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "arrears": true,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -135,6 +140,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "arrears": true,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -149,6 +155,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "arrears": true,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -163,6 +170,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "arrears": true,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -177,6 +185,7 @@
       "receiptKey": "consolidatedreceipt",
       "billKey": "consolidatedbill",
       "arrears": false,
+      "cancelReceipt": false,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
