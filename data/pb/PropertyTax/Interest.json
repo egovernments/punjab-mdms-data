@@ -2,7 +2,7 @@
   "tenantId": "pb",
   "moduleName": "PropertyTax",
   "Interest": [
-     {   
+    {
       "rate": 0,
       "minAmount": null,
       "flatAmount": null,
@@ -10,13 +10,14 @@
       "fromFY": "2021-22",
       "startingDay": "01/04/2021"
     },
+    
     {   
-      "rate": 0,
+      "rate": 18,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",
-      "startingDay": "01/04/2020"
+      "startingDay": "01/04/2021"
     },
     {
       "rate": 18,
