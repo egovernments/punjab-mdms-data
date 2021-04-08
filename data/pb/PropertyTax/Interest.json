@@ -1,13 +1,71 @@
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
-  "Interest": [{
+  "Interest": [
+    {
       "rate": 0,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2021"
+    },
+    
+    {   
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2021"
+    },
+    {
+      "rate": 18,
       "minAmount": null,
       "flatAmount": null,
        "maxAmount": null,
       "fromFY": "2014-15",
       "startingDay": "01/04/2015"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2015-16",
+      "startingDay": "01/04/2016"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2016-17",
+      "startingDay": "01/04/2017"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2017-18",
+      "startingDay": "01/04/2018"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2019"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "01/04/2020"
     }
   ]
 }
