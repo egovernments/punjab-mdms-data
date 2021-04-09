@@ -283,12 +283,12 @@
       "financialYear": "2014-24"
     },
     {
-      "fromDate": 1207074599000,
+      "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
       "code": "TXELECTRICITYCHUNGI",
-      "financialYear": "2008-24"
+      "financialYear": "2014-24"
     },
     {
       "fromDate": 1396310399000,
@@ -1282,7 +1282,7 @@
       "code": "OTHERFIRECALLREPORTFEE",
       "financialYear": "2018-24"
     },
-	{
+    {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
@@ -1299,13 +1299,68 @@
       "financialYear": "2014-24"
     },
     {
-      "fromDate": 946701270000,
+      "fromDate": 1554076801000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585699201000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1617235201000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "code": "DFAL10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "code": "DFAB10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "code": "DFAMV10YRS2018",
+      "financialYear": "2018-28"
+   }, 
+   { 
+      "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "TX.Pt_Mutation_Fees",
-      "code": "TXMUTATIONFEES",
-      "financialYear": "2013-24"    
-	    
+      "service": "NKS.External_Development_Charges",
+      "code": "NKSDEVELOPMENTCHARG",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "NKS.Permission_Fees",
+      "code": "NKSPERMISSION",
+      "financialYear": "2014-24"
     },
     {
       "fromDate": 1617215400000,
@@ -1322,35 +1377,14 @@
       "service": "TL",
       "code": "TLRENEWAL2021",
       "financialYear": "2021-22"
-	    
-    },
-    {	  
-	    
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
-      "service": "NKS.External_Development_Charges",
-      "code": "NKSDEVELOPMENTCHARG",
-      "financialYear": "2014-24"
     },
     {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "NKS.Permission_Fees",
-      "code": "NKSPERMISSION",
-      "financialYear": "2014-24"
-	    
-    },
-    {	  
-	    
-      "fromDate": 1396310399000,
-      "toDate": 1711929599000,
-      "periodCycle": "ANNUAL",
       "service": "OTHER.Conservency_Fee_Slaughterhouse",
       "code": "OTHERCONSERVENCYFEE",
-      "financialYear": "2014-24"  
-	    
+      "financialYear": "2014-24"
     }
   ]
 }
