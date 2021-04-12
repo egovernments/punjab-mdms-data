@@ -5811,18 +5811,6 @@
       "order": "4",
       "isRequired": false
     },
-   
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Water security tax",
-      "code": "WS_SECURITY_DEPOSIT",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false,
-      "IsBillamend": true
-    },
     {
       "category": "CHARGES",
       "service": "WS.ONE_TIME_FEE",
@@ -5964,18 +5952,6 @@
       "service": "SW",
       "name": "Sewerage tax adjustment",
       "code": "SW_TAX_ADJUSTMENT",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false,
-      "IsBillamend": true
-    },
-
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Sewerage security deposit",
-      "code": "SW_SECURITY_DEPOSIT",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
