@@ -383,6 +383,174 @@
       "department": "H&S",
       "slaHours": 336,
       "menuPath": "Corona"
+    },
+    {
+      "serviceCode": "ReplacementOfTrafficLights",
+      "active": false,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, replace, damage, fix",
+      "department": "O&M",
+      "slaHours": 96,
+      "menuPath": "StreetLights"
+    },
+       "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
+      "active": false,
+      "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
+      "department": "O&Mhj",
+      "slaHours": 96,
+      "menuPath": "StreetLights"
+    },
+     {
+      "serviceCode": "ImproperTimingOfWaterSupply",
+      "active": true,
+      "keywords": "water, supply, connection, timing, repair, broken, pipe, piping, tap",
+      "department": "O&M",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
+     {
+      "serviceCode": "CleaningOfRoadGullies",
+      "active": true,
+      "keywords": "water, supply, connection, road, repair, gullies, pipe, piping, tap",
+      "department": "O&M",
+      "slaHours": 96,
+      "menuPath": "WaterandSewage"
+    },
+      {
+      "serviceCode": "RegardingClarificationOfArrears",
+      "active": true,
+      "keywords": "genration, generate, receipt, arrears",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+      {
+      "serviceCode": "RegardingPenalties",
+      "active": true,
+      "keywords": "genration, generate, receipt, penalties",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+      {
+      "serviceCode": "RegardingDatesOfDepositionOfPropertyTax",
+      "active": true,
+      "keywords": "dates, generate, receipt, deposite",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+      {
+      "serviceCode": "RegardingInformationAboutLatestNotificationsInstructions",
+      "active": true,
+      "keywords": "genration, latest, receipt, notification",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "Property Tax/House Tax"
+    },
+     {
+      "serviceCode": "RequestForConstructionOfNewRoadsFootpathsPavements",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
+    },
+     {
+      "serviceCode": "MaintenanceOfRoadsWithPatchWork",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
+    },
+     {
+      "serviceCode": "RepairOfCulvertsCauseWays",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
+    },
+     {
+      "serviceCode": "MarkingOfRoads",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, marking, street, construction, fix",
+      "department": "TAX",
+      "slaHours": 336,
+      "menuPath": "RoadsAndFootpaths"
+    },
+      {
+      "serviceCode": "IllegalShopsCommercialbuildings",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+      {
+      "serviceCode": "UnauthorizedConstructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+      {
+      "serviceCode": "UnauthorizedLandUse",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+      {
+      "serviceCode": "ViolationOfMasterPlan",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+      {
+      "serviceCode": "MaintenanceOfMonuments",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+     {
+      "serviceCode": "ExcessiveRampsOfShopsAndHouses",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+     {
+      "serviceCode": "EncroachmentOnAnyKindOnGovernmentLand",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+     {
+      "serviceCode": "RequestForFumigation",
+      "active": true,
+      "keywords": "mosquito, insects, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "department": "H&S",
+      "slaHours": 336,
+      "menuPath": "Mosquitos"
+    },
+     {
+      "serviceCode": "ProvisionofShedsForAnimals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, shed, arrangments, bite, biting, bark, barking",
+      "department": "H&S",
+      "slaHours": 336,
+      "menuPath": "Animals"
     }
+    
   ]
 }
