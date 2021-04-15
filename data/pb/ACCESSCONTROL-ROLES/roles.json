@@ -306,6 +306,27 @@
       "code": "MSG_BROADCASTER",
       "name": "Message Broadcaster",
       "description": "Broadcaster can broad cast messages in their respective ULB for mass updates"
+    },
+    {
+      "code": "TL_REC_CANCEL",
+      "name": "TL Receipt Cancellation",
+      "description": "Allowed to Cancel TL Receipts"
+    },
+    {
+      "code": "PT_REC_CANCEL",
+      "name": "PT Receipt Cancellation",
+      "description": "Allowed to Cancel PT Receipts"
+    },
+    {
+      "code": "FIRENOC_REC_CANCEL",
+      "name": "Fire NOC Receipt Cancellation",
+      "description": "Allowed to Cancel Fire NOC Receipts"
+    },
+    {
+      "code": "MISC_REC_CANCEL",
+      "name": "Miscellaneous Receipt Cancellation",
+      "description": "Allowed to Cancel Miscellaneous Receipts"
     }
+    
   ]
 }
