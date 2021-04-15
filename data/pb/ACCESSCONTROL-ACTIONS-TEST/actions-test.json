@@ -11162,6 +11162,30 @@
       "serviceCode": "WSREPORTS",
       "code": "null",
       "path": ""
+    },
+	
+	{
+      "id": 2255,
+      "name": "Disconnect Water Connection",
+      "url": "/ws-services/wc/disconnect",
+      "displayName": "Disconnect Water Connection",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+	
+	{
+      "id": 2256,
+      "name": "Disconnect Sewerage Connection",
+      "url": "/sw-services/swc/disconnect",
+      "displayName": "Disconnect Sewerage Connection",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
 ]
 
