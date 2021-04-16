@@ -13,7 +13,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"COURTORDER","active":true}],
-          "required": true
+          "required": false
         },
            {
           "documentType": "PASTBILLS",
@@ -24,7 +24,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "IDENTITYPROOF",
@@ -79,7 +79,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -134,7 +134,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "SELFDECLARATION",
@@ -145,7 +145,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"SELFDECLARATION","active":true}],
-          "required": true
+          "required": false
         }
       ]
     },
@@ -160,7 +160,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"GOVTNOTIFICATION","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "PASTBILLS",
@@ -171,7 +171,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "IDENTITYPROOF",
@@ -226,7 +226,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -281,7 +281,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         }
       ]
     },
@@ -296,7 +296,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"OFFICENOTEORDER","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "PASTBILLS",
@@ -307,7 +307,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "IDENTITYPROOF",
@@ -362,7 +362,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -417,7 +417,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         }
       ]
     },
@@ -432,7 +432,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"GOVTNOTIFICATION","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "PASTBILLS",
@@ -443,7 +443,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "IDENTITYPROOF",
@@ -498,7 +498,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -553,7 +553,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         }
       ]
     },
@@ -568,7 +568,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"OFFICENOTEORDER","active":true}],
-          "required": true
+          "required": false
         },        {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
@@ -620,7 +620,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -675,7 +675,7 @@
               "active": true
             }
           ],
-          "required": true  
+          "required": false  
         },
         {
           "documentType": "SELFDECLARATION",
@@ -686,7 +686,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"SELFDECLARATION","active":true}],
-          "required": true  
+          "required": false  
         },
         {
           "documentType": "PASTBILLS",
@@ -695,7 +695,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true  
+          "required": false  
         }
       ]
     },
@@ -710,7 +710,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"SELFDECLARATION","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "SUPPORTINGDOCUMENT",
@@ -719,7 +719,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"SUPPORTINGDOCUMENT","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "PASTBILLS",
@@ -730,7 +730,7 @@
           ],
           "hasDropDown":true,
           "dropdownData":[{"code":"PASTBILLS","active":true}],
-          "required": true
+          "required": false
         },
         {
           "documentType": "IDENTITYPROOF",
@@ -785,7 +785,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         },
         {
           "documentType": "ADDRESSPROOF",
@@ -840,7 +840,7 @@
               "active": true
             }
           ],
-          "required": true
+          "required": false
         }
       ]
     }
