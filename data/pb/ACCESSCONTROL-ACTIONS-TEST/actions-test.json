@@ -12753,6 +12753,34 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+	
+	  
+	  
+	  
+    {
+      "id": 2387,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/NKS.External_Development_Charges/_search",
+      "displayName": "Water_connection_disconnection_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },	  
+    {
+      "id": 2388,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/NKS.External_Development_Charges/_workflow",
+      "displayName": "Water_connection_disconnection_fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
