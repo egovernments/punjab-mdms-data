@@ -550,7 +550,126 @@
       "department": "H&S",
       "slaHours": 336,
       "menuPath": "Animals"
-    }
-    
+    },
+     {
+      "serviceCode": "RatesInPaidParkings",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+     {
+      "serviceCode": "MisusageOfGovernmentPropertyInPaidParkings",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": "LandViolations"
+    },
+     {
+      "serviceCode": "RequestsForPlantingNewtrees",
+      "active": true,
+      "keywords": "tree, cut, planting, unathourized, remove, plant",
+      "department": "HORTI",
+      "slaHours": 336,
+      "menuPath": "Trees"
+    },
+     {
+      "serviceCode": "NewParkRequest",
+      "active": true,
+      "keywords": "open, new, park, human, privy, toilet",
+      "department": "HORTI",
+      "slaHours": 336,
+      "menuPath": "Parks"
+    },
+     {
+      "serviceCode": "BirthAndDeathCertificates",
+      "active": true,
+      "keywords": "open, new, park, human, privy, toilet",
+      "department": "HORTI",
+      "slaHours": 336,
+      "menuPath": "BirthandDeath"
+    },
+     {
+      "serviceCode": "TransferAndPosting",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": ""
+    },
+     {
+      "serviceCode": "TransferAndPosting",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": ""
+    },
+      {
+      "serviceCode": "FundsRelated",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": ""
+    },
+      {
+      "serviceCode": "TownPlanning",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "TP",
+      "slaHours": 336,
+      "menuPath": ""
+    },
+      {
+      "serviceCode": "AgainstEmployee",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": ""
+    },
+      {
+      "serviceCode": "eGovWaterSupply",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": "eGovernanceRelated"
+    },
+      {
+      "serviceCode": "eGovSewerage",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": "eGovernanceRelated"
+    },
+      {
+      "serviceCode": "eGovPropertyTax",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": "eGovernanceRelated"
+    },
+      {
+      "serviceCode": "eGovtradeLicense",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": "eGovernanceRelated"
+    },
+      {
+      "serviceCode": "eGovOthers",
+      "active": true,
+      "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
+      "department": "ADMIN",
+      "slaHours": 336,
+      "menuPath": "eGovernanceRelated"
+    },
   ]
 }
