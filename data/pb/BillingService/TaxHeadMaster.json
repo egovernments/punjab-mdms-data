@@ -5255,7 +5255,7 @@
     },
     {
       "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
+      "service": "SW",
       "name": "Sewerage adhoc penality",
       "code": "SW_ADHOC_PENALTY",
       "isDebit": false,
@@ -5265,7 +5265,7 @@
     },
     {
       "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
+      "service": "SW",
       "name": "Sewerage adhoc rebate",
       "code": "SW_ADHOC_REBATE",
       "isDebit": false,
@@ -5957,26 +5957,6 @@
       "order": "2",
       "isRequired": false,
       "IsBillamend": true
-    },
-	  {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Sewerage adhoc rebate",
-      "code": "SW_ADHOC_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "10",
-      "isRequired": false
-    },
-	  {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Sewerage adhoc penality",
-      "code": "SW_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "9",
-      "isRequired": false
     }
   ]
 }
