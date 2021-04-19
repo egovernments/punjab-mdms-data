@@ -5957,6 +5957,16 @@
       "order": "2",
       "isRequired": false,
       "IsBillamend": true
+    },
+	  {
+      "category": "TAX",
+      "service": "SW",
+      "name": "Sewerage adhoc rebate",
+      "code": "SW_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false
     }
   ]
 }
