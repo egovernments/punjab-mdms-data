@@ -507,11 +507,11 @@
       "idname": "other.dog_registration.receipt.id"
     },
     {
-      "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
+      "format": "[CITY.CODE][SEQ_WS_CON_[TENANT_ID]]",
       "idname": "waterservice.connection.id"
     },
     {
-      "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_CON_[TENANT_ID]]",
+      "format": "[CITY.CODE][SEQ_SW_CON_[TENANT_ID]]",
       "idname": "sewerageservice.connection.id"
     },
     {
@@ -584,6 +584,10 @@
       "idname": "other.conservency_fee_slaughterhouse.receipt.id"
         
           
+    },
+    {
+      "idname": "bs.amendment.id",
+      "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
     }
   ]
 }

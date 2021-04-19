@@ -93,6 +93,27 @@
       "active": true,
       "required": false,
       "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
+    },
+    {
+      "code": "APPLICANT_PHOTO_PP",
+      "documentType": "APPLICANT_PHOTO_PP",
+      "active": true,
+      "required": true,
+      "description": "APPLICANT_PHOTO_PP_DESCRIPTION"
+    },
+    {
+      "code": "SELF_DECLARATION_BY_APPLICANT",
+      "documentType": "SELF_DECLARATION_BY_APPLICANT",
+      "active": true,
+      "required": true,
+      "description": "SELF_DECLARATION_BY_APPLICANT_DESCRIPTION"
+    },
+     {
+      "code": "OTHER_DOCUMENTS",
+      "documentType": "OTHER_DOCUMENTS",
+      "active": true,
+      "required": false,
+      "description": "OTHER_DOCUMENTS_DESCRIPTION"
     }
   ]
 }

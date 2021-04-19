@@ -760,6 +760,22 @@
     }
   },
   "ws-services-masters": {
+    "subUsageType": {
+      "masterName": "subUsageType",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "billingType": {
+      "masterName": "billingType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "connectionCategory": {
       "masterName": "connectionCategory",
       "isStateLevel": false,
@@ -769,7 +785,7 @@
     },
     "connectionType": {
       "masterName": "connectionType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
@@ -787,9 +803,31 @@
       "uniqueKeys": [
         "$.billingCycle"
       ]
+    },
+	 "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	
+	 "ModifyConnectionDocuments": {
+      "masterName": "ModifyConnectionDocuments",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
+    "PipeSize": {
+      "masterName": "PipeSize",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
+    },
     "WaterCess": {
       "masterName": "WaterCess",
       "isStateLevel": true,
@@ -868,7 +906,7 @@
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
@@ -901,7 +939,7 @@
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.billingCycle"
       ]
@@ -943,7 +981,7 @@
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     }
   },
