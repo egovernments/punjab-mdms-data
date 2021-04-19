@@ -11186,6 +11186,44 @@
       "serviceCode": "ws-services",
       "code": "null",
       "path": ""
+    },
+    
+     {
+    "id": 2257,
+    "name": "ReceiptRegisterReportSW",
+    "url": "url",
+    "displayName": "Receipt Register Report SW",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Receipt Register Report SW",
+    "navigationURL": "report/rainmaker-ws/ReceiptRegisterReportSW",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2258,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/ReceiptRegisterReportSW/metadata/_get",
+    "displayName": "Receipt Register Report SW",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2259,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/ReceiptRegisterReportSW/_get",
+     "displayName": "Receipt Register Report SW",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
     }
 ]
 
