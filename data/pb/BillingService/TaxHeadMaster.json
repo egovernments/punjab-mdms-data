@@ -5967,6 +5967,16 @@
       "isActualDemand": true,
       "order": "10",
       "isRequired": false
-    }
+    },
+	  {
+      "category": "TAX",
+      "service": "SW",
+      "name": "Sewerage adhoc penality",
+      "code": "SW_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false
+    },
   ]
 }
