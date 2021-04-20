@@ -11261,6 +11261,17 @@
      "serviceCode": "WSREPORTS",
      "code": "null",
      "path": ""
+    },
+	{
+      "id": 2263,
+      "name": "CancelBillV2",
+      "url": "/billing-service/bill/v2/_cancelbill",
+      "displayName": "cancel Bill v2",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.GenerateBill"
     }
 ]
 
