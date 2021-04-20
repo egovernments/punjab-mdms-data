@@ -11224,6 +11224,43 @@
      "serviceCode": "WSREPORTS",
      "code": "null",
      "path": ""
+    },
+    {
+    "id": 2260,
+    "name": "ChequeCollectionReportWS",
+    "url": "url",
+    "displayName": "Cheque Collection Report WS",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Cheque Collection Report WS",
+    "navigationURL": "report/rainmaker-ws/ChequeCollectionReportWS",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2261,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/ChequeCollectionReportWS/metadata/_get",
+    "displayName": "Cheque Collection Report WS",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2262,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/ChequeCollectionReportWS/_get",
+     "displayName": "Cheque Collection Report WS",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
     }
 ]
 
