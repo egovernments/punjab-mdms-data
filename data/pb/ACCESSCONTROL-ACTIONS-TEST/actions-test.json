@@ -11287,6 +11287,20 @@
           "serviceCode": "BILLING_SERVICE",
           "code": "null",
           "path": "Billing Service.GenerateBill"
-        }
+        },
+        {
+      	  "id": 2265,
+      	  "name": "Dishonor Cheque/DD",
+      	  "url": "url",
+      	  "parentModule": "",
+          "displayName": "Dishonor Cheque/DD",
+          "orderNumber": 1,
+          "enabled": true,
+      	  "serviceCode": "FinanceAdmin",
+      	  "code": "null",
+      	  "leftIcon": "editor:insert-chart",
+      	  "path": "Finance.Administration.Dishonor Cheque/DD",
+          "navigationURL": "services/collection/dishonour/cheque/form"
+      }
   ]
 }
