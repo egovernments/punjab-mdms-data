@@ -11238,6 +11238,55 @@
         "serviceCode": "ws-services",
         "code": "null",
         "path": ""
-      }
+      },
+      
+      {
+        "id": 2261,
+        "name": "ChequeCollectionReportWS",
+        "url": "url",
+        "displayName": "Cheque Collection Report WS",
+        "orderNumber": 1,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "path": "W and S.WS Reports.Cheque Collection Report WS",
+        "navigationURL": "report/rainmaker-ws/ChequeCollectionReportWS",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+       },
+      {
+        "id": 2262,
+        "name": "WS Report",
+        "url": "/report/rainmaker-ws/ChequeCollectionReportWS/metadata/_get",
+        "displayName": "Cheque Collection Report WS",
+        "orderNumber": 1,
+        "enabled": true,
+        "serviceCode": "WSREPORTS",
+        "code": "null",
+        "path": ""
+       },
+       {
+         "id": 2263,
+         "name": "WS Report",
+         "url": "/report/rainmaker-ws/ChequeCollectionReportWS/_get",
+         "displayName": "Cheque Collection Report WS",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "WSREPORTS",
+         "code": "null",
+         "path": ""
+        },
+        {
+          "id": 2264,
+          "name": "CancelBillV2",
+          "url": "/billing-service/bill/v2/_cancelbill",
+          "displayName": "cancel Bill v2",
+          "orderNumber": 9,
+          "enabled": true,
+          "serviceCode": "BILLING_SERVICE",
+          "code": "null",
+          "path": "Billing Service.GenerateBill"
+        }
   ]
 }
