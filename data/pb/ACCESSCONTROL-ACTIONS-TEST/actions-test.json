@@ -11272,6 +11272,80 @@
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.GenerateBill"
+    },
+     {
+    "id": 2264,
+    "name": "SearchWaterChargeReport",
+    "url": "url",
+    "displayName": "Search Water Charge Report",
+    "orderNumber": 1,
+    "queryParams": "",
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "",
+    "path": "W and S.WS Reports.Search Water Charge Report",
+    "navigationURL": "report/rainmaker-ws/SearchWaterChargeReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+   },
+  {
+    "id": 2265,
+    "name": "WS Report",
+    "url": "/report/rainmaker-ws/SearchWaterChargeReport/metadata/_get",
+    "displayName": "Search Water Charge Report",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "WSREPORTS",
+    "code": "null",
+    "path": ""
+   },
+   {
+     "id": 2266,
+     "name": "WS Report",
+     "url": "/report/rainmaker-ws/SearchWaterChargeReport/_get",
+     "displayName": "Search Water Charge Report",
+     "orderNumber": 1,
+     "enabled": true,
+     "serviceCode": "WSREPORTS",
+     "code": "null",
+     "path": ""
+    },
+    {
+     "id": 2267,
+     "name": "SearchSewerageChargeReport",
+     "url": "url",
+     "displayName": "Search Sewerage Charge Report",
+     "orderNumber": 1,
+     "queryParams": "",
+     "parentModule": "",
+     "enabled": true,
+     "serviceCode": "",
+     "path": "W and S.WS Reports.Search Sewerage Charge Report",
+     "navigationURL": "report/rainmaker-ws/SearchSewerageChargeReport",
+     "leftIcon": "action:assignment",
+     "rightIcon": ""
+   },
+    {
+      "id": 2268,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/SearchSewerageChargeReport/metadata/_get",
+      "displayName": "Search Sewerage Charge Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 2269,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/SearchSewerageChargeReport/_get",
+      "displayName": "Search Sewerage Charge Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
     }
 ]
 
