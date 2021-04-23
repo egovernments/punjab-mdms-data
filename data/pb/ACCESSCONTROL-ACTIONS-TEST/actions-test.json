@@ -12805,7 +12805,31 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2391,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Pt_Mutation_Fees/_search",
+      "displayName": "TX.Pt_Mutation_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2392,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/TX.Pt_Mutation_Fees/_workflow",
+      "displayName": "TX.Pt_Mutation_Fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }	  
 	  
 	  
   ]
