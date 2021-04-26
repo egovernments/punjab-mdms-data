@@ -1677,7 +1677,8 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get",
-      "isBillAmendmentEnabled":true
+      "isBillAmendmentEnabled":true,
+      "cancelReceipt":true	    
     },
     {
       "businessService": "sw-services-calculation",
@@ -1693,7 +1694,8 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get",
-      "isBillAmendmentEnabled":true
+      "isBillAmendmentEnabled":true,
+      "cancelReceipt":true
     },
     {
       "businessService": "WS.ONE_TIME_FEE",
