@@ -4893,18 +4893,18 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "CHARGE",
       "service": "WS",
       "name": "Water Charges",
       "code": "WS_CHARGE",
       "isDebit": true,
-      "isActualDemand": false,
+      "isActualDemand": true,
       "order": "0",
       "isRequired": false,
       "IsBillamend": true
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "WS",
       "name": "Rebate",
       "code": "WS_TIME_REBATE",
@@ -4934,7 +4934,7 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
     {
       "category": "PENALTY",
@@ -4959,7 +4959,7 @@
       "IsBillamend": false
     },
     {
-      "category": "TAX",
+      "category": "CHARGE",
       "service": "SW",
       "name": "Sewerage Charges",
       "code": "SW_CHARGE",
@@ -4970,7 +4970,7 @@
       "IsBillamend": true
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "SW",
       "name": "Rebate",
       "code": "SW_TIME_REBATE",
@@ -5083,8 +5083,8 @@
       "order": "6",
       "isRequired": false
     },
-	{
-      "category": "CHARGES",
+    {
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application user charges",
       "code": "WS_USER_CHARGE",
@@ -5094,7 +5094,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application tax and cess",
       "code": "WS_TAX_AND_CESS",
@@ -5104,7 +5104,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Fee Round Off",
       "code": "WS_FEE_ROUND_OFF",
@@ -5114,7 +5114,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "PENALTY",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water adhoc penality",
       "code": "WS_ADHOC_PENALTY",
@@ -5124,7 +5124,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "REBATE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water adhoc rebate",
       "code": "WS_ADHOC_REBATE",
@@ -5799,7 +5799,7 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
     {
       "category": "FEE",
@@ -5809,7 +5809,8 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "4",
-      "isRequired": false
+      "isRequired": false,
+      "IsBillamend": true
     },
     {
       "category": "CHARGES",
@@ -5861,7 +5862,7 @@
       "order": "6",
       "isRequired": false
     },
-	  {
+    {
       "category": "FEE",
       "service": "SW",
       "name": "Sewerage title transfer fee",
@@ -5881,7 +5882,7 @@
       "order": "6",
       "isRequired": false
     },
- {
+    {
       "category": "CHARGES",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage supervision charge",
@@ -5890,7 +5891,7 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
  {
       "category": "FEE",
@@ -5901,7 +5902,7 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
     {
       "category": "FEE",
@@ -5912,7 +5913,7 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
     {
       "category": "FEE",
@@ -5923,7 +5924,7 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
     {
       "category": "FEE",
@@ -5945,7 +5946,7 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     },
  {
       "category": "FEE",
@@ -5956,7 +5957,7 @@
       "isActualDemand": true,
       "order": "2",
       "isRequired": false,
-      "IsBillamend": true
+      "IsBillamend": false
     }
   ]
 }
