@@ -4893,7 +4893,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "TAX",
       "service": "WS",
       "name": "Water Charges",
       "code": "WS_CHARGE",
@@ -4915,7 +4915,7 @@
       "IsBillamend": false
     },
     {
-      "category": "TAX",
+      "category": "FINES",
       "service": "WS",
       "name": "Interest",
       "code": "WS_TIME_INTEREST",
@@ -4959,7 +4959,7 @@
       "IsBillamend": false
     },
     {
-      "category": "CHARGES",
+      "category": "TAX",
       "service": "SW",
       "name": "Sewerage Charges",
       "code": "SW_CHARGE",
@@ -4981,7 +4981,7 @@
       "IsBillamend": false
     },
     {
-      "category": "TAX",
+      "category": "FINES",
       "service": "SW",
       "name": "Interest",
       "code": "SW_TIME_INTEREST",
@@ -5044,7 +5044,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application road cutting charge",
       "code": "WS_ROAD_CUTTING_CHARGE",
@@ -5064,7 +5064,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water application security charge",
       "code": "WS_SECURITY_DEPOSIT",
@@ -5184,7 +5184,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage application road cutting charge",
       "code": "SW_ROAD_CUTTING_CHARGE",
@@ -5194,7 +5194,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage application security deposite",
       "code": "SW_SECURITY_DEPOSIT",
@@ -5274,7 +5274,7 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage application connection fee",
       "code": "SW_CONNECTION_FEE",
@@ -5781,7 +5781,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "TAX",
       "service": "WS",
       "name": "Meter Rent",
       "code": "WS_METER_RENT",
@@ -5791,7 +5791,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "WS",
       "name": "Water Tax Adjustment",
       "code": "WS_TAX_ADJUSTMENT",
@@ -5802,7 +5802,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "WS",
       "name": "Door to door collection charges",
       "code": "WS_DOOR_TO_DOOR_COLLECTION_CHARGES",
@@ -5893,7 +5893,7 @@
       "IsBillamend": true
     },
  {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage donation charge",
       "code": "SW_DONATION_CHARGE",
@@ -5904,7 +5904,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage estimation charge",
       "code": "SW_ESTIMATION_CHARGE",
@@ -5915,7 +5915,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage inspection charge",
       "code": "SW_INSPECTION_CHARGE",
@@ -5926,7 +5926,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage door to door collection charge",
       "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
@@ -5937,7 +5937,7 @@
       "IsBillamend": true
     },
     {
-      "category": "CHARGES",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage application charge",
       "code": "SW_APPLICATION_CHARGE",
@@ -5948,7 +5948,7 @@
       "IsBillamend": true
     },
  {
-      "category": "TAX",
+      "category": "FEE",
       "service": "SW",
       "name": "Sewerage tax adjustment",
       "code": "SW_TAX_ADJUSTMENT",
