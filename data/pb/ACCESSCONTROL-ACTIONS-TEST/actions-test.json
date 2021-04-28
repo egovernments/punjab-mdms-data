@@ -12879,6 +12879,30 @@
           "leftIcon": "editor:insert-chart",
           "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
           "navigationURL": "services/collection/report/dishonouredcheque/searchform"
-     }
+     },
+     {
+        "id": 2397,
+        "name": "Water Receipt Update",
+        "url": "/collection-services/payments/WS/_workflow",
+        "displayName": "Water Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2398,
+        "name": "Sewerage Receipt Update",
+        "url": "/collection-services/payments/SW/_workflow",
+        "displayName": "Sewerage Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
   ]
 }
