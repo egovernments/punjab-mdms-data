@@ -102,7 +102,6 @@
           "citizenUrl": "/",
           "employeeUrl": "/inbox"
         }
-     
       ]
     },
     {
@@ -125,7 +124,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "arrears": true,
-      "cancelReceipt": false,
+      "cancelReceipt": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -138,9 +137,9 @@
       "code": "SW",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "ws-onetime-receipt",
-      "billKey": "ws-bill",
+      "billKey": "sw-bill",
       "arrears": true,
-      "cancelReceipt": false,
+      "cancelReceipt": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -154,7 +153,7 @@
       "headerBandLabel": "PAYMENT_COMMON_APPLICATION_CODE",
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
-      "arrears": true,
+      "arrears": false,
       "cancelReceipt": false,
       "buttons": [
         {
@@ -168,8 +167,8 @@
       "code": "SW.ONE_TIME_FEE",
       "headerBandLabel": "PAYMENT_COMMON_APPLICATION_CODE",
       "receiptKey": "ws-onetime-receipt",
-      "billKey": "ws-bill",
-      "arrears": true,
+      "billKey": "sw-bill",
+      "arrears": false,
       "cancelReceipt": false,
       "buttons": [
         {
@@ -191,6 +190,260 @@
           "label": "COMMON_BUTTON_HOME",
           "citizenUrl": "/fire-noc/home",
           "employeeUrl": "/fire-noc/search"
+        }
+      ]
+    },
+    {
+      "code": "WC",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "waterchargesdemandbill",
+      "billKey": "wc-bill",
+      "arrears": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/wc-citizen/home",
+          "employeeUrl": "/wc/search"
+        }
+      ]
+    },
+    {
+      "code": "RT",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "TX",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "ADVT",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "ADMN",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "FN",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "ST",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "CH",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "FTP",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "NKS",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "OM",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "SNT",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "OTHER",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "WF",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "TB",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "CSS",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
+        }
+      ]
+    },
+    {
+      "code": "LCF",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "consolidatedreceipt",
+      "billKey": "consolidatedbill",
+      "arrears": false,
+      "cancelReceipt": true,
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/",
+          "employeeUrl": "/inbox"
         }
       ]
     }
