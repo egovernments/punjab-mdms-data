@@ -4893,9 +4893,9 @@
       "isRequired": false
     },
   {
-      "category": "CHARGES",
+      "category": "CHARGE",
       "code": "WS_CHARGE",
-      "isActualDemand": false,
+      "isActualDemand": true,
       "IsBillamend": true,
       "isDebit": true,
       "isRequired": false,
@@ -4904,7 +4904,7 @@
       "service": "WS"
   },
   {
-      "category": "TAX",
+      "category": "REBATE",
       "code": "WS_TIME_REBATE",
       "isActualDemand": false,
       "IsBillamend": false,
@@ -4915,7 +4915,7 @@
       "service": "WS"
   },
   {
-      "category": "TAX",
+      "category": "FINES",
       "code": "WS_TIME_INTEREST",
       "isActualDemand": true,
       "IsBillamend": true,
@@ -4929,7 +4929,7 @@
       "category": "TAX",
       "code": "WS_WATER_CESS",
       "isActualDemand": true,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": false,
       "isRequired": false,
       "name": "Water Cess",
@@ -4959,7 +4959,7 @@
       "service": "WS"
   },
   {
-      "category": "CHARGES",
+      "category": "CHARGE",
       "code": "SW_CHARGE",
       "isActualDemand": false,
       "IsBillamend": true,
@@ -4970,7 +4970,7 @@
       "service": "SW"
   },
   {
-      "category": "TAX",
+      "category": "REBATE",
       "code": "SW_TIME_REBATE",
       "isActualDemand": false,
       "IsBillamend": false,
@@ -4981,7 +4981,7 @@
       "service": "SW"
   },
   {
-      "category": "TAX",
+      "category": "FINES",
       "code": "SW_TIME_INTEREST",
       "isActualDemand": true,
       "IsBillamend": true,
@@ -5044,7 +5044,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "WS_ROAD_CUTTING_CHARGE",
       "isActualDemand": true,
       "isDebit": false,
@@ -5064,7 +5064,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "WS_SECURITY_DEPOSIT",
       "isActualDemand": true,
       "isDebit": false,
@@ -5084,7 +5084,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "WS_USER_CHARGE",
       "isActualDemand": true,
       "isDebit": false,
@@ -5094,7 +5094,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "TAX",
+      "category": "FEE",
       "code": "WS_TAX_AND_CESS",
       "isActualDemand": true,
       "isDebit": false,
@@ -5104,7 +5104,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "TAX",
+      "category": "FEE",
       "code": "WS_FEE_ROUND_OFF",
       "isActualDemand": true,
       "isDebit": false,
@@ -5124,7 +5124,7 @@
       "service": "WS.ONE_TIME_FEE"
   },
   {
-      "category": "TAX",
+      "category": "REBATE",
       "code": "WS_ADHOC_REBATE",
       "isActualDemand": true,
       "isDebit": false,
@@ -5184,7 +5184,7 @@
       "service": "SW.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_ROAD_CUTTING_CHARGE",
       "isActualDemand": true,
       "isDebit": false,
@@ -5194,7 +5194,7 @@
       "service": "SW.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_SECURITY_DEPOSIT",
       "isActualDemand": true,
       "isDebit": false,
@@ -5274,7 +5274,7 @@
       "service": "SW"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_CONNECTION_FEE",
       "isActualDemand": true,
       "isDebit": false,
@@ -6105,7 +6105,7 @@
       "service": "WS"
   },
   {
-      "category": "CHARGES",
+      "category": "TAX",
       "code": "WS_METER_RENT",
       "isActualDemand": true,
       "isDebit": false,
@@ -6115,10 +6115,10 @@
       "service": "WS"
   },
   {
-      "category": "TAX",
+      "category": "FEE",
       "code": "WS_TAX_ADJUSTMENT",
       "isActualDemand": true,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": false,
       "isRequired": false,
       "name": "Water Tax Adjustment",
@@ -6131,6 +6131,7 @@
       "isActualDemand": true,
       "isDebit": false,
       "isRequired": false,
+      "IsBillamend": true,
       "name": "Door to door collection charges",
       "order": "4",
       "service": "WS"
@@ -6217,10 +6218,10 @@
       "service": "SW.ONE_TIME_FEE"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_DONATION_CHARGE",
       "isActualDemand": false,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": true,
       "isRequired": false,
       "name": "Sewerage donation charge",
@@ -6228,10 +6229,10 @@
       "service": "SW"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_ESTIMATION_CHARGE",
       "isActualDemand": false,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": true,
       "isRequired": false,
       "name": "Sewerage estimation charge",
@@ -6239,10 +6240,10 @@
       "service": "SW"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_INSPECTION_CHARGE",
       "isActualDemand": false,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": true,
       "isRequired": false,
       "name": "Sewerage inspection charge",
@@ -6250,7 +6251,7 @@
       "service": "SW"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
       "isActualDemand": false,
       "IsBillamend": true,
@@ -6261,10 +6262,10 @@
       "service": "SW"
   },
   {
-      "category": "CHARGES",
+      "category": "FEE",
       "code": "SW_APPLICATION_CHARGE",
       "isActualDemand": false,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": true,
       "isRequired": false,
       "name": "Sewerage application charge",
@@ -6272,10 +6273,10 @@
       "service": "SW"
   },
   {
-      "category": "TAX",
+      "category": "FEE",
       "code": "SW_TAX_ADJUSTMENT",
       "isActualDemand": true,
-      "IsBillamend": true,
+      "IsBillamend": false,
       "isDebit": false,
       "isRequired": false,
       "name": "Sewerage tax adjustment",
