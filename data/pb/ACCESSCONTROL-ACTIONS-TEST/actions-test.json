@@ -6843,7 +6843,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 2,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "",
       "path": "",
@@ -6859,7 +6859,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 13,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "null",
       "navigationURL": "wns-citizen/home",
@@ -6874,7 +6874,7 @@
       "displayName": "Water & Sewerage",
       "orderNumber": 13,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "wns",
       "code": "null",
       "navigationURL": "wns/search",
@@ -12841,7 +12841,78 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2394,
+      "name": "Disconnect Water Connection",
+      "url": "/ws-services/wc/disconnect",
+      "displayName": "Disconnect Water Connection",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+
+  {
+      "id": 2395,
+      "name": "Disconnect Sewerage Connection",
+      "url": "/sw-services/swc/disconnect",
+      "displayName": "Disconnect Sewerage Connection",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2396,
+      "name": "ChequeCollectionReportWS",
+      "url": "url",
+      "displayName": "Cheque Collection Report WS",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "W and S.WS Reports.Cheque Collection Report WS",
+      "navigationURL": "report/rainmaker-ws/ChequeCollectionReportWS",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     },
+    {
+      "id": 2397,
+      "name": "WS Report",
+      "url": "/report/rainmaker-ws/ChequeCollectionReportWS/metadata/_get",
+      "displayName": "Cheque Collection Report WS",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "WSREPORTS",
+      "code": "null",
+      "path": ""
+     },
+     {
+       "id": 2398,
+       "name": "WS Report",
+       "url": "/report/rainmaker-ws/ChequeCollectionReportWS/_get",
+       "displayName": "Cheque Collection Report WS",
+       "orderNumber": 1,
+       "enabled": true,
+       "serviceCode": "WSREPORTS",
+       "code": "null",
+       "path": ""
+      },
+      {
+        "id": 2399,
+        "name": "CancelBillV2",
+        "url": "/billing-service/bill/v2/_cancelbill",
+        "displayName": "cancel Bill v2",
+        "orderNumber": 9,
+        "enabled": true,
+        "serviceCode": "BILLING_SERVICE",
+        "code": "null",
+        "path": "Billing Service.GenerateBill"
+      }
 	  
 	  
   ]

@@ -5865,6 +5865,196 @@
       "order": "0",
       "isRequired": false
       
-    }
+    },
+    {
+      "category": "PENALTY",
+      "code": "WS_BREAKDOWN_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "BreakdownPenalty",
+      "order": "3",
+      "service": "WS"
+  },
+  {
+      "category": "TAX",
+      "code": "WS_METER_RENT",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Meter Rent",
+      "order": "4",
+      "service": "WS"
+  },
+  {
+      "category": "FEE",
+      "code": "WS_TAX_ADJUSTMENT",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water Tax Adjustment",
+      "order": "1",
+      "service": "WS"
+  },
+  {
+      "category": "CHARGES",
+      "code": "WS_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "IsBillamend": true,
+      "name": "Door to door collection charges",
+      "order": "4",
+      "service": "WS"
+  },
+  {
+      "category": "CHARGES",
+      "code": "WS_SUPERVISION_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water supervision tax",
+      "order": "4",
+      "service": "WS.ONE_TIME_FEE"
+  },
+  {
+      "category": "CHARGES",
+      "code": "WS_APPLICATION_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water Application Tax",
+      "order": "4",
+      "service": "WS"
+  },
+  {
+      "category": "FEE",
+      "code": "WS_CONNECTION_TYPE_CONVERSION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water connection type conversion fee",
+      "order": "6",
+      "service": "WS"
+  },
+  {
+      "category": "FEE",
+      "code": "WS_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water title transfer fee",
+      "order": "6",
+      "service": "WS"
+  },
+  {
+      "category": "FEE",
+      "code": "WS_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water additional title transfer fee",
+      "order": "6",
+      "service": "WS"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage title transfer fee",
+      "order": "6",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage additional title transfer fee",
+      "order": "6",
+      "service": "SW.ONE_TIME_FEE"
+  },
+  {
+      "category": "CHARGES",
+      "code": "SW_SUPERVISION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage supervision charge",
+      "order": "0",
+      "service": "SW.ONE_TIME_FEE"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_DONATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage donation charge",
+      "order": "0",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_ESTIMATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage estimation charge",
+      "order": "0",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_INSPECTION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage inspection charge",
+      "order": "0",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isActualDemand": false,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage door to door collection charge",
+      "order": "0",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_APPLICATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage application charge",
+      "order": "0",
+      "service": "SW"
+  },
+  {
+      "category": "FEE",
+      "code": "SW_TAX_ADJUSTMENT",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage tax adjustment",
+      "order": "2",
+      "service": "SW"
+  }
   ]
 }
