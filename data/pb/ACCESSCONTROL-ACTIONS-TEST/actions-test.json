@@ -6868,21 +6868,6 @@
       "rightIcon": ""
     },
     {
-      "id": 1929,
-      "name": "Water & Sewerage",
-      "url": "url",
-      "displayName": "Water & Sewerage",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "wns",
-      "code": "null",
-      "navigationURL": "wns/search",
-      "path": "wns",
-      "leftIcon": "custom:water-tap",
-      "rightIcon": ""
-    },
-    {
       "id": 1930,
       "name": "FetchBillV2",
       "url": "/billing-service/bill/v2/_fetchbill",
@@ -10993,10 +10978,10 @@
         "createdBy": null,
         "lastModifiedDate": null,
         "lastModifiedBy": null,
-        "path": "W_S.Water & Sewerage.Search Connection",
+        "path": "W_S.Search Connection",
         "navigationURL": "wns/search",
         "quickAction": true,
-        "leftIcon": "communication:business",
+        "leftIcon": "custom:water-tap",
         "rightIcon": ""
       },
       {
