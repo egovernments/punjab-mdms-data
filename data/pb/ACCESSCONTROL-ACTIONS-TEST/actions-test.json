@@ -12890,6 +12890,22 @@
         "quickAction": true,
         "leftIcon": "editor:insert-chart",
         "rightIcon": ""
-      }
+      },
+	   {
+      "id": 2400,
+      "name": "rainmaker-common-wns",
+      "url": "card",
+      "displayName": "Generate Bill",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "wns",
+      "code": "",
+      "path": "",
+      "navigationURL": "wns/viewBillResource/generateBill",
+      "leftIcon": "editor:insert-chart",
+      "rightIcon": "",
+      "queryParams": ""
+    }
   ]
 }
