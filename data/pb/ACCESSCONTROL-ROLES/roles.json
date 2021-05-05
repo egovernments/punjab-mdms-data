@@ -326,7 +326,11 @@
       "code": "MISC_REC_CANCEL",
       "name": "Miscellaneous Receipt Cancellation",
       "description": "Allowed to Cancel Miscellaneous Receipts"
+    },
+	  {
+      "code": "SYSTEM",
+      "name": "SYSTEM user for cron job",
+      "description": "SYSTEM who can run the cron jobs"
     }
-    
   ]
 }
