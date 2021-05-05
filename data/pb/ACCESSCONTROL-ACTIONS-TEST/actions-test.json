@@ -12887,6 +12887,22 @@
         "queryParams": ""
       },
       {
+       "id": 2400,
+        "name": "rainmaker-common-wns",
+        "url": "card",
+        "displayName": "Generate Bill",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "wns",
+        "code": "",
+        "path": "",
+        "navigationURL": "wns/generateBill",
+        "leftIcon": "editor:insert-chart",
+        "rightIcon": "",
+        "queryParams": ""
+      },	  
+      {
         "id": 2401,
         "name": "WS Payment search",
         "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
