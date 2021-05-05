@@ -12906,6 +12906,54 @@
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
       "queryParams": ""
-    }
+    },
+    {
+        "id": 2401,
+        "name": "WS Payment search",
+        "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
+        "displayName": "WS Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2402,
+        "name": "SW Payment search",
+        "url": "/collection-services/payments/SW.ONE_TIME_FEE/_search",
+        "displayName": "SW One time fee Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+     {
+        "id": 2403,
+        "name": "Water Receipt Update",
+        "url": "/collection-services/payments/WS.ONE_TIME_FEE/_workflow",
+        "displayName": "Water one time fee Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+        "id": 2404,
+        "name": "Sewerage Receipt Update",
+        "url": "/collection-services/payments/SW.ONE_TIME_FEE/_workflow",
+        "displayName": "Sewerage one time fee Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      }
   ]
 }
