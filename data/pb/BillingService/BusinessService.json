@@ -1704,7 +1704,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt":true
     },
     {
       "businessService": "SW.ONE_TIME_FEE",
@@ -1715,7 +1716,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+      "isActive": true,
+      "cancelReceipt":true
     },
     {
       "businessService": "Rents.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
