@@ -4351,7 +4351,7 @@
       "name": "BNDIntegration",
       "url": "url",
       "displayName": "Application",
-      "orderNumber": 1,
+      "orderNumber": 6,
       "parentModule": "BND",
       "enabled": true,
       "serviceCode": "BND",
@@ -5426,7 +5426,7 @@
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "uc/search",
-      "path": "UC",
+      "path": "Misc_Collect.UC",
       "leftIcon": "image:collections-bookmark"
     },
     {
@@ -7235,7 +7235,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULB_v2",
-      "path": "Reports.Miscellaneous Receipt Register V2"
+      "path": "Misc_Collect.Reports.Miscellaneous Receipt Register V2"
     },
     {
       "id": 1959,
@@ -7274,7 +7274,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant_v2",
-      "path": "Reports.Misc Business Service Collections V2"
+      "path": "Misc_Collect.Reports.Misc Business Service Collections V2"
     },
     {
       "id": 1962,
@@ -7287,7 +7287,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBCancelled_v2",
-      "path": "Reports.miscellaneous Receipt Register V2"
+      "path": "Misc_Collect.Reports.miscellaneous Receipt Register V2"
     },
     {
       "id": 1963,
@@ -7300,7 +7300,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptULBShort_v2",
-      "path": "Reports.miscellaneous Receipt Register V2"
+      "path": "Misc_Collect.Reports.miscellaneous Receipt Register V2"
     },
     {
       "id": 1964,
@@ -8575,7 +8575,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/EmployeeWiseCollectionUC_v2",
-      "path": "Reports.EmployeeWiseCollectionUC_v2"
+      "path": "Misc_Collect.Reports.EmployeeWiseCollectionUC_v2"
     },
     {
 
@@ -11015,7 +11015,7 @@
         "path": "Water & Sewerage.Search Connection",
         "navigationURL": "wns/search",
         "quickAction": true,
-        "leftIcon": "communication:business",
+        "leftIcon": "custom:water-tap",
         "rightIcon": ""
       },
       {
