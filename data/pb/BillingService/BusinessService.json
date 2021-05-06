@@ -1988,6 +1988,19 @@
       "isActualDemand": true,
       "order": "4",
       "isRequired": false
-    }
+    },
+    {
+      "businessService": "Taxes.Mutation Fees",
+      "code": "TX.Mutation_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt":true
+    }	  
   ]
 }
