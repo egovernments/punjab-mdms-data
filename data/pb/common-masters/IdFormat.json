@@ -588,6 +588,10 @@
     {
       "idname": "bs.amendment.id",
       "format": "NOTETYPE-CONSUMERCODE-[SEQ_BS_MUTATION_[tenant_id]]"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "tx.mutation_fees.receipt.id"
     }
   ]
 }
