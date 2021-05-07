@@ -1675,7 +1675,8 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true
+       "type": "Adhoc",
+      "cancelReceipt": true
     },
     {
       "businessService": "ws-services-calculation",
