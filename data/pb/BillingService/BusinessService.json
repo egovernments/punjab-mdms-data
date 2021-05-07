@@ -1667,6 +1667,17 @@
       "isActive": true
     },
     {
+      "businessService": "Taxes.Pt Mutation Fees",
+      "code": "TX.Pt_Mutation_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "ws-services-calculation",
       "code": "WS",
       "collectionModesNotAllowed": [
