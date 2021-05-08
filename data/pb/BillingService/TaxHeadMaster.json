@@ -4893,386 +4893,6 @@
       "isRequired": false
     },
     {
-      "category": "CHARGES",
-      "service": "WS",
-      "name": "Water Charges",
-      "code": "WS_CHARGE",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Rebate",
-      "code": "WS_TIME_REBATE",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Interest",
-      "code": "WS_TIME_INTEREST",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Water Cess",
-      "code": "WS_WATER_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "PENALTY",
-      "service": "WS",
-      "name": "Penalty",
-      "code": "WS_TIME_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Round Off",
-      "code": "WS_Round_Off",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW",
-      "name": "Sewerage Charges",
-      "code": "SW_CHARGE",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Rebate",
-      "code": "SW_TIME_REBATE",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Interest",
-      "code": "SW_TIME_INTEREST",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "PENALTY",
-      "service": "SW",
-      "name": "Penalty",
-      "code": "SW_TIME_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Round Off",
-      "code": "SW_Round_Off",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application form fee",
-      "code": "WS_FORM_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application scrutiny fee",
-      "code": "WS_SCRUTINY_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application one time fee",
-      "code": "WS_ONE_TIME_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application road cutting charge",
-      "code": "WS_ROAD_CUTTING_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application meter charge",
-      "code": "WS_METER_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application security charge",
-      "code": "WS_SECURITY_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "5",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application other charges",
-      "code": "WS_OTHER_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water application tax and cess",
-      "code": "WS_TAX_AND_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "7",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Fee Round Off",
-      "code": "WS_FEE_ROUND_OFF",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "8",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water adhoc penality",
-      "code": "WS_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "9",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS.ONE_TIME_FEE",
-      "name": "Water adhoc rebate",
-      "code": "WS_ADHOC_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "10",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application form fee",
-      "code": "SW_FORM_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "0",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application scrutiny fee",
-      "code": "SW_SCRUTINY_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application one time fee",
-      "code": "SW_ONE_TIME_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application road cutting charge",
-      "code": "SW_ROAD_CUTTING_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "3",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application meter charge",
-      "code": "SW_METER_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "4",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application security charge",
-      "code": "SW_SECURITY_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "5",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application other charges",
-      "code": "SW_OTHER_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage application tax and cess",
-      "code": "SW_TAX_AND_CESS",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "7",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Fee Round Off",
-      "code": "SW_FEE_ROUND_OFF",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "8",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage adhoc penality",
-      "code": "SW_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "9",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW.ONE_TIME_FEE",
-      "name": "Sewerage adhoc rebate",
-      "code": "SW_ADHOC_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "10",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Water adhoc rebate",
-      "code": "WS_TIME_ADHOC_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "5",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "WS",
-      "name": "Water adhoc penalty",
-      "code": "WS_TIME_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Sewerage adhoc rebate",
-      "code": "SW_TIME_ADHOC_REBATE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "5",
-      "isRequired": false
-    },
-    {
-      "category": "TAX",
-      "service": "SW",
-      "name": "Sewerage adhoc penalty",
-      "code": "SW_TIME_ADHOC_PENALTY",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "6",
-      "isRequired": false
-    },
-    {
-      "category": "ADVANCE_COLLECTION",
-      "service": "WS",
-      "name": "Ws advance carry forward",
-      "code": "WS_ADVANCE_CARRYFORWARD",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
-      "isRequired": false
-    },
-    {
       "category": "FEE",
       "service": "TL",
       "name": "TL Renewal Tax",
@@ -5370,16 +4990,6 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "ADVANCE_COLLECTION",
-      "service": "SW",
-      "name": "Sw advance carry forward",
-      "code": "SW_ADVANCE_CARRYFORWARD",
-      "isDebit": true,
-      "isActualDemand": false,
-      "order": "0",
       "isRequired": false
     },
     {
@@ -5703,7 +5313,6 @@
       "isRequired": false
     },
     {
-        
       "category": "TAX",
       "service": "TX.Pt_Mutation_Fees",
       "name": "TX.PT_MUTATION_FEES_TAX",
@@ -5741,8 +5350,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false   
-      
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -5822,8 +5430,7 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false   
-     
+      "isRequired": false
     },
     {
       "category": "TAX",
@@ -5864,7 +5471,420 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-      
+    },
+    {
+      "category": "CHARGES",
+      "code": "SW_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage Charges",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "REBATE",
+      "code": "SW_TIME_REBATE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Rebate",
+      "order": "1",
+      "service": "SW"
+    },
+    {
+      "category": "FINES",
+      "code": "SW_TIME_INTEREST",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Interest",
+      "order": "2",
+      "service": "SW"
+    },
+    {
+      "category": "PENALTY",
+      "code": "SW_TIME_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Penalty",
+      "order": "3",
+      "service": "SW"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_Round_Off",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Round Off",
+      "order": "4",
+      "service": "SW"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage adhoc penality",
+      "order": "9",
+      "service": "SW"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_ADHOC_REBATE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage adhoc rebate",
+      "order": "10",
+      "service": "SW"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_TIME_ADHOC_REBATE",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage adhoc rebate",
+      "order": "5",
+      "service": "SW"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_TIME_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage adhoc penalty",
+      "order": "6",
+      "service": "SW"
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "SW",
+      "name": "Sw advance carry forward",
+      "code": "SW_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "code": "SW_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage title transfer fee",
+      "order": "6",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_DONATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage donation charge",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_ESTIMATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage estimation charge",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_INSPECTION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage inspection charge",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
+      "isActualDemand": false,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage door to door collection charge",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_APPLICATION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage application charge",
+      "order": "0",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_TAX_ADJUSTMENT",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage tax adjustment",
+      "order": "2",
+      "service": "SW"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_FORM_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application form fee",
+      "order": "0",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_SCRUTINY_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application scrutiny fee",
+      "order": "1",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_ONE_TIME_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application one time fee",
+      "order": "2",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_ROAD_CUTTING_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application road cutting charge",
+      "order": "3",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_SECURITY_DEPOSIT",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application security deposite",
+      "order": "5",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "SW_USER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application User Charges",
+      "order": "13",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_OTHER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application other fee",
+      "order": "6",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_COMPOSITION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application Composition fee",
+      "order": "12",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_TAX_AND_CESS",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application tax and cess",
+      "order": "7",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "TAX",
+      "code": "SW_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Fee Round Off",
+      "order": "8",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_CONNECTION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage application connection fee",
+      "order": "11",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "SW_ADDITIONAL_TITLE_TRANSFER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Sewerage additional title transfer fee",
+      "order": "6",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "SW_SUPERVISION_CHARGE",
+      "isActualDemand": false,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Sewerage supervision charge",
+      "order": "0",
+      "service": "SW.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "WS_CHARGE",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Water Charges",
+      "order": "0",
+      "service": "WS"
+    },
+    {
+      "category": "REBATE",
+      "code": "WS_TIME_REBATE",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Rebate",
+      "order": "0",
+      "service": "WS"
+    },
+    {
+      "category": "FINES",
+      "code": "WS_TIME_INTEREST",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Interest",
+      "order": "1",
+      "service": "WS"
+    },
+    {
+      "category": "TAX",
+      "code": "WS_WATER_CESS",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water Cess",
+      "order": "2",
+      "service": "WS"
+    },
+    {
+      "category": "PENALTY",
+      "code": "WS_TIME_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Penalty",
+      "order": "3",
+      "service": "WS"
+    },
+    {
+      "category": "TAX",
+      "code": "WS_Round_Off",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Round Off",
+      "order": "4",
+      "service": "WS"
+    },
+    {
+      "category": "TAX",
+      "code": "WS_TIME_ADHOC_REBATE",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water adhoc rebate",
+      "order": "5",
+      "service": "WS"
+    },
+    {
+      "category": "TAX",
+      "code": "WS_TIME_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "IsBillamend": false,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water adhoc penalty",
+      "order": "6",
+      "service": "WS"
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "code": "WS_ADVANCE_CARRYFORWARD",
+      "isActualDemand": false,
+      "IsBillamend": false,
+      "isDebit": true,
+      "isRequired": false,
+      "name": "Ws advance carry forward",
+      "order": "0",
+      "service": "WS"
     },
     {
       "category": "PENALTY",
@@ -5876,8 +5896,8 @@
       "name": "BreakdownPenalty",
       "order": "3",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "TAX",
       "code": "WS_METER_RENT",
       "isActualDemand": true,
@@ -5886,8 +5906,8 @@
       "name": "Meter Rent",
       "order": "4",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "FEE",
       "code": "WS_TAX_ADJUSTMENT",
       "isActualDemand": true,
@@ -5897,8 +5917,8 @@
       "name": "Water Tax Adjustment",
       "order": "1",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "code": "WS_DOOR_TO_DOOR_COLLECTION_CHARGES",
       "isActualDemand": true,
@@ -5908,18 +5928,8 @@
       "name": "Door to door collection charges",
       "order": "4",
       "service": "WS"
-  },
-  {
-      "category": "CHARGES",
-      "code": "WS_SUPERVISION_CHARGE",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
-      "name": "Water supervision tax",
-      "order": "4",
-      "service": "WS.ONE_TIME_FEE"
-  },
-  {
+    },
+    {
       "category": "CHARGES",
       "code": "WS_APPLICATION_CHARGE",
       "isActualDemand": true,
@@ -5928,8 +5938,8 @@
       "name": "Water Application Tax",
       "order": "4",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "FEE",
       "code": "WS_CONNECTION_TYPE_CONVERSION_FEE",
       "isActualDemand": true,
@@ -5938,8 +5948,8 @@
       "name": "Water connection type conversion fee",
       "order": "6",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "FEE",
       "code": "WS_TITLE_TRANSFER_FEE",
       "isActualDemand": true,
@@ -5948,8 +5958,8 @@
       "name": "Water title transfer fee",
       "order": "6",
       "service": "WS"
-  },
-  {
+    },
+    {
       "category": "FEE",
       "code": "WS_ADDITIONAL_TITLE_TRANSFER_FEE",
       "isActualDemand": true,
@@ -5958,103 +5968,156 @@
       "name": "Water additional title transfer fee",
       "order": "6",
       "service": "WS"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_TITLE_TRANSFER_FEE",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
-      "name": "Sewerage title transfer fee",
-      "order": "6",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_ADDITIONAL_TITLE_TRANSFER_FEE",
-      "isActualDemand": true,
-      "isDebit": false,
-      "isRequired": false,
-      "name": "Sewerage additional title transfer fee",
-      "order": "6",
-      "service": "SW.ONE_TIME_FEE"
-  },
-  {
+    },
+    {
       "category": "CHARGES",
-      "code": "SW_SUPERVISION_CHARGE",
-      "isActualDemand": false,
-      "IsBillamend": true,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage supervision charge",
-      "order": "0",
-      "service": "SW.ONE_TIME_FEE"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_DONATION_CHARGE",
-      "isActualDemand": false,
-      "IsBillamend": false,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage donation charge",
-      "order": "0",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_ESTIMATION_CHARGE",
-      "isActualDemand": false,
-      "IsBillamend": false,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage estimation charge",
-      "order": "0",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_INSPECTION_CHARGE",
-      "isActualDemand": false,
-      "IsBillamend": false,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage inspection charge",
-      "order": "0",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_DOOR_TO_DOOR_COLLECTION_CHARGES",
-      "isActualDemand": false,
-      "IsBillamend": true,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage door to door collection charge",
-      "order": "0",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_APPLICATION_CHARGE",
-      "isActualDemand": false,
-      "IsBillamend": false,
-      "isDebit": true,
-      "isRequired": false,
-      "name": "Sewerage application charge",
-      "order": "0",
-      "service": "SW"
-  },
-  {
-      "category": "FEE",
-      "code": "SW_TAX_ADJUSTMENT",
+      "code": "WS_SUPERVISION_CHARGE",
       "isActualDemand": true,
-      "IsBillamend": false,
       "isDebit": false,
       "isRequired": false,
-      "name": "Sewerage tax adjustment",
+      "name": "Water supervision tax",
+      "order": "4",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_FORM_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application form fee",
+      "order": "0",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_SCRUTINY_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application scrutiny fee",
+      "order": "1",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_ONE_TIME_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application one time fee",
       "order": "2",
-      "service": "SW"
-  }
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_ROAD_CUTTING_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application road cutting charge",
+      "order": "3",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "CHARGES",
+      "code": "WS_METER_TESTING_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application meter testing fee",
+      "order": "4",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_SECURITY_DEPOSIT",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application security charge",
+      "order": "5",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_OTHER_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application other fee",
+      "order": "6",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_USER_CHARGE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application user charges",
+      "order": "13",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_TAX_AND_CESS",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application tax and cess",
+      "order": "7",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_FEE_ROUND_OFF",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Fee Round Off",
+      "order": "8",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "TAX",
+      "code": "WS_ADHOC_PENALTY",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water adhoc penality",
+      "order": "9",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "REBATE",
+      "code": "WS_ADHOC_REBATE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water adhoc rebate",
+      "order": "10",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_CONNECTION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application connection fee",
+      "order": "11",
+      "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "FEE",
+      "code": "WS_COMPOSITION_FEE",
+      "isActualDemand": true,
+      "isDebit": false,
+      "isRequired": false,
+      "name": "Water application Composition fee",
+      "order": "12",
+      "service": "WS.ONE_TIME_FEE"
+    }
   ]
 }
