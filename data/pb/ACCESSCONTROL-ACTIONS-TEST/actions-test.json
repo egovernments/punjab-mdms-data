@@ -12912,8 +12912,31 @@
         "serviceCode": "BILLING_SERVICE",
         "code": "null",
         "path": "Billing Service.GenerateBill"
-      }
-	  
+     },
+     {
+      "id": 2400,
+      "name": "WS Payment workflow",
+      "url": "/collection-services/payments/WS/_workflow",
+      "displayName": "WS_Bill Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2401,
+      "name": "SW Payment workflow",
+      "url": "/collection-services/payments/SW/_workflow",
+      "displayName": "SW_Bill Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }
 	  
   ]
 }
