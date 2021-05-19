@@ -6285,9 +6285,9 @@
   },
   {
       "category": "TAX",
-      "service": "TX.Mutation_Fees",
-      "name": "TX.Mutation_Fees_TAX",
-      "code": "TX.Mutation_Fees_TAX",
+      "service": "TX.PT_Mutation_Fees",
+      "name": "TX.PT_Mutation_Fees_TAX",
+      "code": "TX.PT_Mutation_Fees_TAX",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
@@ -6295,9 +6295,9 @@
     },
     {
       "category": "CHARGES",
-      "service": "TX.Mutation_Fees",
-      "name": "TX.Mutation_Fees_FIELD_FEE",
-      "code": "TX.Mutation_Fees_FIELD_FEE",
+      "service": "TX.PT_Mutation_Fees",
+      "name": "TX.PT_Mutation_Fees_FIELD_FEE",
+      "code": "TX.PT_Mutation_Fees_FIELD_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6305,9 +6305,9 @@
     },
     {
       "category": "TAX",
-      "service": "TX.Mutation_Fees",
-      "name": "TX.Mutation_Fees_CGST",
-      "code": "TX.Mutation_Fees_CGST",
+      "service": "TX.PT_Mutation_Fees",
+      "name": "TX.PT_Mutation_Fees_CGST",
+      "code": "TX.PT_Mutation_Fees_CGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -6315,14 +6315,136 @@
     },
     {
       "category": "TAX",
-      "service": "TX.Mutation_Fees",
-      "name": "TX.Mutation_Fees_SGST",
-      "code": "TX.Mutation_Fees_SGST",
+      "service": "TX.PT_Mutation_Fees",
+      "name": "TX.PT_Mutation_Fees_SGST",
+      "code": "TX.PT_Mutation_Fees_SGST",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
     }
+	{
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_TAX",
+      "code": "ADVT.COMPOSITION_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "code": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_CGST",
+      "code": "ADVT.COMPOSITION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_SGST",
+      "code": "ADVT.COMPOSITION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
+
+	  
 	  
 	  
   ]
