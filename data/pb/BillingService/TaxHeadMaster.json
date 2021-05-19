@@ -6118,6 +6118,126 @@
       "name": "Water application Composition fee",
       "order": "12",
       "service": "WS.ONE_TIME_FEE"
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_TAX",
+      "code": "ADVT.COMPOSITION_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "code": "ADVT.COMPOSITION_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_CGST",
+      "code": "ADVT.COMPOSITION_FEES_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Composition_Fees",
+      "name": "ADVT.COMPOSITION_FEES_SGST",
+      "code": "ADVT.COMPOSITION_FEES_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Show_Tax_and_Entertainment_Tax",
+      "name": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "code": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Challan_Under_Section_122_123",
+      "name": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "code": "ADVT.CHALLAN_UNDER_SECTION_122_123_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
