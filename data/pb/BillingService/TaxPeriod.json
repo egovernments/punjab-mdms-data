@@ -2046,9 +2046,33 @@
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
       "periodCycle": "ANNUAL",
-      "service": "TX.Mutation_Fees",
-      "code": "TXMUTATIONFEES",
+      "service": "TX.PT_Mutation_Fees",
+      "code": "TXPTMUTATIONFEES",
       "financialYear": "2014-24"
-    }	  
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.COMPOSITION_FEES",
+      "code": "ADVTCOMPOSITIONFEES",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.SHOW_TAX_AND_ENTERTAINMENT_TAX",
+      "code": "ADVTSHOWTAXANDENTERTAINMENTTAX",
+      "financialYear": "2014-24"
+    },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.CHALLAN_UNDER_SECTION_122_123",
+      "code": "ADVTCHALLANUNDERSECTION122123",
+      "financialYear": "2014-24"
+    }  
   ]
 }
