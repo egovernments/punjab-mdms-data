@@ -591,7 +591,19 @@
     },
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
-      "idname": "tx.mutation_fees.receipt.id"
+      "idname": "tx.pt_mutation_fees.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "advt.composition_fees.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "advt.show_tax_and_entertainment_tax.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "advt.challan_under_section_122_123.receipt.id"
     }
   ]
 }
