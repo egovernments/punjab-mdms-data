@@ -1992,6 +1992,45 @@
       "isActualDemand": true,
       "order": "4",
       "isRequired": false
-    } 
+    }
+    {
+      "businessService": "Advertisement Tax.Composition Fees",
+      "code": "ADVT.Composition_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
+    },
+    {
+      "businessService": "Advertisement Tax.Show Tax and Entertainment tax",
+      "code": "ADVT.Show_Tax_and_Entertainment_tax",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
+    },
+    {
+      "businessService": "Advertisement Tax.Challan Under Section 122 123",
+      "code": "ADVT.Challan_Under_Section_122_123",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
+    }
   ]
 }
