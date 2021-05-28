@@ -55,9 +55,6 @@
       "active": "true",
       "method": "POST",
       "url": "http://covid-chatbot.egov:8080/covid-chatbot/reminder",
-      "payload": {
-        "RequestInfo": "{DEFAULT_REQUESTINFO}"
-      },
       "header": {
         "Content-Type": "application/json"
       }
