@@ -11203,6 +11203,28 @@
         "serviceCode": "WSREPORTS",
         "code": "null",
         "path": ""
-      }
+      },
+    {
+      "id": 2270,
+      "name": "Water Plain Search",
+      "url": "/ws-services/wc/_plainsearch",
+      "displayName": "Water Plain Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2271,
+      "name": "Sewerage Plain Search",
+      "url": "/sw-services/swc/_plainsearch",
+      "displayName": "Sewerage Plain Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "sw-services",
+      "code": "null",
+      "path": ""
+    }  
   ]
 }
