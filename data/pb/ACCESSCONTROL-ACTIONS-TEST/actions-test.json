@@ -13021,6 +13021,42 @@
         "serviceCode": "",
         "code": "null",
         "path": ""
-      }
+      },
+      {
+      "id": 2408,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/RT.MC_Khokha_Fees/_workflow",
+      "displayName": "MC_Khokha_Fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+        "id": 2409,
+        "name": "UC Receipt Update",
+        "url": "/collection-services/payments/RT.MC_Khokha_Fees/_workflow",
+        "displayName": "UC Receipt Update",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
+      },
+      {
+      "id": 2410,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/RT.MC_Khokha_Fees/_search",
+      "displayName": "MC_Khokha_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
