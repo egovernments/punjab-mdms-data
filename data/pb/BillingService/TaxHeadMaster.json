@@ -6238,6 +6238,46 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.MC_Khokha_Fees",
+      "name": "RT.MC_KHOKHA_FEE_TAX",
+      "code": "RT.MC_KHOKHA_FEE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.MC_Khokha_Fees",
+      "name": "RT.MC_KHOKHA_FEE_FIELD_FEE",
+      "code": "RT.MC_KHOKHA_FEE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.MC_Khokha_Fees",
+      "name": "RT.MC_KHOKHA_FEE_CGST",
+      "code": "RT.MC_KHOKHA_FEE_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.MC_Khokha_Fees",
+      "name": "RT.MC_KHOKHA_FEE_SGST",
+      "code": "RT.MC_KHOKHA_FEE_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
