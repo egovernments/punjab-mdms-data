@@ -1,0 +1,16 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "assessmentconfig": [
+      {
+        "tenant": "pb.testing",
+        "enabled": true,
+        "financialyear": "2021-22"
+      },
+      {
+        "tenant": "pb.amritsar",
+        "enabled": false,
+        "financialyear": "2021-22"
+      }
+    ]
+  }

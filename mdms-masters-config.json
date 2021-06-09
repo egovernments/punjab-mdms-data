@@ -404,6 +404,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "assessmentconfig": {
+      "masterName": "assessmentconfig",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.tenant"
+      ]
     }
   },
   "works": {
