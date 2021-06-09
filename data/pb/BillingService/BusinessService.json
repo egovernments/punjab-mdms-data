@@ -2031,6 +2031,19 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
+    },
+    {
+      "businessService": "Rents.MC Khokha Fees",
+      "code": "RT.MC_Khokha_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
     }
   ]
 }
