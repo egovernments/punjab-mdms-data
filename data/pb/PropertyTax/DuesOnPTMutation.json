@@ -4,6 +4,7 @@
   "DuesOnPTMutation": [
     {
       "module": "WS",
+      "code": "WS",
       "enabled": true,
       "fetchWaterConnectionUrl": "ws-services/wc/_search",
       "fecthOwnerDetailsUrl": "property-services/property/_search",
@@ -12,6 +13,7 @@
     },
     {
       "module": "SW",
+      "code": "SW",
       "enabled": true,
       "fetchWaterConnectionUrl": "sw-services/swc/_search",
       "fecthOwnerDetailsUrl": "property-services/property/_search",
