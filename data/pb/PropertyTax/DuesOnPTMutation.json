@@ -1,0 +1,22 @@
+{
+  "tenantId": "pb",
+  "moduleName": "PropertyTax",
+  "DuesOnPTMutation": [
+    {
+      "module": "WS",
+      "enabled": true,
+      "fetchWaterConnectionUrl": "ws-services/wc/_search",
+      "fecthOwnerDetailsUrl": "property-services/property/_search",
+      "fecthBillUrl": "billing-service/bill/v2/_fetchbill",
+      "fetchCollection": "collection-services/payments/_create"
+    },
+    {
+      "module": "SW",
+      "enabled": true,
+      "fetchWaterConnectionUrl": "sw-services/swc/_search",
+      "fecthOwnerDetailsUrl": "property-services/property/_search",
+      "fecthBillUrl": "billing-service/bill/v2/_fetchbill",
+      "fetchCollection": "collection-services/payments/_create"
+    }
+  ]
+}
