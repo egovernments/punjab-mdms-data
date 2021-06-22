@@ -1,31 +1,33 @@
 {
-    "tenantId": "pb",
-    "moduleName": "tenant",
-    "assessmentconfig": [
-      {
-        "tenant": "pb.testing",
-        "enabled": false,
-        "financialyear": "2021-22"
-      },
-      {
-        "tenant": "pb.amritsar",
-        "enabled": false,
-        "financialyear": "2021-22"
-      },
-      {
-        "tenant": "pb.zirakpur",
-        "enabled": false,
-        "financialyear": "2021-22"
-      },
-      {
-        "tenant": "pb.khanna",
-        "enabled": false,
-        "financialyear": "2021-22"
-      },
-      {
-        "tenant": "pb.rajpura",
-        "enabled": true,
-        "financialyear": "2021-22"
-      }
-    ]
-  }
+  "tenantId": "pb",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "pb.testing",
+      "enabled": false,
+      "financialyear": "2021-22",
+      "locality": ["LC1","LC2"],
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.amritsar",
+      "enabled": false,
+      "financialyear": "2021-22"
+    },
+    {
+      "tenant": "pb.zirakpur",
+      "enabled": false,
+      "financialyear": "2021-22"
+    },
+    {
+      "tenant": "pb.khanna",
+      "enabled": false,
+      "financialyear": "2021-22"
+    },
+    {
+      "tenant": "pb.rajpura",
+      "enabled": false,
+      "financialyear": "2021-22"
+    }
+  ]
+}
