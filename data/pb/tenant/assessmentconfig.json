@@ -4,10 +4,10 @@
   "assessmentconfig": [
     {
       "tenant": "pb.testing",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "locality": ["LC1","LC2"],
-      "propertytype": ["RESIDENTIAL"]
+      "locality": ["SC2"],
+      "propertytype": ["RESIDENTIAL","NONRESIDENTIAL","MIXED"]
     },
     {
       "tenant": "pb.amritsar",
