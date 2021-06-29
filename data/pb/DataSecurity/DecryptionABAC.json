@@ -776,6 +776,12 @@
                 "maskingTechnique": "mobile"
               },
               "accessType": "PLAIN"
+            },
+            {
+            "attribute": {
+                "jsonPath": "*/emailid"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
