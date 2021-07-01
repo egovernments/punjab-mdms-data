@@ -1955,3 +1955,15 @@
     }
   ]
 }
+ {
+      "businessService": "WaterCharges",
+      "code": "WC",
+      "isBillAmendmentEnabled": true,
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
