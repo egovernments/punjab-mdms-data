@@ -4,6 +4,7 @@
   "ServiceDefs": [
     {
       "serviceCode": "NoStreetlight",
+      "name": "No Street Light",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
       "department": "O&M",
@@ -12,6 +13,7 @@
     },
     {
       "serviceCode": "StreetLightNotWorking",
+      "name": "Streetlight Not Working",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "O&M",
@@ -21,6 +23,7 @@
     },
     {
       "serviceCode": "GarbageNeedsTobeCleared",
+      "name": "Garbage Needs To be Cleared",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "H&S",
@@ -30,6 +33,7 @@
     },
     {
       "serviceCode": "BurningOfGarbage",
+      "name": "Burning Of Garbage",
       "active": true,
       "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
       "department": "H&S",
@@ -38,6 +42,7 @@
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
+      "name": "Overflowing Or BlockedDrain",
       "active": true,
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
       "department": "O&M",
@@ -46,6 +51,7 @@
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
+      "name": "Illegal Discharge Of Sewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -54,6 +60,7 @@
     },
     {
       "serviceCode": "BlockOrOverflowingSewage",
+      "name": "Block Or Overflowing Sewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -63,6 +70,7 @@
     },
     {
       "serviceCode": "ShortageOfWater",
+      "name": "Shortage Of Water",
       "active": true,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
       "department": "O&M",
@@ -71,6 +79,7 @@
     },
     {
       "serviceCode": "DirtyWaterSupply",
+      "name": "Dirty Water Supply",
       "active": true,
       "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
       "department": "O&M",
@@ -79,6 +88,7 @@
     },
     {
       "serviceCode": "BrokenWaterPipeOrLeakage",
+      "name": "Broken Water Pipe Or Leakage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -88,6 +98,7 @@
     },
     {
       "serviceCode": "WaterPressureisVeryLess",
+      "name": "Water Pressure is VeryLess",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -96,6 +107,7 @@
     },
     {
       "serviceCode": "HowToPayPT",
+      "name": "How To Pay PT",
       "active": true,
       "keywords": "pay, property, how",
       "department": "TAX",
@@ -104,6 +116,7 @@
     },
     {
       "serviceCode": "WrongCalculationPT",
+      "name": "Wrong Calculation PT",
       "active": true,
       "keywords": "calculation, wrong",
       "department": "TAX",
@@ -112,6 +125,7 @@
     },
     {
       "serviceCode": "ReceiptNotGenerated",
+      "name": "Receipt Not Generated",
       "active": true,
       "keywords": "genration, generate, receipt, not",
       "department": "TAX",
@@ -120,6 +134,7 @@
     },
     {
       "serviceCode": "others",
+      "name": "Others",
       "active": true,
       "keywords": "other",
       "department": "TAX",
@@ -128,6 +143,7 @@
     },
     {
       "serviceCode": "DamagedRoad",
+      "name": "Damaged Road",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "WORKS",
@@ -136,6 +152,7 @@
     },
     {
       "serviceCode": "WaterLoggedRoad",
+      "name": "Water Logged Road",
       "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
       "department": "WORKS",
@@ -144,6 +161,7 @@
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
+      "name": "Manhole Cover Missing Or Damaged",
       "active": true,
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
       "department": "WORKS",
@@ -152,6 +170,7 @@
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
+      "name": "Damaged Or Blocked Footpath",
       "active": true,
       "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
       "department": "WORKS",
@@ -160,6 +179,7 @@
     },
     {
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
+      "name": "Construction Material Lying On the Road",
       "active": true,
       "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
       "department": "WORKS",
@@ -168,6 +188,7 @@
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
+      "name": "Request Spraying Or Fogging Operation",
       "active": true,
       "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
       "department": "H&S",
@@ -176,6 +197,7 @@
     },
     {
       "serviceCode": "StrayAnimals",
+      "name": "Stray Animals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
       "department": "H&S",
@@ -184,6 +206,7 @@
     },
     {
       "serviceCode": "DeadAnimals",
+      "name": "Dead Animals",
       "active": true,
       "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
       "department": "H&S",
@@ -192,6 +215,7 @@
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
+      "name": "Dirty Or Smelly Public Toilets",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
       "department": "H&S",
@@ -200,6 +224,7 @@
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
+      "name": "Public Toilet Is Damaged",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
       "department": "H&S",
@@ -208,6 +233,7 @@
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
+      "name": "No Water Or Electricity in Public Toilet",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
       "department": "H&S",
@@ -216,6 +242,7 @@
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
+      "name": "Illegal Shops On Foot Path",
       "active": true,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
       "department": "TAX",
@@ -224,6 +251,7 @@
     },
     {
       "serviceCode": "IllegalConstructions",
+      "name": "Illegal Constructions",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "TP",
@@ -232,6 +260,7 @@
     },
     {
       "serviceCode": "IllegalParking",
+      "name": "Illegal Parking",
       "active": true,
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
       "department": "TAX",
@@ -240,6 +269,7 @@
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
+      "name": "Illegal Cutting Of Trees",
       "active": true,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
       "department": "HORTI",
@@ -248,6 +278,7 @@
     },
     {
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
+      "name": "Cutting Or Trimming Of Tree Required",
       "active": true,
       "keywords": "tree, remove, trim, fallen, cut, plant, branch",
       "department": "HORTI",
@@ -256,6 +287,7 @@
     },
     {
       "serviceCode": "OpenDefecation",
+      "name": "Open Defecation",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
       "department": "H&S",
@@ -264,6 +296,7 @@
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
+      "name": "Park Requires Maintenance",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
       "department": "HORTI",
@@ -272,6 +305,7 @@
     },
     {
       "serviceCode": "Others",
+      "name": "Others",
       "active": true,
       "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
       "department": "ADMIN",
@@ -281,6 +315,7 @@
     },
     {
       "serviceCode": "DamagedGarbageBin",
+      "name": "Damaged Garbage Bin",
       "active": true,
       "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
       "department": "H&S",
@@ -289,6 +324,7 @@
     },
     {
       "serviceCode": "NoWaterSupply",
+      "name": "NoWaterSupply",
       "active": true,
       "keywords": "water, supply, connection, drink, tap",
       "department": "O&M",
@@ -297,6 +333,7 @@
     },
     {
       "serviceCode": "CleaningOfDrains",
+      "name": "Cleaning Of Drains",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
       "department": "O&M",
@@ -305,6 +342,7 @@
     },
     {
       "serviceCode": "WaterEnteredHouseRainySeason",
+      "name": "Water Entered House Rainy Season",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
       "department": "O&M",
@@ -313,6 +351,7 @@
     },
     {
       "serviceCode": "InstallationOfNewStreetLight",
+      "name": "Installation Of New StreetLight",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "O&M",
@@ -321,6 +360,7 @@
     },
     {
       "serviceCode": "NonSweepingOfRoad",
+      "name": "Non Sweeping Of Road",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "H&S",
@@ -330,6 +370,7 @@
     },
     {
       "serviceCode": "CongressGrassCutting",
+      "name": "Congress Grass Cutting",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "H&S",
@@ -337,7 +378,8 @@
       "menuPath": "Garbage"
     },
     {
-      "serviceCode": "SewageMainHoleCoverMissingOrBroken",
+      "serviceCode": "SewageManHoleCoverMissingOrBroken",
+      "name": "Sewage Man Hole Cover Missing Or Broken",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -346,6 +388,7 @@
     },
     {
       "serviceCode": "SewerageManholeCoverRaising",
+      "name": "Sewerage Manhole Cover Raising",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -354,6 +397,7 @@
     },
     {
       "serviceCode": "CleaningOfSewageRemoveSLURRYGaar",
+      "name": "Cleaning Of Sewage Remove SLURRY Gaar",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "O&M",
@@ -362,6 +406,7 @@
     },
     {
       "serviceCode": "IllegalRehriesOnRoad",
+      "name": "Illegal Rehries On Road",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "TAX",
@@ -370,6 +415,7 @@
     },
     {
       "serviceCode": "RoadJalliBroken",
+      "name": "Road Jalli Broken",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "TAX",
@@ -378,6 +424,7 @@
     },
     {
       "serviceCode": "Covid19Screening",
+      "name": "Covid19 Screening",
       "active": true,
       "keywords": "covid, corona, virus",
       "department": "H&S",
@@ -386,6 +433,7 @@
     },
     {
       "serviceCode": "ReplacementOfTrafficLights",
+      "name": "Replacement Of Traffic Lights",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, replace, damage, fix",
       "department": "O&M",
@@ -393,279 +441,305 @@
       "menuPath": "StreetLights"
     },
     {
-       "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
+      "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
+      "name": "Maintenance Of Lights Of All Parks Green Belts",
       "active": false,
       "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
       "department": "O&Mhj",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
-     {
+    {
       "serviceCode": "ImproperTimingOfWaterSupply",
+      "name": "Improper Timing Of Water Supply",
       "active": true,
       "keywords": "water, supply, connection, timing, repair, broken, pipe, piping, tap",
       "department": "O&M",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
-     {
+    {
       "serviceCode": "CleaningOfRoadGullies",
+      "name": "Cleaning Of Road Gullies",
       "active": true,
       "keywords": "water, supply, connection, road, repair, gullies, pipe, piping, tap",
       "department": "O&M",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
-      {
+    {
       "serviceCode": "RegardingClarificationOfArrears",
+      "name": "Regarding Clarification Of Arrears",
       "active": true,
       "keywords": "genration, generate, receipt, arrears",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingPenalties",
+      "name": "Regarding Penalties",
       "active": true,
       "keywords": "genration, generate, receipt, penalties",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingDatesOfDepositionOfPropertyTax",
+      "name": "Regarding Dates Of Deposition Of Property Tax",
       "active": true,
       "keywords": "dates, generate, receipt, deposite",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-      {
+    {
       "serviceCode": "RegardingInformationAboutLatestNotificationsInstructions",
+      "name": "Regarding Information About Latest Notifications Instructions",
       "active": true,
       "keywords": "genration, latest, receipt, notification",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
-     {
+    {
       "serviceCode": "RequestForConstructionOfNewRoadsFootpathsPavements",
+      "name": "Request For Construction Of NewRoads Footpaths Pavements",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "MaintenanceOfRoadsWithPatchWork",
+      "name": "Maintenance Of Roads With PatchWork",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "RepairOfCulvertsCauseWays",
+      "name": "Repair Of Culverts CauseWays",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-     {
+    {
       "serviceCode": "MarkingOfRoads",
+      "name": "Marking Of Roads",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, marking, street, construction, fix",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
-      {
+    {
       "serviceCode": "IllegalShopsCommercialbuildings",
+      "name": "Illegal Shops Commercial buildings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "UnauthorizedConstructions",
+      "name": "Unauthorized Constructions",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "UnauthorizedLandUse",
+      "name": "Unauthorized Land Use",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "ViolationOfMasterPlan",
+      "name": "Violation Of Master Plan",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-      {
+    {
       "serviceCode": "MaintenanceOfMonuments",
+      "name": "Maintenance Of Monuments",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "ExcessiveRampsOfShopsAndHouses",
+      "name": "Excessive Ramps Of Shops And Houses",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "EncroachmentOnAnyKindOnGovernmentLand",
+      "name": "Encroachment On Any Kind On Government Land",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "RequestForFumigation",
+      "name": "Request For Fumigation",
       "active": true,
       "keywords": "mosquito, insects, fog, spray, kill, health, dengue, malaria, disease, clean",
       "department": "H&S",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
-     {
+    {
       "serviceCode": "ProvisionofShedsForAnimals",
+      "name": "ProvisionofShedsForAnimals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, shed, arrangments, bite, biting, bark, barking",
       "department": "H&S",
       "slaHours": 336,
       "menuPath": "Animals"
     },
-     {
+    {
       "serviceCode": "RatesInPaidParkings",
+      "name": "RatesInPaidParkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "MisusageOfGovernmentPropertyInPaidParkings",
+      "name": "Misusage Of Government Property In Paid Parkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "TP",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
-     {
+    {
       "serviceCode": "RequestsForPlantingNewtrees",
+      "name": "RequestsForPlantingNewtrees",
       "active": true,
       "keywords": "tree, cut, planting, unathourized, remove, plant",
       "department": "HORTI",
       "slaHours": 336,
       "menuPath": "Trees"
     },
-     {
+    {
       "serviceCode": "NewParkRequest",
+      "name": "New Park Request",
       "active": true,
       "keywords": "open, new, park, human, privy, toilet",
       "department": "HORTI",
       "slaHours": 336,
       "menuPath": "Parks"
     },
-     {
+    {
       "serviceCode": "BirthAndDeathCertificates",
+      "name": "Birth And Death Certificates",
       "active": true,
       "keywords": "open, new, park, human, privy, toilet",
       "department": "HORTI",
       "slaHours": 336,
       "menuPath": "BirthandDeath"
     },
-     {
+    {
       "serviceCode": "TransferAndPosting",
+      "name": "Transfer And Posting",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
       "department": "ADMIN",
       "slaHours": 336,
       "menuPath": ""
     },
-     {
-      "serviceCode": "TransferAndPosting",
-      "active": true,
-      "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
-      "department": "ADMIN",
-      "slaHours": 336,
-      "menuPath": ""
-    },
-      {
+    {
       "serviceCode": "FundsRelated",
+      "name": "Funds Related",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "ADMIN",
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "TownPlanning",
+      "name": "Town Planning",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "TP",
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "AgainstEmployee",
+      "name": "Against Employee",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "ADMIN",
       "slaHours": 336,
       "menuPath": ""
     },
-      {
+    {
       "serviceCode": "eGovWaterSupply",
+      "name": "eGov Water Supply",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovSewerage",
+      "name": "eGov Sewerage",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovPropertyTax",
+      "name": "eGov Property Tax",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovtradeLicense",
+      "name": "eGov Trade License",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "TAX",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
-      {
+    {
       "serviceCode": "eGovOthers",
+      "name": "eGov Others",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "ADMIN",
