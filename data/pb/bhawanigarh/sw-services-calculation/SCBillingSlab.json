@@ -1,0 +1,40 @@
+{
+    "tenantId":"pb.bhawanigarh",
+    "moduleName":"sw-services-calculation",
+    "WCBillingSlab":[
+       {
+          "id":"1",
+          "buildingType":"RESIDENTIAL",
+          "waterSubUsageType": "NA",
+          "calculationAttribute":"FIXED",
+          "connectionType":"Non Metered",
+          "minimumCharge":0,
+          "slabs":[
+             {
+                "from":0,
+                "to":125,
+                "charge":0,
+                "effectiveFrom":917523271000,
+                "effectiveTo":1738064071000
+             }
+          ]
+       },
+       {
+          "id":"4",
+          "buildingType":"COMMERCIAL",
+          "waterSubUsageType": "NA",
+          "calculationAttribute":"FIXED",
+          "connectionType":"Non Metered",
+          "minimumCharge":0,
+          "slabs":[
+             {
+                "from":0,
+                "to":125,
+                "charge":600,
+                "effectiveFrom":917523271000,
+                "effectiveTo":1738064071000
+             }
+          ]
+       }
+    ]
+ }

@@ -1,0 +1,40 @@
+{
+    "tenantId":"pb.amargarh",
+    "moduleName":"ws-services-calculation",
+    "WCBillingSlab":[
+       {
+          "id":"1",
+          "buildingType":"RESIDENTIAL",
+          "waterSubUsageType": "NA",
+          "calculationAttribute":"FIXED",
+          "connectionType":"Non Metered",
+          "minimumCharge":0,
+          "slabs":[
+             {
+                "from":0,
+                "to":1000000,
+                "charge":300,
+                "effectiveFrom":1522521000000,
+                "effectiveTo":1680287399000
+             }
+          ]
+       },
+       {
+          "id":"4",
+          "buildingType":"COMMERCIAL",
+          "waterSubUsageType": "NA",
+          "calculationAttribute":"FIXED",
+          "connectionType":"Non Metered",
+          "minimumCharge":0,
+          "slabs":[
+             {
+                "from":0,
+                "to":1000000,
+                "charge":300,
+                "effectiveFrom":1522521000000,
+                "effectiveTo":1680287399000
+             }
+          ]
+       }
+    ]
+ }
