@@ -13407,7 +13407,37 @@
       "navigationURL": "report/rainmaker-tl/HRMSEmployee wise Report",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+        "id": 2441,
+        "name": "Ticketing tool",
+        "url": "https://stvending.punjab.gov.in/ticket/",
+        "displayName": "Raise a ticket",
+        "orderNumber": 24,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "navigationURL": "",
+        "path": "",
+        "leftIcon": "action:receipt"
+      },
+      {
+        "id": 2442,
+        "name": "Ticketing tool",
+        "url": "card",
+        "displayName": "Raise a ticket",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "ticketingtool",
+        "navigationURL": "",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      }
 
   ]
 }
