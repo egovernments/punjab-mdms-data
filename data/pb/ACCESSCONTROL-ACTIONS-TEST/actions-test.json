@@ -8887,7 +8887,7 @@
          "parentModule": "",
          "enabled": true,
          "serviceCode": "",
-         "path": "W and S.WS Reports.Receipt RegisterSW",
+         "path": "wns.W and S.WS Reports.Receipt RegisterSW",
          "navigationURL": "report/rainmaker-ws/ReceiptRegisterSW",
          "leftIcon": "action:assignment",
          "rightIcon": ""
@@ -9178,7 +9178,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.Base Register Report WS",
+      "path": "wns.W and S.WS Reports.Base Register Report WS",
       "navigationURL": "report/rainmaker-ws/BaseRegisterReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -10848,7 +10848,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.Field Collection Search Report WS",
+      "path": "wns.W and S.WS Reports.Field Collection Search Report WS",
       "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -10885,7 +10885,7 @@
        "parentModule": "",
        "enabled": true,
        "serviceCode": "",
-       "path": "W and S.WS Reports.Field Collection Search Receipt WS",
+       "path": "wns.W and S.WS Reports.Field Collection Search Receipt WS",
        "navigationURL": "report/rainmaker-ws/FieldCollectionSearchReceiptWS",
        "leftIcon": "action:assignment",
        "rightIcon": ""
@@ -10922,7 +10922,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.Search Online Receipts WS",
+      "path": "wns.W and S.WS Reports.Search Online Receipts WS",
       "navigationURL": "report/rainmaker-ws/SearchOnlineReceiptsWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11028,7 +11028,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.ArrearReport",
+      "path": "wns.W and S.WS Reports.ArrearReport",
       "navigationURL": "report/rainmaker-ws/ArrearReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11076,7 +11076,7 @@
        "parentModule": "",
        "enabled": true,
        "serviceCode": "",
-       "path": "W and S.WS Reports.Cash Collection Report",
+       "path": "wns.W and S.WS Reports.Cash Collection Report",
        "navigationURL": "report/rainmaker-ws/CashCollectionReport",
        "leftIcon": "action:assignment",
        "rightIcon": ""
@@ -11113,7 +11113,7 @@
        "parentModule": "",
        "enabled": true,
        "serviceCode": "",
-       "path": "W and S.WS Reports.Collections Summary Headwise Report",
+       "path": "wns.W and S.WS Reports.Collections Summary Headwise Report",
        "navigationURL": "report/rainmaker-ws/CollectionsSummaryHeadwiseReport",
        "leftIcon": "action:assignment",
        "rightIcon": ""
@@ -11151,7 +11151,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.Receipt Collections",
+      "path": "wns.W and S.WS Reports.Receipt Collections",
       "navigationURL": "report/rainmaker-ws/ReceiptCollections",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -11188,7 +11188,7 @@
        "parentModule": "",
        "enabled": true,
        "serviceCode": "",
-       "path": "W and S.WS Reports.JE_Pendency Report",
+       "path": "wns.W and S.WS Reports.JE_Pendency Report",
        "navigationURL": "report/rainmaker-ws/JE_PendencyReport",
        "leftIcon": "action:assignment",
        "rightIcon": ""
@@ -12875,7 +12875,7 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
-      "path": "W and S.WS Reports.Cheque Collection Report WS",
+      "path": "wns.W and S.WS Reports.Cheque Collection Report WS",
       "navigationURL": "report/rainmaker-ws/ChequeCollectionReportWS",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -12942,7 +12942,7 @@
         "name": "Generate Bill",
         "url": "quickAction",
         "displayName": "Generate Bill",
-        "orderNumber": 1,
+        "orderNumber": 2,
         "queryParams": "",
         "parentModule": "",
         "enabled": true,
@@ -12952,7 +12952,7 @@
         "createdBy": null,
         "lastModifiedDate": null,
         "lastModifiedBy": null,
-        "path": "W_S.Generate Bill",
+        "path": "wns.Generate Bill",
         "navigationURL": "wns/generateBill",
         "quickAction": true,
         "leftIcon": "editor:insert-chart",
