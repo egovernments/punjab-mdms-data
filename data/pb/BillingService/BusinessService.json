@@ -1977,7 +1977,19 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
-    }
+    },
+    {
+      "businessService": "SewCharges",
+      "code": "SC",
+      "isBillAmendmentEnabled": true,
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
 
   ]
 }
