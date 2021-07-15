@@ -13437,7 +13437,32 @@
         "leftIcon": "action:receipt",
         "rightIcon": "",
         "queryParams": ""
-      }
+      },
+      {
+      "id": 2443,  
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.library_annual_fees/_search",
+      "displayName": "library_annual_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2444,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OTHER.library_annual_fees/_workflow",
+      "displayName": "library_annual_fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    } 	  
+	  
 
   ]
 }
