@@ -61,7 +61,7 @@
     },
     {
       "jobName": "daily",
-      "active": "false",
+      "active": "ture",
       "method": "POST",
       "url": "http://xstate-chatbot.egov:8080/xstate-chatbot/reminder",
       "payload": {
