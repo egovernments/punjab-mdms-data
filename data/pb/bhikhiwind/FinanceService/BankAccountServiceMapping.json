@@ -1,12 +1,893 @@
 {
   "tenantId": "pb.bhikhiwind",
   "moduleName": "FinanceModule",
-  "BankAccountServiceMapping": [
+  "BANKAccountServiceMapping": [
     {
       "businessDetails": "PT",
-      "bankAccount": "05652030000060",
-      "bank": "Axis Bank",
-      "bankBranch": "UTIB0001475"
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessDetails": "TL",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.No Dues Certificate",
+      "businessDetails": "TX.No_Dues_Certificate",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Hoardings",
+      "businessDetails": "ADVT.Hoardings",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Unipolls",
+      "businessDetails": "ADVT.Unipolls",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Municipal Shops Rent",
+      "businessDetails": "RT.Municipal_Shops_Rent",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Land Rent",
+      "businessDetails": "RT.Land_Rent",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Tower Rent",
+      "businessDetails": "RT.Tower_Rent",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Parking Fee",
+      "businessDetails": "RT.Parking_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Jamin Theka",
+      "businessDetails": "RT.Jamin_Theka",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.Election rally fees",
+      "businessDetails": "ADMN.Election_rally_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.Parking during election",
+      "businessDetails": "ADMN.Parking_during_election",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.Road show",
+      "businessDetails": "ADMN.Road_show",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Advance Provident Fund",
+      "businessDetails": "FN.Advance_Provident_Fund",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Stationary.Stationary (Not Income)",
+      "businessDetails": "ST.Stationary_Not_Income",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Stationary.Expenditure santitation (Not Income)",
+      "businessDetails": "ST.Expenditure_santitation_Not_Income",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Santitation dumping garbage",
+      "businessDetails": "CH.Santitation_dumping_garbage",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Telecom tower fees",
+      "businessDetails": "FTP.Telecom_tower_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.Electricity Chungi",
+      "businessDetails": "TX.Electricity_Chungi",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Draftsmen fees",
+      "businessDetails": "FTP.Draftsmen_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Compremasing fees",
+      "businessDetails": "FTP.Compremasing_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Building planner renew",
+      "businessDetails": "FTP.Building_planner_renew",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
+      "businessDetails": "NKS.Naksha_samjota_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Naksha changes ",
+      "businessDetails": "NKS.Naksha_changes",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.License fees building branch",
+      "businessDetails": "FTP.License_fees_building_branch",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "O&M Fee.Water connection_disconnection fees",
+      "businessDetails": "OM.Water_connection_disconnection_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
+      "businessDetails": "NKS.Naksha_renew_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
+      "businessDetails": "NKS.NOC_Completion_of_building_approval",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
+      "businessDetails": "NKS.Alteration_additional_charge",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
+      "businessDetails": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Leave encashment and gratuty",
+      "businessDetails": "FTP.Leave_encashment_and_gratuty",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Plastic Challan",
+      "businessDetails": "CH.Plastic_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Rehri Challan",
+      "businessDetails": "CH.Rehri_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Challan for Misuse of Water",
+      "businessDetails": "CH.Challan_for_Misuse_of_Water",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Dengue Challan",
+      "businessDetails": "CH.Dengue_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Littering Challan",
+      "businessDetails": "CH.Littering_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Sanitation.Licence Pure food",
+      "businessDetails": "SNT.Licence_Pure_food",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Misc Challans",
+      "businessDetails": "OTHER.Misc_Challans",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
+      "businessDetails": "NKS.Regularisation_of_Buildings",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Work Fee.Contractor Enlistment",
+      "businessDetails": "WF.Contractor_Enlistment",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Work Fee.Tender Form Fee",
+      "businessDetails": "WF.Tender Form Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Tehbazaari Fee.Advertisement fee",
+      "businessDetails": "TB.Advertisement_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Tehbazaari Fee.Tehbazaari",
+      "businessDetails": "TB.Tehbazaari",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.PF transfer (Accounts)",
+      "businessDetails": "FN.PF_transfer_(Accounts)",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.TS1 copy register for old survey",
+      "businessDetails": "TX.TS1_copy_register_for_old_survey",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.Transfer Property Fees",
+      "businessDetails": "TX.Transfer_Property_Fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.RTI",
+      "businessDetails": "ADMN.RTI",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.No Dues Certificate",
+      "businessDetails": "ADMN.No_Dues_Certificate",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Architect license fee",
+      "businessDetails": "FTP.Architect_license_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Tehbazaari Fee.Challan Under section 156",
+      "businessDetails": "TB.Challan_Under_section_156",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Recovery employee_contractor",
+      "businessDetails": "FN.Recovery_employee_contractor",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Grants cheque",
+      "businessDetails": "FN.Grants_cheque",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.No due certificate electricity",
+      "businessDetails": "OTHER.No_due_certificate_electricity",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.registery and BANK loan",
+      "businessDetails": "OTHER.registery_and_BANK_loan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "SBM garbage plastic polythene challan",
+      "businessDetails": "CH.SBM_garbage_plastic_polythene_challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Sanitation.Dead animals contract",
+      "businessDetails": "SNT.Dead_animals_contract",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.GPF",
+      "businessDetails": "FN.GPF",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.CPF received check",
+      "businessDetails": "FN.CPF_received_check",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Tower Installation",
+      "businessDetails": "RT.Tower_Installation",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Tower Annual Rent",
+      "businessDetails": "RT.Tower_Annual_Rent",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Cess.Cow Cess",
+      "businessDetails": "CSS.cow_cess",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Cattle Challan",
+      "businessDetails": "CH.Cattle_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Tehbazaari Fee.Rehri Challan",
+      "businessDetails": "TB.Rehri_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "License Fee.Manual Rikshaw",
+      "businessDetails": "LCF.Manual_Rikshaw",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Dairy Animals Challan",
+      "businessDetails": "CH.Dairy_Animals_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Bidi_And_Cigrette_Challan",
+      "businessDetails": "CH.Bidi_And_Cigrette_Challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Community Centre Booking Fee",
+      "businessDetails": "RT.Community_Centre_Booking_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Commercial Use of Municipal Land",
+      "businessDetails": "RT.Commercial_Use_of_Municipal_Land",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Street Vendor",
+      "businessDetails": "RT.Street_Vendor",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Construction Waste",
+      "businessDetails": "FTP.Construction_Waste",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Fee Town Planning.Demolition Waste",
+      "businessDetails": "FTP.Demolition_Waste",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Sanitation.SNT Clean_Safai Sanitation",
+      "businessDetails": "SNT.clean_safai_sanitation",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "O&M Fee.Plumber License Fee",
+      "businessDetails": "OM.Plumber_License_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Light Wala Board",
+      "businessDetails": "ADVT.Light_Wala_Board",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Wall Paint Advertisement",
+      "businessDetails": "ADVT.Wall_Paint_Advertisement",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Gas Balloon Advertisement",
+      "businessDetails": "ADVT.Gas_Balloon_Advertisement",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.House Tax",
+      "businessDetails": "TX.House_Tax",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
+      "businessDetails": "NKS.Hadud_Certificate_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
+      "businessDetails": "NKS.No_Due_Certificate_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
+      "businessDetails": "NKS.Colony_Sambandhi_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Naksha fees",
+      "businessDetails": "NKS.Naksha_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Work Fee.OFC Permission fee",
+      "businessDetails": "WF.OFC_Permission_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Building_fees",
+      "businessDetails": "NKS.Building_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
+      "businessDetails": "NKS.Boundary_wall_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Malba_fees",
+      "businessDetails": "NKS.Malba_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Development_fees",
+      "businessDetails": "NKS.Development_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
+      "businessDetails": "NKS.Change_of_land_use_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Under_development_fees",
+      "businessDetails": "NKS.Under_development_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Water_Charges",
+      "businessDetails": "OTHER.Water_Charges",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Others_fee",
+      "businessDetails": "OTHER.Others_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Cess.Labor Cess",
+      "businessDetails": "CSS.labor_cess",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Provident Fund Processing Fees",
+      "businessDetails": "FN.Provident_Fund_Processing_Fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "O&M Fee.Sewerage disconnection connection fees",
+      "businessDetails": "OM.Sewerage_disconnection_connection_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
+      "businessDetails": "NKS.Economics_Weaker_Section_Scheme_Charges",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
+      "businessDetails": "NKS.Economics_Weaker_Section_Projects_Fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "O&M Fee.Road cut fees",
+      "businessDetails": "OM.Road_cut_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "ADMIN Fees.Parking booking fee",
+      "businessDetails": "ADMN.Parking_booking_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Canopy Fee",
+      "businessDetails": "ADVT.Canopy_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Advertisement Tax.Outdoor Media Display Fee",
+      "businessDetails": "ADVT.Outdoor_Media_Display_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.Property Tax 2013-14",
+      "businessDetails": "TX.Property_Tax_2013-14",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Noc_fee",
+      "businessDetails": "OTHER.Noc_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Fire_Noc_fee",
+      "businessDetails": "OTHER.Fire_Noc_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Fire_Tender_fee",
+      "businessDetails": "OTHER.Fire_Tender_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Fire_Call_Report_fee",
+      "businessDetails": "OTHER.Fire_Call_Report_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Bus_Adda_fee",
+      "businessDetails": "OTHER.Bus_Adda_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
+      "businessDetails": "NKS.Rain_Harvesting_charges",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Tender_Earnest_Money_Deposit",
+      "businessDetails": "FN.Tender_Earnest_Money_Deposit",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Finance Fees.Security_Deposit_Fee",
+      "businessDetails": "FN.Security_Deposit_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Dispensary_fee",
+      "businessDetails": "OTHER.Dispensary_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Sale_of_land",
+      "businessDetails": "RT.Sale_of_land",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.License_fee",
+      "businessDetails": "OTHER.License_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Candy_fee",
+      "businessDetails": "OTHER.Candy_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Conservancy_fee",
+      "businessDetails": "OTHER.Conservancy_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
+      "businessDetails": "NKS.Sub_division_charges",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
+      "businessDetails": "NKS.Information_certificate_fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
+      "businessDetails": "NKS.Building_safety_certificate",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Street_light_pole_transfer_fee",
+      "businessDetails": "OTHER.Street_light_pole_transfer_fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Collection_and_demolition_waste_challan",
+      "businessDetails": "CH.Collection_and_demolition_waste_challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Challans.Burning_of_waste_challan",
+      "businessDetails": "CH.Burning_of_waste_challan",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Sale_of_compost",
+      "businessDetails": "OTHER.Sale_of_compost",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Sale_of_recyclable",
+      "businessDetails": "OTHER.Sale_of_recyclable",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "License Fee.Trade_License_Fee",
+      "businessDetails": "LCF.Trade_License_Fee",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Dog_Registration",
+      "businessDetails": "OTHER.Dog_Registration",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+      "businessDetails": "RT.Service_Tax_Gst_Of_Rent_Of_MC_Properties",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Rents.Street_Vendor_Icard_Certificate_Fees",
+      "businessDetails": "RT.Street_Vendor_Icard_Certificate_Fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "Taxes.Property_Tax_Dishonoured_Cheque_Payment",
+      "businessDetails": "TX.Property_Tax_Dishonoured_Cheque_Payment",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
+    },
+    {
+      "businessService": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "businessDetails": "OTHER.Swimming_Pool_And_Gymnactics_Hall_Fees",
+      "BANKAccount": "05652030000060",
+      "BANK": "AXIS BANK",
+      "BANKBranch": "UTIB0001475"
     }
   ]
 }
