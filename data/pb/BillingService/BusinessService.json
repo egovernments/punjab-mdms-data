@@ -17,7 +17,7 @@
     {
       "businessService": "WaterCharges",
       "code": "WC",
-      "isBillAmendmentEnabled": false,
+      "isBillAmendmentEnabled": true,
       "collectionModesNotAllowed": [
         ""
       ],
@@ -1952,18 +1952,6 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
-    },
-    {
-      "businessService": "WaterCharges",
-      "code": "WC",
-      "isBillAmendmentEnabled": true,
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": true,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
     },
     {
       "businessService": "OTHER.library_annual_fees", 
