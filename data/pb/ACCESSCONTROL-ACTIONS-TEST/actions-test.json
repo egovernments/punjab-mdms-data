@@ -13132,7 +13132,32 @@
       "navigationURL": "report/rainmaker-pt/PTReportforGISMapping",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 2417,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.library_annual_fees/_search",
+      "displayName": "library_annual_fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2418,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OTHER.library_annual_fees/_workflow",
+      "displayName": "library_annual_fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    } 
+	  
    
 	  
   ]
