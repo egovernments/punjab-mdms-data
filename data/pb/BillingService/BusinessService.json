@@ -2057,6 +2057,32 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
+    },
+    {
+      "businessService": "ws-services-calculation",
+      "code": "WS",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false,
+      "billGineiURL": "egov-searcher/bill-genie/waterbills/_get",
+      "isBillAmendmentEnabled": true,
+      "cancelReceipt": true
+    },
+    {
+      "businessService": "SewerageCharges",
+      "code": "SC",
+      "isBillAmendmentEnabled": true,
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
     }
     
   ]
