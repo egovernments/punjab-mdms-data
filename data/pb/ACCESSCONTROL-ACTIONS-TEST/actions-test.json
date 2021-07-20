@@ -13460,7 +13460,7 @@
       "code": "null",
       "path": ""
     },
-	  {
+    {
       "id": 2445,
       "name": "HRMS Report",
       "url": "/report/rainmaker-hrms/_get",
@@ -13470,6 +13470,17 @@
       "serviceCode": "HRMSREPORTS",
       "code": "null",
       "path": "HRMS Report"
+    },
+    {
+      "id": 2446,
+      "name": "Cancel Assessment registry",
+      "url": "/property-services/assessment/_cancel",
+      "displayName": "Cancel Assessment Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
     }
 	  
 
