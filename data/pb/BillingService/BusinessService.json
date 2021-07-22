@@ -1977,6 +1977,19 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false
+    },
+    {
+      "businessService": "OTHER.library_security_fees", 
+      "code": "OTHER.library_security_fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
     }
   ]
 }
