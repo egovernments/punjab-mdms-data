@@ -13507,8 +13507,8 @@
       "path": ""
     },
     {
-       "id": 2449,
-        "name": "Apply and Search No dues",
+        "id": 2449,
+        "name": "No Dues Apply",
         "url": "quickAction",
         "displayName": "No Dues Apply",
         "orderNumber": 7,
@@ -13522,27 +13522,27 @@
         "lastModifiedDate": null,
         "lastModifiedBy": null,
         "path": "N_D.No Dues Apply",
-        "navigationURL": "nd/NoDuesApply",
+        "navigationURL": "nd/search",
         "quickAction": true,
         "leftIcon": "editor:insert-chart",
         "rightIcon": ""
-      },
+       },
       {
-       "id": 2450,
-        "name": "Apply and Search No dues",
+         "id": 2450,
+        "name": "rainmaker-common-nd",
         "url": "card",
         "displayName": "No Dues Apply",
         "orderNumber": 8,
         "parentModule": "",
         "enabled": false,
-        "serviceCode": "wns",
+        "serviceCode": "nd",
         "code": "",
         "path": "",
-        "navigationURL": "nd/NoDuesApply",
+        "navigationURL": "nd/search",
         "leftIcon": "editor:insert-chart",
         "rightIcon": "",
         "queryParams": ""
-      }
+       }
 	  
 
   ]
