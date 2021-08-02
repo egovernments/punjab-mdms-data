@@ -1,56 +1,56 @@
 {
-    "tenantId": "pb",
-    "moduleName": "common-masters",
-    "CronJobAPIConfig": [
-      {
-        "jobName": "ws-demand-generation-job-scheduler",
-        "active": "true",
-        "method": "POST",
-        "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
-        "payload": {
-          "RequestInfo": "{DEFAULT_REQUESTINFO}"
-        },
-        "header": {
-          "Content-Type": "application/json"
-        }
+  "tenantId": "pb",
+  "moduleName": "common-masters",
+  "CronJobAPIConfig": [
+    {
+      "jobName": "ws-demand-generation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
-       {
-        "jobName": "sw-demand-generation-job-scheduler",
-        "active": "true",
-        "method": "POST",
-        "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobscheduler",
-        "payload": {
-          "RequestInfo": "{DEFAULT_REQUESTINFO}"
-        },
-        "header": {
-          "Content-Type": "application/json"
-        }
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "sw-demand-generation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
-      {
-        "jobName": "ws-bill-generation-job-scheduler",
-        "active": "true",
-        "method": "POST",
-        "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobbillscheduler",
-        "payload": {
-          "RequestInfo": "{DEFAULT_REQUESTINFO}"
-        },
-        "header": {
-          "Content-Type": "application/json"
-        }
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "ws-bill-generation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobbillscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
-      {
-        "jobName": "sw-bill-generation-job-scheduler",
-        "active": "true",
-        "method": "POST",
-        "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobbillscheduler",
-        "payload": {
-          "RequestInfo": "{DEFAULT_REQUESTINFO}"
-        },
-        "header": {
-          "Content-Type": "application/json"
-        }
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "jobName": "sw-bill-generation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobbillscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
-      {
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
       "jobName": "daily",
       "active": "true",
       "method": "POST",
@@ -61,6 +61,18 @@
       "header": {
         "Content-Type": "application/json"
       }
+    },
+    {
+      "jobName": "pt-assessment-generation-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://pt-calculator-v2:8080/pt-calculator-v2/assessment/_jobscheduler",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
     }
-    ]
-  }
+  ]
+}
