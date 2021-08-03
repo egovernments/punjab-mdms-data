@@ -31,9 +31,14 @@
     },
     {
       "tenant": "pb.kurali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22",
       "propertytype": ["RESIDENTIAL","NONRESIDENTIAL","MIXED"]
+    },
+    {
+      "tenant": "pb.hoshiarpur",
+      "enabled": true,
+      "financialyear": "2020-21"
     }
   ]
 }
