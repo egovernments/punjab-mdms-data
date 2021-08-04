@@ -63,7 +63,7 @@
       "jobName": "pt-assessment-generation-job-scheduler",
       "active": "true",
       "method": "POST",
-      "url": "http://pt-calculator-v2:8080/pt-calculator-v2/assessment/_jobscheduler",
+      "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/assessment/_jobscheduler",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
