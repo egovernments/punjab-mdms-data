@@ -58,7 +58,7 @@
     },
     {
       "tenant": "pb.jalandhar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22"
     },
     {
@@ -68,8 +68,13 @@
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22"
+    },
+    {
+      "tenant": "pb.moga",
+      "enabled": true,
+      "financialyear": "2020-21"
     }
   ]
 }
