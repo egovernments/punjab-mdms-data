@@ -72,8 +72,23 @@
     },
     {
       "tenant": "pb.moga",
+      "enabled": false,
+      "financialyear": "2020-21"
+    },
+     {
+      "tenant": "pb.zirakpur",
+      "enabled": true,
+      "financialyear": "2019-20"
+     },
+     {
+      "tenant": "pb.zirakpur",
       "enabled": true,
       "financialyear": "2020-21"
-    }
+     },
+     {
+      "tenant": "pb.fazilka",
+      "enabled": true,
+      "financialyear": "2020-21"
+     }
   ]
 }
