@@ -6562,7 +6562,48 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_TAX",
+      "code": "ADVT.POLL_KIOSK_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_FIELD_FEE",
+      "code": "ADVT.POLL_KIOSK_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+{
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_CGST",
+      "code": "ADVT.POLL_KIOSK_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Poll_Kiosk",
+      "name": "ADVT.POLL_KIOSK_SGST",
+      "code": "ADVT.POLL_KIOSK_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }	  
+	  
 	  
 	  
 
