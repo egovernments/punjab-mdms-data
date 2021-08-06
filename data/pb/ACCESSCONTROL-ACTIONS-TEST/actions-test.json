@@ -13557,7 +13557,31 @@
       "navigationURL": "report/rainmaker-pt/PT_DEFAULTER_REPORT_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 2452,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Poll Kiosk/_search",
+      "displayName": "Poll Kiosk Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2453,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/ADVT.Poll Kiosk/_workflow",
+      "displayName": "Poll Kiosk Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }	  
 	  
 
   ]
