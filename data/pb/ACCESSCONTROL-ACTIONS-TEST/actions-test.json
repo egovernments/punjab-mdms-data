@@ -13281,7 +13281,31 @@
       "navigationURL": "report/rainmaker-pt/PT_BlockFYReport_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 2428,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Challan_Under_Section_122_123/_search",
+      "displayName": "Challan_Under_Section_122_123 Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2429,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/ADVT.Challan_Under_Section_122_123/_workflow",
+      "displayName": "Challan_Under_Section_122_123 Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    }	  
    
   ]
 }
