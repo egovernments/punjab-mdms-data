@@ -2082,6 +2082,19 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
+    },
+    {
+      "businessService": "Advertisement Tax.Poll Kiosk",
+      "code": "ADVT.Poll_Kiosk",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true
     }
     
   ]
