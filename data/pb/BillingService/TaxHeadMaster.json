@@ -6602,8 +6602,47 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    }	  
-	  
+    },	  
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_TAX",
+      "code": "ADVT.GANTRY_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_FIELD_FEE",
+      "code": "ADVT.GANTRY_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_CGST",
+      "code": "ADVT.GANTRY_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "ADVT.Gantry",
+      "name": "ADVT.GANTRY_SGST",
+      "code": "ADVT.GANTRY_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }		  
 	  
 	  
 
