@@ -13305,6 +13305,30 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2430,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADVT.Poll_Kiosk/_search",
+      "displayName": "Poll_Kiosk Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2431,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/ADVT.Poll_Kiosk/_workflow",
+      "displayName": "Poll_Kiosk Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }	  
    
   ]
