@@ -688,15 +688,15 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Phillaur",
-        "localname": "Phillaur",
+        "name": "phillaur",
+        "localname": "phillaur",
         "longitude": null,
         "latitude": null,
         "label": "City",
         "code": "pb.phillaur",
         "children": [
           {
-            "id": "3e10fe66-ac69-43c3-a304-aa4ee14e5b49",
+            "id": "9dcdc0a3-6f27-41a7-b496-183b3af54181",
             "boundaryNum": 1,
             "name": "Zone 1",
             "localname": "Zone 1",
@@ -706,7 +706,715 @@
             "code": "Z1",
             "children": [
               {
-                "id": "5b87cc6e-13ec-4f77-a084-8daa8b1f0e04",
+                "id": "591c7326-b18b-4ea0-8835-bed9c43a5a09",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "8ddb4890-8ee8-4b0a-a08f-806f6122c32e",
+                    "boundaryNum": 1,
+                    "name": "Chaudhrian Mohalla Block 2 - B2 - A2",
+                    "localname": "Chaudhrian Mohalla Block 2 - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_02",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6d634f84-992a-4b52-86f5-976b7106f9f5",
+                    "boundaryNum": 1,
+                    "name": "Moh. Sultani Block 2 - B2 - A2",
+                    "localname": "Moh. Sultani Block 2 - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d1be291-29f9-4ef9-bb23-c52df4980415",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "002c0c4a-8c56-4659-89c9-e6278ccd76e9",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kazian,Bhrampuri,Chaudhrian Block 3 - B3 - A2",
+                    "localname": "Mohalla Kazian,Bhrampuri,Chaudhrian Block 3 - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_03",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cf1ff4ca-a4da-436f-864d-bd3f5b00aea4",
+                    "boundaryNum": 1,
+                    "name": "Gdurian, chaura Khoo Block 3 - B3 - A2",
+                    "localname": "Gdurian, chaura Khoo Block 3 - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1eccda9a-8940-4e79-8aef-4a40e79cf4a1",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "a6579d83-64df-4849-baec-45bbbaa88c5f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar Block 4 - B4 - A2",
+                    "localname": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar Block 4 - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_04",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1669d7c3-722f-42d3-a008-9f972abc117d",
+                    "boundaryNum": 1,
+                    "name": "Chaura Khoo Block 4 - B4 - A2",
+                    "localname": "Chaura Khoo Block 4 - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "608b337e-5046-4353-b00a-d7f76bf76523",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "05db6843-97e8-482d-bffa-f5b54b00bf1c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ghumara,Acharjan Block 5 - B5 - A2",
+                    "localname": "Mohalla Ghumara,Acharjan Block 5 - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_05",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "541da8e5-f929-45d7-86f1-4cb893384e5b",
+                    "boundaryNum": 1,
+                    "name": "Moh.Chaudhrian,Murad Manjil,Bhardwaj, Sheikhan Bithla,Padhaya, chhatti gali Moh. Khajanchian Mitha Khoo Block 5 - B5 - A2",
+                    "localname": "Moh.Chaudhrian,Murad Manjil,Bhardwaj, Sheikhan Bithla,Padhaya, chhatti gali Moh. Khajanchian Mitha Khoo Block 5 - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_30",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26b8dd76-fdfe-47d9-90cf-142c9e2e14fa",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "03574535-4772-4d77-9155-7266b2d111e8",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Saidan,Purana Bazar,Takhatgarh Block 6 - B6 - A1",
+                    "localname": "Mohalla Saidan,Purana Bazar,Takhatgarh Block 6 - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_06",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "920a62b8-50b4-481d-b581-51804abaecbb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Saidan,Garha Road,Bhulla Ram Chowk, Moh, Sabji Mandi,Khazanchia,Moh. Chaudharian  Block 6 - B6 - A2",
+                    "localname": "Mohalla Saidan,Garha Road,Bhulla Ram Chowk, Moh, Sabji Mandi,Khazanchia,Moh. Chaudharian  Block 6 - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_33",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "474f705d-2fa6-474f-95e1-ff70cb01f3fe",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "107620d7-ae27-4e3e-8f06-bb708635fc37",
+                    "boundaryNum": 1,
+                    "name": "Sabzi Mandi,Mohalla Shekhian Block 7 - B7 - A2",
+                    "localname": "Sabzi Mandi,Mohalla Shekhian Block 7 - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_07",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "511647c4-2fa5-46bb-8b4a-e00dd55a3ba5",
+                    "boundaryNum": 1,
+                    "name": "Charanji Lal Chowk,Gujjran Wali Gali,Arya Smaj Gali Moh, Malahan, Gulabi Kothi,  Moh. Bhanderan Block 7 - B7 - A2",
+                    "localname": "Charanji Lal Chowk,Gujjran Wali Gali,Arya Smaj Gali Moh, Malahan, Gulabi Kothi,  Moh. Bhanderan Block 7 - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_34",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f022e059-43d2-4a85-aa31-78237565347d",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "d61f07c7-c357-4fbc-8d92-f6409f973ec0",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar ,Quila Road Block 8 - B8 - A1",
+                    "localname": "Main Bazar ,Quila Road Block 8 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_08",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "08322a54-c486-45a9-809d-09a448328288",
+                    "boundaryNum": 1,
+                    "name": "Sabji Mandi,Moh. Multani,Bhanderan,Moh.Rajputtan  B8 - B8 - A2",
+                    "localname": "Sabji Mandi,Moh. Multani,Bhanderan,Moh.Rajputtan  B8 - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_36",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56bf368f-d075-4844-bb37-905cfef8e2dd",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "f742ac24-a8ed-4a80-b8f1-ebe1e577c3e4",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Multani ,Mohalla Rajputtan Block 9 - B9 - A2",
+                    "localname": "Mohalla Multani ,Mohalla Rajputtan Block 9 - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_09",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c6e6a3e6-96bd-4e27-b674-c5e8d01c43e7",
+                    "boundaryNum": 1,
+                    "name": "Punjab Poilice Achademy - B9 - A1",
+                    "localname": "Punjab Poilice Achademy - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_38",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8231bf08-20a3-41ab-b6d4-73f0f1c4b165",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "6c2cc073-14f7-4f19-a144-27ebc06c243b",
+                    "boundaryNum": 1,
+                    "name": "Punjab Police Academy Block 10 - B10 - A1",
+                    "localname": "Punjab Police Academy Block 10 - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cb15bf72-8aaf-469b-a2ae-7791ec7636d8",
+                    "boundaryNum": 1,
+                    "name": "Moh. ,Bhandera.,Naiya.Moh. - B10 - A2",
+                    "localname": "Moh. ,Bhandera.,Naiya.Moh. - B10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_40",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c7577c78-f0ef-4e3f-a1df-ffafe79d6855",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "7e6bfe9a-3466-479d-b053-6b33d7c6caa2",
+                    "boundaryNum": 1,
+                    "name": "Passian Chownk,Nawa Bazar Block 11 - B11 - A1",
+                    "localname": "Passian Chownk,Nawa Bazar Block 11 - B11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4520699d-ff81-4a91-8f93-3fc55bcbdbc6",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mathurapuri,Abadpura, Block 11 - B11 - A2",
+                    "localname": "Mohalla Mathurapuri,Abadpura, Block 11 - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_41",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60e6842a-2120-4050-b6b0-298464e73341",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "e338d3d6-c8d1-4207-a26a-89ba647ef98c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Mathurapuri,Abadpura Block 12 - B12 - A2",
+                    "localname": "Mohalla Mathurapuri,Abadpura Block 12 - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "74b74a34-21ac-45c8-bb73-a06bed28b48f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Takhatgarh, Navi Abadi,Old Teh Road,Civil Hospital Road Block 12 - B12 - A1",
+                    "localname": "Mohalla Takhatgarh, Navi Abadi,Old Teh Road,Civil Hospital Road Block 12 - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_43",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25298491-ea4e-449b-ac8e-bf8f0d13d67d",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "a04f35cf-dcd7-48ef-89f8-92350cde695f",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Takhatgarh Block 13 - B13 - A1",
+                    "localname": "Mohalla Takhatgarh Block 13 - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b92ae834-26a4-4a4b-820b-89164314096c",
+                    "boundaryNum": 1,
+                    "name": "Civil Line.Old Nawan Shahar Road,Court Road,Dana Mandi,Navi Abadi,Puda Colony,Lakka Mandi Block 13 - B13 - A1",
+                    "localname": "Civil Line.Old Nawan Shahar Road,Court Road,Dana Mandi,Navi Abadi,Puda Colony,Lakka Mandi Block 13 - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_44",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e892bc75-45ec-40ed-9f28-5a67e61e95a9",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "aa495fd9-fbd8-430f-bd92-a47a52c68ceb",
+                    "boundaryNum": 1,
+                    "name": "Civil Lines,Dana Mandi, Hanuman Mandir Block 14 - B14 - A1",
+                    "localname": "Civil Lines,Dana Mandi, Hanuman Mandir Block 14 - B14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "532a33d8-b7a8-4345-8131-6881fc12a329",
+                    "boundaryNum": 1,
+                    "name": "Nawan Shahar Road,Court Road,Quilla Road,Main Bus Stand,Lakka Mandi,Old G.T Road, Old Nawan shahar Road, Taxi Stand Block 14 - B14 - A1",
+                    "localname": "Nawan Shahar Road,Court Road,Quilla Road,Main Bus Stand,Lakka Mandi,Old G.T Road, Old Nawan shahar Road, Taxi Stand Block 14 - B14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_45",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "410d4a63-0684-4db4-888d-a66010401945",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "5b6fd45b-b770-47c1-b36e-1431855a6eb3",
+                    "boundaryNum": 1,
+                    "name": "Lakkar Mandi Block 15 - B15 - A1",
+                    "localname": "Lakkar Mandi Block 15 - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db59bded-961c-4b2c-b187-c47edd2610ba",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ravidasspura,Noormahal Road,Santokhpura Akalpur Road Block 15 - B15 - A2",
+                    "localname": "Mohalla Ravidasspura,Noormahal Road,Santokhpura Akalpur Road Block 15 - B15 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_46",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12861504-5a7f-4c0a-8ed7-85b38442efa9",
+                "boundaryNum": 1,
+                "name": "Block 16",
+                "localname": "Block 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B16",
+                "children": [
+                  {
+                    "id": "c2045836-40dd-4e8e-88f4-ac1b8c4bcabb",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Santokhpura ,Akalpur Road Block 16 - B16 - A2",
+                    "localname": "Mohalla Santokhpura ,Akalpur Road Block 16 - B16 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_16",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5529dd45-af5e-44f0-8253-08d15d88fbaa",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ravidasspura ,Nuramahal Road Block 16 - B16 - A2",
+                    "localname": "Mohalla Ravidasspura ,Nuramahal Road Block 16 - B16 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_48",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18ec3763-78b8-4155-a128-b4758d3d4cc0",
+                "boundaryNum": 1,
+                "name": "Block 17",
+                "localname": "Block 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B17",
+                "children": [
+                  {
+                    "id": "04ed6d13-dc35-4ea9-8e27-3d48d84b5d60",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ravidasspura,Noormahal Road Block 17 - B17 - A2",
+                    "localname": "Mohalla Ravidasspura,Noormahal Road Block 17 - B17 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "38911d58-648d-4744-add4-2681aee83331",
+                    "boundaryNum": 1,
+                    "name": "Akalpur Road Talwan Road Block 17 - B17 - A2",
+                    "localname": "Akalpur Road Talwan Road Block 17 - B17 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_50",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ca599a0e-963e-4698-8c3f-ff24cae76b13",
+                "boundaryNum": 1,
+                "name": "Block 18",
+                "localname": "Block 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18",
+                "children": [
+                  {
+                    "id": "7f3843e4-4bd4-4f41-87e7-0400008c6f3a",
+                    "boundaryNum": 1,
+                    "name": "Talwan Road Block 18 - B18 - A2",
+                    "localname": "Talwan Road Block 18 - B18 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f8084b22-1585-4014-9a48-53f5a20643da",
+                    "boundaryNum": 1,
+                    "name": "Nuramahal Road,Friends Road,Industry Area,Radha Swami Colony Block 18 - B18 - A2",
+                    "localname": "Nuramahal Road,Friends Road,Industry Area,Radha Swami Colony Block 18 - B18 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_52",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6fc1a7ca-29d0-403e-9761-329f0c787034",
+                "boundaryNum": 1,
+                "name": "Block 19",
+                "localname": "Block 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19",
+                "children": [
+                  {
+                    "id": "78d8f93f-b27e-4ae1-b1c0-a8b0ba016b2c",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Ravidasspura,Noormahal Road Block 19 - B19 - A2",
+                    "localname": "Mohalla Ravidasspura,Noormahal Road Block 19 - B19 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "777338f8-b0c8-4bb1-80c9-8a4867e99f57",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Santokhpura Block 19 - B19 - A2",
+                    "localname": "Mohalla Santokhpura Block 19 - B19 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_55",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5efc1be-8ad2-4d3d-85d2-b921cfa5a7a5",
+                "boundaryNum": 1,
+                "name": "Block 20",
+                "localname": "Block 20",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20",
+                "children": [
+                  {
+                    "id": "dbafa935-8587-4cfb-8ba6-8322aa4dfd2b",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Santokhpura Block 20 - B20 - A2",
+                    "localname": "Mohalla Santokhpura Block 20 - B20 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8caaa87b-16c8-444b-8c50-7499c4cf5e01",
+                    "boundaryNum": 1,
+                    "name": "Bavian Da Bohar Block 20 - B20 - A2",
+                    "localname": "Bavian Da Bohar Block 20 - B20 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_57",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c2de6b1f-6ef6-467d-9c49-271e4cff3bae",
+                "boundaryNum": 1,
+                "name": "Block 21",
+                "localname": "Block 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21",
+                "children": [
+                  {
+                    "id": "ab432f54-4af4-44c6-be1b-7d257a335f9c",
+                    "boundaryNum": 1,
+                    "name": "Noormahal Road ,Bavian Da Bohar Block 21 - B21 - A2",
+                    "localname": "Noormahal Road ,Bavian Da Bohar Block 21 - B21 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82c48268-9ae3-42bc-abdc-0b1369c78d17",
                 "boundaryNum": 1,
                 "name": "Block 1",
                 "localname": "Block 1",
@@ -716,7 +1424,19 @@
                 "code": "B1",
                 "children": [
                   {
-                    "id": "ec98e52d-0836-474c-80b5-faae11783a21",
+                    "id": "800ba9fb-2ec2-46fa-b89e-f98dd37eb581",
+                    "boundaryNum": 1,
+                    "name": "Moh. Chaudhrian, Ambedkar Nagar B1 - B1 - A2",
+                    "localname": "Moh. Chaudhrian, Ambedkar Nagar B1 - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "40a15921-b2ce-4955-800e-8abd6802a18f",
                     "boundaryNum": 1,
                     "name": "Garha Road Block 1 - B1 - A2",
                     "localname": "Garha Road Block 1 - B1 - A2",
@@ -730,481 +1450,409 @@
                 ]
               },
               {
-                "id": "e15be94d-4d30-4776-a8e7-73bf87835a43",
+                "id": "542d327c-e2dc-4d37-ac3d-1574d3f90cc4",
                 "boundaryNum": 1,
-                "name": "Block 2",
-                "localname": "Block 2",
+                "name": "Block1 A",
+                "localname": "Block1 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B2",
+                "code": "B1A",
                 "children": [
                   {
-                    "id": "4c6f9caa-9ef0-40fa-adab-371148ad1a65",
+                    "id": "9cb30470-3c3e-43d7-a648-55c281518a65",
                     "boundaryNum": 1,
-                    "name": "Chaudhrian Mohalla Block 2 - B2 - A2",
-                    "localname": "Chaudhrian Mohalla Block 2 - B2 - A2",
+                    "name": "Garha Road. Moh. Chaudhrian, Ambedkar Nagar B1 Commercial - B1A - A1",
+                    "localname": "Garha Road. Moh. Chaudhrian, Ambedkar Nagar B1 Commercial - B1A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_02",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "13d27ad2-0d9f-427d-a58a-32c7db114b36",
-                "boundaryNum": 1,
-                "name": "Block 3",
-                "localname": "Block 3",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B3",
-                "children": [
-                  {
-                    "id": "383e458c-845b-4299-8e19-724208d5050f",
-                    "boundaryNum": 1,
-                    "name": "Mohalla Kazian,Bhrampuri,Chaudhrian Block 3 - B3 - A2",
-                    "localname": "Mohalla Kazian,Bhrampuri,Chaudhrian Block 3 - B3 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_03",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "cd3f7ece-a9b0-4430-bbfb-98fc76d876f2",
-                "boundaryNum": 1,
-                "name": "Block 4",
-                "localname": "Block 4",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B4",
-                "children": [
-                  {
-                    "id": "59fb69b7-7d74-4e97-ad38-170f22ef5961",
-                    "boundaryNum": 1,
-                    "name": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar Block 4 - B4 - A2",
-                    "localname": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar Block 4 - B4 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_04",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0c47f838-d529-4724-8319-d9510adb7f6f",
-                "boundaryNum": 1,
-                "name": "Block 5",
-                "localname": "Block 5",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B5",
-                "children": [
-                  {
-                    "id": "3a02881c-5ec4-4c4f-8277-188a9b9ff29d",
-                    "boundaryNum": 1,
-                    "name": "Mohalla Ghumara,Acharjan Block 5 - B5 - A2",
-                    "localname": "Mohalla Ghumara,Acharjan Block 5 - B5 - A2",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_05",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "e729e7e1-6e97-4479-9c94-6c27a07d5289",
-                "boundaryNum": 1,
-                "name": "Block 6",
-                "localname": "Block 6",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B6",
-                "children": [
-                  {
-                    "id": "e7707063-c248-4389-8909-1ce2474f0a9b",
-                    "boundaryNum": 1,
-                    "name": "Mohalla Saidan,Purana Bazar,Takhatgarh Block 6 - B6 - A1",
-                    "localname": "Mohalla Saidan,Purana Bazar,Takhatgarh Block 6 - B6 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_06",
+                    "code": "PHR_23",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "18d38ab7-2780-4e6e-ba05-544fb459c7ac",
+                "id": "70b34f98-f81a-4fce-8a4c-a2ad51171901",
                 "boundaryNum": 1,
-                "name": "Block 7",
-                "localname": "Block 7",
+                "name": "Block 2 A",
+                "localname": "Block 2 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B7",
+                "code": "B2A",
                 "children": [
                   {
-                    "id": "1240aff4-2c18-4c16-9500-2029ac8ecd16",
+                    "id": "0fc9e286-bc21-4fa7-9400-be61b7ed2517",
                     "boundaryNum": 1,
-                    "name": "Sabzi Mandi,Mohalla Shekhian Block 7 - B7 - A2",
-                    "localname": "Sabzi Mandi,Mohalla Shekhian Block 7 - B7 - A2",
+                    "name": "Chaudhrian Mohalla, Moh. Sultani Block 2 Commercial - B2A - A1",
+                    "localname": "Chaudhrian Mohalla, Moh. Sultani Block 2 Commercial - B2A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_07",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "078d5693-f81d-4dfb-866d-1c46441c12e0",
-                "boundaryNum": 1,
-                "name": "Block 8",
-                "localname": "Block 8",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B8",
-                "children": [
-                  {
-                    "id": "5194b623-5477-47af-985b-4f84dcdbe673",
-                    "boundaryNum": 1,
-                    "name": "Main Bazar ,Quila Road Block 8 - B8 - A1",
-                    "localname": "Main Bazar ,Quila Road Block 8 - B8 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_08",
+                    "code": "PHR_25",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "89ac2bac-97fd-4a17-98a3-6ec22e9a334c",
+                "id": "e943f340-37d4-4404-b062-6f509483f361",
                 "boundaryNum": 1,
-                "name": "Block 9",
-                "localname": "Block 9",
+                "name": "Block 3 A",
+                "localname": "Block 3 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B9",
+                "code": "B3A",
                 "children": [
                   {
-                    "id": "ca985d5b-e060-499f-82c8-fd4c67120ddf",
+                    "id": "6056a13d-cdbd-4b9f-a585-3c3733670e2e",
                     "boundaryNum": 1,
-                    "name": "Mohalla Multani ,Mohalla Rajputtan Block 9 - B9 - A2",
-                    "localname": "Mohalla Multani ,Mohalla Rajputtan Block 9 - B9 - A2",
+                    "name": "Mohalla Kazian,Bhrampuri,Chaudhrian,Gdurian, chaura Khoo Block 3 Commercial - B3A - A1",
+                    "localname": "Mohalla Kazian,Bhrampuri,Chaudhrian,Gdurian, chaura Khoo Block 3 Commercial - B3A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_09",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "c2be8200-d326-4f98-b9cc-b3519f869947",
-                "boundaryNum": 1,
-                "name": "Block 10",
-                "localname": "Block 10",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B10",
-                "children": [
-                  {
-                    "id": "f489823c-bf4b-45c5-a5a3-9689c5c189fd",
-                    "boundaryNum": 1,
-                    "name": "Punjab Police Academy Block 10 - B10 - A1",
-                    "localname": "Punjab Police Academy Block 10 - B10 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_10",
+                    "code": "PHR_27",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "d91ee48b-7653-4af5-8b03-03a84644c648",
+                "id": "2ba1ec04-b457-47e3-90ee-c5618bc1bb54",
                 "boundaryNum": 1,
-                "name": "Block 11",
-                "localname": "Block 11",
+                "name": "Block 4 A",
+                "localname": "Block 4 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B11",
+                "code": "B4A",
                 "children": [
                   {
-                    "id": "ec891452-705e-4421-8a2c-db960d990144",
+                    "id": "020355b8-880a-4ff1-989b-c46469ddd4a9",
                     "boundaryNum": 1,
-                    "name": "Passian Chownk,Nawa Bazar Block 11 - B11 - A1",
-                    "localname": "Passian Chownk,Nawa Bazar Block 11 - B11 - A1",
+                    "name": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar , Chaura Khoo Block 4 Commercial - B4A - A1",
+                    "localname": "Mohalla Kazian,Rishi Nagar,Uchi Ghati,Prem Nagar , Chaura Khoo Block 4 Commercial - B4A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_11",
+                    "code": "PHR_29",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "e95daede-8710-4d83-8cd8-ab2159a69bc8",
+                "id": "3b8fe2d7-8f99-4e12-964d-5f5ec36d6bd7",
                 "boundaryNum": 1,
-                "name": "Block 12",
-                "localname": "Block 12",
+                "name": "Block 5 A",
+                "localname": "Block 5 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B12",
+                "code": "B5A",
                 "children": [
                   {
-                    "id": "d4143fd1-ad5a-40a7-b1fe-212339e45351",
+                    "id": "39d8f591-e8e5-4e5c-a17e-4090df0aafae",
                     "boundaryNum": 1,
-                    "name": "Mohalla Mathurapuri,Abadpura Block 12 - B12 - A2",
-                    "localname": "Mohalla Mathurapuri,Abadpura Block 12 - B12 - A2",
+                    "name": "Mohalla Ghumara,Acharjan,Chaudhrian,Murad Manjil,Bhardwaj, Sheikhan Bithla,Padhaya, chhatti gali Moh. Khajanchian Mitha Khoo Block 5 Commercial - B5A - A1",
+                    "localname": "Mohalla Ghumara,Acharjan,Chaudhrian,Murad Manjil,Bhardwaj, Sheikhan Bithla,Padhaya, chhatti gali Moh. Khajanchian Mitha Khoo Block 5 Commercial - B5A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_12",
-                    "area": "AREA2",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "ca115c91-2b71-4327-a130-92025890ae25",
-                "boundaryNum": 1,
-                "name": "Block 13",
-                "localname": "Block 13",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "B13",
-                "children": [
-                  {
-                    "id": "2b05806a-18f8-4aa1-a76b-0c040ebfee9c",
-                    "boundaryNum": 1,
-                    "name": "Mohalla Takhatgarh Block 13 - B13 - A1",
-                    "localname": "Mohalla Takhatgarh Block 13 - B13 - A1",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "PHR_13",
+                    "code": "PHR_31",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "2e1bfa2d-93e9-438d-8432-8df7581d5576",
+                "id": "90dec09b-f5fa-4641-9c36-9c24e813b189",
                 "boundaryNum": 1,
-                "name": "Block 14",
-                "localname": "Block 14",
+                "name": "Block 6 A",
+                "localname": "Block 6 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B14",
+                "code": "B6A",
                 "children": [
                   {
-                    "id": "15ba8ae7-9ea3-4851-896f-b99af88337de",
+                    "id": "c4651e97-0f0c-4f14-81d8-5216db9568ad",
                     "boundaryNum": 1,
-                    "name": "Civil Lines,Dana Mandi, Hanuman Mandir Block 14 - B14 - A1",
-                    "localname": "Civil Lines,Dana Mandi, Hanuman Mandir Block 14 - B14 - A1",
+                    "name": "Garha Road,Bhulla Ram Chowk, Bania Moh, Sabji Mandi,Khazanchia,Moh. Chaudharian  Block 6 - B6A - A1",
+                    "localname": "Garha Road,Bhulla Ram Chowk, Bania Moh, Sabji Mandi,Khazanchia,Moh. Chaudharian  Block 6 - B6A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_14",
+                    "code": "PHR_32",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "0244d5c0-e960-4026-b556-51c6997869bc",
+                "id": "9a5f1f8a-1344-4ea7-aeab-2450de637976",
                 "boundaryNum": 1,
-                "name": "Block 15",
-                "localname": "Block 15",
+                "name": "Block 7 A",
+                "localname": "Block 7 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B15",
+                "code": "B7A",
                 "children": [
                   {
-                    "id": "9ec78c08-2349-440c-96f8-e98ad009529b",
+                    "id": "790694f2-d8de-4bb4-b5df-1734aa0c84b3",
                     "boundaryNum": 1,
-                    "name": "Lakkar Mandi Block 15 - B15 - A1",
-                    "localname": "Lakkar Mandi Block 15 - B15 - A1",
+                    "name": "Sabzi Mandi,.Mohalla Shekhian,Charanji Lal Chowk,Gujjran Wali Gali,Arya Smaj Gali Moh, Malahan, Gulabi Kothi,  Moh. Bhanderan Block 7  Commercial - B7A - A1",
+                    "localname": "Sabzi Mandi,.Mohalla Shekhian,Charanji Lal Chowk,Gujjran Wali Gali,Arya Smaj Gali Moh, Malahan, Gulabi Kothi,  Moh. Bhanderan Block 7  Commercial - B7A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_15",
+                    "code": "PHR_35",
                     "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "92651139-cf84-4c87-91d5-ff98d79e3433",
+                "id": "8bc31ae7-372c-482a-9ff0-54041e952897",
                 "boundaryNum": 1,
-                "name": "Block 16",
-                "localname": "Block 16",
+                "name": "Block 8 A",
+                "localname": "Block 8 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B16",
+                "code": "B8A",
                 "children": [
                   {
-                    "id": "e1e09fa8-7a79-4a50-bf43-e3e014af7f1d",
+                    "id": "c8140293-773f-46fa-9f12-db429b3df465",
                     "boundaryNum": 1,
-                    "name": "Mohalla Santokhpura ,Akalpur Road Block 16 - B16 - A2",
-                    "localname": "Mohalla Santokhpura ,Akalpur Road Block 16 - B16 - A2",
+                    "name": "Sabji Mandi,Moh. Multani,Bhanderan,Moh.Rajputtan  Commercial Block 8 - B8A - A1",
+                    "localname": "Sabji Mandi,Moh. Multani,Bhanderan,Moh.Rajputtan  Commercial Block 8 - B8A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_16",
-                    "area": "AREA2",
+                    "code": "PHR_37",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "0abdc8bf-177b-4c8e-bec3-152718aeacd0",
+                "id": "d037d636-1ac7-44b5-bf1f-7dbd3e201b39",
                 "boundaryNum": 1,
-                "name": "Block 17",
-                "localname": "Block 17",
+                "name": "Block 10 A",
+                "localname": "Block 10 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B17",
+                "code": "B10A",
                 "children": [
                   {
-                    "id": "0a687cac-3442-41e0-9cba-8adaa0891ced",
+                    "id": "0ddb0486-848e-4474-b44f-eeeb09b80276",
                     "boundaryNum": 1,
-                    "name": "Mohalla Ravidasspura,Noormahal Road Block 17 - B17 - A2",
-                    "localname": "Mohalla Ravidasspura,Noormahal Road Block 17 - B17 - A2",
+                    "name": "Moh. Bania, old Teh Road,Bhandera.Passian Chowk,Naiya.Quilla Road,Nava Bazar,Purana Bazar B10 - B10A - A1",
+                    "localname": "Moh. Bania, old Teh Road,Bhandera.Passian Chowk,Naiya.Quilla Road,Nava Bazar,Purana Bazar B10 - B10A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_17",
-                    "area": "AREA2",
+                    "code": "PHR_39",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "72da1149-da72-42b2-969f-f120a3d72059",
+                "id": "2515a2d4-d0dc-4ceb-a814-8e3404302a43",
                 "boundaryNum": 1,
-                "name": "Block 18",
-                "localname": "Block 18",
+                "name": "Block 11 A",
+                "localname": "Block 11 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B18",
+                "code": "B11A",
                 "children": [
                   {
-                    "id": "a72c1237-2146-4fd7-8fc6-561ee1a518f9",
+                    "id": "ebe17d4a-512a-4fb5-ba3e-a5f5b37e18df",
                     "boundaryNum": 1,
-                    "name": "Talwan Road Block 18 - B18 - A2",
-                    "localname": "Talwan Road Block 18 - B18 - A2",
+                    "name": "Lakkar Mandi Mohalla Mathurapuri,Abadpura,Block 11 - B11A - A1",
+                    "localname": "Lakkar Mandi Mohalla Mathurapuri,Abadpura,Block 11 - B11A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_18",
-                    "area": "AREA2",
+                    "code": "PHR_42",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "0cb13fde-b30e-42f5-8247-3a2574021324",
+                "id": "b7d1f943-fe90-4e5d-b8b8-370cbf807c32",
                 "boundaryNum": 1,
-                "name": "Block 19",
-                "localname": "Block 19",
+                "name": "Block 15 A",
+                "localname": "Block 15 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B19",
+                "code": "B15A",
                 "children": [
                   {
-                    "id": "8b2aba64-dbf0-4980-b540-61a4d6611f73",
+                    "id": "a4b3f854-0e38-473e-ba0f-588ee675dddf",
                     "boundaryNum": 1,
-                    "name": "Mohalla Ravidasspura,Noormahal Road Block 19 - B19 - A2",
-                    "localname": "Mohalla Ravidasspura,Noormahal Road Block 19 - B19 - A2",
+                    "name": "Mohalla Ravidasspura,Noormahal Road,Santokhpura Block 15 Commercial - B15A - A1",
+                    "localname": "Mohalla Ravidasspura,Noormahal Road,Santokhpura Block 15 Commercial - B15A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_19",
-                    "area": "AREA2",
+                    "code": "PHR_47",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "9049fc53-10b4-448a-8964-5b0a6e1dbba1",
+                "id": "e2369e11-5349-4a5a-8fd6-1e7dec00ec48",
                 "boundaryNum": 1,
-                "name": "Block 20",
-                "localname": "Block 20",
+                "name": "Block 16 A",
+                "localname": "Block 16 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B20",
+                "code": "B16A",
                 "children": [
                   {
-                    "id": "fbdd5ee0-2e32-41f1-b439-87f042d19eae",
+                    "id": "13c70c2e-48af-4b12-bdc2-6729cefa0957",
                     "boundaryNum": 1,
-                    "name": "Mohalla Santokhpura Block 20 - B20 - A2",
-                    "localname": "Mohalla Santokhpura Block 20 - B20 - A2",
+                    "name": "Mohalla Ravidasspura ,Akalpur Road, Santokhpura,Nuramahal Road Block 16 Commercial - B16A - A1",
+                    "localname": "Mohalla Ravidasspura ,Akalpur Road, Santokhpura,Nuramahal Road Block 16 Commercial - B16A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_20",
-                    "area": "AREA2",
+                    "code": "PHR_49",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
               },
               {
-                "id": "72154521-ec5a-4e77-8a6f-5333f7ef0a0c",
+                "id": "6b964e95-f475-4418-bae6-5137de4739b3",
                 "boundaryNum": 1,
-                "name": "Block 21",
-                "localname": "Block 21",
+                "name": "Block 17 A",
+                "localname": "Block 17 A",
                 "longitude": null,
                 "latitude": null,
                 "label": "Block",
-                "code": "B21",
+                "code": "B17A",
                 "children": [
                   {
-                    "id": "cd8a1e7c-0a08-441c-a20f-9700acf250b3",
+                    "id": "48311b9f-cb17-4a68-989a-69f7d089f186",
                     "boundaryNum": 1,
-                    "name": "Noormahal Road ,Bavian Da Bohar Block 21 - B21 - A2",
-                    "localname": "Noormahal Road ,Bavian Da Bohar Block 21 - B21 - A2",
+                    "name": "Mohalla Ravidasspura,Noormahal Road,Akalpur Road, Talwan Road Block 17 Commercial - B17A - A1",
+                    "localname": "Mohalla Ravidasspura,Noormahal Road,Akalpur Road, Talwan Road Block 17 Commercial - B17A - A1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "PHR_21",
-                    "area": "AREA2",
+                    "code": "PHR_51",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c42f74f0-23b1-4a01-89ef-3ae13dcd328c",
+                "boundaryNum": 1,
+                "name": "Block 18 A",
+                "localname": "Block 18 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B18A",
+                "children": [
+                  {
+                    "id": "9d2d8243-f454-4bf3-942f-3b80ed23e292",
+                    "boundaryNum": 1,
+                    "name": "Nuramahal Road,Friends Road,Industry Area,Radha Swami ColonyTalwan Road Block 18  Commercial - B18A - A1",
+                    "localname": "Nuramahal Road,Friends Road,Industry Area,Radha Swami ColonyTalwan Road Block 18  Commercial - B18A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_53",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "557b3e9b-58bf-4824-b38d-e40ccd502d6a",
+                "boundaryNum": 1,
+                "name": "Block 19 A",
+                "localname": "Block 19 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B19A",
+                "children": [
+                  {
+                    "id": "10a09d49-db52-4761-8edb-f27f337edf0d",
+                    "boundaryNum": 1,
+                    "name": "Mohalla Santokhpura Block 19 Commercial - B19A - A1",
+                    "localname": "Mohalla Santokhpura Block 19 Commercial - B19A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_54",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "188e6d24-51e2-4fd7-af58-1cdeb8dc24e0",
+                "boundaryNum": 1,
+                "name": "Block 20 A",
+                "localname": "Block 20 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B20A",
+                "children": [
+                  {
+                    "id": "1bdc1b9d-e27a-4ff1-994b-6bd74d700eeb",
+                    "boundaryNum": 1,
+                    "name": "Bavian Da Bohar Block 20 Commercial - B20A - A1",
+                    "localname": "Bavian Da Bohar Block 20 Commercial - B20A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_56",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fc6ccc35-4e60-47c1-95d5-f25e1de3d1f4",
+                "boundaryNum": 1,
+                "name": "Block 21 A",
+                "localname": "Block 21 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B21A",
+                "children": [
+                  {
+                    "id": "fceee85b-ba9d-4aa0-9f89-451156412a30",
+                    "boundaryNum": 1,
+                    "name": "Noormahal Road ,Bavian Da Bohar Block 21Commercial - B21A - A1",
+                    "localname": "Noormahal Road ,Bavian Da Bohar Block 21Commercial - B21A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "PHR_58",
+                    "area": "AREA1",
                     "children": []
                   }
                 ]
