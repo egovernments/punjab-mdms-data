@@ -6,7 +6,7 @@
       "tenant": "pb.testing",
       "enabled": true,
       "financialyear": "2021-22",
-      "propertytype": ["RESIDENTIAL","NONRESIDENTIAL","MIXED"]
+      "isRented" : true
     },
     {
       "tenant": "pb.amritsar",
@@ -35,7 +35,7 @@
     },
     {
       "tenant": "pb.kurali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2020-21"
     }
   ]
