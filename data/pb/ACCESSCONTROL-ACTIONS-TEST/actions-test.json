@@ -13377,7 +13377,22 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
-    }	  
+    },
+    {
+      "id": 2436,
+      "name": "PT_NO_PAYMENT_DEFAULTERS",
+      "url": "url",
+      "displayName": "PT Block FY Report",
+      "orderNumber": 5,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.PT_NO_PAYMENT_DEFAULTERS_REPORT",
+      "navigationURL": "report/rainmaker-pt/PT_NO_PAYMENT_DEFAULTERS_REPORT",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }
    
   ]
 }
