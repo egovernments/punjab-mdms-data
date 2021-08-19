@@ -1,0 +1,312 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "ws-services-masters",
+  "subUsageType": [
+    {
+      "code": "USAGE_COMM_MOT_GOVT",
+      "name": "COMMERCIAL_MOTOR_GOVT",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_MOT",
+      "name": "RESIDENTIAL+MOTOR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_MOT",
+      "name": "COMMERCIAL+MOTOR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_1HP_1HR",
+      "name": "COMMERCIAL+MOTOR_1HP_1HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_1HP_2HR",
+      "name": "COMMERCIAL+MOTOR_1HP_2HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_1HP_3HR",
+      "name": "COMMERCIAL+MOTOR_1HP_3HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_2HP_1HR",
+      "name": "COMMERCIAL+MOTOR_2HP_1HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_2HP_2HR",
+      "name": "COMMERCIAL+MOTOR_2HP_2HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_2HP_3HR",
+      "name": "COMMERCIAL+MOTOR_2HP_3HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_3HP_1HR",
+      "name": "COMMERCIAL+MOTOR_3HP_1HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_3HP_2HR",
+      "name": "COMMERCIAL+MOTOR_3HP_2HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_3HP_3HR",
+      "name": "COMMERCIAL+MOTOR_3HP_3HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_5HP_1HR",
+      "name": "COMMERCIAL+MOTOR_5HP_1HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_5HP_2HR",
+      "name": "COMMERCIAL+MOTOR_5HP_2HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_5HP_3HR ",
+      "name": "COMMERCIAL+MOTOR_5HP_3HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_8HP_1HR",
+      "name": "COMMERCIAL+MOTOR_8HP_1HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_8HP_2HR",
+      "name": "COMMERCIAL+MOTOR_8HP_2HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_8HP_3HR",
+      "name": "COMMERCIAL+MOTOR_8HP_3HR",
+      "parentUsageType": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_MOT",
+      "name": "MOTOR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_MOT_HP_HR",
+      "name": "MOTOR_HP_HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_MOT",
+      "name": "INSTITUTIONAL+MOTOR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_1HP_1HR",
+      "name": "MOTOR_1HP_1HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_1HP_2HR",
+      "name": "MOTOR_1HP_2HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_1HP_3HR",
+      "name": "MOTOR_1HP_3HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_2HP_1HR",
+      "name": "MOTOR_2HP_1HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_2HP_1HR",
+      "name": "MOTOR_2HP_2HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_2HP_3HR",
+      "name": "MOTOR_2HP_3HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_3HP_1HR",
+      "name": "MOTOR_3P_1HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_3HP_2HR",
+      "name": "MOTOR_3HP_2HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_3HP_3HR",
+      "name": "MOTOR_3HP_3HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_5HP_1HR",
+      "name": "MOTOR_5HP_1HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_5HP_2HR",
+      "name": "MOTOR_5HP_2HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_5HP_3HR",
+      "name": "MOTOR_5HP_3HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_8HP_1HR",
+      "name": "MOTOR_8HP_1HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_8HP_2HR",
+      "name": "MOTOR_8HP_2HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_DOM_8HP_3HR",
+      "name": "MOTOR_8HP_3HR",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_1HP_1HR",
+      "name": "INSTITUTIONAL+MOTOR_1HP_1HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_1HP_2HR",
+      "name": "INSTITUTIONAL+MOTOR_1HP_2HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_1HP_3HR",
+      "name": "INSTITUTIONAL+MOTOR_1HP_3HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_2HP_1HR",
+      "name": "INSTITUTIONAL+MOTOR_2HP_1HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_2HP_2HR",
+      "name": "INSTITUTIONAL+MOTOR_2HP_2HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_2HP_3HR",
+      "name": "INSTITUTIONAL+MOTOR_2HP_3HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_3HP_1HR",
+      "name": "INSTITUTIONAL+MOTOR_3HP_1HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_3HP_2HR",
+      "name": "INSTITUTIONAL+MOTOR_3HP_2HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_3HP_3HR",
+      "name": "INSTITUTIONAL+USAGE_INST_3HP_3HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_5HP_1HR",
+      "name": "INSTITUTIONAL+MOTOR_5HP_1HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_5HP_2HR",
+      "name": "INSTITUTIONAL+MOTOR_5HP_2HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_5HP_3HR",
+      "name": "INSTITUTIONAL+MOTOR_5HP_3HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_8HP_1HR",
+      "name": "INSTITUTIONAL+MOTOR_8HP_1HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_8HP_2HR",
+      "name": "INSTITUTIONAL+MOTOR_8HP_2HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INST_8HP_3HR",
+      "name": "INSTITUTIONAL+MOTOR_8HP_3HR",
+      "parentUsageType": "INSTITUTIONAL",
+      "active": true
+    }
+  ]
+}
