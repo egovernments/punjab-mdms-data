@@ -13636,7 +13636,32 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
+    },
+    {
+	  "id": 2461,
+     	"name": "DEFAULT RENT PENALTY search",
+	"url": "/collection-services/payments/RT.PENALTY/_search",
+		  "displayName": "Penality search",
+		  "orderNumber": 1,
+		  "parentModule": "",
+		  "enabled": true,
+		  "serviceCode": "",
+		  "code": "null",
+		  "path": ""
+    },
+    {
+		  "id": 2462,
+		  "name": "DEFAULT RENT PENALTY workflow",
+		  "url": "/collection-services/payments/RT.PENALTY/_workflow",
+		  "displayName": "Penality workflow",
+		  "orderNumber": 1,
+		  "parentModule": "",
+		  "enabled": true,
+		  "serviceCode": "",
+		  "code": "null",
+		  "path": ""
     }
+		
 
   ]
 }
