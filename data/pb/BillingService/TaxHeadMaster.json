@@ -6682,8 +6682,47 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
-    } 	  
-	  
+    },
+     {
+		  "category": "TAX",
+		  "service": "RT.PENALTY",
+		  "name": "RT.PENALTY_TAX",
+		  "code": "RT.PENALTY_TAX",
+		  "isDebit": false,
+		  "isActualDemand": true,
+		  "order": "1",
+		  "isRequired": true
+		},
+		{
+		  "category": "CHARGES",
+		  "service": "RT.PENALTY",
+		  "name": "RT.PENALTY_FIELD_FEE",
+		  "code": "RT.PENALTY_FIELD_FEE",
+		  "isDebit": false,
+		  "isActualDemand": false,
+		  "order": "0",
+		  "isRequired": false
+		},
+		{
+		  "category": "TAX",
+		  "service": "RT.PENALTY",
+		  "name": "RT.PENALTY_CGST",
+		  "code": "RT.PENALTY_CGST",
+		  "isDebit": false,
+		  "isActualDemand": false,
+		  "order": "0",
+		  "isRequired": false
+		},
+		{
+		  "category": "TAX",
+		  "service": "RT.PENALTY",
+		  "name": "RT.PENALTY_SGST",
+		  "code": "RT.PENALTY_SGST",
+		  "isDebit": false,
+		  "isActualDemand": false,
+		  "order": "0",
+		  "isRequired": false
+		}
 	  
 
 	  

@@ -2029,6 +2029,18 @@
       "isActive": true,
       "type": "Adhoc",
       "cancelReceipt": true
+    },
+     {
+      "businessService": "Rents.Penalty",
+      "code": "RT.PENALTY",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
 
   ]
