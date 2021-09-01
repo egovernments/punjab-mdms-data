@@ -3,20 +3,12 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
-      "rate": 20,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2013-14",
       "startingDay": "01/04/2014",
-	  "mutationPaymentPeriodInMonth": "06"
-    },
-    {
-      "rate": 20,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2020-21",
-      "startingDay": "01/04/2021",
-	  "mutationPaymentPeriodInMonth": "06"
+	  "mutationPaymentPeriodInMonth": "04"
     }
   ]
 }
