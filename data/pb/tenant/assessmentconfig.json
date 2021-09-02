@@ -4,85 +4,85 @@
   "assessmentconfig": [
     {
       "tenant": "pb.testing",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.zirakpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.khanna",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.rajpura",
-      "enabled": false,
-      "financialyear": "2021-22",
-      "isRented" : false
-    },
-    {
-      "tenant": "pb.kurali",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
       "isRented" : true
     },
     {
       "tenant": "pb.kurali",
-      "enabled": false,
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented" : true
+    },
+    {
+      "tenant": "pb.kurali",
+      "enabled": true,
       "financialyear": "2019-20",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.hoshiarpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.hoshiarpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
       "isRented" : true
     },
     {
       "tenant": "pb.jalandhar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.jalandhar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.amritsar",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
     },
     {
       "tenant": "pb.moga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
       "isRented" : true
     },
@@ -90,17 +90,17 @@
       "tenant": "pb.zirakpur",
       "enabled": false,
       "financialyear": "2019-20",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.zirakpur",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.fazilka",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
       "isRented" : true
      },
@@ -108,30 +108,6 @@
       "tenant": "pb.nihalsinghwala",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
-    },
-     {
-      "tenant": "pb.handiaya",
-      "enabled": false,
-      "financialyear": "2021-22",
-      "isRented" : false
-     },
-     {
-      "tenant": "pb.derabassi",
-      "enabled": false,
-      "financialyear": "2020-21",
-      "isRented" : false
-     },
-     {
-      "tenant": "pb.rajpura",
-      "enabled": false,
-      "financialyear": "2020-21",
-      "isRented" : false
-     },
-    {
-      "tenant": "pb.nihalsinghwala",
-      "enabled": false,
-      "financialyear": "2021-22",
       "isRented" : true
     },
      {
@@ -143,62 +119,86 @@
      {
       "tenant": "pb.derabassi",
       "enabled": false,
-      "financialyear": "2021-22",
+      "financialyear": "2020-21",
       "isRented" : true
      },
      {
       "tenant": "pb.rajpura",
       "enabled": false,
+      "financialyear": "2020-21",
+      "isRented" : true
+     },
+    {
+      "tenant": "pb.nihalsinghwala",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented" : true
+    },
+     {
+      "tenant": "pb.handiaya",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented" : true
+     },
+     {
+      "tenant": "pb.derabassi",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented" : true
+     },
+     {
+      "tenant": "pb.rajpura",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented" : true
+     },
+     {
+      "tenant": "pb.ropar",
+      "enabled": true,
       "financialyear": "2021-22",
       "isRented" : true
      },
      {
       "tenant": "pb.ropar",
       "enabled": false,
-      "financialyear": "2021-22",
+      "financialyear": "2020-21",
       "isRented" : true
      },
      {
-      "tenant": "pb.ropar",
-      "enabled": false,
-      "financialyear": "2020-21",
-      "isRented" : false
-     },
-     {
       "tenant": "pb.dhuri",
       "enabled": false,
       "financialyear": "2019-20",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dhuri",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.khanna",
       "enabled": false,
       "financialyear": "2019-20",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.khanna",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sunam",
       "enabled": false,
       "financialyear": "2019-20",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sunam",
       "enabled": false,
       "financialyear": "2020-21",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mohali",
@@ -207,778 +207,778 @@
      },
      {
       "tenant": "pb.mohali",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.pathankot",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.phagwara",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.batala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kapurthala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nurmahal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.abohar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.adampur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.ahmedgarh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.ajnala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.alawalpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.amargarh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.amloh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.anandpursahib",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.arniwala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.badhnikalan",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.baghapurana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.balachaur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.balianwali",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.banga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.banur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bareta",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bariwala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.barnala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bassipathana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.begowal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhadaur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhadson",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhagtabhai",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhairoopa",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhawanigarh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22"
      },
      {
       "tenant": "pb.bhikhi",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhikhiwind",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhogpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhuchomandi",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bhulath",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.faridkot",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.fatehgarhchurian",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.fatehgarhpanjtoor",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.garhdiwala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.garhshankar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.ghagga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.ghanaur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.gidderbaha",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.goniana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.goraya",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.gurdaspur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.guruharsahai",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.hariana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.jagraon",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.bilga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.boha",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.budhlada",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.chamkaursahib",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.chaunke",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.cheema",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dasuya",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.derababananak",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dhanaula",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dharamkot",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dhariwal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dhilwan",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dinanagar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.dirba",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.doraha",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.jaitu",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.jalalabad",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.jandialaguru",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kartarpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.khamano",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.khanauri",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kharar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.khemkaran",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kiratpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kotfatta",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kothaguru",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kotissekhan",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kotkapura",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.kotshamir",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.lalru",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.lehragaga",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.lehramohabbat",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.lohiankhas",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.longowal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.machhiwara",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mahilpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.majitha",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.makhu",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.malerkotla",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mallanwala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.maloud",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.malout",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.maluka",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mamdot",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mandigobindgarh",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mandikalan",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mansa",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.maur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mehatpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mehraj",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.moonak",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.morinda",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mudki",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mukerian",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.muktsar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.mullanpur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22"
      },
      {
       "tenant": "pb.nabha",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22"
      },
      {
       "tenant": "pb.nadala",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nakodar",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nangal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nathana",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nawanshahr",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.nayagaon",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22"
      },
      {
       "tenant": "pb.patran",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.patti",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.payal",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.phillaur",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22"
      },
      {
       "tenant": "pb.quadian",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.rahon",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.raikot",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.rajasansi",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.raman",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.ramdass",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.rampura",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.rampuraphul",
-      "enabled": false,
+      "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.rayya",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.samana",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.samrala",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sanaur",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sangatmandi",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sangrur",
@@ -989,85 +989,85 @@
       "tenant": "pb.sardulgarh",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.shahkot",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.shamchurasi",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sirhind",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.srihargobindpur",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sujanpur",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.sultanpurlodhi",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.talwandibhai",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.talwandisabo",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.talwara",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.tapa",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.tarntaran",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.urmartanda",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      },
      {
       "tenant": "pb.zira",
       "enabled": true,
       "financialyear": "2021-22",
-      "isRented" : false
+      "isRented" : true
      }
   ]
 }
