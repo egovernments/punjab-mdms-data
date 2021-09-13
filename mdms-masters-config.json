@@ -404,6 +404,20 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "assessmentconfig": {
+      "masterName": "assessmentconfig",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.tenant"
+      ]
+    },
+   "defaultersmsconfig": {
+      "masterName": "defaultersmsconfig",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.financialyear"
+      ]
     }
   },
   "works": {
