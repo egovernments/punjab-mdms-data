@@ -6217,7 +6217,7 @@
         }
       ],
       "verificationDocument": [],
-      "active": true,
+      "active": false,
       "type": "TL",
       "validityPeriod": null
     },
@@ -6252,6 +6252,35 @@
     
     {
       "code": "SERVICES.MEDICALSERVICES.TST-1000",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    
+    
+    {
+      "code": "GOODS.MANUFACTURE.TST-1001",
       "uom": null,
       "applicationDocument": [
         {
