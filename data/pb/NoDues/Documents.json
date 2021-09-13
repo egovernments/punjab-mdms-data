@@ -310,49 +310,6 @@
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
     },
     {
-      "code": "OWNER.OCCUPANCYPROOF",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "hasDropdown": true,
-      "additionalDetails": {
-        "filterCondition": {
-          "filterValue": [
-            "SELFOCCUPIED",
-            "UNOCCUPIED"
-          ],
-          "jsonPath": "Properties[0].propertyDetails[0].units",
-          "onArray": true,
-          "arrayAttribute": "occupancyType"
-        },
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "reassess": {
-            "disableUpload": true,
-            "disableDropdown": true
-          },
-          "update": {
-            "disableUpload": false,
-            "disableDropdown": false
-          },
-          "create": {
-            "disableUpload": false,
-            "disableDropdown": false
-          }
-        }
-      },
-      "dropdownData": [
-        {
-          "code": "OWNER.OCCUPANCYPROOF.RENTAGREEMENT",
-          "active": true
-        }
-      ],
-      "description": "OWNER.OCCUPANCYPROOF.OCCUPANCYPROOF_DESCRIPTION"
-    },
-    {
       "code": "OWNER.CONSTRUCTIONPROOF",
       "documentType": "OWNER",
       "required": false,
