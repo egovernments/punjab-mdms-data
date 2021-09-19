@@ -76,7 +76,7 @@
     },
     {
       "jobName": "pt-due-sms-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/property/defaulters/_sendsms",
       "payload": {
