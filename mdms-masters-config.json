@@ -872,7 +872,7 @@
     },
     "WS_TIME_PENALTY": {
       "masterName": "WS_TIME_PENALTY",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": []
     },
     "WS_WATER_CESS": {
@@ -940,7 +940,7 @@
     },
     "Penalty": {
       "masterName": "Penalty",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
