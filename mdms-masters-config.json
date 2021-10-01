@@ -412,6 +412,13 @@
         "$.tenant"
       ]
     },
+   "reassessmentconfig": {
+      "masterName": "reassessmentconfig",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.tenant"
+      ]
+    },
    "defaultersmsconfig": {
       "masterName": "defaultersmsconfig",
       "isStateLevel": true,
