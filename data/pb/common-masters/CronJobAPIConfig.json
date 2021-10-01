@@ -4,7 +4,7 @@
   "CronJobAPIConfig": [
     {
       "jobName": "ws-demand-generation-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
       "payload": {
@@ -16,7 +16,7 @@
     },
     {
       "jobName": "sw-demand-generation-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobscheduler",
       "payload": {
@@ -28,7 +28,7 @@
     },
     {
       "jobName": "ws-bill-generation-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobbillscheduler",
       "payload": {
@@ -40,7 +40,7 @@
     },
     {
       "jobName": "sw-bill-generation-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobbillscheduler",
       "payload": {
@@ -52,7 +52,7 @@
     },
     {
       "jobName": "covid-chatbot-vitals-reminder-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://covid-chatbot.egov:8080/covid-chatbot/reminder",
       "header": {
@@ -61,7 +61,7 @@
     },
     {
       "jobName": "pt-assessment-generation-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/assessment/_jobscheduler",
       "payload": {
@@ -73,7 +73,7 @@
     },
     {
       "jobName": "daily",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://xstate-chatbot.egov:8080/xstate-chatbot/reminder",
       "payload": {
@@ -85,7 +85,7 @@
     },
     {
       "jobName": "pt-due-sms-job-scheduler",
-      "active": "true",
+      "active": "false",
       "method": "POST",
       "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/property/defaulters/_sendsms",
       "payload": {
