@@ -72,6 +72,18 @@
       }
     },
     {
+      "jobName": "pt-reassessment-generation-job-scheduler",
+      "active": "false",
+      "method": "POST",
+      "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/assessment/reassess/_job",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
       "jobName": "daily",
       "active": "false",
       "method": "POST",
