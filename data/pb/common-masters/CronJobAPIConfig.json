@@ -106,6 +106,18 @@
       "header": {
         "Content-Type": "application/json"
       }
+    },
+    {
+      "jobName": "whatsapp-chatbot-adoption-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://collection-services:8080collection-services/payments/_chatbotdailyreport?isTotalReport=false",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
     }
   ]
 }
