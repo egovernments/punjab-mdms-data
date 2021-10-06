@@ -137,7 +137,7 @@
       "code": "SW",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "ws-onetime-receipt",
-      "billKey": "ws-bill",
+      "billKey": "sw-bill",
       "arrears": true,
       "cancelReceipt": true,
       "buttons": [
@@ -167,7 +167,7 @@
       "code": "SW.ONE_TIME_FEE",
       "headerBandLabel": "PAYMENT_COMMON_APPLICATION_CODE",
       "receiptKey": "ws-onetime-receipt",
-      "billKey": "ws-bill",
+      "billKey": "sw-bill",
       "arrears": false,
       "cancelReceipt": true,
       "buttons": [
