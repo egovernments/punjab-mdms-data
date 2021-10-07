@@ -631,6 +631,10 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "ch.open_defecation_challan.receipt.id"
+    },
+    {
+      "idname": "echallan.aplnumber",
+      "format": "PG-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
     }
   ]
 }

@@ -69,7 +69,9 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Advertisement Tax.Hoardings",
@@ -82,7 +84,8 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Advertisement Tax.Unipolls",
@@ -95,7 +98,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Rents.Municipal Shops Rent",
@@ -290,7 +295,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Fee Town Planning.Draftsmen fees",
@@ -653,7 +660,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.Transfer Property Fees",
@@ -666,7 +675,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.RTI",
@@ -679,7 +690,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "ADMIN Fees.No Dues Certificate",
@@ -1070,7 +1083,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Advertisement Tax.Gas Balloon Advertisement",
@@ -1083,7 +1098,9 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc",
-      "cancelReceipt": true
+      "cancelReceipt": true,
+      "demandUpdateTime": 86400000,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
       "businessService": "Taxes.House Tax",
