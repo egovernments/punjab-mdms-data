@@ -13728,7 +13728,20 @@
       "navigationURL": "report/rainmaker-pt/CHEQUE_REPORT",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }
+    },
+    {
+      "id": 2468,
+      "name": "echallanReport_v2",
+      "url": "url",
+      "displayName": "eChallan Report",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "MiscReceipt",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "report/rainmaker-uc/echallanReport_v2",
+      "path": "Misc_Collect.Reports.echallanReport_v2"
+    }  
   	
 
   ]
