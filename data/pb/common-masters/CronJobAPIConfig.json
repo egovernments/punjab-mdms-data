@@ -4,7 +4,7 @@
   "CronJobAPIConfig": [
     {
       "jobName": "ws-demand-generation-job-scheduler",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobscheduler",
       "payload": {
@@ -16,7 +16,7 @@
     },
     {
       "jobName": "sw-demand-generation-job-scheduler",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobscheduler",
       "payload": {
@@ -28,7 +28,7 @@
     },
     {
       "jobName": "ws-bill-generation-job-scheduler",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://ws-calculator.egov:8080/ws-calculator/waterCalculator/_jobbillscheduler",
       "payload": {
@@ -40,7 +40,7 @@
     },
     {
       "jobName": "sw-bill-generation-job-scheduler",
-      "active": "false",
+      "active": "true",
       "method": "POST",
       "url": "http://sw-calculator.egov:8080/sw-calculator/sewerageCalculator/_jobbillscheduler",
       "payload": {
