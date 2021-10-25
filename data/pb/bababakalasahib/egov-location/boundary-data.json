@@ -1,0 +1,96 @@
+{
+  "tenantId": "pb.bababakalasahib",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "bababakalasahib",
+        "localname": "bababakalasahib",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bababakalasahib",
+        "children": [
+          {
+            "id": "018cf0c1-fb16-459d-9643-6e9359bc0993",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9f64a1f9-0a8c-4889-a2d1-3df5520e8bf9",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "b082853d-9d8a-4198-994d-aad3abb803a0",
+                    "boundaryNum": 1,
+                    "name": "Baba Bakala Sahib - B1 - A1",
+                    "localname": "Baba Bakala Sahib - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BBS1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3803d8d1-215d-4c40-8728-d8dee2dc7adc",
+                    "boundaryNum": 1,
+                    "name": "Jalalpur Sathiala - B1 - A1",
+                    "localname": "Jalalpur Sathiala - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BBS2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6aef0575-90aa-40ea-b281-6ae112c28ddc",
+                    "boundaryNum": 1,
+                    "name": "Padiana - B1 - A1",
+                    "localname": "Padiana - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BBS3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17b92066-e0b1-434f-8182-759a1aec4945",
+                    "boundaryNum": 1,
+                    "name": "Dhianpur - B1 - A1",
+                    "localname": "Dhianpur - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BBS4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
