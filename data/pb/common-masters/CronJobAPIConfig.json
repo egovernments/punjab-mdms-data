@@ -108,10 +108,10 @@
       }
     },
     {
-      "jobName": "whatsapp-chatbot-adoption-job-scheduler",
+      "jobName": "whatsapp-adoption-job-scheduler",
       "active": "true",
       "method": "POST",
-      "url": "http://collection-services:8080collection-services/payments/_chatbotdailyreport?isTotalReport=false",
+      "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/_chatbotdailyreport?isTotalReport=false",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
