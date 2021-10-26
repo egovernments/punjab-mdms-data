@@ -97,6 +97,18 @@
       "header": {
         "Content-Type": "application/json"
       }
+    },
+    {
+      "jobName": "whatsapp-adoption-job-scheduler",
+      "active": "true",
+      "method": "POST",
+      "url": "http://pt-calculator-v2.egov:8080/pt-calculator-v2/_chatbotdailyreport?isTotalReport=false",
+      "payload": {
+        "RequestInfo": "{DEFAULT_REQUESTINFO}"
+      },
+      "header": {
+        "Content-Type": "application/json"
+      }
     }
   ]
 }
