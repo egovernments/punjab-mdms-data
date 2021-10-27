@@ -1,0 +1,27 @@
+{
+  "tenantId": "pb.fazilka",
+  "moduleName": "sw-services-calculation",
+  "billingPeriod": [
+   
+    {
+      "active": false,
+      "connectionType": "Non Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000,//2052
+      "demandExpiryDate": 2592000000,//2052
+      "taxPeriodFrom": 1633046400000,//01 oct 2021
+      "taxPeriodTo": 1640908800000,//31 dec 2021
+      "demandGenerationDateMillis": 345600000//1980
+    },
+    {
+      "active": true,
+      "connectionType": "Non Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000,
+      "demandExpiryDate": 2592000000,
+      "taxPeriodFrom": 1633046400000,
+      "taxPeriodTo": 1640908800000,
+      "demandGenerationDateMillis": 345600000
+    }
+  ]
+}

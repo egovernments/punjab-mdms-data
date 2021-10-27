@@ -1,0 +1,26 @@
+{
+  "tenantId": "pb.bhikhiwind",
+  "moduleName": "ws-services-masters",
+  "billingPeriod": [
+    {
+      "active": false,
+      "connectionType": "Non Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000, //2052
+      "demandExpiryDate": 2592000000,   //2052
+      "taxPeriodFrom": 1633046400000, //1 oct 2021
+      "taxPeriodTo": 1640951999000, //31 dec 2021
+      "demandGenerationDateMillis": 345600000//1980
+    },
+    {
+      "active": true,
+      "connectionType": "Non Metered",
+      "billingCycle": "quarterly",
+      "demandEndDateMillis": 2592000000, //2052
+      "demandExpiryDate": 2592000000,   //2052
+      "taxPeriodFrom": 1633046400000,//1 oct 2021
+      "taxPeriodTo": 1640951999000,//31 dec 2021
+      "demandGenerationDateMillis": 345600000//1980
+    }
+  ]
+}
