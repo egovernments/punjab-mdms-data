@@ -78,6 +78,114 @@
       "name": "Hospital",
       "code": "HOSPITAL",
       "NOCCategory": "HOSPITAL",
+      "active": false
+    },
+    {
+      "name": "Hospital upto 30 beds",
+      "code": "HOSPITAL_UPTO_30_BEDS",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 31 to 50 beds",
+      "code": "HOSPITAL_31_50_BEDS",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 51 to 100 beds",
+      "code": "HOSPITAL_51_100_BEDS",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 101 to 125 beds",
+      "code": "HOSPITAL_BEDS_101_125",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 126 to 150 beds",
+      "code": "HOSPITAL_BEDS_126_150",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 151 to 175 beds",
+      "code": "HOSPITAL_BEDS_151_175",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 176 to 200 beds",
+      "code": "HOSPITAL_BEDS_176_200",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 201 to 225 beds",
+      "code":"HOSPITAL_BEDS_201_225",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 226 to 250 beds",
+      "code": "HOSPITAL_BEDS_226_250",
+      "NOCCategory":"HOSPITAL" ,
+      "active": true
+    },
+    {
+      "name": "Hospital 251 to 275 beds",
+      "code": "HOSPITAL_BEDS_251_275",
+      "NOCCategory":"HOSPITAL" ,
+      "active": true
+    },
+    {
+      "name": "Hospital 276 to 300 beds",
+      "code": "HOSPITAL_BEDS_276_300",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 301 to 325 beds",
+      "code": "HOSPITAL_BEDS_301_325",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 326 to 350 beds",
+      "code": "HOSPITAL_BEDS_326_350",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 351 to 375 beds",
+      "code": "HOSPITAL_BEDS_351_375",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 376 to 400 beds",
+      "code": "HOSPITAL_BEDS_376_400",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 401 to 425 beds",
+      "code": "HOSPITAL_BEDS_401_425",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital 426 to 450 beds",
+      "code": "HOSPITAL_BEDS_426_450",
+      "NOCCategory": "HOSPITAL",
+      "active": true
+    },
+    {
+      "name": "Hospital above 450 beds",
+      "code": "HOSPITAL_ABOVE_450",
+      "NOCCategory": "HOSPITAL",
       "active": true
     },
     {
