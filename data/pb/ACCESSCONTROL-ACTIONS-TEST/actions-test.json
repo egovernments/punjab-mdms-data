@@ -13786,6 +13786,44 @@
       "navigationURL": "report/rainmaker-uc/NewMiscReceiptULB_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+     {
+      "id": 2470,
+      "name": "HRMSEmployeewiseReport",
+      "url": "url",
+      "displayName": "HRMSEmployee wise Report",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "HRMSREPORTS",
+      "code": "null",
+      "path": "HRMS.HRMS Reports.HRMSEmployee wise Report",
+      "navigationURL": "report/rainmaker-hrms/HRMSEmployeewiseReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+     {
+      "id": 2471,
+      "name": "HRMSEmployee wise Report",
+      "url": "/report/rainmaker-hrms/metadata/_get",
+      "displayName": "HRMSEmployee wise Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "HRMSREPORTS",
+      "code": "null",
+      "path": "HRMS"
+    },
+    {
+      "id": 2472,
+      "name": "HRMSEmployee wise Report",
+      "url": "/report/rainmaker-hrms/_get",
+      "displayName": "HRMSEmployee wise Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "HRMSREPORTS",
+      "code": "null",
+      "path": "HRMS Report"
     }
    
   ]
