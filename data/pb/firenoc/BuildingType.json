@@ -307,6 +307,12 @@
           "active": true,
           "NBCGroup": "Group B Educational",
           "NBCSubGroup": "B1"
+        },
+        {
+          "code": "ARTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
         }
       ]
     },
@@ -391,10 +397,118 @@
       ],
       "active": true,
       "BuildingSubType": [
-        {
+           {
           "code": "HOSPITAL",
-          "active": true,
+          "active": false,
           "NBCGroup": "Group C Business",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_UPTO_30_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_31_50_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_51_100_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_101_125",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_126_150",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_151_175",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_176_200",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_201_225",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_226_250",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_251_275",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_276_300",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_301_325",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_326_350",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_351_375",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_376_400",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_401_425",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_426_450",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_ABOVE_450",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
           "NBCSubGroup": "C1"
         }
       ]
@@ -474,6 +588,12 @@
         },
         {
           "code": "HIGHHAZARD",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "COTTON",
           "active": true,
           "NBCGroup": "Group G Business",
           "NBCSubGroup": "G1"
@@ -604,7 +724,40 @@
           "NBCSubGroup": "B1"
         }
       ]
-    }
+    },
+    
+    
+    {
+      "code": "LABORATORY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "LABORATORY",
+          "active": true,
+          "NBCGroup": "Group C",
+          "NBCSubGroup": "C1"
+        }
+        ]
+     },
+    
+    {
+      "code": "NURSINGHOME",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "NURSINGHOME",
+          "active": true,
+          "NBCGroup": "Group C",
+          "NBCSubGroup": "C1"
+        }
+        ]
+     }
     
     
     
