@@ -484,6 +484,15 @@
       ]
     }
   },
+  "Workflow": {
+    "BusinessService": {
+      "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.businessService"
+      ]
+    }
+  },
   "RAINMAKER-PGR": {
     "ServiceDefs": {
       "masterName": "ServiceDefs",
