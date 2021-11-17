@@ -7,7 +7,7 @@
       "name": "No Street Light",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
-      "department": "O&M",
+      "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -16,7 +16,7 @@
       "name": "Streetlight Not Working",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "O&M",
+      "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights",
       "order": 1
@@ -26,7 +26,7 @@
       "name": "Garbage Needs To be Cleared",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
       "order": 4
@@ -36,7 +36,7 @@
       "name": "Burning Of Garbage",
       "active": true,
       "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -45,7 +45,7 @@
       "name": "Overflowing Or BlockedDrain",
       "active": true,
       "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "Drains"
     },
@@ -54,7 +54,7 @@
       "name": "Illegal Discharge Of Sewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -63,7 +63,7 @@
       "name": "Block Or Overflowing Sewage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage",
       "order": 2
@@ -73,7 +73,7 @@
       "name": "Shortage Of Water",
       "active": true,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -82,7 +82,7 @@
       "name": "Dirty Water Supply",
       "active": true,
       "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -91,7 +91,7 @@
       "name": "Broken Water Pipe Or Leakage",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage",
       "order": 3
@@ -101,7 +101,7 @@
       "name": "Water Pressure is VeryLess",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -110,7 +110,7 @@
       "name": "How To Pay PT",
       "active": true,
       "keywords": "pay, property, how",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -119,7 +119,7 @@
       "name": "Wrong Calculation PT",
       "active": true,
       "keywords": "calculation, wrong",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -128,7 +128,7 @@
       "name": "Receipt Not Generated",
       "active": true,
       "keywords": "genration, generate, receipt, not",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -137,7 +137,7 @@
       "name": "Others",
       "active": true,
       "keywords": "other",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -146,7 +146,7 @@
       "name": "Damaged Road",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "WORKS",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -155,7 +155,7 @@
       "name": "Water Logged Road",
       "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
-      "department": "WORKS",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -164,7 +164,7 @@
       "name": "Manhole Cover Missing Or Damaged",
       "active": true,
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
-      "department": "WORKS",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -173,7 +173,7 @@
       "name": "Damaged Or Blocked Footpath",
       "active": true,
       "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
-      "department": "WORKS",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -182,7 +182,7 @@
       "name": "Construction Material Lying On the Road",
       "active": true,
       "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
-      "department": "WORKS",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -191,7 +191,7 @@
       "name": "Request Spraying Or Fogging Operation",
       "active": true,
       "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
@@ -200,7 +200,7 @@
       "name": "Stray Animals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
@@ -209,7 +209,7 @@
       "name": "Dead Animals",
       "active": true,
       "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
@@ -218,7 +218,7 @@
       "name": "Dirty Or Smelly Public Toilets",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -227,7 +227,7 @@
       "name": "Public Toilet Is Damaged",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -236,7 +236,7 @@
       "name": "No Water Or Electricity in Public Toilet",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets"
     },
@@ -245,7 +245,7 @@
       "name": "Illegal Shops On Foot Path",
       "active": true,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
-      "department": "TAX",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -254,7 +254,7 @@
       "name": "Illegal Constructions",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -263,7 +263,7 @@
       "name": "Illegal Parking",
       "active": true,
       "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
-      "department": "TAX",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -272,7 +272,7 @@
       "name": "Illegal Cutting Of Trees",
       "active": true,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
-      "department": "HORTI",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees"
     },
@@ -281,7 +281,7 @@
       "name": "Cutting Or Trimming Of Tree Required",
       "active": true,
       "keywords": "tree, remove, trim, fallen, cut, plant, branch",
-      "department": "HORTI",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees"
     },
@@ -290,7 +290,7 @@
       "name": "Open Defecation",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation"
     },
@@ -299,7 +299,7 @@
       "name": "Park Requires Maintenance",
       "active": true,
       "keywords": "open, defecation, waste, human, privy, toilet",
-      "department": "HORTI",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks"
     },
@@ -308,7 +308,7 @@
       "name": "Others",
       "active": true,
       "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
-      "department": "ADMIN",
+      "department": "DEPT_8",
       "slaHours": 336,
       "menuPath": "",
       "order": 6
@@ -318,7 +318,7 @@
       "name": "Damaged Garbage Bin",
       "active": true,
       "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -327,7 +327,7 @@
       "name": "NoWaterSupply",
       "active": true,
       "keywords": "water, supply, connection, drink, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -336,7 +336,7 @@
       "name": "Cleaning Of Drains",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "Drains"
     },
@@ -345,7 +345,7 @@
       "name": "Water Entered House Rainy Season",
       "active": true,
       "keywords": "drain, clean, silt, drainage, water, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "Drains"
     },
@@ -354,7 +354,7 @@
       "name": "Installation Of New StreetLight",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
-      "department": "O&M",
+      "department": "DEPT_1",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -363,7 +363,7 @@
       "name": "Non Sweeping Of Road",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
       "order": 5
@@ -373,7 +373,7 @@
       "name": "Congress Grass Cutting",
       "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage"
     },
@@ -382,7 +382,7 @@
       "name": "Sewage Man Hole Cover Missing Or Broken",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -391,7 +391,7 @@
       "name": "Sewerage Manhole Cover Raising",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -400,7 +400,7 @@
       "name": "Cleaning Of Sewage Remove SLURRY Gaar",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -409,7 +409,7 @@
       "name": "Illegal Rehries On Road",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -418,7 +418,7 @@
       "name": "Road Jalli Broken",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_2",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -427,7 +427,7 @@
       "name": "Covid19 Screening",
       "active": true,
       "keywords": "covid, corona, virus",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Corona"
     },
@@ -436,7 +436,7 @@
       "name": "Replacement Of Traffic Lights",
       "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, replace, damage, fix",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -445,7 +445,7 @@
       "name": "Maintenance Of Lights Of All Parks Green Belts",
       "active": false,
       "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
-      "department": "O&Mhj",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "StreetLights"
     },
@@ -454,7 +454,7 @@
       "name": "Improper Timing Of Water Supply",
       "active": true,
       "keywords": "water, supply, connection, timing, repair, broken, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -463,7 +463,7 @@
       "name": "Cleaning Of Road Gullies",
       "active": true,
       "keywords": "water, supply, connection, road, repair, gullies, pipe, piping, tap",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 96,
       "menuPath": "WaterandSewage"
     },
@@ -472,7 +472,7 @@
       "name": "Regarding Clarification Of Arrears",
       "active": true,
       "keywords": "genration, generate, receipt, arrears",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -481,7 +481,7 @@
       "name": "Regarding Penalties",
       "active": true,
       "keywords": "genration, generate, receipt, penalties",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -490,7 +490,7 @@
       "name": "Regarding Dates Of Deposition Of Property Tax",
       "active": true,
       "keywords": "dates, generate, receipt, deposite",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -499,7 +499,7 @@
       "name": "Regarding Information About Latest Notifications Instructions",
       "active": true,
       "keywords": "genration, latest, receipt, notification",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "Property Tax/House Tax"
     },
@@ -508,7 +508,7 @@
       "name": "Request For Construction Of NewRoads Footpaths Pavements",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, construction, broken, maintenance, street, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -517,7 +517,7 @@
       "name": "Maintenance Of Roads With PatchWork",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -526,7 +526,7 @@
       "name": "Repair Of Culverts CauseWays",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, CauseWays, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -535,7 +535,7 @@
       "name": "Marking Of Roads",
       "active": true,
       "keywords": "road, damage, hole, surface, repair, patch, broken, marking, street, construction, fix",
-      "department": "TAX",
+      "department": "DEPT_33",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths"
     },
@@ -544,7 +544,7 @@
       "name": "Illegal Shops Commercial buildings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -553,7 +553,7 @@
       "name": "Unauthorized Constructions",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -562,7 +562,7 @@
       "name": "Unauthorized Land Use",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -571,7 +571,7 @@
       "name": "Violation Of Master Plan",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -580,7 +580,7 @@
       "name": "Maintenance Of Monuments",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -589,7 +589,7 @@
       "name": "Excessive Ramps Of Shops And Houses",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -598,7 +598,7 @@
       "name": "Encroachment On Any Kind On Government Land",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -607,7 +607,7 @@
       "name": "Request For Fumigation",
       "active": true,
       "keywords": "mosquito, insects, fog, spray, kill, health, dengue, malaria, disease, clean",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos"
     },
@@ -616,7 +616,7 @@
       "name": "ProvisionofShedsForAnimals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, shed, arrangments, bite, biting, bark, barking",
-      "department": "H&S",
+      "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
@@ -625,7 +625,7 @@
       "name": "RatesInPaidParkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -634,7 +634,7 @@
       "name": "Misusage Of Government Property In Paid Parkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations"
     },
@@ -652,7 +652,7 @@
       "name": "New Park Request",
       "active": true,
       "keywords": "open, new, park, human, privy, toilet",
-      "department": "HORTI",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks"
     },
@@ -661,7 +661,7 @@
       "name": "Birth And Death Certificates",
       "active": true,
       "keywords": "open, new, park, human, privy, toilet",
-      "department": "HORTI",
+      "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "BirthandDeath"
     },
@@ -670,7 +670,7 @@
       "name": "Transfer And Posting",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
-      "department": "ADMIN",
+      "department": "DEPT_9",
       "slaHours": 336,
       "menuPath": ""
     },
@@ -688,7 +688,7 @@
       "name": "Town Planning",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "TP",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": ""
     },
@@ -697,7 +697,7 @@
       "name": "Against Employee",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "ADMIN",
+      "department": "DEPT_9",
       "slaHours": 336,
       "menuPath": ""
     },
@@ -715,7 +715,7 @@
       "name": "eGov Sewerage",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "O&M",
+      "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
@@ -724,7 +724,7 @@
       "name": "eGov Property Tax",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "TAX",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
@@ -733,7 +733,7 @@
       "name": "eGov Trade License",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "TAX",
+      "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     },
@@ -742,7 +742,7 @@
       "name": "eGov Others",
       "active": true,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
-      "department": "ADMIN",
+      "department": "DEPT_9",
       "slaHours": 336,
       "menuPath": "eGovernanceRelated"
     }
