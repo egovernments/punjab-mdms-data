@@ -13840,7 +13840,7 @@
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
-      {
+    {
       "id": 2474,
       "name": "TLReceiptRegister_7to10Sept2020",
       "url": "url",
@@ -13854,7 +13854,22 @@
       "navigationURL": "report/rainmaker-tl/TLReceiptRegister_7to10Sept2020",
       "leftIcon": "action:assignment",
       "rightIcon": ""
-    }	  
+    },
+    {
+      "id": 2475,
+      "name": "uc_7to10sept2020_receipts",
+      "url": "url",
+      "displayName": "uc_7to10sept2020_receipts",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Misc_Collect.Reports.uc_7to10sept2020_receipts",
+      "navigationURL": "report/rainmaker-uc/uc_7to10sept2020_receipts",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    }		  
    
   ]
 }
