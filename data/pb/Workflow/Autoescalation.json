@@ -2,17 +2,17 @@
     "tenantId": "pb",
     "moduleName": "Workflow",
     "AutoEscalation": [
-      {
+       {
         "businessService": "NewTL",
         "module": "tl-services",
-        "state": "PENDINGAPPROVAL",
-        "action": "APPROVE",
+        "state": "APPLIED",
+        "action": "FORWARD",
         "active": "true",
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic": "tl-auto-escalation"
       },
-        {
+         {
         "businessService": "NewTL",
         "module": "tl-services",
         "state": "FIELDINSPECTION",
@@ -22,15 +22,16 @@
         "businessSLA": null,
         "topic": "tl-auto-escalation"
       },
-           {
+      
+        {
         "businessService": "NewTL",
         "module": "tl-services",
-        "state": "APPLIED",
-        "action": "FORWARD",
+        "state": "PENDINGAPPROVAL",
+        "action": "APPROVE",
         "active": "true",
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic": "tl-auto-escalation"
-      }
+      }   
     ]
   }
