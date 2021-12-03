@@ -11,6 +11,16 @@
         "stateSLA": 2.0,
         "businessSLA": null,
         "topic": "tl-auto-escalation"
+      },
+        {
+        "businessService": "NewTL",
+        "module": "tl-services",
+        "state": "FIELDINSPECTION",
+        "action": "FORWARD",
+        "active": "true",
+        "stateSLA": 2.0,
+        "businessSLA": null,
+        "topic": "tl-auto-escalation"
       }
     ]
   }
