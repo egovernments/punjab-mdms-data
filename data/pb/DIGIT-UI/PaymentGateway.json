@@ -1,10 +1,24 @@
 {
-    "tenantId": "uk",
-    "moduleName": "DIGIT-UI",
-    "PaymentGateway": [
-        {
-            "gateway": "CCAVENUE",
-            "active": true
-        }
-    ]
+  "tenantId": "uk",
+  "moduleName": "DIGIT-UI",
+  "PaymentGateway": [
+    {
+      "gateway": "CCAVENUE",
+      "active": true
+    },
+    {
+      "cityName": "Amritsar",
+      "gateway": "RAZORPAY",
+      "pgName": "RAZORPAY",
+      "pgStatus": "true",
+      "active": true
+    },
+    {
+      "cityName": "Mohali",
+      "gateway": "AXIS",
+      "pgName": "AXIS",
+      "pgStatus": "true",
+      "active": true
+    }
+  ]
 }
