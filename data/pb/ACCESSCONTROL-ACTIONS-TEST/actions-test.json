@@ -13995,6 +13995,20 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-    }
+    },
+	   {
+         "id": 2487,
+         "name": "TradeLicenseSearch",
+         "url": "url",
+         "displayName": "Search",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/tl/inbox",
+         "path": "TradeLicense.Search",
+         "leftIcon": "places:business-center"
+      }
   ]
 }
