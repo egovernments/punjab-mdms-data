@@ -2487,7 +2487,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "PGR.MyComplaints",
-      "navigationURL": "all-complaints",
+      "navigationURL": "/digit-ui/employee/pt/inbox",
       "leftIcon": "custom:open-complaints",
       "rightIcon": ""
     },
@@ -2517,7 +2517,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "PGR.CreateComplaint",
-      "navigationURL": "create-complaint",
+      "navigationURL": "/digit-ui/employee/pgr/complaint/create",
       "leftIcon": "content:add",
       "rightIcon": ""
     },
@@ -2754,7 +2754,7 @@
       "lastModifiedDate": null,
       "lastModifiedBy": null,
       "path": "Property Tax.Assess New Property",
-      "navigationURL": "property-tax",
+      "navigationURL": "digit-ui/employee/pt/inbox",
       "leftIcon": "communication:business",
       "rightIcon": ""
     },
@@ -3989,7 +3989,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "tradelicence/search",
+      "navigationURL": "/digit-ui/employee/tl/inbox",
       "path": "Trade License.Application"
     },
     {
@@ -4903,7 +4903,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "hrms/search",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
