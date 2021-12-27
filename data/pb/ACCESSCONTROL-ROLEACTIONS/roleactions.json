@@ -7616,11 +7616,17 @@
       "actioncode": "",
       "tenantId": "pb"
     },
-    {
-      "rolecode": "PTCEMP",
+     {
+      "rolecode": "EMPLOYEE",
       "actionid": 1811,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 1811,
+      "actioncode": "",
+      "tenantId": "pg"
     },
     {
       "rolecode": "CITIZEN",
@@ -9368,6 +9374,187 @@
         "actionid": 699,
         "actioncode": "",
         "tenantId": "pb"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2473,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CITIZEN",
+      "actionid": 2474,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 2474,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2475,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2476,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2477,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2478,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2479,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2479,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2479,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2480,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CR_PT",
+      "actionid": 2481,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "CR_PT",
+      "actionid": 2482,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "FSM_DASHBOARD_VIEWER",
+      "actionid": 2483,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2484,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2484,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 2484,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "TL_APPROVER",
+      "actionid": 2485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2485,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+      {
+      "rolecode": "SUPERUSER",
+      "actionid": 2486,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2487,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "UC_EMP",
+      "actionid": 2448,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
