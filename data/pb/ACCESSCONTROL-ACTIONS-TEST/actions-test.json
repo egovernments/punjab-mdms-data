@@ -7008,7 +7008,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Complaints",
-      "navigationURL": "pgr-home",
+      "navigationURL": "/digit-ui/citizen/pgr/complaints",
       "leftIcon": "custom:account-alert",
       "rightIcon": ""
     },
@@ -13792,21 +13792,6 @@
     },
 	   {
          "id": 2473,
-         "name": "Complaints",
-         "url": "url",
-         "displayName": "Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints",
-         "navigationURL": "/digit-ui/citizen/pgr/complaints",
-         "leftIcon": "custom:account-alert",
-         "rightIcon": ""
-      },
-	   {
-         "id": 2474,
          "name": "digit-ui FSM",
          "url": "card",
          "displayName": "Faecal Sludge Management",
@@ -13817,6 +13802,22 @@
          "code": "",
          "path": "",
          "navigationURL": "/digit-ui/citizen/",
+         "leftIcon": "custom:localShipping",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+	   {
+         "id": 2474,
+         "name": "digit-ui FSM FSTPO",
+         "url": "card",
+         "displayName": "Faecal Sludge Management",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/employee/fstp-inbox",
          "leftIcon": "custom:localShipping",
          "rightIcon": "",
          "queryParams": ""
@@ -13839,22 +13840,6 @@
       },
 	   {
          "id": 2476,
-         "name": "digit-ui FSM FSTPO",
-         "url": "card",
-         "displayName": "Faecal Sludge Management",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/fstp-inbox",
-         "leftIcon": "custom:localShipping",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-	   {
-         "id": 2477,
          "displayName": "CreateNewApplication",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13868,7 +13853,7 @@
          "path": ""
       },
 	  {
-         "id": 2478,
+         "id": 2477,
          "displayName": "EmployeeInbox",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13882,7 +13867,7 @@
          "path": ""
       },
 	  {
-         "id": 2479,
+         "id": 2478,
          "displayName": "EditApplication",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13896,7 +13881,7 @@
          "path": ""
       },
 	   {
-         "id": 2480,
+         "id": 2479,
          "displayName": "CollectPayment",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13910,7 +13895,7 @@
          "path": ""
       },
 	  {
-         "id": 2481,
+         "id": 2480,
          "displayName": "SearchApplication",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13924,7 +13909,7 @@
          "path": ""
       },
 	    {
-         "id": 2482,
+         "id": 2481,
          "displayName": "DsoDashboard",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13938,7 +13923,7 @@
          "path": ""
       },
 	   {
-      "id": 2483,
+      "id": 2482,
       "name": "PTReceiptCancellation",
       "url": "url",
       "displayName": "PTReceiptCancellation",
@@ -13952,7 +13937,7 @@
       "leftIcon": "action:receipt"
     },
 	  {
-      "id": 2484,
+      "id": 2483,
       "name": "PTReceiptCancellation",
       "url": "card",
       "displayName": "PTReceiptCancellation",
@@ -13968,7 +13953,7 @@
       "queryParams": ""
     },
 	  {
-      "id": 2485,
+      "id": 2484,
       "name": "Dashboard FSM",
       "url": "url",
       "displayName": "FSM",
@@ -13983,7 +13968,7 @@
       "rightIcon": ""
     },
      {
-         "id": 2486,
+         "id": 2485,
          "displayName": "Search FSM Application",
          "orderNumber": 0,
          "leftIcon": "",
@@ -13997,7 +13982,7 @@
          "path": ""
     },
 	   {
-         "id": 2487,
+         "id": 2486,
          "name": "TradeLicenseSearch",
          "url": "url",
          "displayName": "Search",
@@ -14011,7 +13996,7 @@
          "leftIcon": "places:business-center"
       },
 	    {
-         "id": 2488,
+         "id": 2487,
          "name": "rainmaker-common-hrms",
          "url": "card",
          "displayName": "HRMS",
