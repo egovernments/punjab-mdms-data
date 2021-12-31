@@ -3,68 +3,28 @@
   "moduleName": "PropertyTax",
   "Penalty": [
     {
-      "rate":5,
+      "rate": 20,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2013-14",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
-    },
-	  {
-      "rate":5,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2014-15",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
-    },
-	  {
-      "rate":5,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2016-17",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
-    },
-	  	  {
-      "rate":5,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2017-18",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
-    },
-	  {
-      "rate":5,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
+      "startingDay": "01/04/2014",
+	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate":5,
-      "minAmount": null,
-      "flatAmount": null,
-      "fromFY": "2020-21",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
-    },
-	      {
-      "rate":5,
+      "rate": 10,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
+      "startingDay": "01/01/2020",
+	  "mutationPaymentPeriodInMonth": "06"
     },
-	      {
-      "rate":0,
+    {
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
-      "fromFY": "2021-22",
-      "startingDay": "01/10/2021",
-	  "mutationPaymentPeriodInMonth": "04"
+      "fromFY": "2020-21",
+      "startingDay": "01/04/2021",
+	  "mutationPaymentPeriodInMonth": "06"
     }
   ]
 }
