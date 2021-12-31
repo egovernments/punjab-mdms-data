@@ -1,6 +1,6 @@
 {
   "tenantId": "pb",
-  "moduleName": "PropertyTax",
+  "moduleName": "PropertyTax"  
   "Interest": [
     {
       "rate":0,
@@ -8,15 +8,17 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2021-22",
-      "startingDay": "01/10/2021"
+      "startingDay": "01/10/2021",
+      "endingDay": "31/03/2022"
     },
     {
-      "rate":12,
+      "rate":12,,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2020-21",
-      "startingDay": "01/12/2021"
+      "startingDay": "01/12/2021",
+      "endingDay": "31/03/2022"
     },
     {
       "rate":12,
@@ -24,7 +26,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2014-15",
-      "startingDay": "01/12/2021"
+      "startingDay": "01/12/2021",
+      "endingDay": "31/03/2022"
     },
     {
       "rate":12,
@@ -32,7 +35,8 @@
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2015-16",
-      "startingDay": "01/12/2021"
+      "startingDay": "01/12/2021",
+      "endingDay": "31/03/2022"
     },
     {
       "rate":12,
@@ -45,7 +49,8 @@
     },
     {
       "rate":12,
-      "minAmount": null,
+      "minAmount": null,,
+      "endingDay": "31/03/2022"
       "flatAmount": null,
       "maxAmount": null,
       "fromFY": "2017-18",
