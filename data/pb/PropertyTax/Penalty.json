@@ -11,7 +11,7 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 10,
+      "rate": 15,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2019-20",
@@ -19,11 +19,19 @@
 	  "mutationPaymentPeriodInMonth": "06"
     },
     {
-      "rate": 0,
+      "rate": 5,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2020-21",
       "startingDay": "01/04/2021",
+	  "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/12/2021",
 	  "mutationPaymentPeriodInMonth": "06"
     }
   ]
