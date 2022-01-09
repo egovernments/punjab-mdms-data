@@ -751,7 +751,24 @@
           "NBCSubGroup": "C1"
         }
         ]
-     }
+     },
+    
+    
+    {
+      "code": "RELIGIOUS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "RELIGIOUSPLACE",
+          "active": true,
+          "NBCGroup": "Group A Assembly",
+          "NBCSubGroup": "A1"
+        }
+      ]
+    }
     
     
     
