@@ -3327,11 +3327,11 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Create Subledger Masters",
-      "orderNumber": 4,
+      "orderNumber": 1,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Subledger Configuration.Create other masters",
+      "path": "Finance.Masters.Subledger Configuration Master.Create other masters",
       "navigationURL": "services/EGF/accountentity/new"
     },
     {
@@ -3340,11 +3340,11 @@
       "url": "url",
       "parentModule": "",
       "displayName": "View Subledger Masters",
-      "orderNumber": 5,
+      "orderNumber": 2,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Subledger Configuration.View Other Masters",
+      "path": "Finance.Masters.Subledger Configuration Master.View Other Masters",
       "navigationURL": "services/EGF/accountentity/search/view"
     },
     {
@@ -3353,11 +3353,11 @@
       "url": "url",
       "parentModule": "",
       "displayName": "Modify Subledger Masters",
-      "orderNumber": 6,
+      "orderNumber": 3,
       "enabled": true,
       "serviceCode": "FinanceMaster",
       "code": "null",
-      "path": "Finance.Masters.Subledger Configuration.Modify Other Masters",
+      "path": "Finance.Masters.Subledger Configuration Master.Modify Other Masters",
       "navigationURL": "services/EGF/accountentity/search/edit"
     },
     {
@@ -3852,7 +3852,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "navigationURL": "services/EGF/accountdetailtype/new",
-      "path": "Finance.Masters.Subledger Configuration.Create Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration Category.Create Accounting Entity"
     },
     {
       "id": 1680,
@@ -3865,7 +3865,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "navigationURL": "services/EGF/accountdetailtype/search/edit",
-      "path": "Finance.Masters.Subledger Configuration.Modify Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration Category.Modify Accounting Entity"
     },
     {
       "id": 1681,
@@ -3878,7 +3878,7 @@
       "serviceCode": "FinanceMaster",
       "navigationURL": "services/EGF/accountdetailtype/search/view",
       "code": "null",
-      "path": "Finance.Masters.Subledger Configuration.View Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration Category.View Accounting Entity"
     },
     {
       "id": 1682,
