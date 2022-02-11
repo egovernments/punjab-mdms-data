@@ -5259,7 +5259,89 @@
                                  
 
                               
-             }
+             },
+    {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_TAX",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_FIELD_FEE",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        }, 
+    
+        {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_CGST",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_SGST",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential)_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+     {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_TAX",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_TAX",
+          "isDebit": false,
+          "isActualDemand": true,
+          "order": "1",
+          "isRequired": true
+        },
+        {
+          "category": "CHARGES",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_FIELD_FEE",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_FIELD_FEE",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        }, 
+    
+        {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_CGST",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_CGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        },
+        {
+          "category": "TAX",
+          "service": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)",
+          "name": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_SGST",
+          "code": "OTHER.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial)_SGST",
+          "isDebit": false,
+          "isActualDemand": false,
+          "order": "0",
+          "isRequired": false
+        }
                  
           ]
               
