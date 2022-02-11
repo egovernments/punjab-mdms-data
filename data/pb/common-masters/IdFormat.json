@@ -539,7 +539,15 @@
             "idname": "other.swimming_pool_and_gymnactics_hall_fees.receipt.id"
                 
                
-        }         
+        },
+                 {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.Door_To_Door_Collection_of_Solid_Waste_Fees_(Residential).receipt.id"
+        },
+                  {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+            "idname": "other.Door_To_Door_Collection_of_Solid_Waste_Fees_(Commercial).receipt.id"
+        }
 
     ]
 }
