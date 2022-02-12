@@ -13789,6 +13789,54 @@
       "serviceCode": "sw-services",
       "code": "null",
       "path": ""
+    },
+	  {
+      "id": 2473,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)/_search",
+      "displayName": "Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential) Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+	   {
+      "id": 2474,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)/_workflow",
+      "displayName": "Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential) Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+	  {
+      "id": 2475,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)/_search",
+      "displayName": "Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial) Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+	   {
+      "id": 2476,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)/_workflow",
+      "displayName": "Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial) Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
   ]
 }
