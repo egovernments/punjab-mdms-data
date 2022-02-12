@@ -640,6 +640,14 @@
     {
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "ftp.colony_unauthoriszed_policy_2013*-14_after_five_year_a_time.receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "other.door_to_door_collection_of_solid_waste_fees(residential).receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "other.door_to_door_collection_of_solid_waste_fees(commercial).receipt.id"
     }
   ]
 }
