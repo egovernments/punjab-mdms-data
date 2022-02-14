@@ -635,6 +635,14 @@
     {
       "idname": "echallan.aplnumber",
       "format": "PG-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "other.door_to_door_collection_of_solid_waste_fees(residential).receipt.id"
+    },
+    {
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "other.door_to_door_collection_of_solid_waste_fees(commercial).receipt.id"
     }
   ]
 }
