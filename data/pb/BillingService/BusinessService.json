@@ -2295,7 +2295,34 @@
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
-    }
-    
+    },
+   {
+      "businessService": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
+      "code": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)",
+      "code": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    } 
   ]
 }
