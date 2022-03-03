@@ -14019,7 +14019,32 @@
       "navigationURL": "report/rainmaker-pt/WithoutUpinTransactions",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+	   {
+      "id": 2487,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/TX.Mutation_Fees/_search",
+      "displayName": "TX.Mutation_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2488,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/TX.Mutation_Fees/_workflow",
+      "displayName": "TX.Mutation_Fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
+
     
 
    
