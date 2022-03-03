@@ -6598,6 +6598,47 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+	  
+  {
+      "category": "TAX",
+      "service": "TX.Mutation_Fees",
+      "name": "TX.Mutation_Fees_TAX",
+      "code": "TX.Mutation_Fees_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Mutation_Fees",
+      "name": "TX.Mutation_Fees_FIELD_FEE",
+      "code": "TX.Mutation_Fees_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Mutation_Fees",
+      "name": "TX.Mutation_Fees_CGST",
+      "code": "TX.Mutation_Fees_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Mutation_Fees",
+      "name": "TX.Mutation_Fees_SGST",
+      "code": "TX.Mutation_Fees_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
 	  
   ]
