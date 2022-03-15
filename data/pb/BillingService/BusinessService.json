@@ -2200,6 +2200,20 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+     {
+      "businessService": "ADMIN Fees.Horticulture Fees",
+      "code": "ADMN.Horticulture_Fees",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     }
 
   ]
