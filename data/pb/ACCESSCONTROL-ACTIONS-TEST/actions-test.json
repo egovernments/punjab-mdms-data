@@ -14059,6 +14059,30 @@
       "navigationURL": "report/rainmaker-pgr/StateDescriptionReport_v2",
       "leftIcon": "action:assignment",
       "rightIcon": ""    
+    },
+    {
+      "id": 2490,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/ADMN.Horticulture_Fees/_search",
+      "displayName": "Horticulture_Fees Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2491,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/ADMN.Horticulture_Fees/_workflow",
+      "displayName": "Horticulture_Fees Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
 
     
