@@ -1,0 +1,125 @@
+{
+  "tenantId": "pb.gharuan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gharuan",
+        "localname": "gharuan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.gharuan",
+        "children": [
+          {
+            "id": "6da8a4cf-02dd-4a77-b89d-5c8ef9f978ad",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7a6211e1-666f-4b49-bf5d-46edcf614df1",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "e58123e9-6c28-4d7e-b10b-f5ed44159632",
+                    "boundaryNum": 1,
+                    "name": "Main Bus Stand Gharuan - B1 - A1",
+                    "localname": "Main Bus Stand Gharuan - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHR1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8257ccc8-2486-4802-a81c-10affb83e0d3",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "5da1a332-9608-48e5-836f-d69ef71ea8d2",
+                    "boundaryNum": 1,
+                    "name": "Mamupur morinda Road Gharuan - B2 - A1",
+                    "localname": "Mamupur morinda Road Gharuan - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHR2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a74cac9-5299-4019-badf-0ad2dcd81f06",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "27d2cd87-8d70-4e96-9524-7dc278c1c448",
+                    "boundaryNum": 1,
+                    "name": "Sakrullapur Infront of Gharuan - B3 - A1",
+                    "localname": "Sakrullapur Infront of Gharuan - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GHR3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "gharuan",
+        "localname": "gharuan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.gharuan",
+        "children": []
+      }
+    }
+  ]
+}
