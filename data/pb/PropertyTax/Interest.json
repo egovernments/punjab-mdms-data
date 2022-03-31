@@ -1,18 +1,67 @@
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
-  "Interest": [
+  "Interest": [   
     {
-      "rate": 0,
+      "rate": 18,
       "minAmount": null,
       "flatAmount": null,
-      "maxAmount": null,
-      "fromFY": "2021-22",
-      "startingDay": "01/04/2021"
+       "maxAmount": null,
+      "fromFY": "2014-15",
+      "startingDay": "01/04/2015"
     },
+
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2015-16",
+      "startingDay": "01/04/2016"
     
+    },
+
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2016-17",
+      "startingDay": "01/04/2017"
+      
+    },
+
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2017-18",
+      "startingDay": "01/04/2018"
+      
+    },
+
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2018-19",
+      "startingDay": "01/04/2019"
+     
+    },
+
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+       "maxAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "01/04/2020"
+     
+    },
     {   
-      "rate": 12,
+      "rate": 18,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
@@ -23,100 +72,17 @@
       "rate": 18,
       "minAmount": null,
       "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2014-15",
-      "startingDay": "01/04/2015",
-      "endingDay":"31/03/2020"
+      "maxAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2022"
     },
     {
-      "rate": 12,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "5014-5015",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
-    },
-    {
-      "rate": 18,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2015-16",
-      "startingDay": "01/04/2016",
-      "endingDay":"31/03/2020"
-    },
-    {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "5015-5016",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
-    },
-    {
-      "rate": 18,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2016-17",
-      "startingDay": "01/04/2017",
-      "endingDay":"31/03/2020"
-    },
-    {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "5016-5017",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
-    },
-    {
-      "rate": 18,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2017-18",
-      "startingDay": "01/04/2018",
-      "endingDay":"31/03/2020"
-    },
-    {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "5017-5018",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
-    },
-    {
-      "rate": 18,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2018-19",
-      "startingDay": "01/04/2019",
-      "endingDay":"31/03/2020"
-    },
-    {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "5018-5019",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
-    },
-    {
-      "rate": 12,
-      "minAmount": null,
-      "flatAmount": null,
-       "maxAmount": null,
-      "fromFY": "2019-20",
-      "startingDay": "01/04/2020",
-      "endingDay":"31/03/2030"
+      "maxAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2023"  
     }
   ]
 }
