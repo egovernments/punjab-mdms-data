@@ -1,3 +1,4 @@
+
 {
   "tenantId": "pb",
   "moduleName": "PropertyTax",
@@ -136,7 +137,7 @@
           }
         }
       },
-      "dropdownData": [
+      "dropdownData":[
         {
           "code": "OWNER.REGISTRATIONPROOF.SALEDEED",
           "active": true
@@ -397,15 +398,9 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "hasDropdown": false,
+      "hasDropdown": true,
       "additionalDetails": {
-        "filterCondition": {
-          "filterValue": [
-            "VACANT"
-          ],
-          "jsonPath": "Properties[0].propertyDetails[0].propertyType",
-          "onArray": false
-        },
+        
         "enabledActions": {
           "assess": {
             "disableUpload": true,
@@ -425,6 +420,9 @@
           }
         }
       },
+      "dropdownData": [
+       
+      ],
       "description": "OWNER.PROPERTYIMAGE.PROPERTYIMAGE_DESCRIPTION"
     }
   ]
