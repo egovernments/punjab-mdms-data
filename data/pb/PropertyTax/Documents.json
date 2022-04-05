@@ -394,34 +394,46 @@
       "description": "OWNER.CONSTRUCTIONPROOF.CONSTRUCTIONPROOF_DESCRIPTION"
     },
     {
-      "code": "OWNER.PROPERTYIMAGE",
-      "documentType": "OWNER",
-      "required": false,
-      "active": true,
-      "hasDropdown": false,
-      "additionalDetails": {
-        
-        "enabledActions": {
-          "assess": {
-            "disableUpload": true,
-            
+        "code": "OWNER.PROPERTYIMAGE",
+        "documentType": "OWNER",
+        "required": false,
+        "active": true,
+        "hasDropdown": true,
+        "additionalDetails": {
+          "filterCondition": {
+            "filterValue": [
+              "VACANT"
+            ],
+            "jsonPath": "Properties[0].propertyDetails[0].propertyImage",
+            "onArray": false
           },
-          "reassess": {
-            "disableUpload": true,
-            
-          },
-          "update": {
-            "disableUpload": false,
-            
-          },
-          "create": {
-            "disableUpload": false,
-            
+          "enabledActions": {
+            "assess": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "reassess": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "update": {
+              "disableUpload": false,
+              "disableDropdown": false
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
           }
-        }
+        },
+        "dropdownData": [
+          {
+            "code": "OWNER.CONSTRUCTIONPROOF.PROPERTYIMAGE",
+            "active": true
+          }
+        ],
+        "description": "OWNER.CONSTRUCTIONPROOF.PROPERTYIMAGE"
       },
-      
-      "description": "OWNER.PROPERTYIMAGE.PROPERTYIMAGE_DESCRIPTION"
-    }
+   
   ]
 }
