@@ -398,31 +398,29 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "hasDropdown": true,
+      "hasDropdown": false,
       "additionalDetails": {
         
         "enabledActions": {
           "assess": {
             "disableUpload": true,
-            "disableDropdown": true
+            
           },
           "reassess": {
             "disableUpload": true,
-            "disableDropdown": true
+            
           },
           "update": {
             "disableUpload": false,
-            "disableDropdown": false
+            
           },
           "create": {
             "disableUpload": false,
-            "disableDropdown": false
+            
           }
         }
       },
-      "dropdownData": [
-       
-      ],
+      
       "description": "OWNER.PROPERTYIMAGE.PROPERTYIMAGE_DESCRIPTION"
     }
   ]
