@@ -13892,7 +13892,23 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Reports.MIS Reports.Cheque Issued-Available Report",
       "navigationURL": "services/EGF/report/cheque/status/form"
-    }
+		 
+    },
+    {
+      "id": 2481,
+      "name": "UlbwisePgrSlaReport_v2",
+      "url": "url",
+      "displayName": "Complaint SLA v2",
+      "orderNumber": 9,
+      "parentModule": "rainmaker-pgr",
+      "enabled": true,
+      "serviceCode": "PGR",
+      "code": "null",
+      "path": "State Reports.PGR.UlbwisePgrSlaReport_v2",
+      "navigationURL": "report/rainmaker-pgr/UlbwisePgrSlaReport_v2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+     }
 	  
   ]
 }
