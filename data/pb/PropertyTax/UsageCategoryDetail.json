@@ -340,6 +340,31 @@
         "maxAmount": 0,
         "flatAmount": 0
       }
+    },
+    {
+      "name": "Parking Space",
+      "code": "PARKINGSPACE",
+      "usageCategorySubMinor": "PUBLICSPACES",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
+    },
+    {
+      "name": "Agriculture Land",
+      "code": "AGRICULTURE",
+      "usageCategorySubMinor": "PUBLICSPACES",
+      "active": true,
+      "fromFY": "2013-14",
+      "exemption": {
+        "rate": 100,
+        "maxAmount": 0,
+        "flatAmount": 0
+      }
     }
+    
   ]
 }
