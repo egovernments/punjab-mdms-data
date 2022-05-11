@@ -1072,14 +1072,20 @@
     },
     {
       "tenant": "pb.phagwara",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22",
       "isRented": true
     },
     {
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2021-22",
+      "isRented": true
+    },
+       {
+      "tenant": "pb.patiala",
+      "enabled": true,
+      "financialyear": "2022-23",
       "isRented": true
     }
   ]
