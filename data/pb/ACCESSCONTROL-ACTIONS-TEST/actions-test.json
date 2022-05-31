@@ -12927,7 +12927,23 @@
         "leftIcon": "editor:insert-chart",
         "rightIcon": "",
         "queryParams": ""
-      },	  
+      },
+	   {
+       "id": 12400,
+        "name": "rainmaker-common-wns",
+        "url": "card",
+        "displayName": "Generate Bill",
+        "orderNumber": 2,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "wns",
+        "code": "",
+        "path": "",
+        "navigationURL": "wns/bulkUploadMeter",
+        "leftIcon": "editor:insert-chart",
+        "rightIcon": "",
+        "queryParams": ""
+      },
       {
         "id": 2401,
         "name": "WS Payment search",
