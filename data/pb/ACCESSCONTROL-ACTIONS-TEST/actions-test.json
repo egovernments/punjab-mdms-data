@@ -13941,39 +13941,21 @@
         "rightIcon": "",
         "queryParams": ""
       },
-	  {
-       "id": 12402,
-        "name": "Bulk_Upload_Meter",
+  	{
+        "id": 12402,
+        "name": "Bulk Meter",
         "url": "url",
-        "displayName": "Bulk_Upload_Meter",
+        "displayName": "Bulk Meter Reading",
         "orderNumber": 4,
-        "queryParams": "",
         "parentModule": "",
         "enabled": true,
         "serviceCode": "",
-        "tenantId": "pb",
-        "createdDate": null,
-        "createdBy": null,
-        "lastModifiedDate": null,
-        "lastModifiedBy": null,
-        "path": "w_s.Bulk_Upload_Meter",
-        "navigationURL": "wns/generateBill"
-      },
-      {
-       "id": 12403,
-        "name": "rainmaker-common-wns",
-        "url": "card",
-        "displayName": "Bulk Upload Meter",
-        "orderNumber": 3,
-        "parentModule": "",
-        "enabled": false,
-        "serviceCode": "wns",
         "code": "",
-        "path": "",
-        "navigationURL": "wns/generateBill",
-        "leftIcon": "editor:insert-chart",
+        "path": "meterreading",
+        "navigationURL": "wns/ticket",
+        "leftIcon": "action:receipt",
         "rightIcon": "",
         "queryParams": ""
-      }	  
+      }
   ]
 }
