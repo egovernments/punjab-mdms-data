@@ -13943,10 +13943,10 @@
       },
 	  {
        "id": 12402,
-        "name": "Bulk Upload Meter",
-        "url": "quickAction",
-        "displayName": "Bulk Upload Meter",
-        "orderNumber": 3,
+        "name": "Bulk_Upload_Meter",
+        "url": "url",
+        "displayName": "Bulk_Upload_Meter",
+        "orderNumber": 4,
         "queryParams": "",
         "parentModule": "",
         "enabled": true,
@@ -13956,11 +13956,8 @@
         "createdBy": null,
         "lastModifiedDate": null,
         "lastModifiedBy": null,
-        "path": "w_s.Generate Bill",
-        "navigationURL": "wns/generateBill",
-        "quickAction": true,
-        "leftIcon": "editor:insert-chart",
-        "rightIcon": ""
+        "path": "w_s.Bulk_Upload_Meter",
+        "navigationURL": "wns/generateBill"
       },
       {
        "id": 12403,
