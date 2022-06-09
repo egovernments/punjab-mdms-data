@@ -14140,6 +14140,38 @@
       "code": "null",
       "path": ""	    
 	    
-    }
+    },
+	  {
+        "id": 2496,
+        "name": "PT Notice Generation",
+        "url": "url",
+        "displayName": "Generate Notice",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "Property Tax.Generate Notice",
+        "navigationURL": "wns/PTnotice2",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      },
+      {
+        "id": 2497,
+        "name": "PT Legacy Search",
+        "url": "url",
+        "displayName": "Legacy Search",
+        "orderNumber": 25,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "Property Tax.Legacy Search",
+        "navigationURL": "wns/legacyPta",
+        "leftIcon": "action:receipt",
+        "rightIcon": "",
+        "queryParams": ""
+      }
   ]
 }
