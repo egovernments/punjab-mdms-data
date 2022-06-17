@@ -5,7 +5,7 @@
     {
       "serviceCode": "NoStreetlight",
       "name": "No Street Light",
-      "active": true,
+      "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
       "department": "DEPT_1",
       "slaHours": 96,
@@ -13,7 +13,7 @@
     },
     {
       "serviceCode": "StreetLightNotWorking",
-      "name": "Street Light Not Working",
+      "name": "Street or Park Light Not Working",
       "active": true,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
@@ -70,7 +70,7 @@
     },
     {
       "serviceCode": "ShortageOfWater",
-      "name": "Shortage Of Water",
+      "name": "Shortage Of Water or No water supply",
       "active": true,
       "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
       "department": "DEPT_4",
@@ -108,7 +108,7 @@
     {
       "serviceCode": "HowToPayPT",
       "name": "How To Pay PT",
-      "active": true,
+      "active": false,
       "keywords": "pay, property, how",
       "department": "DEPT_33",
       "slaHours": 336,
@@ -117,7 +117,7 @@
     {
       "serviceCode": "WrongCalculationPT",
       "name": "Wrong Calculation PT",
-      "active": true,
+      "active": false,
       "keywords": "calculation, wrong",
       "department": "DEPT_33",
       "slaHours": 336,
@@ -126,7 +126,7 @@
     {
       "serviceCode": "ReceiptNotGenerated",
       "name": "Receipt Not Generated",
-      "active": true,
+      "active": false,
       "keywords": "genration, generate, receipt, not",
       "department": "DEPT_33",
       "slaHours": 336,
@@ -135,7 +135,7 @@
     {
       "serviceCode": "others",
       "name": "others",
-      "active": true,
+      "active": false,
       "keywords": "other",
       "department": "DEPT_33",
       "slaHours": 336,
@@ -152,7 +152,7 @@
     },
     {
       "serviceCode": "WaterLoggedRoad",
-      "name": "Water Logged Road",
+      "name": "Broken or Cleaning of Roads",
       "active": true,
       "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
       "department": "DEPT_2",
@@ -161,7 +161,7 @@
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
-      "name": "Manhole Cover Missing Or Damaged",
+      "name": "Manhole Cover Missing Or Damaged Or Improper Level",
       "active": true,
       "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
       "department": "DEPT_2",
@@ -197,7 +197,7 @@
     },
     {
       "serviceCode": "StrayAnimals",
-      "name": "Stray Animals",
+      "name": "Lifting Of Stray Animals",
       "active": true,
       "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
       "department": "DEPT_3",
@@ -215,7 +215,7 @@
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
-      "name": "Dirty Or Smelly Public Toilets",
+      "name": "Improper maintenance of public toilet",
       "active": true,
       "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
       "department": "DEPT_3",
@@ -225,7 +225,7 @@
     {
       "serviceCode": "PublicToiletIsDamaged",
       "name": "Public Toilet Is Damaged",
-      "active": true,
+      "active": false,
       "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -234,7 +234,7 @@
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
       "name": "No Water Or Electricity in Public Toilet",
-      "active": true,
+      "active": false,
       "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -243,7 +243,7 @@
     {
       "serviceCode": "IllegalShopsOnFootPath",
       "name": "Illegal Shops On Foot Path",
-      "active": true,
+      "active": false,
       "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
       "department": "DEPT_6",
       "slaHours": 336,
@@ -270,7 +270,7 @@
     {
       "serviceCode": "IllegalCuttingOfTrees",
       "name": "Illegal Cutting Of Trees",
-      "active": true,
+      "active": false,
       "keywords": "tree, cut, illegal, unathourized, remove, plant",
       "department": "DEPT_5",
       "slaHours": 336,
@@ -306,7 +306,7 @@
     {
       "serviceCode": "Others",
       "name": "Others",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
       "department": "DEPT_8",
       "slaHours": 336,
@@ -352,7 +352,7 @@
     {
       "serviceCode": "InstallationOfNewStreetLight",
       "name": "Installation Of New Street Light",
-      "active": true,
+      "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
       "department": "DEPT_1",
       "slaHours": 96,
@@ -379,7 +379,7 @@
     },
     {
       "serviceCode": "SewageMainHoleCoverMissingOrBroken",
-      "name": "Sewage Main Hole Cover Missing Or Broken",
+      "name": "Sewage Main Hole Cover Missing Or Broken or not kept properly",
       "active": true,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
@@ -389,7 +389,7 @@
     {
       "serviceCode": "SewerageManholeCoverRaising",
       "name": "Sewerage Manhole Cover Raising",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -425,7 +425,7 @@
      {
       "serviceCode": "ReplacementOfTrafficLights",
       "name": "Replacement Of Traffic Lights",
-      "active": true,
+      "active": false,
       "keywords": "streetlight, light, repair, work, pole, electric, power, replace, damage, fix",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -434,7 +434,7 @@
     {
        "serviceCode": "MaintenanceOfLightsOfAllParksGreenBelts",
        "name": "Maintenance Of Lights Of All Parks Green Belts",
-      "active": true,
+      "active": false,
       "keywords": "streetlight, light, repair, work, park, electric, maintenance, repair, damage, fix",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -443,7 +443,7 @@
      {
       "serviceCode": "ImproperTimingOfWaterSupply",
       "name": "Improper Timing Of Water Supply",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, connection, timing, repair, broken, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -452,7 +452,7 @@
      {
       "serviceCode": "CleaningOfRoadGullies",
       "name": "Cleaning Of Road Gullies",
-      "active": true,
+      "active": false,
       "keywords": "water, supply, connection, road, repair, gullies, pipe, piping, tap",
       "department": "DEPT_4",
       "slaHours": 96,
@@ -461,7 +461,7 @@
       {
       "serviceCode": "RegardingClarificationOfArrears",
       "name": "Regarding Clarification Of Arrears",
-      "active": true,
+      "active": false,
       "keywords": "genration, generate, receipt, arrears",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -470,7 +470,7 @@
       {
       "serviceCode": "RegardingPenalties",
       "name": "Regarding Penalties",
-      "active": true,
+      "active": false,
       "keywords": "genration, generate, receipt, penalties",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -479,7 +479,7 @@
       {
       "serviceCode": "RegardingDatesOfDepositionOfPropertyTax",
       "name": "Regarding Dates Of Deposition Of PropertyTax",
-      "active": true,
+      "active": false,
       "keywords": "dates, generate, receipt, deposite",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -488,7 +488,7 @@
       {
       "serviceCode": "RegardingInformationAboutLatestNotificationsInstructions",
       "name": "Regarding Information About Latest Notifications Instructions",
-      "active": true,
+      "active": false,
       "keywords": "genration, latest, receipt, notification",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -532,7 +532,7 @@
     },
       {
       "serviceCode": "IllegalShopsCommercialbuildings",
-      "name": "Illegal Shops Commercial buildings",
+      "name": "Illegal Shops or Commercial buildings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "DEPT_TP",
@@ -542,7 +542,7 @@
       {
       "serviceCode": "UnauthorizedConstructions",
       "name": "Unauthorized Constructions",
-      "active": true,
+      "active": false,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -550,7 +550,7 @@
     },
       {
       "serviceCode": "UnauthorizedLandUse",
-      "name": "Unauthorized Land Use",
+      "name": "Unauthorized Land Use in Premises",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "DEPT_TP",
@@ -560,7 +560,7 @@
       {
       "serviceCode": "ViolationOfMasterPlan",
       "name": "Violation Of Master Plan",
-      "active": true,
+      "active": false,
       "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -569,7 +569,7 @@
       {
       "serviceCode": "MaintenanceOfMonuments",
       "name": "Maintenance Of Monuments",
-      "active": true,
+      "active": false,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -578,7 +578,7 @@
      {
       "serviceCode": "ExcessiveRampsOfShopsAndHouses",
       "name": "Excessive Ramps Of Shops And Houses",
-      "active": true,
+      "active": false,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -596,7 +596,7 @@
      {
       "serviceCode": "RequestForFumigation",
        "name": "Request For Fumigation",
-      "active": true,
+      "active": false,
       "keywords": "mosquito, insects, fog, spray, kill, health, dengue, malaria, disease, clean",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -605,15 +605,15 @@
      {
       "serviceCode": "ProvisionofShedsForAnimals",
        "name": "Provision of Sheds For Animals",
-      "active": true,
+      "active": false,
       "keywords": "stray, dog, dogs, menace, animal, animals, shed, arrangments, bite, biting, bark, barking",
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals"
     },
      {
-      "serviceCode": "RatesInPaidParkings",
-       "name": "Rates In Paid Parkings",
+      "serviceCode": "OverchargeinpaidparkingMCandULBs",
+       "name": "Overcharge in paid parkings",
       "active": true,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_TP",
@@ -623,7 +623,7 @@
      {
       "serviceCode": "MisusageOfGovernmentPropertyInPaidParkings",
        "name": "Misusage Of Government Property In Paid Parkings",
-      "active": true,
+      "active": false,
       "keywords": "illegal, violation, property, public, space, land, maintainence, site, construction, wrong, build",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -632,7 +632,7 @@
      {
       "serviceCode": "RequestsForPlantingNewtrees",
        "name": "Requests For Planting New trees",
-      "active": true,
+      "active": false,
       "keywords": "tree, cut, planting, unathourized, remove, plant",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -641,7 +641,7 @@
      {
       "serviceCode": "NewParkRequest",
        "name": "New Park Request",
-      "active": true,
+      "active": false,
       "keywords": "open, new, park, human, privy, toilet",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -659,7 +659,7 @@
      {
       "serviceCode": "TransferAndPosting",
        "name": "Transfer And Posting",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
       "department": "DEPT_9",
       "slaHours": 336,
@@ -668,7 +668,7 @@
      {
       "serviceCode": "RecruitmentRelated",
        "name": "Recruitment Related",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,slaughterhouse, misc, tax, revenue",
       "department": "DEPT_9",
       "slaHours": 336,
@@ -686,7 +686,7 @@
       {
       "serviceCode": "TownPlanning",
       "name": "Town Planning",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_TP",
       "slaHours": 336,
@@ -695,7 +695,7 @@
       {
       "serviceCode": "AgainstEmployee",
       "name": "Against Employee",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_9",
       "slaHours": 336,
@@ -704,7 +704,7 @@
       {
       "serviceCode": "eGovWaterSupply",
       "name": "eGov Water Supply",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -713,7 +713,7 @@
       {
       "serviceCode": "eGovSewerage",
       "name": "eGov Sewerage",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_4",
       "slaHours": 336,
@@ -722,7 +722,7 @@
       {
       "serviceCode": "eGovPropertyTax",
       "name": "eGov Property Tax",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -731,7 +731,7 @@
       {
       "serviceCode": "eGovtradeLicense",
       "name": "eGov tradeLicense",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_13",
       "slaHours": 336,
@@ -740,7 +740,7 @@
       {
       "serviceCode": "eGovOthers",
       "name": "eGov Others",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,playgrounds,posting,funds, misc, tax, revenue",
       "department": "DEPT_9",
       "slaHours": 336,
@@ -749,7 +749,7 @@
       {
       "serviceCode": "NCAPRelatedCompaints",
       "name": "NCAP Related Compaints",
-      "active": true,
+      "active": false,
       "keywords": "other, miscellaneous,transfer,environment,airquality,funds, misc, tax, revenue",
       "department": "DEPT_5",
       "slaHours": 336,
