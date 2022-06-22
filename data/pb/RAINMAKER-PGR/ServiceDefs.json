@@ -763,8 +763,36 @@
       "keywords": "property,issues,pay",
       "department": "DEPT_33",
       "slaHours": 336,
-      "menuPath": "Mseva Related Issues"    
-        
+      "menuPath": "Mseva Application Related Issues"    
+   },
+   { 
+    
+     "serviceCode": "TradeLicenseIssue",
+      "name": "Trade License Issues",
+      "active": true,
+      "keywords": "tradelicense,issues,pay",
+      "department": "DEPT_3",
+      "slaHours": 336,
+      "menuPath": "Mseva Application Related Issues"
+   },
+   {
+
+      "serviceCode": "FireNocIssue",
+      "name": "FireNoc Issues",
+      "active": true,
+      "keywords": "firenoc,issues,pay",
+      "department": "DEPT_13",
+      "slaHours": 336,
+      "menuPath": "Mseva Application Related Issues"
+},
+{
+      "serviceCode": "WaterandSewerageIssue",
+      "name": "Water and Sewerage Issues",
+      "active": true,
+      "keywords": "water and sewerage,issues,pay",
+      "department": "DEPT_4",
+      "slaHours": 336,
+      "menuPath": "Mseva Application  Related Issues"      
         
     }
   ]
