@@ -14172,6 +14172,40 @@
         "leftIcon": "action:receipt",
         "rightIcon": "",
         "queryParams": ""
+	      
+    },	      
+    {
+      "id": 2498,
+      "name": "OCCUPANCY_TYPE_REPORT",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 26,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.OCCUPANCY_TYPE_REPORT",
+      "navigationURL": "report/rainmaker-pt/OCCUPANCY_TYPE_REPORT",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 2499,
+      "name": "DEFAULTER_REPORT_WITH_LOCALITY",
+      "url": "url",
+      "displayName": "DEFAULTER_REPORT_WITH_LOCALITY",
+      "orderNumber": 27,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.DEFAULTER_REPORT_WITH_LOCALITY",
+      "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+         
+	      
+	      
       }
   ]
 }
