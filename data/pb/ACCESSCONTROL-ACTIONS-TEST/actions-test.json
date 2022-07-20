@@ -14218,7 +14218,39 @@
       "path": "Property Tax.PT Reports.Payment Registers.Count_UsageCategory_V2",
       "navigationURL": "report/rainmaker-pt/Count_UsageCategory_V2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""      
+      "rightIcon": ""  
+    },
+    {	  
+	    
+      "id": 2501,
+      "name": "Top Payers Commercial",
+      "url": "url",
+      "displayName": "Top Payers Commercial",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Collections.TopPayersReportCOM_V2",
+      "navigationURL": "report/rainmaker-pt/TopPayersReportCOM_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""	
+	    
+    },
+    {	  
+      "id": 2502,
+      "name": "Top Payers Resdential",
+      "url": "url",
+      "displayName": "Top Payers Resdential",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.Collections.TopPayersReportRESD_V2",
+      "navigationURL": "report/rainmaker-pt/TopPayersReportRESD_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""    
       }
   ]
 }
