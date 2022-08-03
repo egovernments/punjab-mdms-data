@@ -14251,6 +14251,22 @@
       "navigationURL": "report/rainmaker-pt/TopPayersReportRESD_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""    
-      }
+      },
+	  {
+      "id": 2503,
+      "name": "DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "url": "url",
+      "displayName": "DEFAULTER REPORT WITH LOCALITY UNPAID DEMAND",
+      "orderNumber": 10,
+      "queryParams": "",
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "path": "Property Tax.PT Reports.From Report Tables.DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "navigationURL": "report/rainmaker-pt/DEFAULTER_REPORT_WITH_LOCALITY_UNPAID_DEMAND",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+         
+    }
   ]
 }
