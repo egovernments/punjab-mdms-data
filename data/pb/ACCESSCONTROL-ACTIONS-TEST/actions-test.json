@@ -14219,6 +14219,18 @@
       "navigationURL": "report/rainmaker-pt/Count_UsageCategory_V2",
       "leftIcon": "action:assignment",
       "rightIcon": ""      
+      },
+      {
+      "id": 2501,
+      "name": "Unique Count of the Citizens",
+      "url": "/egov-searcher/getUniqueCitizenCount",
+      "displayName": "Citizen Count",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
       }
   ]
 }
