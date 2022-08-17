@@ -14231,6 +14231,19 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-      }
+      },
+	{
+      "id": 2502,
+      "name": "Scheme Wise Register",
+      "url": "/services/EGF/report/schemeWiseReport.action",
+      "parentModule": "",
+      "displayName": "Scheme Wise Register",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Reports.MIS Reports.Scheme Wise Register",
+      "navigationURL": "services/EGF/report/schemeWiseReport.action"
+    },
   ]
 }
