@@ -114,7 +114,7 @@
       "jobName": "auto-escalation-scheduler",
       "active": "true",
       "method": "POST",
-      "url": "http://egov-workflow.egov:8080/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
+      "url": "http://egov-workflow-v2.egov:8080/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
