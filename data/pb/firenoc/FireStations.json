@@ -76,6 +76,58 @@
           "code": "pb.zira"
         }
       ]
+    },
+      {
+           "code": "FS_MULLANPUR_01",
+           "baseTenantId": "pb.mullanpur",
+           "active": true,
+           "subDistrict": [
+             
+              {
+                "code": "Mullanpur"
+              },
+              {
+                "code": "Raikot"
+              },              
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.mullanpur"
+              },
+              {
+                "code": "pb.raikot"
+             }
+      ]
+    },    
+                
+           {
+            "code": "FS_MORINDA_01",
+            "baseTenantId": "pb.morinda",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Morinda"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.morinda"                   
+                           
+          
+          
+        }
+      ]
     }
   ]
 }
