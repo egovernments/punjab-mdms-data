@@ -122,8 +122,30 @@
             "ulb": [
             
               {
-                "code": "pb.morinda"                   
-                           
+                "code": "pb.morinda" 
+      }
+      ]
+    },               
+                
+     {
+            "code": "FS_TAPA_01",
+            "baseTenantId": "pb.tapa",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Tapa"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.tapa"           
+                                    
           
           
         }
