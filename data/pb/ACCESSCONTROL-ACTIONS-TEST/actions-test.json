@@ -14396,7 +14396,23 @@
       "path": "State Reports.PGR.StateMsevaappDescriptionReport_NEW_v2",
       "navigationURL": "report/rainmaker-pgr/StateMsevaappDescriptionReport_NEW_v2",
       "leftIcon": "action:assignment",
-      "rightIcon": ""       
+      "rightIcon": ""  
+    },
+    {
+	    
+      "id": 2511,
+      "name": "STATEDUMPDEPARTMENT_REPORT_V2",
+      "url": "url",
+      "displayName": "PT DEPARTMENT DUMP REPORT",
+      "orderNumber": 12,
+      "parentModule": "rainmaker-pt",
+      "enabled": true,
+      "serviceCode": "PT",
+      "code": "null",
+      "path": "State Reports.PT.STATEDUMPDEPARTMENT_REPORT_V2",
+      "navigationURL": "report/rainmaker-pt/STATEDUMPDEPARTMENT_REPORT_V2",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""    
     }
 
   ]
