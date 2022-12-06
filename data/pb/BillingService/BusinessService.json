@@ -2337,6 +2337,23 @@
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Challans.Trade_License_Challan",
+      "code": "CH.Trade_License_Challan",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+
+
+       
     }
   ]
 }
