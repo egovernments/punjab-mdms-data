@@ -76,15 +76,15 @@
           "code": "pb.zira"
         }
       ]
-    },
-      {
+    },   
+     {
            "code": "FS_MULLANPUR_01",
            "baseTenantId": "pb.mullanpur",
            "active": true,
            "subDistrict": [
              
-              {
-                "code": "Mullanpur"
+             
+                "code": "Mullanpur" {
               },
               {
                 "code": "Raikot"
@@ -122,8 +122,97 @@
             "ulb": [
             
               {
-                "code": "pb.morinda"                   
-                           
+                "code": "pb.morinda" 
+      }
+      ]
+    },               
+                
+     {
+            "code": "FS_TAPA_01",
+            "baseTenantId": "pb.tapa",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Tapa"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.tapa"           
+ }
+      ]
+    },               
+                
+     {
+            "code": "FS_MOONAK_01",
+            "baseTenantId": "pb.moonak",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Moonak"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.moonak"           
+                                    
+       }
+      ]
+    },               
+                
+     {   
+            "code": "FS_BHIKHI_01",
+            "baseTenantId": "pb.bhikhi",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Bhikhi"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.bhikhi"  
+
+ }
+      ]
+    },               
+                
+     {
+            "code": "FS_TALWANDISABO_01",
+            "baseTenantId": "pb.talwandisabo",
+            "active": true,
+            "subDistrict": [
+             
+              {
+                "code": "Talwandisabo"
+              },                          
+              
+              {
+                "code": "Rural Area"
+              }
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.talwandisabo"                                         
           
           
         }
