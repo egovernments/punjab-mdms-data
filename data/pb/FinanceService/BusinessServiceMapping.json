@@ -642,6 +642,19 @@
       "validFrom":1234567890,
       "validTo":2345678901
     },
+    {	  
+	    
+      "code":"CH.Trade_License_Challan",
+      "voucherCreationEnabled":true,
+      "fund":"01",
+      "function":"000201",
+      "department":"DEPT_3",
+      "functionary":"",
+      "scheme":"",
+      "subscheme":"",
+      "validFrom":1234567890,
+      "validTo":2345678901	    
+    },
     {
       "code":"CH.Dairy_Animals_Challan",
       "voucherCreationEnabled":true,
@@ -1097,6 +1110,9 @@
       "subscheme":"",
       "validFrom":1234567890,
       "validTo":2345678901
+		
+		
+		
     }
   ]
 }
