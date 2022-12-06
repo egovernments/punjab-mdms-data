@@ -6729,6 +6729,49 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {    
+	
+      "category": "TAX",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_TAX",
+      "code": "CH.TRADE_LICENSE_CHALLAN_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_FIELD_FEE",
+      "code": "CH.TRADE_LICENSE_CHALLAN_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_CGST",
+      "code": "CH.TRADE_LICENSE_CHALLAN_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "CH.Trade_License_Challan",
+      "name": "CH.TRADE_LICENSE_CHALLAN_SGST",
+      "code": "CH.TRADE_LICENSE_CHALLAN_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false    
+	    
+	    
     }
 	  
   ]
