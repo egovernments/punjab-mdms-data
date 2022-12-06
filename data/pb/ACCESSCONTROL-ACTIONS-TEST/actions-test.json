@@ -14413,6 +14413,35 @@
       "navigationURL": "tradelicence/enaksha",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
+ 	    
+    },
+    {	  
+      "id": 2513,
+      "name": "DEFAULT Payment search",
+      "url": "/collection-services/payments/CH.Trade_License_Challan/_search",
+      "displayName": "Trade_License_Challan Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""    
+	    
+    },
+    {	  
+	
+      "id": 2514,
+      "name": "DEFAULT Payment workflow",
+      "url": "/collection-services/payments/CH.Trade_License_Challan/_workflow",
+      "displayName": "Trade_License_Challan Payment workflow",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""    
+	    
+	    
     }
 
   ]
