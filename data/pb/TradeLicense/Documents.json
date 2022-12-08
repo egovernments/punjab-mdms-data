@@ -30,6 +30,20 @@
           }
         ],
         "description": "OWNER.OWNERIDPROOF.OWNERIDPROOF_DESCRIPTION"
+      },
+      {
+        "code": "OWNER.OWNERSELF",
+        "documentType": "SELFDECLARATION FORM",
+        "required": true,
+        "active": true,
+        "dropdownData": [
+          {
+            "code": "OWNER.OWNERIDPROOF",
+            "active": false
+          }
+          
+        ],
+        "description": "OWNER.SELF"
       }
     ]
   }
