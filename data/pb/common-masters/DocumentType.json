@@ -20,6 +20,15 @@
       "maxFileSize": 3000
     },
     {
+      "code": "OWNERSELF",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
+    },
+    {
       "code": "OLDLICENCENO",
       "allowedFormat": [
         "image/*",
@@ -59,5 +68,6 @@
         "allowedFormat" : ["image/*", ".png", ".jpeg"],
         "maxFileSize": 3000
       }
+      
     ]
 }
