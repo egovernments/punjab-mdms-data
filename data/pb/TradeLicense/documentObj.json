@@ -29,6 +29,14 @@
           "required": false
         },
         {
+          "documentType": "OWNERSELF",
+          "applicationType": [
+            "NEW",
+            "RENEWAL"
+          ],
+          "required": true
+        },
+        {
           "documentType": "OLDLICENCENO",
           "applicationType": [
             "RENEWAL"
@@ -63,6 +71,14 @@
             "RENEWAL"
           ],
           "required": false
+        },
+        {
+          "documentType": "OWNERSELF",
+          "applicationType": [
+            "NEW",
+            "RENEWAL"
+          ],
+          "required": true
         },
         {
           "documentType": "OLDLICENCENO",
