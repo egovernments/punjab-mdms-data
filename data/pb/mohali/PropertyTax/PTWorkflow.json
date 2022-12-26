@@ -1,0 +1,19 @@
+{
+    "tenantId": "pb.mohali",
+    "moduleName": "PropertyTax",
+    "PTWorkflow":[
+        {
+            "businessService":"PT.CREATEWITHWNS",
+            "initialAction":"OPEN",
+            "inWorkflowStatusAllowed":true,
+            "enable":true
+        },
+        {
+         "businessService":"PT.CREATE",
+         "initialAction":"open",
+         "inWorkflowStatusAllowed":false,
+         "enable":false
+     }
+        
+    ]
+   }
