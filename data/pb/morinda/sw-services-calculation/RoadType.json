@@ -1,47 +1,53 @@
 {
-  "tenantId": "pb.amritsar",
+  "tenantId": "pb.morinda",
   "moduleName": "sw-services-calculation",
   "RoadType": [
     {
       "name": "Berm Cutting (Katcha)",
       "code": "BERMCUTTINGKATCHA",
-      "unitCost": 6,
+      "unitCost": 14.3,
       "isActive": true
     },
     {
       "name": "BM and Premix Road",
       "code": "BMPREMIXROAD",
-      "unitCost": 120,
+      "unitCost": 386.1,
       "isActive": true
     },
     {
       "name": "Brick Paving",
       "code": "BRICKPAVING",
-      "unitCost": 30,
+      "unitCost": 72.6,
       "isActive": true
     },
     {
       "name": "CC Road",
       "code": "CCROAD",
-      "unitCost": 180,
+      "unitCost": 290.4,
       "isActive": true
     },
     {
       "name": "Interlocking Paver Block",
       "code": "INTERLOCKINGPAVERBLOCK",
-      "unitCost": 150,
+      "unitCost": 434.5,
+      "isActive": true
+    },
+    {
+      "name": "Under Scheme",
+      "code": "UNDERSHEME",
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "Open Pipe",
       "code": "OPENPIPE",
-      "unitCost": 200,
+      "unitCost": 0,
       "isActive": true
     },
     {
       "name": "Premix Carpet",
       "code": "PREMIXCARPET",
-      "unitCost": 180,
+      "unitCost": 290.4,
       "isActive": true
     }
   ]
