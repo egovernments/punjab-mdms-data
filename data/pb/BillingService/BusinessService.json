@@ -24,7 +24,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
+      "isVoucherCreationEnabled": true
     },
     {
       "businessService": "TradeLicense",
@@ -46,7 +46,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
+      "isVoucherCreationEnabled": true
     },
     {
       "businessService": "WaterCharges.NonMetered",
@@ -57,7 +57,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
+      "isVoucherCreationEnabled": true
     },
     {
       "businessService": "Taxes.No Dues Certificate",
@@ -82,7 +82,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
+      "isVoucherCreationEnabled": true,
       "type": "Adhoc",
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
@@ -1817,7 +1817,7 @@
       "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
+      "isVoucherCreationEnabled": true,
       "billGineiURL": "egov-searcher/bill-genie/waterbills/_get",
       "isBillAmendmentEnabled": true,
       "cancelReceipt": true
@@ -1831,7 +1831,7 @@
       "partPaymentAllowed": true,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false,
+      "isVoucherCreationEnabled": true,
       "billGineiURL": "egov-searcher/bill-genie/seweragebills/_get",
       "isBillAmendmentEnabled": true,
       "cancelReceipt": true
@@ -2225,7 +2225,7 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": false
+      "isVoucherCreationEnabled": true
     },
     {
       "businessService": "OTHER.library_security_fees", 
