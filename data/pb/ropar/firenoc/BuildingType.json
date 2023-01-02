@@ -1,0 +1,270 @@
+{
+    "tenantId": "pb.ropar",
+    "moduleName": "firenoc",
+    "BuildingType": [
+      {
+        "code": "BANK",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "BANK",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "CINEMA",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "CINEMA_OR_THEATRE",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "COMMERCIAL_UNIT",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "COMMERCIAL_UNIT_PLOT_SIZE_5_MARLA_OR_ABOVE",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          },
+          {
+            "code": "COMMERCIAL_UNIT_PLOT_SIZE_BELOW_5_MARLA",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "GAS_AGENCY",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "GAS_AGENCY",
+            "active": true,
+            "NBCGroup": "Group H Storage",
+            "NBCSubGroup": ""
+          }
+        ]
+      },
+      {
+        "code": "GROUP_HOUSING",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "GROUP_HOUSING_HEIGHT_BELOW_15_MTR",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "HIGH_RISE_BUILDING",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "HIGH_RISE_BUILDING_HEIGHT_ABOVE_15_MTR",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          },
+          {
+            "code": "HIGH_RISE_BUILDING_HEIGHT_BELOW_15_MTR",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "HOSPITAL",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "HOSPITAL",
+            "active": true,
+            "NBCGroup": "Group C Institutional",
+            "NBCSubGroup": "C1"
+          }
+        ]
+      },
+      {
+        "code": "HOTE",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "HOTE_3_STAR_OR_ABOVE",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          },
+          {
+            "code": "HOTE_BELOW_3_STAR",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "INDUSTRY",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "INSTITUTIONAL_BUILDING_PLOT_SIZE_5_MARLE_OR_ABOVE",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "INSTITUTIONAL_BUILDING_PLOT_SIZE_5_MARLE_OR_ABOVE",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "MARRIAGE_PALACE",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "MARRIAGE_PALACE",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "PETROL_PUMP",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "PETROL_PUMP",
+            "active": true,
+            "NBCGroup": "Group J Hazardous",
+            "NBCSubGroup": ""
+          }
+        ]
+      },
+      {
+        "code": "RESIDENTIAL_COLONY",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "RESIDENTIAL_COLONY",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "SAW_MILL",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "SAW_MILL",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "PRIVATE_SCHOOLS",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "MORE_THAN_150_STUDENTS",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          },
+          {
+            "code": "LESS_THAN_150_STUDENTS",
+            "active": true,
+            "NBCGroup": "Group E Business",
+            "NBCSubGroup": "E1"
+          }
+        ]
+      },
+      {
+        "code": "SHOPPING_MALL",
+        "uom": [
+          "HEIGHT_OF_BUILDING"
+        ],
+        "active": true,
+        "BuildingSubType": [
+          {
+            "code": "SHOPPING_MALL",
+            "active": true,
+            "NBCGroup": "Group D Assembly",
+            "NBCSubGroup": "D6"
+          }
+        ]
+      }
+    ]
+  }
