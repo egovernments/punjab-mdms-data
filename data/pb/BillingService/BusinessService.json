@@ -5,9 +5,8 @@
     {
       "businessService": "PropertyTax",
       "code": "PT",
-      "collectionModesNotAllowed": [
-        ""
-      ],
+      "collectionModesNotAllowed": [""],
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get",
       "partPaymentAllowed": true,
       "isAdvanceAllowed": false,
       "demandUpdateTime": 86400000,
