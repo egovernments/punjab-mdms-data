@@ -114,14 +114,31 @@
             
               {
                 "code": "pb.morinda" 
-              },
+              }
+              
+      ]
+    },       
+           {
+            "code": "FS_ROPAR_01",
+            "baseTenantId": "pb.ropar",
+            "active": true,
+            "subDistrict": [
+             
               {
-                "code": "pb.ropar"   
-                
-                
-      }
+                "code": "Ropar"
+              }                         
+             
+            
+            ],
+            "ulb": [
+            
+              {
+                "code": "pb.ropar" 
+              }
+              
       ]
     },               
+           
                 
      {
             "code": "FS_TAPA_01",
