@@ -28,6 +28,24 @@
         },
         {
           "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"500",
+          "propertyType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"125",
+          "toPlotSize":"250",
+          "connectionFee":"500",
+          "propertyType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"750",
+          "propertyType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
           "toPlotSize":"999999999",
           "connectionFee":"10",
           "propertyType":"DEFAULT"
