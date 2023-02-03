@@ -5,7 +5,7 @@
       {
          "id":"1",
          "buildingType":"RESIDENTIAL",
-         "waterSubUsageType": "NA",
+         "waterSubUsageType": "USAGE_DOM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -36,7 +36,7 @@
       {
          "id":"4",
          "buildingType":"COMMERCIAL",
-         "waterSubUsageType": "NA",
+         "waterSubUsageType": "USAGE_COMM_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
@@ -66,8 +66,8 @@
       },
       {
          "id":"7",
-         "buildingType":"INSTITUTIONAL",
-         "waterSubUsageType": "NA",
+         "buildingType":"INDUSTRIAL",
+         "waterSubUsageType": "USAGE_INDUSTRIAL_NA",
          "calculationAttribute":"PLOT_BASED",
          "connectionType":"Non Metered",
          "minimumCharge":0,
