@@ -1,11 +1,34 @@
 {
   "tenantId": "pb.amargarh",
-  "moduleName": "sw-services-calculation",
+  "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
       "formFee": 0,
-      "securityDeposit": 200,
-      "connectionFee": 50,
+      "securityCharge": 200,
+      "meterTestingFee": 0,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"1250000000000",
+          "connectionFee":"10",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000000",
+          "connectionFee":"10",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"25000000000",
+          "connectionFee":"10",
+          "usageType":"INSTITUTIONAL"
+        },
+      
+        
+      ],
       "other": 0,
       "taxpercentage": 0,
       "isActive": true
