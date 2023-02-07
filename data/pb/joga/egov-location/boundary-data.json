@@ -343,6 +343,356 @@
           }
         ]
       }
+    },
+  
+
+{
+  "tenantId": "pb.joga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Joga",
+        "localname": "Joga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.joga",
+        "children": [
+          {
+            "id": "19fb6941-7c73-4707-a7c8-828a432897fe",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "62937f01-2496-461a-9588-17145e32c2e3",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "996a254a-d4a1-475b-a426-202ff51e0e36",
+                    "boundaryNum": 1,
+                    "name": "Nehari Kothi - WARD 1",
+                    "localname": "Nehari Kothi - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d3fe7fd8-4281-445a-81c7-ee1bd1d3dbb0",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "277a3dbb-1404-4f5f-a758-a68d67fa55cf",
+                    "boundaryNum": 1,
+                    "name": "Fokl Point - WARD 2",
+                    "localname": "Fokl Point - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a7d006e1-9abe-4cc0-bce4-f97e4b6e2351",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "8918bbc8-b240-4223-ae05-1c28e317e9f1",
+                    "boundaryNum": 1,
+                    "name": "Pulada Rod - WARD 3",
+                    "localname": "Pulada Rod - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05e5b4c4-6634-466d-b70b-f82df4f664e9",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "c4fc6424-0c95-4092-8cf2-076f9e826fd2",
+                    "boundaryNum": 1,
+                    "name": "New Gurudwara - WARD 4",
+                    "localname": "New Gurudwara - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc96aa48-2ad1-431b-a1ee-2e45a785d1e6",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "3e43ae23-e885-489a-b068-f8518ef53959",
+                    "boundaryNum": 1,
+                    "name": "Harijan Basti School - WARD 5",
+                    "localname": "Harijan Basti School - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2665e88f-399f-459a-ad91-7cee572da075",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "6bfb4bab-6024-4cfd-96f3-9614c28ead4b",
+                    "boundaryNum": 1,
+                    "name": "Banawali Dahrmsala - WARD 6",
+                    "localname": "Banawali Dahrmsala - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "978bf0b1-f65d-4b09-a748-f8d98610e9a3",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "524be724-3988-4be3-9008-083f79e45fc7",
+                    "boundaryNum": 1,
+                    "name": "Ravidaas Mandir - WARD 7",
+                    "localname": "Ravidaas Mandir - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f256eac4-727b-476d-bde5-965e314b6967",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "b77e8e7a-472d-47dc-baa2-a0b9d7bbb09b",
+                    "boundaryNum": 1,
+                    "name": "Dhera Bhai Hazori - WARD 8",
+                    "localname": "Dhera Bhai Hazori - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "886292c0-3c10-497a-8b51-ead249d8081e",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "e38f8d97-467b-4bac-afcf-fc689534c294",
+                    "boundaryNum": 1,
+                    "name": "Barroki Dharmasla - WARD 9",
+                    "localname": "Barroki Dharmasla - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d49e22a0-366c-4ed9-baba-bb9120756af1",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "8c7160e8-c4d6-41fe-bc82-d7238ba9b21a",
+                    "boundaryNum": 1,
+                    "name": "Boys School - WARD 10",
+                    "localname": "Boys School - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "04802cec-d0b6-450b-86e9-05c125eeb88c",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "dc445d34-2b42-40e6-9335-3f50c416cbf2",
+                    "boundaryNum": 1,
+                    "name": "Near Bus Stand - WARD 11",
+                    "localname": "Near Bus Stand - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37fef30a-8598-4172-9bee-a81573b89172",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 12",
+                "children": [
+                  {
+                    "id": "1db9945b-355e-4d53-810b-3725558ac387",
+                    "boundaryNum": 1,
+                    "name": "Animals Hospital - WARD 12",
+                    "localname": "Animals Hospital - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9b8f2e0-58b0-4c9f-8810-6050f20a0e48",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 13",
+                "children": [
+                  {
+                    "id": "dd136a89-ef0f-4c94-acfa-0a9a13395a7f",
+                    "boundaryNum": 1,
+                    "name": "Chahur Workshop - WARD 13",
+                    "localname": "Chahur Workshop - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LCJ13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
+  ]
+}
   ]
 }
