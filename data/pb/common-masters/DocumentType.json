@@ -1,63 +1,93 @@
 {
-    "tenantId": "pb",
-    "moduleName": "common-masters",
-    "DocumentType": [
-        {
-            "code": "OWNERIDPROOF",
-            "active": true
-        },
-        {
-            "code": "OWNERSHIPPROOF",
-            "active": true
-        },
-		{
-      "code": "OWNERPHOTO",
-      "allowedFormat": [
-        "image/*",
-        ".png",
-        ".jpeg"
-      ],
-      "maxFileSize": 3000
-    },
-    {
-      "code": "OLDLICENCENO",
-      "allowedFormat": [
-        "image/*",
-        ".pdf",
-        ".png",
-        ".jpeg"
-      ],
-      "maxFileSize": 6000
-    },
-    {
-        "code": "COURTORDER",
-        "active": true,
-        "allowedFormat" : ["image/*", ".png", ".jpeg"],
-        "maxFileSize": 3000
+  "DocumentType": [
+      {
+          "active": true,
+          "code": "OWNERIDPROOF"
       },
       {
-        "code": "SELFDECLARATION",
-        "active": true,
-        "allowedFormat" : ["image/*", ".png", ".jpeg"],
-        "maxFileSize": 3000
+          "active": true,
+          "code": "OWNERSHIPPROOF"
       },
       {
-        "code": "GOVTNOTIFICATION",
-        "active": true,
-        "allowedFormat" : ["image/*", ".png", ".jpeg"],
-        "maxFileSize": 3000
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "OWNERPHOTO",
+          "maxFileSize": 3000
       },
       {
-        "code": "OFFICENOTEORDER",
-        "active": true,
-        "allowedFormat" : ["image/*", ".png", ".jpeg"],
-        "maxFileSize": 3000
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg",
+              ".pdf"
+          ],
+          "code": "OWNERSELF",
+          "maxFileSize": 3000
       },
       {
-        "code": "GOVTNOTIFICATION",
-        "active": true,
-        "allowedFormat" : ["image/*", ".png", ".jpeg"],
-        "maxFileSize": 3000
+          "allowedFormat": [
+              "image/*",
+              ".pdf",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "OLDLICENCENO",
+          "maxFileSize": 6000
+      },
+      {
+          "active": true,
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "COURTORDER",
+          "maxFileSize": 3000
+      },
+      {
+          "active": true,
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "SELFDECLARATION",
+          "maxFileSize": 3000
+      },
+      {
+          "active": true,
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "GOVTNOTIFICATION",
+          "maxFileSize": 3000
+      },
+      {
+          "active": true,
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "OFFICENOTEORDER",
+          "maxFileSize": 3000
+      },
+      {
+          "active": true,
+          "allowedFormat": [
+              "image/*",
+              ".png",
+              ".jpeg"
+          ],
+          "code": "GOVTNOTIFICATION",
+          "maxFileSize": 3000
       }
-    ]
+  ],
+  "moduleName": "common-masters",
+  "tenantId": "pb"
 }
