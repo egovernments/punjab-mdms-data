@@ -4,50 +4,50 @@
   "FeeSlab": [
     {
       "formFee": 0,
-      "securityCharge": 200,
+      "securityCharge": 500,
       "meterTestingFee": 0,
       "connectionFee":
       [
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"100",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"250",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"500",
+          "connectionFee":"200",
           "usageType":"DOMESTIC"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"125",
-          "connectionFee":"500",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"125",
           "toPlotSize":"250",
-          "connectionFee":"500",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"250",
           "toPlotSize":"999999999",
-          "connectionFee":"750",
+          "connectionFee":"200",
           "usageType":"COMMERCIAL"
         },
         {
           "fromPlotSize":"0",
           "toPlotSize":"999999999",
-          "connectionFee":"10",
+          "connectionFee":"200",
           "usageType":"DEFAULT"
         }
         
