@@ -102,12 +102,19 @@
       "description": "APPLICANT_PHOTO_PP_DESCRIPTION"
     },
     {
-      "code": "SELF_DECLARATION_BY_APPLICANT",
-      "documentType": "SELF_DECLARATION_BY_APPLICANT",
       "active": true,
-      "required": true,
-      "description": "SELF_DECLARATION_BY_APPLICANT_DESCRIPTION"
-    },
+      "code": "SELF_DECLARATION_BY_APPLICANT",
+      "description": "SELF_DECLARATION_BY_APPLICANT_DESCRIPTION",
+      "documentType": "SELF_DECLARATION_BY_APPLICANT",
+      "dropdownData": [
+          {
+              "active": true,
+              "code": "SELF_DECLARATION_BY_APPLICANT"
+          }
+      ],
+      "hasDropdown": true,
+      "required": true
+  },
      {
       "code": "OTHER_DOCUMENTS",
       "documentType": "OTHER_DOCUMENTS",
