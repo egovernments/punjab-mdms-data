@@ -1,0 +1,101 @@
+{
+   "tenantId":"pb.sahnewal",
+   "moduleName":"ws-services-calculation",
+   "WCBillingSlab":[
+      {
+      "id": "1",
+      "buildingType": "RESIDENTIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 100,
+
+      "slabs": [
+        {
+          "from": 0,
+          "to": 100000,
+          "charge": 3.80,
+          "meterCharge": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "buildingType": "NONRESIDENTIAL",
+      "calculationAttribute": "Water consumption",
+      "connectionType": "Metered",
+
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10000000,
+          "charge": 7.80,
+          "meterCharge": 532.4
+
+        }
+      ]
+    },
+      {
+         "id":"5",
+         "buildingType":"RESIDENTIAL",
+         "waterSubUsageType": "USAGE_DOM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":0,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":126,
+               "to":250,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":251,
+               "to":1000000000,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            }
+         ]
+      },
+      {
+         "id":"6",
+         "buildingType":"COMMERCIAL",
+         "waterSubUsageType": "USAGE_COMM_NA",
+         "calculationAttribute":"PLOT_BASED",
+         "connectionType":"Non Metered",
+         "minimumCharge":0,
+         "slabs":[
+            {
+               "from":0,
+               "to":125,
+               "charge":0,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":126,
+               "to":250,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            },
+            {
+               "from":251,
+               "to":1000000000,
+               "charge":150,
+               "effectiveFrom":917523271000,
+               "effectiveTo":1738064071000
+            }
+         ]
+      }
+   ]
+}

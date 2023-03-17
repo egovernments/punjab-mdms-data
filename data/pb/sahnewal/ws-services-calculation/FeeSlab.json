@@ -1,0 +1,60 @@
+{
+  "tenantId": "pb.sahnewal",
+  "moduleName": "ws-services-calculation",
+  "FeeSlab": [
+    {
+      "formFee": 0,
+      "securityCharge": 500,
+      "meterTestingFee": 0,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"200",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"125",
+          "toPlotSize":"250",
+          "connectionFee":"200",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"200",
+          "usageType":"DOMESTIC"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"125",
+          "connectionFee":"200",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"125",
+          "toPlotSize":"250",
+          "connectionFee":"200",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"250",
+          "toPlotSize":"999999999",
+          "connectionFee":"200",
+          "usageType":"COMMERCIAL"
+        },
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"999999999",
+          "connectionFee":"200",
+          "usageType":"DEFAULT"
+        }
+        
+      ],
+      "other": 0,
+      "taxpercentage": 0,
+      "isActive": true
+    }
+  ]
+}
