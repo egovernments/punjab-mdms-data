@@ -5,6 +5,7 @@
       {
       "id": "1",
       "buildingType": "RESIDENTIAL",
+      "waterSubUsageType": "USAGE_DOM_NA",
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 100,
@@ -44,7 +45,8 @@
     },
     {
       "id": 2,
-      "buildingType": "NONRESIDENTIAL",
+      "buildingType": "COMMERCIAL",
+      "waterSubUsageType": "USAGE_COMM_NA",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
 
