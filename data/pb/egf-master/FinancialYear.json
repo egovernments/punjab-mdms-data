@@ -376,7 +376,7 @@
       "name": "2023-24",
       "code": "2023-24",
       "startingDate": 1680287400000,
-      "endingDate": 1711823400000,
+      "endingDate": 1711909799000,
       "active": true,
       "isActiveForPosting": true,
       "isClosed": false,
@@ -389,8 +389,8 @@
       "finYearRange": "2023-24",
       "name": "2023-24",
       "code": "2023-24",
-      "startingDate": 1679985000000,
-      "endingDate": 1711866600000,
+      "startingDate": 1680287400000,
+      "endingDate": 1711909799000,
       "active": true,
       "isActiveForPosting": true,
       "isClosed": false,
@@ -398,20 +398,33 @@
       "module": "WS"  
        
     },
-    
     {
       "id": "30",
       "tenantId": "pb",
       "finYearRange": "2023-24",
       "name": "2023-24",
       "code": "2023-24",
-      "startingDate": 1679985000000,
-      "endingDate": 1711866600000,
+      "startingDate": 1680287400000,
+      "endingDate": 1711909799000,
       "active": true,
       "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "SW"  
+    },
+    {
+      "id": "31",
+      "tenantId": "pb",
+      "finYearRange":  "2023-24",
+      "name":  "2023-24",
+      "code":  "2023-24",
+      "startingDate": 1680287400000,
+      "endingDate": 1711909799000,
+      "active": true,
+      "isActiveForPosting": false,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "FIRENOC"
     }
   ]
 }
