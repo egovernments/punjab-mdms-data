@@ -6769,7 +6769,48 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
-      "isRequired": false    
+      "isRequired": false 
+    },
+    {	  
+	    
+      "category": "TAX",
+      "service": "TX.Show_Tax",
+      "name": "TX.Show_Tax_TAX",
+      "code": "TX.Show_Tax_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Show_Tax",
+      "name": "TX.Show_Tax_FIELD_FEE",
+      "code": "TX.Show_Tax_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Show_Tax",
+      "name": "TX.Show_Tax_CGST",
+      "code": "TX.Show_Tax_CGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Show_Tax",
+      "name": "TX.Show_Tax_SGST",
+      "code": "TX.Show_Tax_SGST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false	    
 	    
 	    
     }
