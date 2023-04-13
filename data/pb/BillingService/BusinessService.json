@@ -2352,8 +2352,20 @@
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
 
-
-       
+    },
+    {
+      "businessService": "Taxes.Show_Tax",
+      "code": "TX.Show_Tax",
+      "collectionModesNotAllowed": [
+        ""
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "cancelReceipt": true,
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"   
     }
   ]
 }
