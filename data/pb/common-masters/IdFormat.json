@@ -655,6 +655,15 @@
      {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
       "idname": "rev_grants.14th_grants_comm.receipt.id"
+     },
+    {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "tx.show_tax.receipt.id"
+    },
+    {
+      
+      "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
+      "idname": "tx.entertainment_tax.receipt.id" 
     }
   ]
 }
