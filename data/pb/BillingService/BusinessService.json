@@ -2352,36 +2352,7 @@
       "cancelReceipt": true,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
 
-    },
-    {
-      "businessService": "Taxes.Show_Tax",
-      "code": "TX.Show_Tax",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": false,
-      "isActive": false,
-      "type": "Adhoc",
-      "cancelReceipt": false,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"   
-    },
-    {
-      
-     
-     "businessService": "Taxes.Entertainment_Tax",
-      "code": "TX.Entertainment_Tax",
-      "collectionModesNotAllowed": [
-        ""
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": false,
-      "isActive": false,
-      "type": "Adhoc",
-      "cancelReceipt": false,
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get" 
+   
     }
   ]
 }
