@@ -2361,10 +2361,10 @@
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isVoucherCreationEnabled": false,
+      "isActive": false,
       "type": "Adhoc",
-      "cancelReceipt": true,
+      "cancelReceipt": false,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"   
     },
     {
@@ -2377,10 +2377,10 @@
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isVoucherCreationEnabled": false,
+      "isActive": false,
       "type": "Adhoc",
-      "cancelReceipt": true,
+      "cancelReceipt": false,
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get" 
     }
   ]
