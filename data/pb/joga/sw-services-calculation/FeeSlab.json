@@ -5,7 +5,38 @@
     {
       "formFee": 0,
       "securityDeposit": 200,
-      "connectionFee": 50,
+      "meterTestingFee": 0,
+      "connectionFee":
+      [
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"3000000",
+          "connectionFee":"50",
+          "usageType":"DOMESTIC"
+        },
+    
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "connectionFee":"50",
+          "usageType":"COMMERCIAL"
+        },
+
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "connectionFee":"50",
+          "usageType":"INDUSTRIAL"
+        },
+       
+        {
+          "fromPlotSize":"0",
+          "toPlotSize":"12500000",
+          "connectionFee":"50",
+          "usageType":"INSTITUTIONAL"
+        }
+        
+      ],
       "other": 0,
       "taxpercentage": 0,
       "isActive": true
