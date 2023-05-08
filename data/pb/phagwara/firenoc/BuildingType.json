@@ -1,0 +1,781 @@
+{
+  "tenantId": "pb.phagwara",
+  "moduleName": "firenoc",
+  "BuildingType": [
+    {
+      "code": "BANK",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "BANK",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "CINEMA",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "CINEMA_OR_THEATRE",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "COMMERCIAL_UNIT",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "COMMERCIAL_UNIT_PLOT_SIZE_5_MARLA_OR_ABOVE",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        },
+        {
+          "code": "COMMERCIAL_UNIT_PLOT_SIZE_BELOW_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "GAS_AGENCY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "GAS_AGENCY",
+          "active": true,
+          "NBCGroup": "Group H Storage",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "GROUP_HOUSING",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "GROUP_HOUSING_HEIGHT_BELOW_15_MTR",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "HIGH_RISE_BUILDING",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "HIGH_RISE_BUILDING_HEIGHT_ABOVE_15_MTR",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        },
+        {
+          "code": "HIGH_RISE_BUILDING_HEIGHT_BELOW_15_MTR",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "HOSPITAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "HOSPITAL",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        }
+      ]
+    },
+    {
+      "code": "HOTE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "HOTE_3_STAR_OR_ABOVE",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        },
+        {
+          "code": "HOTE_BELOW_3_STAR",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "INDUSTRY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "INDUSTRY_LAND_AREA_MORE_THAN_5_MARLA",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "INSTITUTIONAL_BUILDING_PLOT_SIZE_5_MARLE_OR_ABOVE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "INSTITUTIONAL_BUILDING_PLOT_SIZE_5_MARLE_OR_ABOVE",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "MARRIAGE_PALACE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "MARRIAGE_PALACE",
+          "active": false,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "PETROL_PUMP",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "PETROL_PUMP",
+          "active": true,
+          "NBCGroup": "Group J Hazardous",
+          "NBCSubGroup": ""
+        }
+      ]
+    },
+    {
+      "code": "RESIDENTIAL_COLONY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "RESIDENTIAL_COLONY",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "SAW_MILL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "SAW_MILL",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "PRIVATE_SCHOOLS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "MORE_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        },
+        {
+          "code": "LESS_THAN_150_STUDENTS",
+          "active": true,
+          "NBCGroup": "Group E Business",
+          "NBCSubGroup": "E1"
+        }
+      ]
+    },
+    {
+      "code": "SHOPPING_MALL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": false,
+      "BuildingSubType": [
+        {
+          "code": "SHOPPING_MALL",
+          "active": true,
+          "NBCGroup": "Group D Assembly",
+          "NBCSubGroup": "D6"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    {
+      "code": "COLLEGE",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "MEDICAL",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "LAW",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "ENGINEERING",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "MBA",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "NURSING",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "ARTS",
+          "active": true,
+          "NBCGroup": "Group B Educational",
+          "NBCSubGroup": "B1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    {
+      "code": "COMMERCIAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "COMMERCIALBUILDING",
+          "active": true,
+          "NBCGroup": "Group F Business",
+          "NBCSubGroup": "F1"
+        },
+        {
+          "code": "MARRIAGEPALACE",
+          "active": true,
+          "NBCGroup": "Group F Business",
+          "NBCSubGroup": "F1"
+        },
+        {
+          "code": "COACHINGCENTER",
+          "active": true,
+          "NBCGroup": "Group F Business",
+          "NBCSubGroup": "F1"
+        },
+        {
+          "code": "MULTIPLEX",
+          "active": true,
+          "NBCGroup": "Group F Business",
+          "NBCSubGroup": "F1"
+        },
+        {
+          "code": "MIXUSE",
+          "active": true,
+          "NBCGroup": "Group F Business",
+          "NBCSubGroup": "F1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    {
+      "code": "GODOWN",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "LOWHAZARD",
+          "active": true,
+          "NBCGroup": "Group H Business",
+          "NBCSubGroup": "H1"
+        },
+        {
+          "code": "MEDIUMHAZARD",
+          "active": true,
+          "NBCGroup": "Group H Business",
+          "NBCSubGroup": "H1"
+        },
+        {
+          "code": "HIGHHAZARD",
+          "active": true,
+          "NBCGroup": "Group H Business",
+          "NBCSubGroup": "H1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    {
+      "code": "HOSPITAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+           {
+          "code": "HOSPITAL_UPTO_30_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_31_50_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_51_100_BEDS",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_101_125",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_126_150",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_151_175",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_176_200",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_201_225",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_226_250",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_251_275",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_276_300",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_301_325",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_326_350",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_351_375",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_376_400",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_401_425",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_BEDS_426_450",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        },
+        {
+          "code": "HOSPITAL_ABOVE_450",
+          "active": true,
+          "NBCGroup": "Group C Institutional",
+          "NBCSubGroup": "C1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    {
+      "code": "HOTEL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "STAR1",
+          "active": true,
+          "NBCGroup": "Group A Business",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "STAR2",
+          "active": true,
+          "NBCGroup": "Group A Business",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "STAR3",
+          "active": true,
+          "NBCGroup": "Group A Business",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "STAR4",
+          "active": true,
+          "NBCGroup": "Group A Business",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "STAR5",
+          "active": true,
+          "NBCGroup": "Group A Business",
+          "NBCSubGroup": "A1"
+        }
+        
+      ]
+    },
+    
+    
+    
+    
+    {
+      "code": "INDUSTRIAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "MODERATEHAZARD",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "SMSE",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "LOWHAZARD",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "HIGHHAZARD",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        },
+        {
+          "code": "COTTON",
+          "active": true,
+          "NBCGroup": "Group G Business",
+          "NBCSubGroup": "G1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    {
+      "code": "PUBLICFACILITY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "BUSSTAND",
+          "active": true,
+          "NBCGroup": "Group S Business",
+          "NBCSubGroup": "S1"
+        },
+        {
+          "code": "ELECTRICSTATION",
+          "active": true,
+          "NBCGroup": "Group S Business",
+          "NBCSubGroup": "S1"
+        },
+        {
+          "code": "RAILWAYSTATION",
+          "active": true,
+          "NBCGroup": "Group S Business",
+          "NBCSubGroup": "S1"
+        },
+        {
+          "code": "AIRPORT",
+          "active": true,
+          "NBCGroup": "Group S Business",
+          "NBCSubGroup": "S1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    
+    {
+      "code": "RESIDENTIAL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "APARTMENT",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "COLONY",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "FARMHOUSE",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "FLAT",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "PG",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "PLOT",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        },
+        {
+          "code": "HOSTEL",
+          "active": true,
+          "NBCGroup": "Group A Residential",
+          "NBCSubGroup": "A1"
+        }
+      ]
+    },
+    
+    
+    
+    
+    {
+      "code": "SCHOOL",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "HIGH",
+          "active": true,
+          "NBCGroup": "Group B Business",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "PRIMARY",
+          "active": true,
+          "NBCGroup": "Group B Business",
+          "NBCSubGroup": "B1"
+        },
+        {
+          "code": "HIGHERSECONDARY",
+          "active": true,
+          "NBCGroup": "Group B Business",
+          "NBCSubGroup": "B1"
+        }
+      ]
+    },
+    
+    
+    {
+      "code": "LABORATORY",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "LABORATORY",
+          "active": true,
+          "NBCGroup": "Group C",
+          "NBCSubGroup": "C1"
+        }
+        ]
+     },
+    
+    {
+      "code": "NURSINGHOME",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "NURSINGHOME",
+          "active": true,
+          "NBCGroup": "Group C",
+          "NBCSubGroup": "C1"
+        }
+        ]
+     },
+    {
+      "code": "RELIGIOUS",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "RELIGIOUSPLACE",
+          "active": true,
+          "NBCGroup": "Group A Assembly",
+          "NBCSubGroup": "A1"
+        }
+     ]
+}
+    
+    
+    
+    
+  ]
+}
