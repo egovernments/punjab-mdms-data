@@ -1,0 +1,20 @@
+{
+  "tenantId": "pb.zirakpur",
+  "moduleName": "ws-services-masters",
+  "waterSource": [
+    {
+      "id" : 1,
+      "watersourcetype" : "Ground Water",
+      "code": "GROUNDWATER",
+      "name": "Ground Water",
+      "active": true
+    },
+    {
+      "id" : 2,
+      "watersourcetype" : "Canal Water",
+      "code": "CANALWATER",
+      "name": "Canal Water",
+      "active": true
+    }
+  ]
+}
