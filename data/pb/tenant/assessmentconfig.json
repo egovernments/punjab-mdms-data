@@ -2340,11 +2340,17 @@
     },
     {
       "tenant": "pb.testing",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "locality": ["SC12"]
+    }  ,
+    {
+      "tenant": "pb.amritsar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true,
+      "locality": ["ALOC378"]
     }
-    
   ]
 }
