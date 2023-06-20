@@ -507,11 +507,11 @@
       "idname": "other.dog_registration.receipt.id"
     },
     {
-      "format": "[CITY.CODE][SEQ_WS_CON_[TENANT_ID]]",
+      "format": "[CITY.CODE]W[SEQ_WS_CON_[TENANT_ID]]",
       "idname": "waterservice.connection.id"
     },
     {
-      "format": "[CITY.CODE][SEQ_SW_CON_[TENANT_ID]]",
+      "format": "[CITY.CODE]S[SEQ_SW_CON_[TENANT_ID]]",
       "idname": "sewerageservice.connection.id"
     },
     {
