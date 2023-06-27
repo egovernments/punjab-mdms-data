@@ -1,0 +1,25 @@
+{
+  "tenantId": "pb.payal",
+  "moduleName": "ws-services-masters",
+  "connectionCategory": [
+    {
+      "name": "Illegal Connection",
+      "code": "ILLCON",
+      "active": true
+    },
+    {
+      "name": "Regularized Connection",
+      "code": "REGCON",
+      "active": true
+    },{
+      "name": "General",
+      "code": "GEN",
+      "active": true
+    },
+    {
+      "name": "Below Poverty Line",
+      "code": "BPL",
+      "active": true
+    }
+  ]
+}
