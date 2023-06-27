@@ -1,0 +1,31 @@
+{
+    "tenantId": "pb.gurdaspur",
+    "moduleName": "firenoc",
+    "FireNocULBConstats": [
+      {
+        "code": "MINIMUM_PROVISIONAL",
+        "value": 2000,
+        "active": true
+      },
+      {
+        "code": "MINIMUM_NEW",
+        "value": 3000,
+        "active": true
+      },
+      {
+        "code": "TAX_PERCENTAGE",
+        "value": 12,
+        "active": true
+      },
+      {
+          "code": "CALCULATON_TYPE",
+          "value": "FLAT",
+          "active": true
+        },
+        {
+          "code": "MULTI_BUILDING_CALC_METHOD",
+          "value": "MAX",
+          "active": true
+        }
+    ]
+  }
