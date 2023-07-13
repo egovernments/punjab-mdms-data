@@ -1,0 +1,41 @@
+{
+  "tenantId": "pb.kharar",
+  "moduleName": "ws-services-calculation",
+  "PipeSize": [
+    {
+      "id": 10,
+      "code":"QT_INCH(1/4)",
+      "size":0.25,
+      "sizeinmilimeter": 6.35,
+      "isActive": true
+    },
+    {
+      "id": 11,
+      "code": "HALF_INCH(1/2)",
+      "size":0.50,
+      "sizeinmilimeter": 12.7,
+      "isActive": true
+    },
+    {
+      "id": 12,
+      "code": "THREEQT_INCH(3/4)",
+      "size":0.75,
+      "sizeinmilimeter": 19.05,
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "code": "ONE_INCH(1)",
+      "size":1.00,
+      "sizeinmilimeter": 25.4,
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "code": "ONENHALF_INCH(1.5)",
+      "size":1.50,
+      "sizeinmilimeter": 38.1,
+      "isActive": true
+    }
+  ]
+}
