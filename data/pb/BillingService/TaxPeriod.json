@@ -1682,10 +1682,34 @@
     },
     {
       "fromDate": 1680307200000,
-      "toDate": 1711909799000,
-      "periodCycle": "YEARLY",
+      "toDate": 1688149799000,
+      "periodCycle": "QUATERLY",
       "service": "WS",
-      "code": "WS-2023-24",
+      "code": "WS-2023-24-Q1",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1688169600000,
+      "toDate": 1696098599000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2023-24-Q2",
+      "financialYear": "2023-24"
+    },
+   {
+      "fromDate": 1696118400000,
+      "toDate": 1704047399000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2023-24-Q3",
+      "financialYear": "2023-24"
+    },
+   {
+      "fromDate": 1704067200000,
+      "toDate": 1711909799000,
+      "periodCycle": "QUATERLY",
+      "service": "WS",
+      "code": "WS-2023-24-Q4",
       "financialYear": "2023-24"
     },
     {
