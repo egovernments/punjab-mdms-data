@@ -1,0 +1,24 @@
+{
+  "tenantId": "pb.sultanpurlodhi",
+  "moduleName": "ws-services-masters",
+  "subUsageType": [
+    {
+      "code": "USAGE_DOM_NA",
+      "name": "DOMESTIC",
+      "parentUsageType": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_COMM_NA",
+      "name": "COMMERCIAL",
+      "parentUsageType": "NONRESIDENTIAL.COMMERCIAL",
+      "active": true
+    },
+    {
+      "code": "USAGE_INDUSTRIAL_NA",
+      "name": "INDUSTRIAL",
+      "parentUsageType": "NONRESIDENTIAL.INDUSTRIAL",
+      "active": true
+    }
+  ]
+}

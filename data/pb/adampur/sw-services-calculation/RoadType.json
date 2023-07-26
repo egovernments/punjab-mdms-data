@@ -1,0 +1,54 @@
+{
+  "tenantId": "pb.adampur",
+  "moduleName": "sw-services-calculation",
+  "RoadType": [
+    {
+      "name": "Berm Cutting (Katcha)",
+      "code": "BERMCUTTINGKATCHA",
+      "unitCost": 14.3,
+      "isActive": true
+    },
+    {
+      "name": "BM and Premix Road",
+      "code": "BMPREMIXROAD",
+      "unitCost": 386.1,
+      "isActive": true
+    },
+    {
+      "name": "Brick Paving",
+      "code": "BRICKPAVING",
+      "unitCost": 72.6,
+      "isActive": true
+    },
+    {
+      "name": "CC Road",
+      "code": "CCROAD",
+      "unitCost": 290.4,
+      "isActive": true
+    },
+    {
+      "name": "Interlocking Paver Block",
+      "code": "INTERLOCKINGPAVERBLOCK",
+      "unitCost": 434.5,
+      "isActive": true
+    },
+    {
+      "name": "Under Scheme",
+      "code": "UNDERSHEME",
+      "unitCost": 0,
+      "isActive": true
+    },
+    {
+      "name": "Open Pipe",
+      "code": "OPENPIPE",
+      "unitCost": 0,
+      "isActive": true
+    },
+    {
+      "name": "Premix Carpet",
+      "code": "PREMIXCARPET",
+      "unitCost": 290.4,
+      "isActive": true
+    }
+  ]
+}
