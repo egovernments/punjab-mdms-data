@@ -3,28 +3,20 @@
     "actions-test": {
       "masterName": "actions-test",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.id"
-      ]
+      "uniqueKeys": ["$.id"]
     }
   },
   "ACCESSCONTROL-ROLES": {
     "roles": {
       "masterName": "roles",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "ACCESSCONTROL-ROLEACTIONS": {
     "roleactions": {
       "masterName": "roleactions",
-      "uniqueKeys": [
-        "$.rolecode",
-        "$.actionid",
-        "$.tenantid"
-      ]
+      "uniqueKeys": ["$.rolecode", "$.actionid", "$.tenantid"]
     }
   },
   "ASSET": {
@@ -32,48 +24,34 @@
       "masterName": "AssetCategory",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.id",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.id", "$.tenantId"]
     },
     "LayerType": {
       "masterName": "LayerType",
       "moduleDefinition": "null",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.name",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.name", "$.tenantId"]
     },
     "Assetconfiguration": {
       "masterName": "Assetconfiguration",
       "moduleDefinition": "null",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.keyname",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.keyname", "$.tenantId"]
     },
     "ModeOfAcquisition": {
       "masterName": "ModeOfAcquisition",
       "moduleDefinition": "null",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "NewTestMaster": {
       "masterName": "NewMaster",
       "moduleDefinition": "null",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.id"
-      ]
+      "uniqueKeys": ["$.id"]
     }
   },
- "common-masters": {
+  "common-masters": {
     "uiCommonPay": {
       "masterName": "uiCommonPay",
       "isStateLevel": true,
@@ -83,75 +61,55 @@
       "masterName": "IdFormat",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.idname"
-      ]
+      "uniqueKeys": ["$.idname"]
     },
     "OwnerShipCategory": {
       "masterName": "OwnerShipCategory",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "OwnerType": {
       "masterName": "OwnerType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UOM": {
       "masterName": "UOM",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "StructureType": {
       "masterName": "StructureType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "DocumentType": {
       "masterName": "StructureType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Department": {
       "masterName": "Department",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "CensusYear": {
       "masterName": "CensusYear",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "Designation": {
       "masterName": "Designation",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "egf-master": {
@@ -159,69 +117,45 @@
       "masterName": "Fund",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "FinancialYear": {
       "masterName": "FinancialYear",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     }
   },
   "lcms": {
     "court": {
       "masterName": "court",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "side": {
       "masterName": "side",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "caseType": {
       "masterName": "caseType",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "caseCategory": {
       "masterName": "caseCategory",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "bench": {
       "masterName": "bench",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "caseStatus": {
       "masterName": "caseStatus",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     }
   },
   "swm": {
@@ -229,133 +163,88 @@
       "masterName": "VehicleType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "FuelType": {
       "masterName": "FuelType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "OilCompany": {
       "masterName": "OilCompany",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "WasteType": {
       "masterName": "WasteType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "WasteSubType": {
       "masterName": "WasteSubType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "DumpingGround": {
       "masterName": "DumpingGround",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "ProcessingSite": {
       "masterName": "ProcessingSite",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "ShiftType": {
       "masterName": "ShiftType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "Shift": {
       "masterName": "Shift",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "CollectionType": {
       "masterName": "CollectionType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "Population": {
       "masterName": "Population",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "Toilet": {
       "masterName": "Toilet",
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "ToiletType": {
       "masterName": "ToiletType",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "SwmProcess": {
       "masterName": "SwmProcess",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "PaymentTerms": {
       "masterName": "PaymentTerms",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.label",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.label", "$.tenantId"]
     }
   },
   "PM": {
@@ -363,9 +252,7 @@
       "masterName": "KpiCategory",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "inventory": {
@@ -373,19 +260,13 @@
       "masterName": "Material",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "MaterialType": {
       "masterName": "MaterialType",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     }
   },
   "tenant": {
@@ -393,38 +274,28 @@
       "masterName": "tenants",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "citymodule": {
       "masterName": "citymodule",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "assessmentconfig": {
       "masterName": "assessmentconfig",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.tenant"
-      ]
+      "uniqueKeys": ["$.tenant"]
     },
     "reassessmentconfig": {
       "masterName": "reassessmentconfig",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.tenant"
-      ]
+      "uniqueKeys": ["$.tenant"]
     },
-   "defaultersmsconfig": {
+    "defaultersmsconfig": {
       "masterName": "defaultersmsconfig",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.financialyear"
-      ]
+      "uniqueKeys": ["$.financialyear"]
     }
   },
   "works": {
@@ -432,80 +303,56 @@
       "masterName": "ScheduleCategory",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "TypeOfWork": {
       "masterName": "TypeOfWork",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "Overhead": {
       "masterName": "Overhead",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     },
     "ContractorClass": {
       "masterName": "ContractorClass",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.class",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.class", "$.tenantId"]
     },
     "BudgetGroup": {
       "masterName": "BudgetGroup",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.name",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.name", "$.tenantId"]
     },
     "WorksStatus": {
       "masterName": "WorksStatus",
       "isStateLevel": true,
       "moduleDefinition": null,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
+      "uniqueKeys": ["$.code", "$.tenantId"]
     }
   },
   "RAINMAKER-PGR": {
     "ServiceDefs": {
       "masterName": "ServiceDefs",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "PropertyTax": {
     "ConstructionType": {
       "masterName": "ConstructionType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "ConstructionSubType": {
       "masterName": "ConstructionSubType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "FireCess": {
       "masterName": "FireCess",
@@ -515,114 +362,82 @@
     "Floor": {
       "masterName": "Floor",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Interest": {
       "masterName": "Interest",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "PropertyType": {
       "masterName": "PropertyType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "PropertySubType": {
       "masterName": "PropertySubType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "OwnerShipCategory": {
       "masterName": "OwnerShipCategory",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "OwnerTypeDocument": {
       "masterName": "OwnerTypeDocument",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "SubOwnerShipCategory": {
       "masterName": "SubOwnerShipCategory",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "OccupancyType": {
       "masterName": "OccupancyType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UsageCategoryMajor": {
       "masterName": "UsageCategoryMajor",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UsageCategoryMinor": {
       "masterName": "UsageCategoryMinor",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UsageCategorySubMinor": {
       "masterName": "UsageCategorySubMinor",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UsageCategoryDetail": {
       "masterName": "UsageCategoryDetail",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
-   "UsageCategory": {
+    "UsageCategory": {
       "masterName": "UsageCategory",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "OwnerType": {
       "masterName": "OwnerType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Rebate": {
       "masterName": "Rebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "CancerCess": {
       "masterName": "CancerCess",
@@ -632,104 +447,77 @@
     "MutationReason": {
       "masterName": "MutationReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
-   "MutationRebate": {
+    "MutationRebate": {
       "masterName": "MutationRebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "MutationPenalty": {
       "masterName": "MutationPenalty",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     }
   },
   "TradeLicense": {
     "ApplicationType": {
       "masterName": "ApplicationType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "TradeType": {
       "masterName": "TradeType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "AccessoriesCategory": {
       "masterName": "AccessoriesCategory",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-    },"Penalty": {
+      "uniqueKeys": ["$.code"]
+    },
+    "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
       "masterName": "Rebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     }
   },
- 
+
   "egov-hrms": {
     "EmployeeStatus": {
       "masterName": "EmployeeStatus",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "EmployeeType": {
       "masterName": "EmployeeType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Degree": {
       "masterName": "Degree",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Specalization": {
       "masterName": "Specalization",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "DeactivationReason": {
       "masterName": "DeactivationReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "EmploymentTest": {
       "masterName": "EmploymentTest",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "BillingService": {
@@ -753,91 +541,66 @@
     "BusinessServiceMapping": {
       "masterName": "BusinessServiceMapping",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "TaxHeadMasterGlCodeMapping": {
       "masterName": "TaxHeadMasterGlCodeMapping",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.billingservicecode",
-         "$.taxhead"
-      ]
+      "uniqueKeys": ["$.billingservicecode", "$.taxhead"]
     },
     "InstrumentGLcodeMapping": {
       "masterName": "InstrumentGLcodeMapping",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.instrumenttype"
-      ]
+      "uniqueKeys": ["$.instrumenttype"]
     },
     "FinanceInstrumentStatusMapping": {
       "masterName": "FinanceInstrumentStatusMapping",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "ws-services-masters": {
     "connectionCategory": {
       "masterName": "connectionCategory",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "connectionType": {
       "masterName": "connectionType",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "waterSource": {
       "masterName": "waterSource",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "billingPeriod": {
       "masterName": "billingPeriod",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.billingCycle"
-      ]
+      "uniqueKeys": ["$.billingCycle"]
     },
     "subUsageType": {
       "masterName": "subUsageType",
       "moduleDefinition": null,
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "billingType": {
       "masterName": "billingType",
       "moduleDefinition": null,
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
-		 "ModifyConnectionDocuments": {
+    "ModifyConnectionDocuments": {
       "masterName": "ModifyConnectionDocuments",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     }
   },
   "ws-services-calculation": {
@@ -849,23 +612,17 @@
     "Interest": {
       "masterName": "Interest",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
       "masterName": "Rebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "WCBillingSlab": {
       "masterName": "WCBillingSlab",
@@ -925,32 +682,24 @@
     "PipeSize": {
       "masterName": "PipeSize",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.id"
-      ]
+      "uniqueKeys": ["$.id"]
     }
   },
   "sw-services-calculation": {
     "Interest": {
       "masterName": "Interest",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Rebate": {
       "masterName": "Rebate",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "Penalty": {
       "masterName": "Penalty",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.fromFY"
-      ]
+      "uniqueKeys": ["$.fromFY"]
     },
     "SCBillingSlab": {
       "masterName": "SCBillingSlab",
@@ -960,9 +709,7 @@
     "billingPeriod": {
       "masterName": "billingPeriod",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.billingCycle"
-      ]
+      "uniqueKeys": ["$.billingCycle"]
     },
     "SW_CHARGE": {
       "masterName": "SW_CHARGE",
@@ -1005,48 +752,105 @@
       "uniqueKeys": []
     }
   },
-    "firenoc": {
+  "firenoc": {
     "BuildingType": {
       "masterName": "BuildingType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "ApplicationType": {
       "masterName": "ApplicationType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "FireStations": {
       "masterName": "FireStations",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "UOMs": {
       "masterName": "UOMs",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "FireNocStateConstats": {
       "masterName": "FireNocStateConstats",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
+    },
+    "FSM": {
+      "ApplicationChannel": {
+        "masterName": "ApplicationChannel",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "SanitationType": {
+        "masterName": "SanitationType",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "CheckList": {
+        "masterName": "CheckList",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "Config": {
+        "masterName": "Config",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "FSTPPlantInfo": {
+        "masterName": "FSTPPlantInfo",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "PitType": {
+        "masterName": "PitType",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "PropertyType": {
+        "masterName": "PropertyType",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "CancelReason": {
+        "masterName": "CancelReason",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "DeclineReason": {
+        "masterName": "DeclineReason",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "ReassignReason": {
+        "masterName": "ReassignReason",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "RejectionReason": {
+        "masterName": "RejectionReason",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      }
+    },
+    "Vehicle": {
+      "SuctionType": {
+        "masterName": "SuctionType",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      },
+      "VehicleMakeModel": {
+        "masterName": "VehicleMakeModel",
+        "isStateLevel": true,
+        "uniqueKeys": ["$.code"]
+      }
     }
   }
 }

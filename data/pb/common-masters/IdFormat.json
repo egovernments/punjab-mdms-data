@@ -652,9 +652,17 @@
       "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_RCPT_ADHOC_[TENANT_ID]]",
       "idname": "admn.horticulture_fees.receipt.id"
     },
-     {
+    {
       "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
       "idname": "rev_grants.14th_grants_comm.receipt.id"
+    },
+    {
+        "format": "FSM/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON[TENANT_ID]]",
+        "idname": "fsm.trip_charges.receipt.id"
+    },
+    {
+        "idname": "fsm.aplnumber",
+        "format": "[CITY.CODE]-FSM-[cy:yyyy-MM-dd]-[SEQ_EGOV_FSM]"
     }
   ]
 }
