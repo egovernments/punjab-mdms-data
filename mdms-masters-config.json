@@ -788,139 +788,111 @@
     "ApplicationChannel": {
       "masterName": "ApplicationChannel",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "SanitationType": {
       "masterName": "SanitationType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
-      },
-      "PaymentType": {
+      "uniqueKeys": ["$.code"]
+    },
+    "PaymentType": {
       "masterName": "PaymentType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "CheckList": {
       "masterName": "CheckList",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "Config": {
       "masterName": "Config",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "FSTPPlantInfo": {
       "masterName": "FSTPPlantInfo",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "PitType": {
       "masterName": "PitType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "PropertyType": {
       "masterName": "PropertyType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "CancelReason": {
       "masterName": "CancelReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "DeclineReason": {
       "masterName": "DeclineReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "ReassignReason": {
       "masterName": "ReassignReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "RejectionReason": {
       "masterName": "RejectionReason",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "ApplicationType": {
       "masterName": "ApplicationType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "PeriodicService": {
       "masterName": "PeriodicService",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
+    },
+    "AdvancePayment": {
+      "masterName": "AdvancePayment",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
+    },
+    "CancellationFee": {
+      "masterName": "CancellationFee",
+      "isStateLevel": true,
+      "uniqueKeys": ["$.code"]
     }
   },
-  "Vehicle":{
-     "SuctionType": {
+  "Vehicle": {
+    "SuctionType": {
       "masterName": "SuctionType",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "VehicleMakeModel": {
       "masterName": "VehicleMakeModel",
       "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
     "VehicleOwner": {
       "masterName": "VehicleOwner",
       "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
-  },
-    "Vendor": {
-    "AgencyType": {
-      "masterName": "AgencyType",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+      "uniqueKeys": ["$.code"]
     },
-    "PaymentPreference": {
-      "masterName": "PaymentPreference",
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code"
-      ]
+    "Vendor": {
+      "AgencyType": {
+        "masterName": "AgencyType",
+        "isStateLevel": false,
+        "uniqueKeys": ["$.code"]
+      },
+      "PaymentPreference": {
+        "masterName": "PaymentPreference",
+        "isStateLevel": false,
+        "uniqueKeys": ["$.code"]
+      }
     }
-  }
   }
 }
