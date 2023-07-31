@@ -1,0 +1,26 @@
+{
+    "tenantId": "pb",
+    "moduleName": "FSM",
+    "CancelReason": [
+      {
+        "name": "Duplicate Applications",
+        "code": "DUPLICATE",
+        "active": true
+      },
+      {
+        "name": "Unable to contact the Applicant",
+        "code": "CANNOT_CONTACT_APPLICANT",
+        "active": true
+      },
+      {
+        "name": "Applicant denied the request",
+        "code": "CITIZEN_DENIED_REQUEST",
+        "active": true
+      },
+      {
+        "name": "Others",
+        "code": "OTHERS",
+        "active": true
+      }
+    ]
+  }

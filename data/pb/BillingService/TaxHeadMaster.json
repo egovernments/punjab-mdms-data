@@ -6519,7 +6519,7 @@
       "order": "0",
       "isRequired": false
     },
-     {
+    {
       "category": "TAX",
       "service": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Residential)",
       "name": "OTHER.DOOR_TO_DOOR_COLLECTION_OF_SOLID_WASTE_FEES(RESIDENTIAL)_TAX",
@@ -6559,7 +6559,7 @@
       "order": "0",
       "isRequired": false
     },
-	  {
+    {
       "category": "TAX",
       "service": "OTHER.Door_To_Door_Collection_Of_Solid_Waste_Fees(Commercial)",
       "name": "OTHER.DOOR_TO_DOOR_COLLECTION_OF_SOLID_WASTE_FEES(COMMERCIAL)_TAX",
@@ -6599,8 +6599,8 @@
       "order": "0",
       "isRequired": false
     },
-	  
-  {
+
+    {
       "category": "TAX",
       "service": "TX.Mutation_Fees",
       "name": "TX.Mutation_Fees_TAX",
@@ -6640,7 +6640,7 @@
       "order": "0",
       "isRequired": false
     },
-	  {
+    {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS.14TH_GRANTS_COMM",
       "name": "Education Cess Grants",
@@ -6729,7 +6729,26 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "FSM.TPRIP_CHARGES",
+      "name": "FSM TRIP CHARGES",
+      "code": "FSM_TRIP_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "FSM.TPRIP_CHARGES",
+      "name": "FSM roundoff",
+      "code": "FSM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
     }
-	  
   ]
 }

@@ -1,0 +1,31 @@
+{
+    "tenantId": "pb",
+    "moduleName": "Vehicle",
+    "FSTPORejectionReason": [
+        {
+            "name": "Approach Road to FSTP is inaccessible",
+            "code": "FSTP_INACCESS",
+            "active": true
+        },
+        {
+            "name": "Over Utilization of the FSTP Capacity (>100% Capacity Utilization)",
+            "code": "OVER_UTILIZE",
+            "active": true
+        },
+        {
+            "name": "FSTP under maintenance",
+            "code": "UNDER_MAINTENANCE",
+            "active": true
+        },
+        {
+            "name": "Vehicle breakdown on the way to FSTP",
+            "code": "VEHICLE_BREAKDOWN",
+            "active": true
+        },
+        {
+            "name": "Others",
+            "code": "OTHERS",
+            "active": true
+        }
+    ]
+}

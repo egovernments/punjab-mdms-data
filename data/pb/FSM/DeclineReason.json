@@ -1,0 +1,31 @@
+{
+    "tenantId": "pb",
+    "moduleName": "FSM",
+    "DeclineReason": [
+      {
+        "name": "Cesspool Vehicle is under repair",
+        "code": "VEHICLE_REPAIR",
+        "active": true
+      },
+      {
+        "name": "Inaccessible Approach Road",
+        "code": "ROAD_INACCESS",
+        "active": true
+      },
+      {
+        "name": "Inaccessible Septic Tank",
+        "code": "SEPT_INACCESS",
+        "active": true
+      },
+      {
+        "name": "Hardening of sludge in the Septic Tank",
+        "code": "SLUDGE_HARDENING",
+        "active": true
+      },
+      {
+        "name": "Others",
+        "code": "OTHERS",
+        "active": true
+      }
+    ]
+  }
