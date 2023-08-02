@@ -919,7 +919,7 @@
       ]
     },
       
-        {
+       {
             "code": "FS_NAWANSHAHR_01",
             "baseTenantId": "pb.nawanshahr",
             "active": true,
@@ -927,6 +927,17 @@
              
               {
                 "code": "Nawanshahr"
+              },
+              
+              {
+                "code": "Banga"
+              },
+              
+              {
+                "code": "Rahon"
+              },
+              {
+                "code": "Balachaur"
               }
             ],
             "ulb": [
@@ -934,11 +945,21 @@
               {
                 "code": "pb.nawanshahr"           
                                     
+       },
+              {
+                "code": "pb.banga"           
+                                    
+       },
+              {
+                "code": "pb.rahon"           
+                                    
+       },
+                {
+                "code": "pb.balachaur"           
+                                    
        }
       ]
     },
-    
-      
         {
             "code": "FS_PATHANKOT_01",
             "baseTenantId": "pb.pathankot",
