@@ -843,6 +843,151 @@
             "required": false
           }
         ]
+      },
+  {
+        "allowedDocs": [
+          {
+            "documentType": "SELFDECLARATION",
+            "maxFileSize":5000,
+            "allowedFormat": ["image/*", ".png", ".jpeg"],
+            "demandRevisionBasis": [
+              "SOLID_WASTE_CHARGES"
+            ],
+            "hasDropDown":true,
+            "dropdownData":[{"code":"SELFDECLARATION","active":true}],
+            "required": false
+          },
+          {
+            "documentType": "SUPPORTINGDOCUMENT",
+            "demandRevisionBasis": [
+              "SOLID_WASTE_CHARGES"
+            ],
+            "hasDropDown":true,
+            "dropdownData":[{"code":"SUPPORTINGDOCUMENT","active":true}],
+            "required": false
+          },
+          {
+            "documentType": "PASTBILLS",
+            "maxFileSize":5000,
+            "allowedFormat": ["image/*", ".png", ".jpeg"],
+            "demandRevisionBasis": [
+              "SOLID_WASTE_CHARGES"
+            ],
+            "hasDropDown":true,
+            "dropdownData":[{"code":"PASTBILLS","active":true}],
+            "required": false
+          },
+          {
+            "documentType": "IDENTITYPROOF",
+            "maxFileSize":5000,
+            "allowedFormat": ["image/*", ".png", ".jpeg"],
+            "demandRevisionBasis": [
+              "SOLID_WASTE_CHARGES"
+            ],
+            "hasDropDown":true,
+            "hasToolTip":true,
+            "toolTipData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "IDENTITYPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "IDENTITYPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          },
+          {
+            "documentType": "ADDRESSPROOF",
+            "maxFileSize":5000,
+            "allowedFormat": ["image/*", ".png", ".jpeg"],
+            "demandRevisionBasis": [
+              "SOLID_WASTE_CHARGES"
+            ],
+            "hasDropDown":true,
+            "hasToolTip":true,
+            "toolTipData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "dropdownData": [
+              {
+                "code": "ADDRESSPROOF.ELECTRICITYBILL",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.PAN",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.AADHAAR",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.VOTERID",
+                "active": true
+              },
+              {
+                "code": "ADDRESSPROOF.DRIVING",
+                "active": true
+              }
+            ],
+            "required": false
+          }
+        ]
       }
     ]
   }
