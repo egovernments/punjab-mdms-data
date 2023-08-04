@@ -17,6 +17,22 @@
           "code": "pb.sangrur"
         }
       ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "tenants": [
+        {
+          "code": "pb.amritsar"
+        },
+        {
+          "code": "pb.patiala"
+        },
+        {
+          "code": "pb.sangrur"
+        }
+      ]
     }
   ]
 }
