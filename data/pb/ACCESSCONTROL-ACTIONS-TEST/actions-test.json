@@ -14488,6 +14488,39 @@
       "leftIcon": "custom:localShipping",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 2541,
+      "name": "Create FSTP FSTPOperator Mapping",
+      "url": "/fsm/plantmap/v1/_create",
+      "displayName": "Create FSTP FSTPOperator Map",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "FSM",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2542,
+      "name": "Update FSTP FSTPOperator Mapping",
+      "url": "/fsm/plantmap/v1/_update",
+      "displayName": "Update FSTP FSTPOperator Map",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "FSM",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2543,
+      "name": "Search FSTP FSTPOperator Mapping",
+      "url": "/fsm/plantmap/v1/_search",
+      "displayName": "Search FSTP FSTPOperator Map",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "FSM",
+      "code": "null",
+      "path": ""
     }
   ]
 }
