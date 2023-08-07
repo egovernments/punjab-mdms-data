@@ -1,0 +1,36 @@
+{
+    "tenantId": "pb",
+    "moduleName": "tenant",
+    "footer": [
+        {
+            "code": "pb.amritsar",
+            "service": "FSM.TRIP_CHARGES",
+            "receiptFooterContent": [
+                {
+                    "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+                    "order": "1."
+                }
+            ]
+        },
+        {
+            "code": "pb.patiala",
+            "service": "FSM.TRIP_CHARGES",
+            "receiptFooterContent": [
+                {
+                    "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+                    "order": "1."
+                }
+            ]
+        },
+        {
+            "code": "pb.sangrur",
+            "service": "FSM.TRIP_CHARGES",
+            "receiptFooterContent": [
+                {
+                    "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+                    "order": "1."
+                }
+            ]
+        }
+    ]
+}
