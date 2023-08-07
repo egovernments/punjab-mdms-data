@@ -30,32 +30,11 @@
                   },
                 "props": [
                     {
-                        "code": "CITIZEN_SERVICE_PGR",
-                        "name": "Complaints",
-                        "label": "ES_PGR_HEADER_COMPLAINT",
+                        "code": "CITIZEN_SERVICE_FSM",
+                        "name": "FSM",
+                        "label": "ACTION_TEST_FSM",
                         "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/pgr-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_PT",
-                        "name": "Property Tax",
-                        "label": "MODULE_PT",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/pt-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_TL",
-                        "name": "Trade Licence",
-                        "label": "MODULE_TL",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/tl-home"
-                    },
-                    {
-                        "code": "CITIZEN_SERVICE_WS",
-                        "name": "Water & Sewerage",
-                        "label": "ACTION_TEST_WATER_AND_SEWERAGE",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/ws-home"
+                        "navigationUrl": "/digit-ui/citizen/fsm-home"
                     }
                 ]
             },
