@@ -34,6 +34,28 @@
             "PlantOperationalTimings":"9.00am-05.00pm",
             "PlantOperationalCapacityKLD":"10",
             "ULBS":"pb.sangrur"
+        },
+        {
+            "PlantCode": "NAN004",
+            "PlantName": "Nangal SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Intermittent Pumping Station, Nangal, Dohkli, Punjab 140125",
+            "PlusCode":"996F+P9",
+            "PlantOperationalTimings":"9:00 AM - 8:00 PM",
+            "PlantOperationalCapacityKLD":"5000",
+            "ULBS":"pb.nangal"
+        },
+        {
+            "PlantCode": "MOR004",
+            "PlantName": "Morinda SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Sewage Treatment Plant, Ropar Morinda Road, Railon Khurd, Rasulpur Punjab",
+            "PlusCode":"RFH6+W9",
+            "PlantOperationalTimings":"8 am - 9 pm",
+            "PlantOperationalCapacityKLD":"5500",
+            "ULBS":"pb.morinda"
         }
     ]
 }

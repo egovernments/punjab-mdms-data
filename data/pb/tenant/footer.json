@@ -31,6 +31,26 @@
                     "order": "1."
                 }
             ]
+        },
+        {
+            "code": "pb.nangal",
+            "service": "FSM.TRIP_CHARGES",
+            "receiptFooterContent": [
+                {
+                    "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+                    "order": "1."
+                }
+            ]
+        },
+        {
+            "code": "pb.morinda",
+            "service": "FSM.TRIP_CHARGES",
+            "receiptFooterContent": [
+                {
+                    "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+                    "order": "1."
+                }
+            ]
         }
     ]
 }
