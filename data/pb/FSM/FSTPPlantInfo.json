@@ -56,6 +56,17 @@
             "PlantOperationalTimings":"8 am - 9 pm",
             "PlantOperationalCapacityKLD":"5500",
             "ULBS":"pb.morinda"
+        },
+        {
+            "PlantCode": "TST005",
+            "PlantName": "Testing SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Sewage Treatment Plant, Ropar Testing Road, Railon Khurd, Rasulpur Punjab",
+            "PlusCode":"RFH6+W9",
+            "PlantOperationalTimings":"8 am - 9 pm",
+            "PlantOperationalCapacityKLD":"5500",
+            "ULBS":"pb.testing"
         }
     ]
 }
