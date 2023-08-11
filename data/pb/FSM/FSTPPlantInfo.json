@@ -67,6 +67,39 @@
             "PlantOperationalTimings":"8 am - 9 pm",
             "PlantOperationalCapacityKLD":"5500",
             "ULBS":"pb.testing"
+        },
+        {
+            "PlantCode": "ADS006",
+            "PlantName": "Anandpur Sahib SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Mataur Village Rd, Mataur, Anandpur Sahib, Punjab 140118",
+            "PlusCode":"66GG+3J",
+            "PlantOperationalTimings":"9 am - 8 pm",
+            "PlantOperationalCapacityKLD":"8000",
+            "ULBS":"pb.anandpursahib"
+        },
+        {
+            "PlantCode": "RJP007",
+            "PlantName": "Rajpura SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"Kharajpur, Rajpura, Punjab 140401",
+            "PlusCode":"",
+            "PlantOperationalTimings":"8 am - 9 pm",
+            "PlantOperationalCapacityKLD":"17000",
+            "ULBS":"pb.rajpura"
+        },
+        {
+            "PlantCode": "BNR008",
+            "PlantName": "Banur SeTP",
+            "active": true,
+            "PlantType":"SeTP",
+            "PlantLocation":"",
+            "PlusCode":"",
+            "PlantOperationalTimings":"",
+            "PlantOperationalCapacityKLD":"",
+            "ULBS":"pb.banur"
         }
     ]
 }
