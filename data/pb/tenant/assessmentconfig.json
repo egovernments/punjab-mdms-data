@@ -2533,28 +2533,28 @@
     },
     {
       "tenant": "pb.jalandhar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.mohali",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.pathankot",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"]
     },
     {
       "tenant": "pb.batala",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
@@ -2572,32 +2572,115 @@
     },
     {
       "tenant": "pb.hoshiarpur",
-      "enabled": true,
-      "financialyear": "2023-24",
-      "isRented": true,
-      "propertytype": ["RESIDENTIAL"]
-    } ,
-    {
-      "tenant": "pb.amritsar",
       "enabled": false,
       "financialyear": "2023-24",
       "isRented": true,
+      "propertytype": ["RESIDENTIAL"]
+    },
+    {
+      "tenant": "pb.alawalpur",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.amargarh",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.amloh",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    }, {
+      "tenant": "pb.derababananak",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.dhanaula",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.dharamkot",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true        
+    },
+    {
+      "tenant": "pb.dhariwal",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+     {
+      "tenant": "pb.dhilwan",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.dhuri",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.dinanagar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.dirba",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.doraha",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.faridkot",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.fatehgarhchurian",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.fatehgarhpanjtoor",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.amritsar",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true,
       "propertytype": ["NONRESIDENTIAL","NONRESIDENTIAL.COMMERCIAL","NONRESIDENTIAL.OTHERS","NONRESIDENTIAL.INSTITUTIONAL","NONRESIDENTIAL.INDUSTRIAL","MIXED"],
-      "locality": ["ALOC1","ALOC3","ALOC17","ALOC55","ALOC58","ALOC429","ALOC431","ALOC540","ALOC10","ALOC985","ALOC1147","ALOC11","ALOC13","ALOC163",
-"ALOC169","ALOC177","ALOC243","ALOC255","ALOC306","ALOC396","ALOC397","ALOC454","ALOC520","ALOC569","ALOC572","ALOC587","ALOC662",
-"ALOC663","ALOC737","ALOC738","ALOC755","ALOC756","ALOC773","ALOC776","ALOC896","ALOC904","ALOC905","ALOC923","ALOC959","ALOC968",
-"ALOC987","ALOC988","ALOC1038","ALOC1040","ALOC1063","ALOC1064","ALOC1085","ALOC1165","ALOC1169","ALOC1173","ALOC1205","ALOC779",
-"ALOC16","ALOC41","ALOC48","ALOC52","ALOC69","ALOC92","ALOC122","ALOC135","ALOC371","ALOC479","ALOC589","ALOC751","ALOC767",
-"ALOC824","ALOC978","ALOC474","ALOC539","ALOC310","ALOC438","ALOC642","ALOC643","ALOC1018","ALOC1019","ALOC1102","ALOC1251",
-"ALOC485","ALOC891","ALOC61","ALOC62","ALOC76","ALOC98","ALOC99","ALOC238","ALOC27","ALOC381","ALOC405","ALOC459","ALOC496",
-"ALOC525","ALOC565","ALOC566","ALOC821","ALOC857","ALOC889","ALOC1024","ALOC1109","ALOC1133","ALOC1154","ALOC1156","ALOC1284",
-"ALOC512","ALOC929","ALOC2","ALOC140","ALOC511","ALOC554","ALOC555","ALOC605","ALOC606","ALOC607","ALOC877","ALOC927","ALOC979",
-"ALOC1208","ALOC1282","ALOC533","ALOC884","ALOC344","ALOC345","ALOC370","ALOC372","ALOC373","ALOC414","ALOC461","ALOC647","ALOC726",
-"ALOC926","ALOC952","ALOC953","ALOC1115","ALOC1116","ALOC1117","ALOC1141","ALOC1142","ALOC296","ALOC1250","ALOC837","ALOC1171",
-"ALOC30","ALOC88","ALOC362","ALOC380","ALOC466","ALOC467","ALOC492","ALOC493","ALOC494","ALOC495","ALOC497","ALOC498","ALOC499",
-"ALOC500","ALOC501","ALOC502","ALOC503","ALOC504","ALOC505","ALOC506","ALOC507","ALOC508","ALOC509","ALOC510","ALOC598","ALOC599",
-"ALOC947","ALOC1170","ALOC1233","ALOC7","ALOC531","ALOC543","ALOC681","ALOC687","ALOC842","ALOC843","ALOC894","ALOC8","ALOC9","ALOC160",
-"ALOC435","ALOC437","ALOC550","ALOC963","ALOC971","ALOC1051","ALOC29","ALOC51","ALOC237","ALOC420"]
+      "locality": ["ALOC423","ALOC424","ALOC427","ALOC445","ALOC446","ALOC580","ALOC581","ALOC784","ALOC860","ALOC967","ALOC1045","ALOC1069","ALOC1092","ALOC1096","ALOC1244",
+                   "ALOC1279","ALOC31","ALOC312","ALOC523","ALOC524","ALOC526","ALOC527","ALOC574","ALOC575","ALOC641","ALOC718","ALOC719","ALOC720","ALOC721","ALOC797",
+                   "ALOC869","ALOC888","ALOC897","ALOC898","ALOC1164","ALOC1280","ALOC47","ALOC64","ALOC71","ALOC93","ALOC97","ALOC334","ALOC418","ALOC478","ALOC491",
+                   "ALOC585","ALOC706","ALOC780","ALOC825","ALOC826","ALOC827","ALOC903","ALOC909","ALOC945","ALOC974","ALOC975","ALOC976","ALOC977","ALOC998","ALOC999",
+                   "ALOC1050","ALOC1057","ALOC1093","ALOC1094","ALOC1095","ALOC1111""ALOC1134","ALOC1230","ALOC1231","ALOC1281","ALOC460","ALOC1089","ALOC75","ALOC81",
+                   "ALOC186","ALOC187","ALOC268","ALOC361","ALOC398","ALOC426","ALOC469","ALOC470","ALOC561","ALOC654","ALOC673","ALOC708","ALOC72","ALOC749","ALOC790",
+                   "ALOC813","ALOC910","ALOC918","ALOC919","ALOC920","ALOC1073","ALOC1155","ALOC1238","ALOC1239","ALOC1240","ALOC141","ALOC388","ALOC406","ALOC407",
+                   "ALOC457","ALOC458","ALOC664","ALOC665","ALOC666","ALOC878","ALOC879","ALOC880","ALOC917","ALOC1039","ALOC1103","ALOC1127","ALOC1214","ALOC1283",
+                   "ALOC142","ALOC185","ALOC463","ALOC464","ALOC786"]
     }
   ]
 }
