@@ -1325,26 +1325,6 @@
       "service": "TL",
       "code": "TLRENEWAL2023",
       "financialYear": "2023-24"
-
-    },
-    {	  
-
-     "fromDate": 1706772599000,
-      "toDate": 1743406199000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLRENEWAL2025",
-      "financialYear": "2024-25"
-    },
-    {
-
-       "fromDate": 1706772599000,
-      "toDate": 1743406199000,
-      "periodCycle": "ANNUAL",
-      "service": "TL",
-      "code": "TLAN2025",
-      "financialYear": "2024-25"
-	    
 	    
     },
     {	  
@@ -1732,6 +1712,38 @@
       "code": "WS-2023-24-Q4",
       "financialYear": "2023-24"
     },
+  {
+      "fromDate": 1680307200000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WS-2023-24",
+      "financialYear": "2023-24"
+    },
+	   {
+      "fromDate": 1648771200000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WS-2022-23",
+      "financialYear": "2022-23"
+    },
+	   {
+      "fromDate": 1680307200000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "WS-2023-24",
+      "financialYear": "2023-24"
+    },
+	   {
+      "fromDate": 1648771200000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "WS-2022-23",
+      "financialYear": "2022-23"
+    },
     {
       "fromDate": 1364774400000,
       "toDate": 1372616999000,
@@ -2088,6 +2100,22 @@
       "code": "SW-2023-24-Q4",
       "financialYear": "2023-24"
     },
+    {	  	
+      "fromDate": 1680287400000,
+      "toDate": 1711909799000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WS-2023-24",
+      "financialYear": "2023-24"
+    },
+	  {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SW",
+      "code": "WS-2023-24-Q4",
+      "financialYear": "2023-24"
+    },
      {
       "fromDate": 1396310399000,
       "toDate": 1711929599000,
@@ -2242,9 +2270,53 @@
       "service": "TX.Entertainment_Tax",
       "code": "TXENTERTAINMENTTAX",
       "financialYear": "2012-24"      
-	  
-    }
-	  
-	  
+     },
+    {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Septic_tank",
+      "code": "SNTSEPTICTANK",
+      "financialYear": "2014-24"
+    },
+
+   {
+     
+
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Waste_Water_Fees",
+      "code": "SNTWASTEWATERFEES",
+      "financialYear": "2014-24"
+   },
+   {	  
+
+   "fromDate": 1706772599000,
+    "toDate": 1743422290000,
+    "periodCycle": "ANNUAL",
+    "service": "TL",
+    "code": "TLRENEWAL2025",
+    "financialYear": "2024-25"
+  },
+  {
+
+     "fromDate": 1706772599000,
+    "toDate": 1743402599000,
+    "periodCycle": "ANNUAL",
+    "service": "TL",
+    "code": "TLAN2025",
+    "financialYear": "2024-25"
+    
+    
+  },
+  {
+      "fromDate": 1396310399000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "SNT.Faecal_sludge_disposal",
+      "code": "SNTFAECALSLUDGEDISPOSAL",
+      "financialYear": "2014-24"
+    }	  
   ]
 }
