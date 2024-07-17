@@ -778,7 +778,22 @@
           "NBCSubGroup": "(1)"
         }
      ]
-}
+},
+    {
+      "code": "TEST",
+      "uom": [
+        "HEIGHT_OF_BUILDING"
+      ],
+      "active": true,
+      "BuildingSubType": [
+        {
+          "code": "TEST",
+          "active": true,
+          "NBCGroup": "Zone 4",
+          "NBCSubGroup": "(1)"
+        }
+        ]
+     }
     
     
     
